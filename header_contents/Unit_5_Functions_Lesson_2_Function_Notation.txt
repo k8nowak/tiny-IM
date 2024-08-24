@@ -1,0 +1,60 @@
+
+--- Lesson Headers ---
+
+
+Unit 5
+
+Functions
+
+Lesson 2
+
+Function Notation
+
+
+
+
+
+--- What Students Do ---
+
+
+In small groups, students interpret and describe functions using function notation to represent input-output relationships in various scenarios, including analyzing dog distance graphs and birthday functions.
+
+
+--- What Students Learn ---
+
+
+(1) Understand the purpose and meaning of function notation.  
+(2) Interpret and explain function notation in context.  
+(3) Use function notation to express specific functions with given inputs and outputs.
+
+
+--- Where It Fits ---
+
+
+**a concise way to communicate specific input-output relationships in functions; introducing notation as shorthand for clarity and precision.**
+
+
+--- Required Preparation ---
+
+
+Required Preparation
+None
+
+
+--- Standards Alignment ---
+
+
+Building On
+Addressing
+HSF-IF.A.1
+HSF-IF.A.2
+HSF-IF.B.4
+Building Toward
+HSF-IF.A.1
+
+
+--- Timing ---
+
+
+Total activity time: 35 mins
+Total lesson time: 40–45 mins

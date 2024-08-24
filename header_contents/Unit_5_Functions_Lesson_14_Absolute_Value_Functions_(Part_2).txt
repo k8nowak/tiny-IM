@@ -1,0 +1,62 @@
+
+--- Lesson Headers ---
+
+
+Unit 5
+
+Functions
+
+Lesson 14
+
+Absolute Value Functions (Part 2)
+
+
+
+
+
+--- What Students Do ---
+
+
+In pairs, students analyze absolute value functions, graph their relationships, and describe the effects of translations on the vertex position and overall shape of the graphs.
+
+
+--- What Students Learn ---
+
+
+(1) Analyze the impact of adding a constant term to an absolute value function.  
+(2) Interpret and represent absolute value functions using tables, graphs, and words.  
+(3) Understand absolute value as a measure of distance from zero.
+
+
+--- Where It Fits ---
+
+
+**understanding piecewise definitions and graph transformations of absolute value functions**
+
+
+--- Required Preparation ---
+
+
+Required Preparation
+Activity 3
+
+
+--- Standards Alignment ---
+
+
+Building On
+Addressing
+HSF-BF.A.1
+HSF-BF.A.1.a
+HSF-BF.B.3
+HSF-IF.C
+HSF-IF.C.7.b
+Building Toward
+HSF-BF.A.1
+
+
+--- Timing ---
+
+
+Total activity time: 50 mins
+Total lesson time: 55–60 mins

@@ -1,0 +1,174 @@
+Unit 5
+Functions
+Lesson 7
+Using Graphs to Find Average Rate of Change
+
+Lesson Pramble
+
+CC BY-NC 4.0
+Using Graphs to Find Average Rate of Change
+Lesson Narrative
+In this lesson, students use average rate of change to connect their understanding of slopes from linear graphs with their understanding of increasing, constant, and decreasing sections of a nonlinear graph.
+Students learn that average rate of change can be used to measure how fast a function changes over a given interval. This can be done when we know the input-output pairs that mark the interval of interest or by estimating them from a graph.
+Attention to units is important in computing or estimating average rates of change because units give meaning to how much the output quantity changes relative to the input. In thinking carefully about appropriate units to use, students practice attending to precision (MP6).
+Students also engage in aspects of mathematical modeling (MP4) when they use a data set or a graph to compute average rates of change and then use it to analyze a situation or make predictions.
+Learning Goals
+Given a graph of a function, estimate or calculate the average rate of change over a specified interval.
+Recognize that the slope of a line joining two points on a graph of a function is the average rate of change.
+Understand that the average rate of change describes how fast the output of a function changes relative to the input over the interval.
+Student-Facing Goal
+Let’s measure how quickly the output of a function changes.
+Student-Facing Targets
+I understand the meaning of the term “average rate of change.”
+When given a graph of a function, I can estimate or calculate the average rate of change between two points.
+Required Preparation
+None
+Standards Alignment
+Building On
+Addressing
+HSF-IF.B.6
+Building Toward
+HSF-IF.B.6
+Glossary
+average rate of change
+The average rate of change of a function is a ratio that describes how fast one quantity changes with respect to another.
+The average rate of change for function \(f\) between inputs \(a\) and \(b\) is the change in the outputs divided by the change in the inputs: \(\frac{f(b)-f(a)}{b-a}\). It is the slope of the line that connects \((a,f(a))\) and \((b, f(b))\) on the graph.
+
+
+Lesson Content
+
+Total activity time: 35 mins
+Total lesson time: 40–45 mins
+Lesson 7
+Using Graphs to Find Average Rate of Change
+Image description: Course Icon
+5 mins
+Warm-up
+Temperature Drop
+Activity Narrative
+In this Warm-up, students compare the changes in output (temperature) over two intervals of input (time). The temperature in one interval changes by a greater amount than in the other interval, but in the latter, temperature changes more rapidly.
+Thinking about what it means for temperature to drop “faster” activates the idea of rates of change and prepares for the work later in the lesson.
+Launch
+Display the task for all to see. Give students 2 minutes of quiet time to work the question, and then follow with a whole-class discussion.
+Activity
+Student Task Statement
+Here are the recorded temperatures at three different times on a winter evening.
+['time', 'temperature']
+['4 p.m.', '6 p.m.', '10 p.m.']
+['\\(25^\\circ \\text{F}\\)', '\\(17^\\circ \\text{F}\\)', '\\(8^\\circ \\text{F}\\)']
+Tyler says the temperature dropped faster between 4 p.m. and 6 p.m.
+Mai says the temperature dropped faster between 6 p.m. and 10 p.m.
+Who do you agree with? Explain your reasoning.
+Some students may ask for a clarification about what is meant by “faster” in this situation. Acknowledge that thinking about its meaning in context is a great way to approach the task. Encourage these students to interpret the word by using their understanding of the given information.
+Activity Synthesis
+Select 1–2 students from each group to explain their reasoning. As they explain, record and display their thinking for all to see. After both groups have had a chance to present, ask if anyone changed their mind because of the explanation they heard. If so, invite them to share their reasons.
+It is not necessary to resolve the question at this point. Students will continue thinking about this question in the next activity.
+20 mins
+Activity
+Drop Some More
+Activity Narrative
+This activity introduces students to average rate of change by building on what students know about rate of change and slope.
+Students see that finding the change in the output for every unit of change in the input can be a useful way to generalize what happens between two function values, regardless of the behaviors of individual data points between them. They recognize that this number tells us how—on average—one quantity is changing relative to the other, and that it can be useful for comparing the trends in different intervals of a function.
+In the activity, students find average rates of change by reasoning and using their knowledge of linear relationships. Monitor for students who use these strategies (the examples shown are for finding the average rate of change between 6 p.m. and 10 p.m.):
+Find the hourly changes in temperature, and calculate the average. The temperature fell by \(2^\circ \text{F}\) the first hour, then \(4^\circ \text{F}\), \(0 ^\circ \text{F}\), and \(3^\circ \text{F}\) in the next three hours. The average is \(\frac{2+4+0+3}{4} = \frac94\), or \(2.25 ^\circ \text{F}\) per hour.
+Find the overall change in temperature, and divide it by the overall change in hours. The temperature fell \(9^\circ F\) in 4 hours, which means an average drop of \(2.25^\circ \text{F}\) per hour.
+Find the slope of the line connecting the two end points of the interval. The slope between \((6,17)\) and \((10,8)\) is \(\frac{8-17}{10-6}=\frac{\text-9}{4}=\text-2.25\), which means an average drop of \(2.25^\circ \text{F}\) per hour.
+Plan to have students present in this order to support connecting rate of change to what students already know about slope.
+In the Activity Synthesis, students generalize their reasoning and see that finding the average rate of change is indeed equivalent to finding the slope of the line connecting the two points.
+Launch
+Ask students to keep their materials closed. Display a scatter plot with the two temperature data points plotted, as shown.
+Tell students that it shows the temperature at 4 p.m. and the temperature at 10 p.m.
+Image description: <p>Two points. hours since noon and temperature in degrees Fahrenheit.</p>
+Ask students,
+“How did the temperature change between 4 p.m. and 10 p.m.?” (It fell.)
+“How much did it fall?” (17 degrees Fahrenheit)
+“Can we tell how fast, or at what rate, the temperature was falling? If so, how?” ((It fell 17 degrees Fahrenheit in 6 hours. If it was falling at a constant rate, it would be falling \(\frac{17}{6}\), or about 2.8, degrees Fahrenheit per hour. If we connected the points with a line and found its slope, it would be about -2.8.)
+“If not, why not?” (There is not enough information about what happened in between the two data points. It might not be falling at the same rate.)
+Display a scatter plot with the hourly data points plotted.
+Give students a moment to notice and wonder something about the data, and solicit a few responses. If no students mention the temperatures changing at different rates (a lot, a little, or not at all) each hour, ask them about it.
+​
+Image description: <p>Discrete function. hours since noon and temperature in degrees Fahrenheit.</p>
+Discuss with students: “Do the hourly data between 4 p.m. and 10 p.m. help us better characterize how fast the temperature was falling between 4 p.m. and 10 p.m.? Could we still say that it was falling about \(2.8^\circ \text{F}\) an hour?”
+Students are likely to comment that a line connecting \((4,25)\) and \((10,8)\) approximates the distribution of points in that interval and conclude that \(\text-2.8^\circ \text{F}\) per hour is a reasonable rate to use.
+Explain to students that it can be helpful to have a way to quantify how a quantity is changing over a particular interval, without having to worry about the smaller changes in between them. The rate of \(\text-2.8^\circ \text{F}\) per hour serves that purpose. It is the average rate of change between 4 p.m. and 10 p.m.
+Select students with different strategies, such as those described in the Activity Narrative, to share later.
+Activity
+Student Task Statement
+The table and graph show a more complete picture of the temperature changes on the same winter day. The function \(T\) gives the temperature in degrees Fahrenheit, \(h\) hours since noon.
+['\\(h\\)', '\\(T(h)\\)']
+['0', '18']
+['1', '19']
+['2', '20']
+['3', '20']
+['4', '25']
+['5', '23']
+['6', '17']
+['7', '15']
+['8', '11']
+['9', '11']
+['10', '8']
+['11', '6']
+['12', '7']
+Graph of discrete points, \(x \)  \(y\) plane, origin \(O\). Horizontal axis scale 0 to 12 by 2’s, labeled “hours since noon”. Vertical axis scale 0 to 30 by 10’s, labeled “temperature in degrees F”. The points have coordinates (0 comma 18), (1 comma 19), (2 comma 20), (3 comma 20), (4 comma 25), (5 comma 23), (6 comma 17), (7 comma 15), (8 comma 11), (9 comma 11), (10 comma 8), (11 comma 6) and (12 comma 7).
+Image description: <p>Graph of discrete points, <span class="math">\(x y\)</span> plane, origin <span class="math">\(O\)</span>.</p>
+Find the average rate of change for the following intervals. Explain or show your reasoning.between noon and 1 p.m.between noon and 4 p.m.between noon and midnight
+Find the average rate of change for the following intervals. Explain or show your reasoning.
+between noon and 1 p.m.
+between noon and 4 p.m.
+between noon and midnight
+Remember Mai and Tyler’s disagreement? Use average rate of change to show which time period—4 p.m. to 6 p.m. or 6 p.m. to 10 p.m.—experienced a faster temperature drop.
+Over what interval did the temperature decrease the most rapidly?
+Over what interval did the temperature increase the most rapidly?
+Activity Synthesis
+The purpose of this discussion is to show that the average rate of change for a function over an interval is the slope of the line connecting the two points at each end of the interval.
+Invite previously selected students to share how they determined the average rates of change over the specified intervals. Sequence the discussion of the strategies by the order listed in the Activity Narrative. If possible, record and display their work for all to see.
+Connect the different responses to the learning goals by asking questions, such as:
+“How are the temperature (the output) and time (the input) used in finding the average rate of change in each method?” (The difference in the temperature is divided by the difference in time to find the rate of change.)
+“How can the average rate of change be seen on a graph of the function?” (It is the slope of the line connecting the two points at the end of the interval.)
+Display a graph with two points labeled \((a, f(a))\) and \((b, f(b))\). Ask students how we might find the average rate of change between the two points.
+Make sure students can generalize their work and see that average rate of change is \(\frac{f(b)-f(a)}{b-a}\).
+Image description: <p>Discrete function graph.</p>
+10 mins
+Activity
+Populations of Two States
+Activity Narrative
+This activity allows students to practice finding and interpreting average rates of change in a different context. No tables of values are given here, so students will need to estimate the coordinates on the graph to compute the average rates of change.
+Students reason quantitatively and abstractly (MP2) as they extract contextual information from a graph, manipulate it symbolically, and then interpret the numerical results in context. To interpret the average rates of change, students need to pay attention to the units used to measure the input (years) and output (people in millions). This is a chance to practice attending to precision (MP6).
+Launch
+Activity
+Student Task Statement
+The graphs show the populations of California and Texas over time.
+Graph of the populations of two states over time on a coordinate plane. Horizontal axis scale 1900 to 2010 by 10’s, labeled “year”. Vertical axis scale 0 to 40 by 10’s, labeled “population in millions”. California has a solid blue graph and Texas is a red dashed graph. California has the points (0 comma 2), (1940 comma 5), (1970 comma 20) and (2010 comma 37). Texas has the points (0 comma 4), (1940 comma 5), (1960 comma 10), (1970 comma 11) and (2010 comma 25).
+Image description: <p>Graph of the populations of two states over time on a coordinate plane. </p>
+Estimate the average rate of change in the population in each state between 1970 and 2010. Show your reasoning.In this situation, what does each rate of change mean?
+Estimate the average rate of change in the population in each state between 1970 and 2010. Show your reasoning.
+In this situation, what does each rate of change mean?
+Which state’s population grew more quickly between 1900 and 2000? Show your reasoning.
+Activity Synthesis
+When calculating average rates of change for California and Texas between 1970 and 2010, students are likely to get slightly different results from one another. Discuss why this might be. If not mentioned by students, point out that it is most likely due to differences in how they estimated the populations from the graphs.
+Invite students to share their response to the last question. Make sure students recognize that it is not always necessary to compute average rates of change or slopes of lines to compare the trends of two functions. We can visually compare the steepness of the lines connecting the endpoints of each graph.
+Lesson Synthesis
+Discuss questions such as:
+“How would you explain average rate of change to a classmate who is absent today? What does it tell us? How do we find it?”
+“Which representation—a table or a graph—can give us a better sense of the general trend of a function over a certain interval? Why?” (a graph, because we can visualize a line that fits the data in an interval and reason about its slope)
+“What does a negative average rate of change tell us?” (The output of the function is decreasing for every unit of increase in input.)
+“If a function has a negative average rate of change over an interval, does it mean that the function value never increases?” (No, there might be parts of the interval in which the function value rises, but overall, it is falling.)
+“When dealing with Mai and Tyler’s case, we compared average rates of change over two intervals that are not the same length. Was that a fair comparison? Does the length of the interval matter?” (Yes, it is a fair comparison. The length of the interval doesn’t matter because an average rate of change gives the amount of change per unit of input.)
+Student Lesson Summary
+Here is a graph of one day’s temperature as a function of time.
+Image description: <p>Graph. Horizontal axis, 9 o’clock to 8 o’clock, time. Vertical axis, 25 to 50 by 5’s, temperature in degrees Fahrenheit. Graph is linear piecewise. Starts at 0 comma 35.</p>
+The temperature was \(35 ^\circ \text{F}\) at 9 a.m. and \(45 ^\circ \text{F}\) at 2 p.m., an increase of \(10^\circ \text{F}\) over those 5 hours.
+The increase wasn't constant, however. The temperature rose from 9 a.m. and 10 a.m., stayed steady for an hour, then rose again.
+On average, how fast was the temperature rising between 9 a.m. and 2 p.m.?Let's calculate the average rate of change and measure the temperature change per hour. We do that by finding the difference in the temperature between 9 a.m. and 2 p.m. and dividing it by the number of hours in that interval.\(\text{average rate of change}=\dfrac{45-35}{5}=\dfrac{10}{5}=2\)On average, the temperature between 9 a.m. and 2 p.m. increased \(2^\circ \text{F}\) per hour.
+On average, how fast was the temperature rising between 9 a.m. and 2 p.m.?
+Let's calculate the average rate of change and measure the temperature change per hour. We do that by finding the difference in the temperature between 9 a.m. and 2 p.m. and dividing it by the number of hours in that interval.
+\(\text{average rate of change}=\dfrac{45-35}{5}=\dfrac{10}{5}=2\)
+On average, the temperature between 9 a.m. and 2 p.m. increased \(2^\circ \text{F}\) per hour.
+How quickly was the temperature falling between 2 p.m. and 8 p.m.?\(\text{average rate of change}=\dfrac{30-45}{6}=\dfrac{\text-15}{6}=\text-2.5\)On average, the temperature between 2 p.m. and 8 p.m. dropped by \(2.5 ^\circ \text{F}\) per hour.
+How quickly was the temperature falling between 2 p.m. and 8 p.m.?
+\(\text{average rate of change}=\dfrac{30-45}{6}=\dfrac{\text-15}{6}=\text-2.5\)
+On average, the temperature between 2 p.m. and 8 p.m. dropped by \(2.5 ^\circ \text{F}\) per hour.
+In general, we can calculate the average rate of change of a function \(f\) between input values \(a\) and \(b\) by dividing the difference in the outputs by the difference in the inputs.
+\(\text{average rate of change}=\dfrac{f(b)-f(a)}{b-a}\)
+If the two points on the graph of the function are \((a, f(a))\) and \((b, f(b))\), the average rate of change is the slope of the line that connects the two points.
+Image description: <p>Graph of curve. X axis, negative 2 to 4. Y axis, 0 to 3. Curve goes through points a comma f of a and b comma f of b. A dotted line connects the 2 points.</p>

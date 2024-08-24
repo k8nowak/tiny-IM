@@ -1,0 +1,63 @@
+
+--- Lesson Headers ---
+
+
+Unit 5
+
+Functions
+
+Lesson 4
+
+Using Function Notation to Describe Rules (Part 1)
+
+
+
+
+
+--- What Students Do ---
+
+
+In pairs, students use function notation to describe mathematical rules, match verbal descriptions to equations, create tables and graphs for area and perimeter functions, and analyze the relationships between input and output values.
+
+
+--- What Students Learn ---
+
+
+(1) Understand and use function notation to express rules of functions.  
+(2) Create tables and graphs to visually represent functions.  
+(3) Interpret and write equations based on given function rules.
+
+
+--- Where It Fits ---
+
+
+**describing the rules of functions using function notation; connecting verbal and algebraic representations**
+
+
+--- Required Preparation ---
+
+
+Required Preparation
+None
+
+
+--- Standards Alignment ---
+
+
+Building On
+8.F.A.1
+Addressing
+HSF-BF.A.1.a
+HSF-IF.A.1
+HSF-IF.A.2
+HSF-IF.B.4
+HSF-IF.C
+Building Toward
+HSF-BF.A.1
+
+
+--- Timing ---
+
+
+Total activity time: 35 mins
+Total lesson time: 40–45 mins

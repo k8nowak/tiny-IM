@@ -1,0 +1,63 @@
+
+--- Lesson Headers ---
+
+
+Unit 5
+
+Functions
+
+Lesson 18
+
+Using Functions to Model Battery Power
+
+
+
+
+
+--- What Students Do ---
+
+
+In groups, analyze battery power data from a cell phone to create functions that model charging and discharging patterns, make predictions, and refine models based on new information.
+
+
+--- What Students Learn ---
+
+
+(1) understanding how to use functions to represent real-life situations  
+(2) making predictions based on function models  
+(3) interpreting the results of the function in context
+
+
+--- Where It Fits ---
+
+
+**an application of functions to real-world battery usage for modeling and prediction**
+
+
+--- Required Preparation ---
+
+
+Required Preparation
+Activity 2
+
+
+--- Standards Alignment ---
+
+
+Building On
+Addressing
+HSF-BF.A.1
+HSF-IF.B.6
+HSS-ID.B.6.a
+HSS-ID.B.6.c
+Building Toward
+HSF-BF.A.1
+HSS-ID.B.6
+HSS-ID.B.6.a
+
+
+--- Timing ---
+
+
+Total activity time: 45 mins
+Total lesson time: 50–55 mins
