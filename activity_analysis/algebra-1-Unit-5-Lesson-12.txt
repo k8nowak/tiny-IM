@@ -1,0 +1,74 @@
+
+Warm-Up: Frozen Yogurt
+Timing: 10 minutes
+
+Task Statement:
+A self-serve frozen yogurt store sells servings up to 12 ounces. It charges \$0.50 per ounce for a serving between 0 and 8 ounces and \$4 for any serving greater than 8 ounces and up to 12 ounces. Choose the graph that represents the price as a function of the weight of a serving of yogurt. Be prepared to explain how you know. A Image description: <p>Horizontal axis, ounces of yogurt. Vertical axis, price in dollars. Graph of line through origin, 4 comma 2, 8 comma 4.</p> B Image description: <p>Horizontal axis, ounces of yogurt. Vertical axis, price in dollars. Graph of line through origin, 4 comma 2, 8 comma 4. Line is horizontal after 8 comma 4.</p> C Image description: <p>Horizontal axis, ounces of yogurt. Vertical axis, price in dollars. Graph of horizontal line y=4.</p> D Image description: <p>Horizontal axis, ounces of yogurt. Vertical axis, price in dollars. Graph of line through origin, 3 comma 1, and 9 comma 3.</p>
+
+Takeaway:
+Understand how to interpret and graph piecewise functions.
+
+Steps:
+1. Explain frozen yogurt pricing rules: $0.50/ounce (0-8 ounces), $4 (>8 and ≤12 ounces).
+2. Show students 4 graphs of price vs. weight. Have them pick the correct graph.
+3. Discuss the cost of servings: 4 ounces ($2), 8 ounces ($4), 10 ounces ($4).
+4. Explain piecewise functions and how different rules apply to different parts of the domain.
+5. Demonstrate "cases" notation for the piecewise function.
+
+
+Activity 1: Postage Stamps
+Timing: 10 minutes
+
+Task Statement:
+The relationship between the postage rate and the weight of a letter can be defined by a piecewise function. The graph shows the 2018 postage rates for using regular service to mail a letter. Horizontal axis, weight in ounces. Scale 0 to 4, by 0 point 5's. Vertical axis, postage in dollars. Scale, 0 to 1 point 5, by 0 pint 2,5's. Piecewise function. open circle at 0 comma 0 point 5 that extends horizontally to 1 comma 0 point 5, where there is a closed circle. open circle at 1 comma 0 point 7,1 that extends horizontally to 2 comma 0 point 7,1, where there is a closed circle. open circle at 2 comma 0 point 9,2 that extends horizontally to 3 comma 0 point 9,2, where there is a closed circle. open circle at 3 comma 1 point 1,3 that extends horizontally to 3 point 5 comma 1 point 1,3, where there is a closed circle. Image description: <p>Horizontal axis, weight in ounces. Scale 0 to 4, by 0 point 5's. Vertical axis, postage in dollars. Scale, 0 to 1 point 5, by 0 pint 2,5's. </p> What is the price of a letter that has the following weight?1 ounce1.1 ounces0.9 ounce What is the price of a letter that has the following weight? 1 ounce 1.1 ounces 0.9 ounce A letter costs $0.92 to mail. What do you know about the weight of the letter? Kiran and Mai wrote some rules to represent the postage function, but each of them made some errors with the domain.\(\displaystyle K(w) = \begin{cases} 0.50, & 0\leq w\leq 1 \\ 0.71, & 1\leq w\leq 2 \\ 0.92, & 2\leq w\leq 3\\ 1.13, & 3\leq w\leq 3.5\\ \end{cases} \)\(\displaystyle M(w) = \begin{cases} 0.50, & 0< w< 1 \\ 0.71, & 1< w< 2 \\ 0.92, & 2< w< 3\\ 1.13, & 3< w< 3.5\\ \end{cases}\)	Identify the error in each person’s work, and write a corrected set of rules. Kiran and Mai wrote some rules to represent the postage function, but each of them made some errors with the domain. \(\displaystyle K(w) = \begin{cases} 0.50, & 0\leq w\leq 1 \\ 0.71, & 1\leq w\leq 2 \\ 0.92, & 2\leq w\leq 3\\ 1.13, & 3\leq w\leq 3.5\\ \end{cases} \) \(\displaystyle M(w) = \begin{cases} 0.50, & 0< w< 1 \\ 0.71, & 1< w< 2 \\ 0.92, & 2< w< 3\\ 1.13, & 3< w< 3.5\\ \end{cases}\)
+
+Takeaway:
+Interpret piecewise functions and correctly use inequality symbols based on graph features.
+
+Steps:
+1. Display and discuss the piecewise function graph with the class.
+2. Arrange students in pairs. Allow quiet time, then discussion on initial graph questions.
+3. Pause for whole-class discussion on interpreting open and closed circles on the graph.
+4. Have pairs analyze and correct the domain errors in Kiran's and Mai's function rules.
+5. Conduct a class synthesis discussing errors, correct inequality symbols, and the cases based on the graph.
+
+
+Activity 2: Bike Sharing
+Timing: 15 minutes
+
+Task Statement:
+Function \(C\) represents the dollar cost of renting a bike from a bike-sharing service for \(t\) minutes. Here are the rules describing the function: \(C(t)=\begin{cases} \begin{align} &2.50, &\quad &0< t\leq30\\ &5.00,&\quad &30< t \leq 60\\ &7.50, &\quad& 60< t\leq 90\\ &10.00, &\quad &90< t\leq 120\\ &12.50, &\quad &120< t\leq 150\\ &15.00, &\quad &150< t\leq 720 \end{align} \end{cases}\)​​​​​​ Image description: <p>a bike share center</p> Complete the table with the costs for the given lengths of rental.\(t\) (minutes)\(C\) (dollars)10256075130180Sketch a graph of the function for all values of \(t\) that are more than 0 minutes and at most 240 minutes.​​​​​​ Complete the table with the costs for the given lengths of rental. \(t\) (minutes) | \(C\) (dollars) 10 | 25 | 60 | 75 | 130 | 180 | Sketch a graph of the function for all values of \(t\) that are more than 0 minutes and at most 240 minutes. ​​​​​​ Image description: <p>Horizontal axis, time in minutes. Scale, 0 to 240, by 30’s. Vertical axis, rental costs, in dollars. Scale, 0 to 15, by 2.5’s.</p> Describe in words the pricing rules for renting a bike from this bike-sharing service. Determine the domain and range of this function.
+
+Takeaway:
+Understand and analyze piecewise functions and their graphical representation.
+
+Steps:
+1. Display function \\(C\\) rules for bike rentals.
+2. Ensure students understand \\(C(t)\\) defined by cases.
+3. Complete a table for specific \\(t\\) values (10, 25, 60, 75, 130, 180).
+4. Sketch graph for \\(0 < t \\leq 240\\).
+5. Describe the pricing rules in words.
+6. Determine domain and range of the function.
+7. Discuss table values; resolve disagreements.
+8. Show and compare student graphs; discuss graph details.
+9. Discuss domain, range, and whether \\(C\\) is a function of \\(t\\).
+
+
+Activity 3: Piecing It Together
+Timing: 30 minutes
+
+Task Statement:
+Your teacher will give your group strips of paper with parts of a graph of a function. Gridlines are 1 unit apart. Arrange the strips of paper to create a graph for each of the following functions. \(\displaystyle f(x)=\begin{cases} \begin{align} \text-5,&\qquad \text-10< x< \text-5 \\ x,&\qquad \text-5\leq x< 0 \\ 1, &\qquad 0\leq x< 3\\ x-2, &\qquad 3\leq x< 8\\6, &\qquad 8\leq x < 1 0\ \end{align} \end{cases}\) \(\displaystyle g(x)=\begin{cases} \begin{align} 5.5,&\qquad \text-10< x\leq \text-8 \\ 4,&\qquad \text-8< x\leq \text-3 \\ \text-x, &\qquad \text-3< x\leq 2\\ \text-3.5, &\qquad 2< x\leq 5 \\ x-5, &\qquad 5< x\leq 10 \end{align} \end{cases}\) To accurately represent each function, be sure to include a scale on each axis and add open and closed circles on the graph where appropriate.
+
+Takeaway:
+**Main Takeaway:**
+Understand and accurately graph piecewise functions, including determining intervals, applying appropriate scales, and using open and closed circles to represent function values at interval endpoints.
+
+Steps:
+1. Arrange students in groups of 2–3.
+2. Give each group pre-cut strips for function \\(f\\), glue, and paper.
+3. Students arrange graph pieces, add scales to axes, and include open/closed circles as needed.
+4. Check graphs, then glue pieces.
+5. Discuss students' graphs, then give strips for function \\(g\\).
+6. Repeat graphing and discussion for function \\(g\\).
+

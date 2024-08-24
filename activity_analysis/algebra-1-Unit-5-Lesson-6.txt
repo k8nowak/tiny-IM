@@ -1,0 +1,60 @@
+
+Warm-Up: Walking Home
+Timing: 5 minutes
+
+Task Statement:
+Diego is walking home from school at a constant rate. This graph represents function \(d\), which gives his distance from home, in kilometers, \(m\) minutes since leaving the school. Use the graph to find or estimate: \(d(0)\) \(d(12)\) the solution to \(d(m)=1\) the solution to \(d(m)=0\) Image description: <p>Graph of line. Horizontal axis, 0 to 24 by 4’s, minutes since leaving school. Vertical axis, 0 to 3 by point 5’s, kilometers from home. Line starts at about 0 comma 2 point 2 5, and ends at 20 comma 0.</p>
+
+Takeaway:
+Understand and practice interpreting statements in function notation through real-world context.
+
+Steps:
+1. Display the graph.
+2. Students estimate/find: \\(d(0)\\), \\(d(12)\\), \\(d(m)=1\\), \\(d(m)=0\\).
+3. Discuss each statement in function notation.
+4. Clarify key points: \\(d(0)\\) is distance at 0 minutes, \\(d(m)=0\\) is when distance = 0 km. 
+5. If time permits, explore if it’s a linear function, distance from school, and time to home using the graph.
+
+
+Activity 1: A Toy Rocket and a Drone
+Timing: 15 minutes
+
+Task Statement:
+A toy rocket and a drone were launched at the same time. Here are the graphs that represent the heights of the two objects as a function of time since they were launched. Height is measured in meters above the ground, and time is measured in seconds since launch. 2 graphs. Horizontal axis, 0 to 7, time in seconds. Vertical axis, 0 to 50 by 10’s, height in meters. Graph R is parabolic and opens down. It starts at 0 comma 25. Its vertex is at 2 comma 45. It ends at 5 comma 0. Graph D is piecewise linear. It starts at 0 comma 0. Increases until 2 comma 20, horizontal until 5 comma 20, then decreases to 7 comma 0. Image description: <p>2 graphs. Horizontal axis, 0 to 7, time in seconds. Vertical axis, 0 to 50 by 10’s, height in meters. Graph R is a parabolic and opens down. Graph D is piecewise linear.</p> Analyze the graphs and describe—as precisely as you can—what was happening with each object. ​​Your descriptions should be complete and precise enough that someone who is not looking at the graph could visualize how the objects were behaving. Which parts or features of the graphs show important information about each object’s movement? List the features, or mark them on the graphs.
+
+Takeaway:
+Identify and describe key features of functions using graphs.
+
+Steps:
+1. Introduce context of toy drones and rockets to students in pairs.
+2. Display the initial graph and problem stem without questions.
+3. Students write possible mathematical questions and compare with partners.
+4. Class shares and compares questions; teacher highlights key terms.
+5. Reveal official questions; students compare to their own.
+6. Students analyze graphs and describe object motions in detail.
+7. Select students share descriptions; teacher sketches matching graphs.
+8. Highlight and label graph features like intercepts, maximums, and intervals of increase/decrease.
+
+
+Activity 2: The Jump
+Timing: 15 minutes
+
+Task Statement:
+In a bungee jump, the height of the jumper is a function of time since the jump begins. Function \(h\) defines the height, in meters, of a jumper above a river, \(t\) seconds since leaving the platform. Here is a graph of function \(h\), followed by five expressions or equations and five graphical features. Image description: <p>Woman bungee jumping.</p> Image description: <p>Graph of curve. Horizontal axis, 0 to 35 by 5’s, t, seconds. Vertical axis, 0 to 90 by 10’s, h, meters. Curve starts a 0 comma 80, decreases then increases, 4 times.</p> \(h(0)\) \(h(t)=0\) \(h(4)\) \(h(t)=80\) \(h(t)=45\) first dip in the graph vertical intercept first peak in the graph horizontal intercept maximum Match each description about the jump to a corresponding expression or equation and to a feature on the graph.One expression or equation does not have a matching verbal description. Its corresponding graphical feature is also not shown on the graph. Interpret that expression or equation in terms of the jump, and describe the feature of the graph it represents. Record your answers in the last row of the table.description of jumpexpression				or equation feature of graph a. the greatest height that the jumper is from the riverb. the height from which the jumper was jumpingc. the time at which the jumper reached the highest point after the first bounced. the lowest point that the jumper reached in the entire jumpe. Match each description about the jump to a corresponding expression or equation and to a feature on the graph. One expression or equation does not have a matching verbal description. Its corresponding graphical feature is also not shown on the graph. Interpret that expression or equation in terms of the jump, and describe the feature of the graph it represents. Record your answers in the last row of the table. description of jump | expressionor equation |  feature of graph a. the greatest height that the jumper is from the river |  | b. the height from which the jumper was jumping |  | c. the time at which the jumper reached the highest point after the first bounce |  | d. the lowest point that the jumper reached in the entire jump |  | e.   |  | Use the graph to:estimate \(h(0)\) and \(h(4)\)estimate the solutions to \(h(t)=45\) and \(h(t) = 0\) Use the graph to: estimate \(h(0)\) and \(h(4)\) estimate the solutions to \(h(t)=45\) and \(h(t) = 0\)
+
+Takeaway:
+"Distinguish between relative and absolute maxima and minima of a function using graphical and verbal representations."
+
+Steps:
+1. Arrange students in pairs. Provide quiet think time, then partner discussion.
+2. Introduce bungee jumping context. Demonstrate height change with hands.
+3. Present graph of function \\(h\\), height vs. time.
+4. Match written descriptions to graph features.
+5. Discuss matches, interpret unmatched expression, and estimate graph values.
+6. Synthesize findings, clarify concepts of maximum/minimum points on graph vs. function values.
+
+##### Additional Notes for Activity Synthesis:
+- **Graph Maximum/Minimum:** Point higher/lower than others in view.
+- **Function Maximum/Minimum:** Greatest/least function value.
+- Least value on graph may not represent true minimum of function.
+

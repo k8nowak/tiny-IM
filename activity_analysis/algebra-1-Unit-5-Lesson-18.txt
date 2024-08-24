@@ -1,0 +1,52 @@
+
+Warm-Up: Devices
+Timing: 5 minutes
+
+Task Statement:
+Think about an electronic device with a battery that you have to charge on a regular basis. What device is it? When you are using the device, about how long does it take the battery to go from 100% charged to the percentage it has when you plug it in again to recharge? About how long does it take to charge to 100% starting from 0% or nearly 0%? Suppose you plugged in your device when the battery was 50% charged.How long do you think it would take to recharge the device to 100% compared to the time it would take if the device was at 0%? Would it be exactly half the time, more than half the time, or less than half the time it would take if starting from 0%? Suppose you plugged in your device when the battery was 50% charged. How long do you think it would take to recharge the device to 100% compared to the time it would take if the device was at 0%? Would it be exactly half the time, more than half the time, or less than half the time it would take if starting from 0%?
+
+Takeaway:
+Recognize factors affecting battery drain and charging time.
+
+Steps:
+1. Arrange students in pairs.
+2. Give 1-2 minutes for quiet thinking on their device charging habits.
+3. Have each student share responses with their partner.
+4. Conduct a brief whole-class discussion on the factors affecting battery drain and recharge times.
+
+
+Activity 1: Charging a Phone
+Timing: 20 minutes
+
+Task Statement:
+A cell phone is plugged in to be charged. The table shows the percentage of battery power at some times after the phone was plugged in. time | percent charged 11:00 a.m. | 6% 11:10 a.m. | 15% 11:30 a.m. | 35% 11:40 a.m. | 43% At what time will the battery be 100% charged? Use the data to find out and explain or show your reasoning.
+
+Takeaway:
+Predict the time a phone battery will be fully charged using a linear model.
+
+Steps:
+1. Introduce the table data on phone charging percentages.
+2. Task students with predicting when the battery will reach 100%.
+3. Encourage students to use a linear model and average rate of change for predictions.
+4. Allow students to use graphing tools if they choose.
+5. Have students share and explain their predictions and reasoning.
+6. Discuss different strategies and assumptions used by students.
+
+
+Activity 2: How Long Will It Last?
+Timing: 20 minutes
+
+Task Statement:
+The image shows the battery usage of a cell phone for 9 hours after it was fully charged.It also shows a prediction that the battery would last 8 more hours.Write an equation for a model that fits the data in the image and gives the percentage of battery power, \(p\), as a function of time since the phone was fully charged, \(t\). Show your reasoning.If you get stuck, consider creating a table of values or a scatter plot of the data.Based on your function, what percentage of power would the battery have 4 hours after this image was taken? What about 5 hours after the image was taken? Show your reasoning. The image shows the battery usage of a cell phone for 9 hours after it was fully charged. It also shows a prediction that the battery would last 8 more hours. Image description: <p>Advanced battery usage, 52 percent. Graph from 100 percent to 0 percent. 9 hours ago, 8 hours left.</p> Write an equation for a model that fits the data in the image and gives the percentage of battery power, \(p\), as a function of time since the phone was fully charged, \(t\). Show your reasoning.If you get stuck, consider creating a table of values or a scatter plot of the data. Write an equation for a model that fits the data in the image and gives the percentage of battery power, \(p\), as a function of time since the phone was fully charged, \(t\). Show your reasoning. If you get stuck, consider creating a table of values or a scatter plot of the data. Based on your function, what percentage of power would the battery have 4 hours after this image was taken? What about 5 hours after the image was taken? Show your reasoning. Here are two more images showing the battery usage at two later times, before the battery was charged again.	Two images of advanced battery usage, 29 percent and 7 percent. 29 percent shows a graph of usage from 100 percent to 0 percent. States 13 hours ago, 4 hours left. 7 percent shows a graph of usage from 100 percent to 0 percent. States 14 hours ago, 29 minutes left.How well did the function you wrote predict the battery power 4 and 5 hours after the first image was taken (that is, 13 and 14 hours after the battery was fully charged)? Explain or show your reasoning.What do you notice about the change in the prediction at \(t=13\) and at \(t=14\)?Write a new equation for a function that would better fit the data shown in the last image. Two images of advanced battery usage, 29 percent and 7 percent. 29 percent shows a graph of usage from 100 percent to 0 percent. States 13 hours ago, 4 hours left. 7 percent shows a graph of usage from 100 percent to 0 percent. States 14 hours ago, 29 minutes left. Image description: <p>Two images of advanced battery usage, 29 percent and 7 percent.</p> How well did the function you wrote predict the battery power 4 and 5 hours after the first image was taken (that is, 13 and 14 hours after the battery was fully charged)? Explain or show your reasoning. What do you notice about the change in the prediction at \(t=13\) and at \(t=14\)? Write a new equation for a function that would better fit the data shown in the last image.
+
+Takeaway:
+Understand how to define and refine a mathematical model to predict battery life over time based on given data.
+
+Steps:
+1. Arrange students in groups of 2–4.
+2. Display initial battery usage graph and ask for predictions on remaining battery life.
+3. Students write an equation for a model that fits the given data and predict battery power after 4 and 5 hours.
+4. Pause for whole-class discussion on initial models and predictions.
+5. Display additional battery usage images and ask students to refine their models based on new data.
+6. Students share refined models and reasoning; compare different strategies and representations using graphing technology.
+

@@ -1,0 +1,80 @@
+
+Warm-Up: Population Growth
+Timing: 5 minutes
+
+Task Statement:
+This graph shows the populations of Baltimore and Cleveland in the 20th century. \(B(t)\) is the population of Baltimore in year \(t\). \(C(t)\) is the population of Cleveland in year \(t\). Image description: <p>Two functions. year and population.</p> Estimate \(B(1930)\), and explain what it means in this situation. Here are pairs of statements about the two populations. In each pair, which statement is true? Be prepared to explain how you know.\(B(2000) > C(2000)\) or \(B(2000) < C(2000)\)\(B(1900) = C(1900)\) or \(B(1900) > C(1900)\) Here are pairs of statements about the two populations. In each pair, which statement is true? Be prepared to explain how you know. \(B(2000) > C(2000)\) or \(B(2000) < C(2000)\) \(B(1900) = C(1900)\) or \(B(1900) > C(1900)\) Were the two cities’ populations ever the same? If so, when?
+
+Takeaway:
+Interpret and compare population functions using graphs and function notation.
+
+Steps:
+1. Show graph of Baltimore and Cleveland populations.
+2. Estimate \\(B(1930)\\); explain its meaning (population ~800,000).
+3. Compare pairs of statements: 
+    - \\(B(2000) > C(2000)\\) or \\(B(2000) < C(2000)\\)
+    - \\(B(1900) = C(1900)\\) or \\(B(1900) > C(1900)\\)
+4. Determine if/when the populations were equal.
+5. Discuss answers and function notation (\\(B(t)=C(t)\\) for \\(t=1910\\)).
+
+
+Activity 1: Wired or Wireless?
+Timing: 20 minutes
+
+Task Statement:
+\(H(t)\) is the percentage of homes in the United States that have a landline phone in year \(t\). \(C(t)\) is the percentage of homes with only a cell phone. Here are the graphs of \(H\) and \(C\). Graph of 2 functions. Blue solid line, H of t, represents percentage of homes in US with a landline phone in year t. Red dotted line, C of t, represents the percentage of homes with only a cell phone. H of 2006 is about 85. C of 2006 is about 14. C of 2008= 20. Lines intersect in 2015. The rate of increase in percentage of cell phones is increasing at approximately the same rate as the rate of home phones is decreasing. Image description: <p>Graph of 2 functions. Blue solid line represents percentage of homes in US with a landline phone in year t. Red dotted line represents the percentage of homes with <em>only</em> a cell phone.</p> Estimate \(H(2006)\) and \(C(2006)\). Explain what each value tells us about the phones. What is the approximate solution to \(C(t)=20\)? Explain what the solution means in this situation. Determine if each equation is true. Be prepared to explain how you know.\(C(2011) = H(2011)\)\(C(2015) = H(2015)\) Determine if each equation is true. Be prepared to explain how you know. \(C(2011) = H(2011)\) \(C(2015) = H(2015)\) Between 2004 and 2015, did the percentage of homes with landlines decrease at the same rate at which the percentage of cell-phones-only homes increased? Explain or show your reasoning.
+
+Takeaway:
+Understand how to interpret and compare rates of change and intersection points of functions in a contextual situation.
+
+Steps:
+1. Ask students about landline vs. cell phone ownership.
+2. Show and discuss the graphs of \\(H(t)\\) and \\(C(t)\\).
+3. Estimate and interpret \\(H(2006)\\) and \\(C(2006)\\).
+4. Solve \\(C(t) = 20\\) and explain its context.
+5. Verify and explain the truth of \\(C(2011) = H(2011)\\) and \\(C(2015) = H(2015)\\).
+6. Discuss the average rate of change and its meaning.
+7. (Optional) Discuss why the rates of change for landlines and cell phones are similar.
+
+
+Activity 2: Audience of TV Shows
+Timing: 15 minutes
+
+Task Statement:
+The number of people who watched a TV episode is a function of that show’s episode number. Here are three graphs of three functions—\(A, B\), and \(C\)—representing three different TV shows. Show A10 data points on coordinate plane, no grid, origin O. Horizontal axis, episode number, from 0 to 10 by 2’s. Vertical axis, audience in millions, from 0 to 2 by 0 point 5s. Approximate data points as follows: 1 comma 0 point 75, 2 comma 0 point 9, 3 comma 0 point 95, 4 comma 1 point 25, 5 comma 1 point 3, 6 comma 1 point 4, 7 comma 1 point 75, 8 comma 1 point 6, 9 comma 1 point 8, 10 comma 2. Show A Image description: <p>10 data points on coordinate plane.</p> Show BA graph, with origin O. The horizontal axis, episode number, scale from 0 to 10 by 2s. The vertical axis, audience in millions, scale from 0 to 6 by 1s. Points plotted are 1 comma 9.8, 2 comma 6.1, 3 comma 4.7, 4 comma 4.5, 5 comma 4.3, 6 comma 4.1, 7 comma 3.6, 8 comma 3.2, 9 comma 3.1, and 10 comma 3.0. Show B Image description: <p>A graph. </p> Show C10 data points on coordinate plane, no grid, origin O. Horizontal axis, episode number, from 0 to 10 by 2’s. Vertical axis, audience in millions, from 0 to 6 by 1’s. Approximate data points as follows: 1 comma 2 point 5, 2 comma 2 point 6, 3 comma 2 point 4, 4 comma 2 point 5, 5 comma 5 point 5, 6 comma 4, 7 comma 3, 8 comma 2 point 9, 9 comma 2 point 5, 10 comma 2 point 5. Show C Image description: <p>10 data points on coordinate plane.</p> Match each description with a graph that could represent the situation described. One of the descriptions has no corresponding graph.This show has a good core audience. They had a guest star in the fifth episode that brought in some new viewers, but most of them stopped watching after that.This show is one of the most popular shows, and its audience keeps increasing.This show has a small audience, but the show is improving, so more people are noticing.This show started out huge. Even though it feels like it crashed, it still has more viewers than another show. Match each description with a graph that could represent the situation described. One of the descriptions has no corresponding graph. This show has a good core audience. They had a guest star in the fifth episode that brought in some new viewers, but most of them stopped watching after that. This show is one of the most popular shows, and its audience keeps increasing. This show has a small audience, but the show is improving, so more people are noticing. This show started out huge. Even though it feels like it crashed, it still has more viewers than another show. Which is greatest, \(A(7)\), \(B(7)\), or \(C(7)\)? Explain what the answer tells us about the shows. Sketch a graph of the viewership of the fourth TV show that did not have a matching graph. Image description: <p>A blank graph, with origin O. The horizontal axis, episode number, scale from 0 to 10 by 2s. The vertical axis, audience in millions, scale is 6 units.</p>
+
+Takeaway:
+Interpret and compare features of discrete graphs to match them with verbal descriptions of TV show viewership trends.
+
+Steps:
+1. Arrange students in pairs.
+2. Quietly analyze three discrete graphs of TV show viewership.
+3. Discuss graphs and descriptions with partner.
+4. Match each graph to a given description.
+5. Compare values of \\(A(7)\\), \\(B(7)\\), and \\(C(7)\\).
+6. Sketch graph for fourth TV show, based on unmatched description.
+7. Discuss matches and sketches during whole-class discussion.
+
+
+Activity 3: Functions $f$ and $g$
+Timing: 10 minutes
+
+Task Statement:
+Here are graphs that represent two functions, \(f\) and \(g\).Decide which function value is greater for each given input. Be prepared to explain your reasoning.\(f(2)\) or \(g(2)\)\(f(4)\) or \(g(4)\)\(f(6)\) or \(g(6)\)\(f(8)\) or \(g(8)\)A graph, with origin O. The horizontal axis, scale from 9 to 12 by 1s. The vertical axis, scale from 0 to 9 by 1s. A curve, shaped like a U, opening downward and labeled f passes through the points 4 comma 7 and 9 comma 7. It has a maximum at the point 6 comma 8. A line, labeled g, passes through the points 0 comma 8, 4 comma 7, and 9 comma 7.​​​​​ Here are graphs that represent two functions, \(f\) and \(g\). Decide which function value is greater for each given input. Be prepared to explain your reasoning. \(f(2)\) or \(g(2)\) \(f(4)\) or \(g(4)\) \(f(6)\) or \(g(6)\) \(f(8)\) or \(g(8)\) A graph, with origin O. The horizontal axis, scale from 9 to 12 by 1s. The vertical axis, scale from 0 to 9 by 1s. A curve, shaped like a U, opening downward and labeled f passes through the points 4 comma 7 and 9 comma 7. It has a maximum at the point 6 comma 8. A line, labeled g, passes through the points 0 comma 8, 4 comma 7, and 9 comma 7.​​​​​ Image description: <p>A graph. </p> Is there a value of \(x\) at which the equation \(f(x)=g(x)\) is true? Explain your reasoning. Identify at least two values of \(x\) at which the inequality \(f(x) < g(x)\) is true.
+
+Takeaway:
+Interpret \\(f(x) = g(x)\\) as the x-value where the graphs of functions \\(f\\) and \\(g\\) intersect.
+
+Steps:
+Activity Title: Functions \\(f\\) and \\(g\\) Comparison
+Timing: 10 minutes
+
+Steps:
+
+1. Display graphs of \\(f\\) and \\(g\\).
+2. Students compare \\(f(x)\\) and \\(g(x)\\) at \\(x = 2, 4, 6, 8\\) and explain reasoning.
+3. Identify \\(x\\) values where \\(f(x) = g(x)\\).
+4. Identify at least two \\(x\\) values where \\(f(x) < g(x)\\).
+5. Discuss and mark graph points showing comparisons.
+6. Translate findings into function notation and discuss intersections.
+

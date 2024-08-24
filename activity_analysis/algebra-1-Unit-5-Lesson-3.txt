@@ -1,0 +1,59 @@
+
+Warm-Up: Observing a Drone
+Timing: 5 minutes
+
+Task Statement:
+Image description: <p>a drone flying</p> Here is a graph that represents function \(f\), which gives the height of a drone, in meters, \(t\) seconds after it leaves the ground. Image description: <p>Graph. Horizontal axis, 0 to 8, time, seconds. Vertical axis, height, meters. Starting at 0 comma 0, the graph increases linearly. From 2 to 6, it’s horizontal. Then decreases linearly to 7 comma 0.</p> Use the symbol <, >, or = to make a correct statement about these values. \(f(0) \underline{\hspace{.5in}} f(4)\) \(f(2) \underline{\hspace{.5in}} f(5)\) \(f(3) \underline{\hspace{.5in}} f(7)\) \(f(t) \underline{\hspace{.5in}} f(t+1)\)
+
+Takeaway:
+Understand how to compare the values of a function given its graph.
+
+Steps:
+1. Give students 1–2 minutes to think quietly.
+2. Discuss briefly what a drone is if needed.
+3. Show the graph representing function \\(f\\) (height vs. time).
+4. Ask students to compare values using \\(<\\), \\(>\\), or \\(=\\) for:  
+   - \\(f(0) \\underline{\\hspace{.5in}} f(4)\\)  
+   - \\(f(2) \\underline{\\hspace{.5in}} f(5)\\)  
+   - \\(f(3) \\underline{\\hspace{.5in}} f(7)\\)  
+   - \\(f(t) \\underline{\\hspace{.5in}} f(t+1)\\)
+5. Have students share their comparison methods.
+6. Highlight key graph points: \\((0, f(0)), (2, f(2)), (5, f(5)), (7, f(7))\\).
+7. Discuss the general strategy for comparing \\(f(t)\\) and \\(f(t+1)\\).
+
+
+Activity 1: Smartphones
+Timing: 20 minutes
+
+Task Statement:
+Image description: <p>two cell phones</p> The function \(P\) gives the number of people, in millions, who own a smartphone \(t\) years after year 2000. What does each equation tell us about smartphone ownership?\(P(17)=2,\!320\)\(P(\text-10)=0\) What does each equation tell us about smartphone ownership? \(P(17)=2,\!320\) \(P(\text-10)=0\) Use function notation to represent each statement.In 2010, the number of people who owned a smartphone was 296,600,000.In 2015, about 1.86 billion people owned a smartphone. Use function notation to represent each statement. In 2010, the number of people who owned a smartphone was 296,600,000. In 2015, about 1.86 billion people owned a smartphone. Mai is curious about the value of \(t\) in \(P(t) = 1,\!000\).What would the value of \(t\) tell Mai about the situation?Is 4 a possible value of \(t\) here? Mai is curious about the value of \(t\) in \(P(t) = 1,\!000\). What would the value of \(t\) tell Mai about the situation? Is 4 a possible value of \(t\) here? Use the information you have so far to sketch a graph of the function. Image description: <p>Blank coordinate grid. Horizontal axis, negative 12 to 22 by 2’s, years since 2000. Vertical axis, 0 to 2,800 by 400’s, population in millions.</p>
+
+Takeaway:
+Understand and interpret function notation in context, with attention to units and input values.
+
+Steps:
+1. Read opening sentence as a class; identify input/output and their units.
+2. Pair students; give 1-2 min to read & understand first 2 questions.
+3. Discuss with partners, then write responses with complete sentences and units.
+4. Pause for class discussion; ensure understanding of input/output values.
+5. Complete remaining questions in pairs.
+6. Share responses and graph sketches; clarify interpretations of function notation.
+
+
+Activity 2: Boiling Water
+Timing: 10 minutes
+
+Task Statement:
+The function \(W\) gives the temperature, in degrees Fahrenheit, of a pot of water on a stove, \(t\) minutes after the stove is turned on. Take turns with your partner to explain the meaning of each statement in this situation. When it’s your partner’s turn, listen carefully to their interpretation. If you disagree, discuss your thinking and work to reach an agreement.\(W(0) = 72\)\(W(5) > W(2)\)\(W(10) = 212\)\(W(12) = W(10)\)\(W(15) > W(30)\)\(W(0) < W(30)\) Take turns with your partner to explain the meaning of each statement in this situation. When it’s your partner’s turn, listen carefully to their interpretation. If you disagree, discuss your thinking and work to reach an agreement. \(W(0) = 72\) \(W(5) > W(2)\) \(W(10) = 212\) \(W(12) = W(10)\) \(W(15) > W(30)\) \(W(0) < W(30)\) If all statements in the previous question represent the situation, sketch a possible graph of function \(W\).Be prepared to show where each statement can be seen on your graph. If all statements in the previous question represent the situation, sketch a possible graph of function \(W\). Be prepared to show where each statement can be seen on your graph. Image description: <p>Blank grid. Horizontal axis, 0 to 30 by 5’s, time in minutes. Vertical axis, 0 to 300 by 50’s, temperature in degrees Fahrenheit.</p>
+
+Takeaway:
+Understand and interpret statements in function notation, and relate them to a graph.
+
+Steps:
+1. Keep students in pairs.
+2. Students take turns explaining function statements to their partner.
+3. Partners discuss any disagreements until they agree.
+4. Based on their discussion, each student sketches a graph of the function \\(W\\).
+5. Select students to share interpretations and graphs with the class.
+6. Discuss why graphs may differ and where function statements appear on the graphs.
+

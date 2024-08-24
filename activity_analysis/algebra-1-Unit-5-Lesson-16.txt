@@ -1,0 +1,80 @@
+
+Warm-Up: Shopping for Cookbooks
+Timing: 5 minutes
+
+Task Statement:
+Lin is comparing the cost of buying cookbooks at different online stores. Store A sells them at \$9 each and offers free shipping. Store B sells them at \$9 each and charges \$5 for shipping. Store C sells them at \(p\) dollars and charges \$5 for shipping. Store D sells them at \(p\) dollars and charges \(f\) dollars for shipping. For each store, write an equation to represent the total cost, \(T\), in dollars as a function of \(n\) cookbooks bought. For each store, write an equation to find the number of books, \(n\), that Lin could buy if she spent a total of \(T\) dollars.
+
+Takeaway:
+Understand and practice writing inverse equations by reversing operations.
+
+Steps:
+1. Write equations for total cost \\(T\\) as a function of \\(n\\) cookbooks for each store.
+   - Store A: \\(T = 9n\\)
+   - Store B: \\(T = 9n + 5\\)
+   - Store C: \\(T = pn + 5\\)
+   - Store D: \\(T = pn + f\\)
+2. Write inverse equations to find number of books \\(n\\) for given \\(T\\).
+   - Store A: \\(n = \\frac{T}{9}\\)
+   - Store B: \\(n = \\frac{T - 5}{9}\\)
+   - Store C: \\(n = \\frac{T - 5}{p}\\)
+   - Store D: \\(n = \\frac{T - f}{p}\\)
+3. Share and discuss equations as a class, emphasizing the process of finding inverses.
+4. Highlight: Reversing operations to find inverse; input and output roles switch.
+
+
+Activity 1: From Celsius to Fahrenheit
+Timing: 10 minutes
+
+Task Statement:
+If we know the temperature in degrees Celsius, \(C\), we can find the temperature in degrees Fahrenheit, \(F\), using the equation: \(F = \frac95 C + 32\) Image description: <p>a wooden thermometer</p> Complete the table with temperatures in degrees Fahrenheit or degrees Celsius.	\(C\)   0   100 25 \(F\)104 50 62.6 \(C\) | \(F\) 0    | 100 |  25  |  |  | |  |  | 104 |  50  | 62.6 The equation \(F =\frac95C + 32\) represents a function. Write an equation to represent the inverse function. Be prepared to explain your reasoning. The equation \(R = ​\frac{9}{5}​ (C + 273.15)\) defines the temperature in degrees Rankine as a function of the temperature in degrees Celsius. Show that the equation \(C=(R−491.67)\boldcdot\frac{5}{9}\) defines the inverse of that function. The equation \(R = ​\frac{9}{5}​ (C + 273.15)\) defines the temperature in degrees Rankine as a function of the temperature in degrees Celsius. Show that the equation \(C=(R−491.67)\boldcdot\frac{5}{9}\) defines the inverse of that function.
+
+Takeaway:
+Understand how to find and verify inverse functions using temperature conversion equations.
+
+Steps:
+1. Show students the equation \\(F = \\frac{9}{5}C + 32\\).
+2. Complete the table with given temperatures in Celsius and Fahrenheit.
+3. Write the equation for the inverse function \\(C = \\frac{5}{9}(F - 32)\\).
+4. Verify the inverse functions: \\(R = \\frac{9}{5}(C + 273.15)\\) and \\(C = \\frac{5}{9}(R - 491.67)\\).
+5. Discuss strategies for finding inverse functions and verifying equations.
+6. OPTIONAL: Graph the functions and discuss input-output variable reversal.
+
+
+Activity 2: Info Gap: Custom Mugs
+Timing: 20 minutes
+
+Task Statement:
+Your teacher will give you either a problem card or a data card. Do not show or read your card to your partner. If your teacher gives you the problem card: Silently read your card and think about what information you need to answer the question. Ask your partner for the specific information that you need. “Can you tell me _____?” Explain to your partner how you are using the information to solve the problem. “I need to know _____ because . . . .”	Continue to ask questions until you have enough information to solve the problem. Once you have enough information, share the problem card with your partner, and solve the problem independently. Read the data card, and discuss your reasoning. If your teacher gives you the data card: Silently read your card. Wait for your partner to ask for information. Before telling your partner any information, ask, “Why do you need to know _____?” Listen to your partner’s reasoning and ask clarifying questions. Only give information that is on your card. Do not figure out anything for your partner!	These steps may be repeated. Once your partner says they have enough information to solve the problem, read the problem card, and solve the problem independently. Share the data card, and discuss your reasoning.
+
+Takeaway:
+Understand how to find and use inverse functions through structured information exchange and critical questioning.
+
+Steps:
+Info Gap: Custom Mugs
+
+1. Arrange students in pairs. One gets a problem card, the other a data card.
+2. Problem card student asks for specific info needed to solve the problem; data card student provides only what's on the card, asking why info is needed.
+3. Continue Q&A until problem card student has enough info, both solve problem independently.
+4. Swap cards for a second problem and switch roles.
+5. Share and discuss correct answers and the problem-solving process. Compare equations, discuss their use, and determine if they are inverse functions.
+6. Conclude with students sharing norms observed in action.
+
+
+Activity 3: Tables and Seats
+Timing: 15 minutes
+
+Task Statement:
+At a party, hexagonal tables are placed side by side along one side, as shown here. Image description: <p>Series of hexagons labeled, 1, 2, 3, dot dot dot, n.</p> Explain why the equation \(S=4n+2\) represents the number of seats, \(S\), as a function of the number of tables, \(n\). What domain and range make sense for this function? Write an equation to represent the inverse of the given function. Explain what this inverse function tells us. How many tables are needed if the following number of people are attending the party? Be prepared to explain your reasoning.94 people95 people How many tables are needed if the following number of people are attending the party? Be prepared to explain your reasoning. 94 people 95 people What domain makes sense for the inverse function? Is it the same set of values as the range of the original function? Explain your reasoning.
+
+Takeaway:
+Understand the relationship between a function and its inverse in interpreting domain and range within a real-world context.
+
+Steps:
+1. Present the problem situation about hexagonal tables and seating with the equation \\(S=4n+2\\).
+2. Ask students to explain why \\(S=4n+2\\) represents the number of seats \\(S\\), given the tables \\(n\\).
+3. Have students determine the appropriate domain and range for this function.
+4. Instruct students to write and interpret the inverse function \\(n=\\frac{S-2}{4}\\).
+5. Pose questions about the number of tables needed for 94 and 95 people; discuss interpreting fractional tables.
+6. Facilitate discussion on domain and range for the inverse function versus the original function.
+

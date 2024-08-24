@@ -1,0 +1,52 @@
+
+Warm-Up: Which Three Go Together: Unlabeled Graphs
+Timing: 5 minutes
+
+Task Statement:
+Which three go together? Why do they go together? A Image description: <p>A graph with origin O. The graph is a line crossing the vertical axis and slants downward to cross the horizontal axis.</p> BA graph with origin O. The graph is a step function with 6 horizontal line segments beginning with a closed circle and ending with an open circle. The next horizontal line begins where the previous line ends. B Image description: <p>A graph. </p> C Image description: <p>A graph with origin O. The graph is a horizontal line passing through the middle of the vertical axis.</p> DA graph with origin O. The graph increases and decreases quickly and is shaped like a wave. The height of the waves are larger in the middle than on the ends. D Image description: <p>A graph.</p>
+
+Takeaway:
+"Compare graphs using precise mathematical language."
+
+Steps:
+1. Show students four unlabeled graphs.
+2. Ask students: "Which three go together? Why?" Discuss in small groups.
+3. Have each group share one reason why their selected three graphs go together. 
+4. Record and display each group\
+
+
+Activity 1: Time on the Swing
+Timing: 20 minutes
+
+Task Statement:
+A child gets on a swing in a playground, swings for 30 seconds, and then gets off the swing. Here are descriptions of four functions in the situation and four graphs representing them.The independent variable in each function is time, measured in seconds.Match each function with a graph that could represent it. Then, label the axes with the appropriate variables. Be prepared to explain how you make your matches.Function \(h\): the height of the swing, in feet, as a function of time since the child gets on the swingFunction \(r\): the amount of time left on the swing as a function of time since the child gets on the swingFunction \(d\): the distance, in feet, of the swing from the top beam (from which the swing is suspended) as a function of time since the child gets on the swingFunction \(s\): the total number of times an adult pushes the swing as a function of time since the child gets on the swingABA graph with origin O. The graph is a step function with 6 horizontal line segments beginning with a closed circle and ending with an open circle. The next horizontal line begins where the previous line ends.​​​​​​CDA graph with origin O. The graph increases and decreases quickly and is shaped like a wave. The height of the waves are larger in the middle than on the ends. Here are descriptions of four functions in the situation and four graphs representing them. The independent variable in each function is time, measured in seconds. Image description: <p>A girl on a swing. </p> Match each function with a graph that could represent it. Then, label the axes with the appropriate variables. Be prepared to explain how you make your matches. Function \(h\): the height of the swing, in feet, as a function of time since the child gets on the swing Function \(r\): the amount of time left on the swing as a function of time since the child gets on the swing Function \(d\): the distance, in feet, of the swing from the top beam (from which the swing is suspended) as a function of time since the child gets on the swing Function \(s\): the total number of times an adult pushes the swing as a function of time since the child gets on the swing A Image description: <p>A graph with origin O. The graph is a line crossing the vertical axis and slants downward to cross the horizontal axis.</p> BA graph with origin O. The graph is a step function with 6 horizontal line segments beginning with a closed circle and ending with an open circle. The next horizontal line begins where the previous line ends.​​​​​​ B Image description: <p>A graph. </p> C Image description: <p>A graph with origin O. The graph is a horizontal line passing through the middle of the vertical axis.</p> DA graph with origin O. The graph increases and decreases quickly and is shaped like a wave. The height of the waves are larger in the middle than on the ends. D Image description: <p>A graph.</p> On each graph, mark one or two points that—if you have the coordinates—could help you determine the domain and range of the function. Be prepared to explain why you chose those points. Once you receive the information you need from your teacher, describe the domain and range that would be reasonable for each function in this situation.
+
+Takeaway:
+Understand and identify the domain and range of various functions through the context of a child on a swing.
+
+Steps:
+1. Arrange students into pairs.
+2. Review the four given graphs and function descriptions.
+3. Have pairs match each graph to its function.
+4. Discuss pairs’ matches and reasoning as a whole class.
+5. Provide additional context information and discuss the domain and range for each function.
+6. Highlight key points about domain and range diversity.
+
+
+Activity 2: Back to the Bouncing Ball
+Timing: 10 minutes
+
+Task Statement:
+A tennis ball was dropped from a certain height. It bounced several times, rolled along for a short period, and then stopped. Function \(H\) gives its height over time. Here is a partial graph of \(H\). Height is measured in feet. Time is measured in seconds. Use the graph to help you answer the questions. Be prepared to explain what each value or set of values means in this situation. Image description: <p>Nonlinear function. Time (seconds) and height (feet).</p> Find \(H(0)\). Solve \(H(x) = 0\). Describe the domain of the function. Describe the range of the function.
+
+Takeaway:
+Understand and identify the domain and range from a graph of a function.
+
+Steps:
+1. Display the partial graph of \\(H\\) (tennis ball height over time).
+2. Ask students to find \\(H(0)\\) and solve \\(H(x) = 0\\).
+3. Discuss with students the domain and range of the function, focusing on realistic context.
+4. Highlight and discuss points on the graph that help define the domain and range (e.g., bounce heights, ground hits).
+5. Summarize key points with familiar graphs from the unit.
+6. Ask students to complete prompts about what graphs tell us about domain and range.
+

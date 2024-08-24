@@ -1,0 +1,54 @@
+
+Warm-Up: What Does It Say?
+Timing: 10 minutes
+
+Task Statement:
+Here is an encoded message, a message that has been converted into a code. WRGDB LV D JRRG GDB. Can you figure out what it says in English? How was the original message encoded?
+
+Takeaway:
+Understand how to reverse the process of a function, using a shift cipher as a model.
+
+Steps:
+1. Briefly introduce ciphers or coded messages.
+2. Present encoded message: WRGDB LV D JRRG GDB.
+3. Give students quiet think time to decode the message.
+4. Offer clues if needed: A and I can be words, “is” is common.
+5. Discuss strategies, hypotheses, and reveal original message.
+6. Explain decoding with a Caesar shift cipher (shift of 3).
+
+
+Activity 1: Caesar Says, “Shift”
+Timing: 15 minutes
+
+Task Statement:
+Now it’s your turn to write a secret code!Write a short and friendly message with 3–4 words.Pick a number from 1 to 10. Then, encode your message by shifting each letter that many steps forward or backward in the alphabet, wrapping around from Z to A as needed.Complete these tables to create a key for your cipher.position in the alphabet12345678910111213letter in the messageABCDEFGH I  J KLMletter in codeposition in the alphabet14151617181920212223242526letter in the messageNOPQRSTUVWXYZletter in codeGive your encoded message to a partner to decode. If requested, give the number you used.Decode the message from your partner. Ask for their number, if needed. Now it’s your turn to write a secret code! Write a short and friendly message with 3–4 words. Pick a number from 1 to 10. Then, encode your message by shifting each letter that many steps forward or backward in the alphabet, wrapping around from Z to A as needed.Complete these tables to create a key for your cipher.position in the alphabet12345678910111213letter in the messageABCDEFGH I  J KLMletter in codeposition in the alphabet14151617181920212223242526letter in the messageNOPQRSTUVWXYZletter in code Pick a number from 1 to 10. Then, encode your message by shifting each letter that many steps forward or backward in the alphabet, wrapping around from Z to A as needed. Complete these tables to create a key for your cipher. position in the alphabet | letter in the message | letter in code 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 A | B | C | D | E | F | G | H |  I  |  J  | K | L | M |  |  |  |  |  |  |  |  |  |  |  | position in the alphabet | letter in the message | letter in code 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 N | O | P | Q | R | S | T | U | V | W | X | Y | Z |  |  |  |  |  |  |  |  |  |  |  | Give your encoded message to a partner to decode. If requested, give the number you used. Decode the message from your partner. Ask for their number, if needed. Each letter can be represented by a number. For example, F is 6 because it is the 6th letter of the alphabet. Complete the first 2 rows of the table to convert between letters and numbers.Complete the third row by adding or subtracting the number you chose in the last problem to find the coded letter number.Complete the fourth row by converting the coded number to a letter.letter in messageFISmessage letter number \(m\)68coded letter number \(c\)letter in code Each letter can be represented by a number. For example, F is 6 because it is the 6th letter of the alphabet. Complete the first 2 rows of the table to convert between letters and numbers. Complete the third row by adding or subtracting the number you chose in the last problem to find the coded letter number. Complete the fourth row by converting the coded number to a letter. letter in message | message letter number \(m\) | coded letter number \(c\) | letter in code F | I | S | 6 |  |  | 8 |  |  | |  |  | Use \(m\) and \(c\) to write an equation that can be used to encode an original message into your secret code. Use \(m\) and \(c\) to write an equation that can be used to decode your secret code into the original message.
+
+Takeaway:
+Understand inverse functions through cipher encoding and decoding.
+
+Steps:
+1. Arrange students in pairs.
+2. Each student writes a 3-4 word message and encodes it using a shift cipher (pick a shift number 1-10).
+3. Students exchange encoded messages with their partner; decode each other's message using the shift number.
+4. Complete provided tables to aid in encoding/decoding and translate letters to numbers.
+5. Discuss as a class: Share equations on encoding/decoding and identify input/output relationships.
+6. Define encoding and decoding as inverse functions.
+
+
+Activity 2: Japanese Yen and Peruvian Soles
+Timing: 10 minutes
+
+Task Statement:
+A Japanese traveler who is heading to Peru exchanges some Japanese yen for Peruvian soles. At the time of his travel, 1 yen can be exchanged for 39.77 soles. At the same time, a Peruvian businesswoman who is in Japan is exchanging some Peruvian soles for Japanese yen at the same exchange rate. Image description: Japanese yen and Peruvian soles. Find the amount of money in soles that the Japanese traveler would get if he exchanged:100 yen500 yen Find the amount of money in soles that the Japanese traveler would get if he exchanged: 100 yen 500 yen Write an equation that gives the amount of money in soles, \(s\), as a function of the amount of money in yen, \(y\), being exchanged. Find the amount that the Peruvian businesswoman would get if she exchanged:1,000 soles5,000 soles Find the amount that the Peruvian businesswoman would get if she exchanged: 1,000 soles 5,000 soles Explain why it might be helpful to write the inverse of the function you wrote earlier. Then, write an equation that defines the inverse function.
+
+Takeaway:
+Understand and apply the concept of inverse functions using currency exchange rates.
+
+Steps:
+1. Students work quietly for a few minutes, then discuss as a class.
+2. Students convert yen to soles and vice versa at an exchange rate of 1 yen = 39.77 soles.
+3. Write function \\( s = 39.77y \\) and inverse function.
+4. Graph both functions, observe and discuss differences.
+5. Whole-class discussion focusing on defining inverse functions and switching input-output roles.
+6. Ask synthesis questions to consolidate understanding of inverse functions with another example.
+

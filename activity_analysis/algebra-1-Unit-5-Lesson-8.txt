@@ -1,0 +1,91 @@
+
+Warm-Up: Which Three Go Together: Temperature over Time
+Timing: 5 minutes
+
+Task Statement:
+Which three go together? Why do they go together? A Image description: <p>A graph, origin O. Horizontal axis is labeled time. Vertical axis is labeled temperature. A horizontal line is drawn on the graph.</p> B Image description: <p>A graph, origin O. Horizontal axis is labeled time. Vertical axis is labeled temperature. The curve is shaped like a U and opens downward.</p> CA graph, origin O. The horizontal axis is labeled time. The vertical axis is labeled temperature. A curve, shaped like a U, opens up. The curve has a minimum below the horizontal axis. C Image description: <p>A graph. </p> DA graph, origin O. Horizontal axis is labeled time. Vertical axis is labeled temperature. The curve begins on the vertical axis and trends up, then down, then up, then down forming U shapes, alternating opening up and down. D Image description: <p>A graph. </p>
+
+Takeaway:
+Understand and articulate how to compare and categorize characteristics of functions relating time and temperature.
+
+Steps:
+1. Arrange students in groups of 2-4.
+2. Display the four graphs for all to see.
+3. Give 1 minute for individual quiet think time.
+4. Have students share their thoughts in their groups and identify as many sets of three as possible.
+5. Invite groups to share their reasons for their chosen sets with the class.
+6. Record and display responses, ask for class agreement/disagreement, and ensure the terminology is used correctly and explanations are sound.
+
+
+Activity 1: Flag Raising (Part 1)
+Timing: 20 minutes
+
+Task Statement:
+A flag ceremony is held at a Fourth of July event. The height of the flag is a function of time. Here are some graphs that could each be a possible representation of the function. Image description: <p>a US flag being raised</p> AA graph, origin O. Horizontal axis, time, scale from 0 to 6 by 1s. Vertical axis, height, scale from 0 to 6 by 1s. A line passes through the points 0 comma 0 and 4 comma 5. A Image description: <p>A graph. </p> BA graph, origin O. Horizontal axis, time, scale from 0 to 6 by 1s. Vertical axis, height, scale from 0 to 6 by 1s. A horizontal line passes through 3 on the vertical axis. B Image description: <p>A graph. </p> CA graph, origin O. Horizontal axis, time, scale from 0 to 6 by 1s. Vertical axis, height, scale from 0 to 6 by 1s. The curve begins at the point 0 comma 0 and trends upwards towards the point 1 comma 2 then levels out. As it approaches 3 on the horizontal axis, the graph shifts and trends up and to the right at a fast pace. C Image description: <p>A graph. </p> DA graph, origin O. Horizontal axis, time, scale from 0 to 6 by 1s. Vertical axis, height, scale from 0 to 6 by 1s. In each horizontal interval of 1.25, the line trends upwards and downward in the shape of a U, opening downward. This pattern repeats for all 6 intervals. D Image description: <p>A graph. </p> EA graph, origin O. Horizontal axis, time, scale from 0 to 6 by 1s. Vertical axis, height, scale from 0 to 6 by 1s. In each horizontal interval of 1, the line trends upwards and then levels out before continuing upward in the next interval. This pattern repeats for all 6 intervals. E Image description: <p>A graph. </p> FA graph, origin O. Horizontal axis, time, scale from 0 to 6 by 1s. Vertical axis, height, scale from 0 to 6 by 1s. A line passes through the points 0 comma 0, 3 comma 6, 5 comma 3, and the line continues horizontally off the grid. F Image description: <p>A graph. </p> For each graph assigned to you, explain what it tells us about the flag.Graph: \(\underline{\hspace{0.5in}}\)Decide as a group which graph(s) appear to be most realistic and which ones least realistic. For each graph assigned to you, explain what it tells us about the flag.Graph: \(\underline{\hspace{0.5in}}\) For each graph assigned to you, explain what it tells us about the flag. Graph: \(\underline{\hspace{0.5in}}\) Decide as a group which graph(s) appear to be most realistic and which ones least realistic. Here is another graph that relates time and height.A graph, origin O. Horizontal axis, time, scale from 0 to 6 by 1s. Vertical axis, height, scale from 0 to 6 by 1s. A vertical line passes through 3 on the horizontal axis.Can this graph represent the time and height of the flag? Explain your reasoning.Is this a graph of a function? Explain your reasoning. Here is another graph that relates time and height. A graph, origin O. Horizontal axis, time, scale from 0 to 6 by 1s. Vertical axis, height, scale from 0 to 6 by 1s. A vertical line passes through 3 on the horizontal axis. Image description: <p>A graph. </p> Can this graph represent the time and height of the flag? Explain your reasoning. Is this a graph of a function? Explain your reasoning.
+
+Takeaway:
+Understand that the units chosen for the axes affect the interpretation of graphs and determine if they represent realistic functions.
+
+Steps:
+1. Show flag ceremony pictures and describe flag raising.
+2. Arrange students in pairs; give task statement and graphs.
+3. Quiet time: students think about reasonable units and function representation.
+4. Discuss units and functions briefly as a class.
+5. Assign pairs 1-3 graphs to interpret and explain.
+6. Whole-class discussion on graph interpretations and realism.
+7. Discuss why the vertical line graph doesn't represent a function.
+
+
+Activity 2: Flag Raising (Part 2)
+Timing: 10 minutes
+
+Task Statement:
+Your teacher will show a video of a flag being raised. Function \(H\) gives the height of the flag over time. Height is measured in feet. Time is measured in seconds since the flag is fully secured to the string, which is when the video clip begins. On the coordinate plane, sketch a graph that could represent function \(H\). Be sure to include a label and a scale for each axis. Image description: <p>A blank graph with grid, origin O. The horizontal axis contains 13 units, beginning at 0. The vertical axis contains 8 units, beginning at 0.</p> Use your graph to estimate the average rate of change from the time the flag starts moving to the time it reaches the top. Be prepared to explain what the average rate of change tells us about the flag.
+
+Takeaway:
+Understand how to create and interpret graphs representing real-world scenarios, specifically focusing on estimating the average rate of change.
+
+Steps:
+1. Show the students a flag-raising video.
+2. Sketch a graph of flag height over time.
+3. Include labels and scales for each axis.
+4. Estimate the average rate of change using the graph.
+5. Select students to share and explain their graphs.
+6. Discuss similarities, differences, key features, and rate of change.
+
+
+Activity 3: Two Pools
+Timing: 20 minutes
+
+Task Statement:
+To prepare for a backyard party, a parent uses two identical hoses to fill a small pool that is 15 inches deep and a large pool that is 27 inches deep. The height of the water in each pool is a function of time since the water is turned on. An image with two pools. The larger pool has a ladder and a girl filling it with a hose. The smaller pool is smaller and inflatable and being filled with a hose. Image description: <p>Two pools. </p> Here are descriptions of three situations. For each situation, sketch the graphs of the two functions on the same coordinate plane so that \(S(t)\) is the height of the water in the small pool after \(t\) minutes and \(L(t)\) is the height of the water in the large pool after \(t\) minutes. In both functions, the height of the water is measured in inches. Situation 1: Each hose fills one pool at a constant rate. When the small pool is full, the water for that hose is shut off. The other hose keeps filling the larger pool until it is full. Image description: <p>A blank graph, origin O. Horizontal axis, time in minutes, scale from 0 to 20 by 2s. Vertical axis, height in inches, from 0 to 30 by 3s.</p> Situation 2: Each hose fills one pool at a constant rate. When the small pool is full, both hoses are shut off. Situation 3: Each hose fills one pool at a constant rate. When the small pool is full, both hoses are used to fill the large pool until it is full. Image description: <p>A blank graph, origin O. Horizontal axis, time in minutes, scale from 0 to 20 by 2s. Vertical axis, height in inches, from 0 to 30 by 3s.</p>
+
+Takeaway:
+"Understand and practice creating and interpreting graphs of functions based on verbal descriptions and assumptions."
+
+Steps:
+1. Group students in pairs and have them read the Task Statement.
+2. Allow a few minutes of quiet time for students to sketch their graphs.
+3. Partners discuss assumptions and reasonableness of their graphs, then revise based on feedback.
+4. Select students to share their graphs and graphing decisions.
+5. Discuss key questions about assumptions: hose rates, start times, pool dimensions, and water rise.
+6. Invite more students to share varied graphs and reasoning, emphasizing comparative correctness.
+
+
+Activity 4: The Bouncing Ball
+Timing: 15 minutes
+
+Task Statement:
+Your teacher will show you one or more videos of a tennis ball being dropped from 6 feet off the ground. Here are some still images of the situation. The height of the ball is a function of time. Suppose the height is \(h\) feet, \(t\) seconds after the ball is dropped. Use the blank coordinate plane to sketch a graph of the height of the tennis ball as a function of time.To help you get started, here are some pictures and a table. Complete the table with your estimates before sketching your graph.0 seconds0.28 seconds0.54 seconds0.74 seconds1.03 seconds1.48 seconds1.88 seconds2.25 secondstime				(seconds)height				(feet)00.280.540.741.031.481.882.25 Use the blank coordinate plane to sketch a graph of the height of the tennis ball as a function of time. To help you get started, here are some pictures and a table. Complete the table with your estimates before sketching your graph. 0 seconds Image description: <p>A man dropping a ball. </p> 0.28 seconds 0.54 seconds Image description: <p>A man dropping a ball. </p> 0.74 seconds 1.03 seconds Image description: <p>A man dropping a ball. </p> 1.48 seconds 1.88 seconds Image description: <p>A man dropping a ball. </p> 2.25 seconds time(seconds) | height(feet) 0 | 0.28 | 0.54 | 0.74 | 1.03 | 1.48 | 1.88 | 2.25 | Image description: <p>A blank graph, origin O. Horizontal axis, time, seconds, scale from 0 to 4 by 0.25’s. Vertical axis, height, feet, from 0 to 7 by 0.5’s.</p> Identify horizontal and vertical intercepts of the graph. Explain what the coordinates tell us about the tennis ball. Find the maximum and minimum values of the function. Explain what they tell us about the tennis ball.
+
+Takeaway:
+**Main Takeaway: Represent and interpret a real-world situation using a graph by identifying key features and understanding their connection to the context.**
+
+Steps:
+1. Show videos of a ball bouncing at different speeds.
+2. Students estimate ball heights and complete a data table.
+3. Students sketch a height vs. time graph using completed table.
+4. Discuss key graph features: intercepts, peaks, and overall trends.
+5. Ask questions to connect graph behavior with ball movement.
+6. Optionally, demonstrate and discuss a distance-time graph for a classroom walk.
+
