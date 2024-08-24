@@ -13,7 +13,6 @@ CC BY-NC 4.0
 Preparation
 Lesson
 # Piecewise Functions
-## Preparation
 ## Lesson Narrative
 This lesson introduces a new type of function, a piecewise-defined function, that uses multiple descriptions to define the function on different parts of the domain. All piecewise functions in this lesson are presented in the context of situations where different rules apply for different input values, such as different bike rental prices for different rental durations and different postage rates for different letter weights.
 In the bike rental activity, students are given the rules of a function and asked to graph the function. To do so, they pay attention to the boundary points, where one rule ends and another begins, and learn to use open and closed circles to indicate the correct output values for the input values that demarcate the rules.
@@ -28,7 +27,6 @@ Let’s look at functions that are defined in pieces.
 I can make sense of a graph of a piecewise function in terms of a situation and sketch a graph of the function when the rules are given.
 I can make sense of the rules of a piecewise function when they are written in function notation and explain what they mean in the situation represented.
 I understand what makes a function a piecewise function.
-View Student Lesson
 ## Required Materials
 #### Activity 4
 Blank paper
@@ -48,11 +46,6 @@ HSF-IF.C.7.b
 ## Glossary
 ### piecewise function
 A piecewise function is a function defined using different expressions for different intervals in its domain.
-Practice
-### Other Resources
-View Student Lesson
-## Teacher Support
-## Student Handouts
 
 
 
@@ -61,25 +54,15 @@ Lesson Content
 Preparation
 Lesson
 ## Lesson 12
-View Student Lesson
 # Piecewise Functions
 Image description: Course Icon
 10 mins
 ## Warm-up
 ### Frozen Yogurt
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 This Warm-up presents a context for making sense of piecewise functions. Students are given a situation in which one quantity (price) is a function of another (ounces of yogurt), but different rules apply to different values of input. Then, they identify a graph that represents the function.
 Students learn that a function can be defined by a set of rules, and that the graph of such a function has different features for different parts of the domain.
 ### Launch
-### Activity
 ### Student Task Statement
 A self-serve frozen yogurt store sells servings up to 12 ounces. It charges \$0.50 per ounce for a serving between 0 and 8 ounces and \$4 for any serving greater than 8 ounces and up to 12 ounces.
 Choose the graph that represents the price as a function of the weight of a serving of yogurt. Be prepared to explain how you know.
@@ -91,10 +74,8 @@ C
 Image description: <p>Horizontal axis, ounces of yogurt. Vertical axis, price in dollars. Graph of horizontal line y=4.</p>
 D
 Image description: <p>Horizontal axis, ounces of yogurt. Vertical axis, price in dollars. Graph of line through origin, 3 comma 1, and 9 comma 3.</p>
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to share their response and reasoning. Discuss questions such as:
 “How much would it cost to get a 4-ounce serving?” (\$2)
@@ -112,14 +93,6 @@ Sometimes, instead of a comma, the conditional word "if" is used in the notation
 10 mins
 ## Activity
 ### Postage Stamps
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 The mathematical work in this activity centers on interpreting graphical and symbolic representations of a piecewise-defined function.
 First, students interpret a graph of a piecewise function and make sense of the rules in terms of a situation. In particular, students consider the meaning of the open and closed circles on the graph and the input values that appear to "break" the graph.
@@ -132,7 +105,6 @@ Students are likely to remember that open and closed circles are used to mark th
 An open circle at \((0,0.5)\), for instance, means that when 0 is the input, 0.5 is not the output.
 A closed circle at \((1, 0.5)\), for instance, means that when 1 is the input, 0.5 is the output.
 Next, ask students to analyze the two sets of rules in the last question.
-### Activity
 ### Student Task Statement
 The relationship between the postage rate and the weight of a letter can be defined by a piecewise function.
 The graph shows the 2018 postage rates for using regular service to mail a letter.
@@ -148,7 +120,6 @@ Kiran and Mai wrote some rules to represent the postage function, but each of th
 Kiran and Mai wrote some rules to represent the postage function, but each of them made some errors with the domain.
 \(\displaystyle K(w) = \begin{cases} 0.50, & 0\leq w\leq 1 \\ 0.71, & 1\leq w\leq 2 \\ 0.92, & 2\leq w\leq 3\\ 1.13, & 3\leq w\leq 3.5\\ \end{cases} \)
 \(\displaystyle M(w) = \begin{cases} 0.50, & 0< w< 1 \\ 0.71, & 1< w< 2 \\ 0.92, & 2< w< 3\\ 1.13, & 3< w< 3.5\\ \end{cases}\)
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
 Here is an image showing how the postal service specifies the different mailing rates.
@@ -156,7 +127,6 @@ Notice that it uses the language "weight not over (oz.)" to describe the differe
 Explain or use a sketch to show how the graph would change if the postal service used "weight under (oz.)" instead.
 Table, First Class Mail Retail Single Piece Rates. Letters, stamped. Column 1: Weight not over, ounces.  Column 2: Rate. Row 1: 1, 50 cents. Row 2: 2, 71 cents. Row 3: 3, 92 cents. Row 4: 3 point 5, 1 dollar and 13 cents.
 Image description: <p>First class mail mailing rates.</p>
-#### Student response
 ### Activity Synthesis
 Invite students to share their analyses of Mai's and Kiran's work and identify the errors each person made. Highlight explanations that point out that:
 In Kiran's rules, a letter that weighs 1, 2, or 3 ounces each has two possible rates. For example, for 1 ounce, it could be \$0.50 or \$0.71. For 2 ounces, it could be \$0.71 or \$0.92.
@@ -169,18 +139,9 @@ If time permits, ask students about the domain and range for this function. Assu
 15 mins
 ## Activity
 ### Bike Sharing
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 ### Launch
 Display the rules that define function \(C\) for all to see (or ask students to look at the rules in the Task Statement). Draw students attention to the two parts (separated by a comma) in each rule, or each case. Make sure students understand that the first part of each rule represents an output and the second part specifies a set of inputs.
-### Activity
 ### Student Task Statement
 Function \(C\) represents the dollar cost of renting a bike from a bike-sharing service for \(t\) minutes. Here are the rules describing the function:
 \(C(t)=\begin{cases} \begin{align} &2.50, &\quad &0< t\leq30\\ &5.00,&\quad &30< t \leq 60\\ &7.50, &\quad& 60< t\leq 90\\ &10.00, &\quad &90< t\leq 120\\ &12.50, &\quad &120< t\leq 150\\ &15.00, &\quad &150< t\leq 720 \end{align} \end{cases}\)​​​​​​
@@ -199,10 +160,8 @@ Sketch a graph of the function for all values of \(t\) that are more than 0 minu
 Image description: <p>Horizontal axis, time in minutes. Scale, 0 to 240, by 30’s. Vertical axis, rental costs, in dollars. Scale, 0 to 15, by 2.5’s.</p>
 Describe in words the pricing rules for renting a bike from this bike-sharing service.
 Determine the domain and range of this function.
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Display the table in the Task Statement, and ask students what values should go in the column for cost. If there are disagreements about the cost for a certain number of minutes of rental, ask students who disagree to share their reasoning and discuss until they reach an agreement.
 Then, select a student to display their graph (or, if there are variations in students' graphs, select a few students to share, and ask the class to compare and contrast the graphs). Discuss whether all parts of each graph accurately represent the different cases or intervals of rental time. Ask questions such as:
@@ -216,15 +175,7 @@ If time permits, ask student:
 30 mins
 ## Activity
 ### Piecing It Together
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
 Piecing It Together Cards
-#### To Gather
 ### Activity Narrative
 This activity is optional. It gives students an opportunity to reason about and graph the rules of piecewise functions without a context.
 Students are given the equations that define two piecewise functions, along with strips of paper, each containing a part of a graph and a portion of the horizontal axis (no scale is shown). Their job is to arrange the strips, apply a scale on each axis, and add open and closed circles to the graph to accurately represent the function values at each interval of input.
@@ -235,17 +186,14 @@ Cut each graph in the blackline master along the dashed lines and the vertical a
 Arrange students in groups of 2–3. Give each group the strips for function \(f\) (pre-cut from the blackline master), glue or glue stick, and a sheet of paper on which to adhere the pieces.
 Tell students that they are to arrange the pieces according to the rules that define \(f\), as shown in the Task Statement, and to add a label and a scale to each axis after the pieces are arranged. Explain that each piece contains a part of the horizontal axis, and the gridlines are 1 unit apart. Encourage students to double check their graph before gluing the pieces on another sheet of paper.
 Consider discussing students' graphs of function \(f\) before giving students the pieces for function \(g\) and asking them to do another round.
-### Activity
 ### Student Task Statement
 Your teacher will give your group strips of paper with parts of a graph of a function. Gridlines are 1 unit apart.
 Arrange the strips of paper to create a graph for each of the following functions.
 \(\displaystyle f(x)=\begin{cases} \begin{align} \text-5,&\qquad \text-10< x< \text-5 \\ x,&\qquad \text-5\leq x< 0 \\ 1, &\qquad 0\leq x< 3\\ x-2, &\qquad 3\leq x< 8\\6, &\qquad 8\leq x < 1 0\ \end{align} \end{cases}\)
 \(\displaystyle g(x)=\begin{cases} \begin{align} 5.5,&\qquad \text-10< x\leq \text-8 \\ 4,&\qquad \text-8< x\leq \text-3 \\ \text-x, &\qquad \text-3< x\leq 2\\ \text-3.5, &\qquad 2< x\leq 5 \\ x-5, &\qquad 5< x\leq 10 \end{align} \end{cases}\)
 To accurately represent each function, be sure to include a scale on each axis and add open and closed circles on the graph where appropriate.
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to display their completed graphs and explain their reasoning. In particular, discuss how students determined the appearance of the intervals defined by non-constant linear expressions, such as \(x\), \(x-4\), or \(\text-x\).
 If different groups created different graphs for the same function, ask them to analyze one another's work and try to reach an agreement.
@@ -290,6 +238,5 @@ The same reasoning applies when deciding how \(f(11)\) and \(f(16)\) should be s
 \(f(16)=7\) is false because a 16-year-old no longer qualifies for a child’s fare. The point \((16,7)\) is an open circle.
 The fare rules can be expressed with function notation:
 \( f(x) = \begin{cases} 0, \quad 0< x<5\\ 5, \quad 5\leq x < 11 \\7, \quad 11\leq x < 16 \end{cases}\)
-Practice
 
 

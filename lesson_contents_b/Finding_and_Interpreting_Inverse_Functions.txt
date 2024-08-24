@@ -13,7 +13,6 @@ CC BY-NC 4.0
 Preparation
 Lesson
 # Finding and Interpreting Inverse Functions
-## Preparation
 ## Lesson Narrative
 In this lesson, students continue to develop their understanding of inverse functions. They work with linear functions that have multiple operations in a process that is comparable to earlier work of solving for a variable.
 Students also interpret the inverse functions in terms of situations using the Information Gap structure. In doing so, they practice reasoning quantitatively and abstractly (MP2).
@@ -25,7 +24,6 @@ Let’s find the inverses of linear functions.
 ### Student-Facing Targets
 I can explain the meaning of an inverse function in terms of a situation.
 When I have an equation that defines a linear function, I know how to find its inverse.
-View Student Lesson
 ## Required Materials
 #### Activity 3
 Math Community Chart
@@ -40,11 +38,6 @@ HSA-CED.A.4
 HSF-BF.B.4
 #### Building Toward
 ## Glossary
-Practice
-### Other Resources
-View Student Lesson
-## Teacher Support
-## Student Handouts
 
 
 
@@ -53,25 +46,15 @@ Lesson Content
 Preparation
 Lesson
 ## Lesson 16
-View Student Lesson
 # Finding and Interpreting Inverse Functions
 Image description: Course Icon
 5 mins
 ## Warm-up
 ### Shopping for Cookbooks
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 Earlier in the course, students have spent some time writing equations in one variable, two variables, and multiple variables to represent relationships and constraints. They have also rearranged equations to isolate a particular variable. This Warm-up activates that prior knowledge, preparing students to write equations for linear functions that involve two or more operations, and then to write their inverses.
 To ensure access, the equations students are expected to write are scaffolded—starting with one operation and moving to two operations, from using numbers and letters to using only letters. The scaffolding also allows students to see structure in the equations, which would be helpful when they try to reverse the process.
 ### Launch
-### Activity
 ### Student Task Statement
 Lin is comparing the cost of buying cookbooks at different online stores.
 Store A sells them at \$9 each and offers free shipping.
@@ -80,10 +63,8 @@ Store C sells them at \(p\) dollars and charges \$5 for shipping.
 Store D sells them at \(p\) dollars and charges \(f\) dollars for shipping.
 For each store, write an equation to represent the total cost, \(T\), in dollars as a function of \(n\) cookbooks bought.
 For each store, write an equation to find the number of books, \(n\), that Lin could buy if she spent a total of \(T\) dollars.
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to share their equations. Record and display them for all to see. Ask students who wrote the second set of equations how they went about doing so. Highlight two main points:
 Writing the second set of equations involves undoing each operation in the first equation (doing the operations in reverse order).
@@ -91,14 +72,6 @@ Each equation in the second set is the inverse of the corresponding equation in 
 10 mins
 ## Activity
 ### From Celsius to Fahrenheit
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 In this activity, students investigate inverse functions in the context of temperature scales.
 Students are given an equation that defines the temperature in degrees Fahrenheit as a function of the temperature in degrees Celsius (\(F = \frac59 C+32\)) and are asked to find some temperatures in both units. Using this equation to find a temperature in degrees Celsius involves substituting the temperature in degrees Fahrenheit for \(F\) and solving the equation. Students do so several times over. The regularity in repeated reasoning with numerical values (MP8) paves the way for students to write the equation for the inverse function, which entails solving for \(C\) before substituting values of \(F\).
@@ -106,7 +79,6 @@ Students are also prompted to verify that two unfamiliar equations represent inv
 ### Launch
 Explain to students that the Rankine scale is a temperature scale that is sometimes used in engineering systems, typically alongside measurements in degrees Fahrenheit.
 Provide access to calculators, in case requested.
-### Activity
 ### Student Task Statement
 If we know the temperature in degrees Celsius, \(C\), we can find the temperature in degrees Fahrenheit, \(F\), using the equation:
 \(F = \frac95 C + 32\)
@@ -119,7 +91,6 @@ The equation \(F =\frac95C + 32\) represents a function. Write an equation to re
 The equation \(R = ​\frac{9}{5}​ (C + 273.15)\) defines the temperature in degrees Rankine as a function of the temperature in degrees Celsius. Show that the equation \(C=(R−491.67)\boldcdot\frac{5}{9}\) defines the inverse of that function.
 The equation \(R = ​\frac{9}{5}​ (C + 273.15)\) defines the temperature in degrees Rankine as a function of the temperature in degrees Celsius.
 Show that the equation \(C=(R−491.67)\boldcdot\frac{5}{9}\) defines the inverse of that function.
-### Student Response
 ### Building on Student Thinking
 Some students may struggle to solve for \(C\) because of the rational coefficient of \(C\) in \(F=\frac95 C + 32\). They may be able to rearrange the equation to \(F-32=\frac95 C\) but then get stuck at that point. Some strategies for supporting their reasoning:
 Think of \(\frac95\) simply as a number being multiplied to \(C\), so to find \(C\), we can divide both sides of the equation by \(\frac 95\). (Students can still reason this way even if they do not recall or know that dividing by \(\frac95\) gives the same result as multiplying by \(\frac59\). Their resulting equation may look like: \((F-32) \div \frac95 = C\).)
@@ -128,7 +99,6 @@ Write \(\frac95\) as a decimal, 1.8, and divide both sides of the equation by 1.
 In the course of solving for a variable, students may neglect to apply the distributive property correctly when multiplying a number to an expression. For example, when performing the last step to solve \(F-32=\frac95 C\) for \(C\), they may write \(\frac59F - 32=C\), instead of \(\frac59 (F-32)\). Remind students that any operation performed on both sides of an equation needs to be applied to all the parts on each side.
 ### Are You Ready for More?
 One day in Alaska, it was cold enough for the temperature to be the same in degrees Fahrenheit and degrees Celsius. How cold was it? Explain or show how you know.
-#### Student response
 ### Activity Synthesis
 Discuss with students:
 "How did you find the inverse of the first function?" (by solving the equation for \(F\), or by noting what is done to the temperature in degrees Celsius to get the temperature in degrees Fahrenheit and then reversing the steps.)
@@ -141,15 +111,7 @@ The two points on each graph mark the boiling temperature and freezing temperatu
 20 mins
 ## Activity
 ### Info Gap: Custom Mugs
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
 Custom Mugs Cards
-#### To Gather
 ### Activity Narrative
 In this activity, students evaluate functions and find inverses but do not initially have enough information to do so. To bridge the gap, they need to exchange questions and ideas.
 The Information Gap structure requires students to make sense of problems by determining what information is necessary, and then to ask for information they need to solve it. This may take several rounds of discussion if their first requests do not yield the information they need (MP1). It also allows them to refine the language they use and ask increasingly more precise questions until they get the information they need (MP6).
@@ -159,7 +121,6 @@ Remind students of the structure of the Information Gap routine, and consider de
 Arrange students in groups of 2. In each group, give a problem card to one student and a data card to the other student. After reviewing their work on the first problem, give students the cards for a second problem and instruct them to switch roles.
 Math Community
 Display the Math Community Chart for all to see. Give students a brief quiet think time to read the norms, or invite a student to read them out loud. Tell students that during this activity they are going to practice looking for their classmates putting the norms into action. At the end of the activity, students can share what norms they saw and how the norm supported the mathematical community during the activity.
-### Activity
 ### Student Task Statement
 Your teacher will give you either a problem card or a data card. Do not show or read your card to your partner.
 If your teacher gives you the problem card:
@@ -174,10 +135,8 @@ Before telling your partner any information, ask, “Why do you need to know ___
 Listen to your partner’s reasoning and ask clarifying questions. Only give information that is on your card. Do not figure out anything for your partner!	These steps may be repeated.
 Once your partner says they have enough information to solve the problem, read the problem card, and solve the problem independently.
 Share the data card, and discuss your reasoning.
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 After students have completed their work, share the correct answers and ask students to discuss the process of solving the problems. Display both equations for all to see, and ask students to compare them. Discuss questions such as:
 "Do both equations define functions? How can we tell?" (Yes. For each price per mug, there is only one possible number of mugs that can be bought. For each number of mugs that the club buys, there is only one possible original price.)
@@ -191,18 +150,9 @@ Conclude the discussion by inviting 2–3 students to share a norm they identifi
 15 mins
 ## Activity
 ### Tables and Seats
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 This optional activity allows students to practice writing and interpreting inverse functions. It also prompts students to consider the domain and range of a function and of its inverse in terms of a situation. Students think about the set of possible outputs of an original function and then consider, based on what the quantities represent, whether the same set of values makes sense as the domain of the inverse function.
 ### Launch
-### Activity
 ### Student Task Statement
 At a party, hexagonal tables are placed side by side along one side, as shown here.
 Image description: <p>Series of hexagons labeled, 1, 2, 3, dot dot dot, n.</p>
@@ -214,10 +164,8 @@ How many tables are needed if the following number of people are attending the p
 94 people
 95 people
 What domain makes sense for the inverse function? Is it the same set of values as the range of the original function? Explain your reasoning.
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to share their response and reasoning. Make sure students see that because the number of seats, \(S\), is found by multiplying the number of table, \(n\), by 4 and then adding 2, the inverse function can be found by subtracting 2 from \(S\) and then dividing the result by 4.
 Discuss with students:
@@ -248,6 +196,5 @@ If we know the cost of rental, \(C\), we can substitute it into the expression \
 Notice that the equation defining the inverse function is found by reversing the process that defines the original linear function.
 The original rule, \(C=8.25n + 30\), tells us to multiply the input, \(n\), by 8.25 and add 30 to the result to get the output, \(C\).
 The rule of the inverse function, \(\dfrac {C-30}{8.25}\), suggests that we subtract 30 from the input and then divide the result by 8.25 to get the output \(n\).
-Practice
 
 

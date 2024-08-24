@@ -13,7 +13,6 @@ CC BY-NC 4.0
 Preparation
 Lesson
 # Features of Graphs
-## Preparation
 ## Lesson Narrative
 In this lesson, students use the term maximum (or minimum) to talk about the value of a function that is greater than or equal to (or less than or equal to) all the other values. They also use the terms horizontal intercept and vertical intercept to describe the points where a graph crosses the horizontal and vertical axes. Students also interpret graphs more holistically using the terms increasing and decreasing to describe where a function’s values get greater or lesser as the graph is read left to right.
 Students relate these features of graphs to features of the functions represented. For instance, they look at an interval in which a graph shows a positive slope and interpret that to mean an interval in which the function’s values are increasing. Students also use statements in function notation, such as \(h(0)\) and \(h(t)=0\), to talk about key features of a graph.
@@ -28,7 +27,6 @@ Let’s use graphs of functions to learn about situations.
 ### Student-Facing Targets
 I understand and can use the terms “horizontal intercept,” “vertical intercept,” “maximum,” and “minimum” when talking about functions and their graphs.
 I can identify important features of graphs of functions and explain what they mean in the situations represented.
-View Student Lesson
 ## Required Preparation
 None
 ### Standards Alignment
@@ -54,11 +52,6 @@ For example, the vertical intercept of the graph of \(y=3x−5\) is \((0,\text{-
 ### horizontal intercept
 A horizontal intercept of a graph is a point where the graph crosses the horizontal axis. If the axis is labeled with the variable \(x\), a horizontal intercept is also called an \(x\)-intercept. The term can also refer to only the \(x\)-coordinate of the point where the graph crosses the horizontal axis.
 For example, the horizontal intercept of the graph of \(2x+4y=12\) is \((6,0)\), or just 6.
-Practice
-### Other Resources
-View Student Lesson
-## Teacher Support
-## Student Handouts
 
 
 
@@ -67,24 +60,14 @@ Lesson Content
 Preparation
 Lesson
 ## Lesson 6
-View Student Lesson
 # Features of Graphs
 Image description: Course Icon
 5 mins
 ## Warm-up
 ### Walking Home
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 This Warm-up is an opportunity to practice interpreting statements in function notation. It also draws attention to statements that correspond to the intercepts of a graph of a function (for instance, \(d(0)\) and \(d(m) = 0\)), preparing students to reason about them in the lesson (particularly in the second activity).
 ### Launch
-### Activity
 ### Student Task Statement
 Diego is walking home from school at a constant rate. This graph represents function \(d\), which gives his distance from home, in kilometers, \(m\) minutes since leaving the school.
 Use the graph to find or estimate:
@@ -93,10 +76,8 @@ Use the graph to find or estimate:
 the solution to \(d(m)=1\)
 the solution to \(d(m)=0\)
 Image description: <p>Graph of line. Horizontal axis, 0 to 24 by 4’s, minutes since leaving school. Vertical axis, 0 to 3 by point 5’s, kilometers from home. Line starts at about 0 comma 2 point 2 5, and ends at 20 comma 0.</p>
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Ask students to interpret each statement in function notation before soliciting their response to each question. Make sure students understand, for instance, that \(d(0)\) represents Diego’s distance from school at the time of leaving (or at 0 minutes) and \(d(m)=0\) represents his distance from home being 0 km, \(m\) minutes after leaving school.
 If time permits, discuss with students:
@@ -107,14 +88,6 @@ If time permits, discuss with students:
 15 mins
 ## Activity
 ### A Toy Rocket and a Drone
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 In this activity, students examine graphs of functions, identify and describe their key features, and connect these features to the situations represented. These key features include the horizontal and vertical intercepts, maximums and minimums, and intervals in which a function is increasing or decreasing (or where a graph has a positive or a negative slope).
 Neither the features nor the terms are likely new to students. The idea of intercepts was introduced in middle school and further developed in earlier units. Graphical features such as maximums and minimums have been considered intuitively in various cases. They are simply more precisely defined here. In a later activity, students will distinguish between a maximum of a graph and the maximum of a function.
@@ -126,7 +99,6 @@ Invite several partners to share one question with the class, and record respons
 Reveal the questions and give students 1–2 minutes to compare it to their own question and those of their classmates. Invite students to similarities and differences by asking:	“Which of your questions is similar to or different from the ones provided?”“Is there a main mathematical concept that is present in both your questions and those provided? If so, describe it.”
 “Which of your questions is similar to or different from the ones provided?”
 “Is there a main mathematical concept that is present in both your questions and those provided? If so, describe it.”
-### Activity
 ### Student Task Statement
 A toy rocket and a drone were launched at the same time.
 Here are the graphs that represent the heights of the two objects as a function of time since they were launched.
@@ -135,11 +107,9 @@ Height is measured in meters above the ground, and time is measured in seconds 
 Image description: <p>2 graphs. Horizontal axis, 0 to 7, time in seconds. Vertical axis, 0 to 50 by 10’s, height in meters. Graph R is a parabolic and opens down. Graph D is piecewise linear.</p>
 Analyze the graphs and describe—as precisely as you can—what was happening with each object. ​​Your descriptions should be complete and precise enough that someone who is not looking at the graph could visualize how the objects were behaving.
 Which parts or features of the graphs show important information about each object’s movement? List the features, or mark them on the graphs.
-### Student Response
 ### Building on Student Thinking
 When analyzing the graphs and describing what is happening with each object, some students may mistakenly think that the horizontal axis represents horizontal distance, neglecting to notice that it represents time. They may then describe how the objects were moving vertically as they traveled horizontally, rather than with respect to the number of seconds since they took off. Encourage these students to check the label of each axis and revisit their descriptions.
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Select a few students to share their description of the graphs, and have each student describe the motion of one flying object.
 Display a blank coordinate plane for all to see. As each student shares their response, sketch a graph to match what is being described.
@@ -154,21 +124,12 @@ If no students mentioned the intervals in which each function was increasing, st
 15 mins
 ## Activity
 ### The Jump
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 Earlier in the lesson, students identified key features of a graph of a function and related them to the features of a situation. In this activity, students continue to connect graphical and verbal representations of a function, applying the mathematical terms they learned. They also connect each feature (described in words and on the graph) to an expression or equation that could represent it mathematically, written in function notation.
 During the Activity Synthesis, students learn to distinguish between a maximum or minimum of a graph (relative maximum or minimum) and the maximum or minimum of a function (absolute maximum or minimum). Students see that a maximum of a graph refers to a point on a graph that is as high as or higher than all other points, while the maximum of a function is a function value that is equal to or greater than all other values of that function.
 ### Launch
 Arrange students in groups of 2. Give students a few minutes of quiet think time and then time to discuss their response with their partner.
 The history of bungee jumping goes back to a practice used by the people of Pentecost Island in Vanuatu. Ask students if they have ever been bungee jumping or seen a video of someone doing it. If necessary, describe the activity as one in which a person jumps from a tall platform connected to the platform by a very strong but elastic cord (similar to a super-strong rubber band). Ask students to show with their hands what a person’s height might look like after bungee jumping off the platform.
-### Activity
 ### Student Task Statement
 In a bungee jump, the height of the jumper is a function of time since the jump begins.
 Function \(h\) defines the height, in meters, of a jumper above a river, \(t\) seconds since leaving the platform.
@@ -198,11 +159,9 @@ Use the graph to:estimate \(h(0)\) and \(h(4)\)estimate the solutions to \(h(t)=
 Use the graph to:
 estimate \(h(0)\) and \(h(4)\)
 estimate the solutions to \(h(t)=45\) and \(h(t) = 0\)
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
 Based on the information available, how long do you think the bungee cord is? Make an estimate, and explain your reasoning.
-#### Student response
 ### Activity Synthesis
 Select students to share how they made their matches and how they interpreted the expression or equation without a matching verbal description. After each student shares their thinking, ask if others also approached it the same way.
 Make sure students can interpret \(h(t)=0\) to mean that the jumper is no longer in the air and is in fact on the surface of the water. Because the graph has no horizontal intercept, and because no verbal descriptions to this effect were given, we know \(h(t)=0\) has no match.
@@ -254,6 +213,5 @@ Because the intercepts of a graph are points on an axis, at least one of their c
 A vertical intercept is on the vertical axis, so its coordinates have the form \((0,b)\), where the first coordinate is 0 and \(b\) can be any number. The 0 is the input.
 A horizontal intercept is on the horizontal axis, so its coordinates have the form \((a, 0)\), where \(a\) can be any number and the second coordinate is 0. The 0 is an output.
 A graph that passes through \((0,0)\) intersects both axes so that point is both a horizontal intercept and a vertical intercept. Both the input and output are 0.
-Practice
 
 

@@ -13,7 +13,6 @@ CC BY-NC 4.0
 Preparation
 Lesson
 # Describing and Graphing Situations
-## Preparation
 ## Lesson Narrative
 In this opening lesson, students recall the meaning of functions (which was introduced in grade 8) and encounter examples of functions and their representations in context. They use tables and graphs that represent relationships to determine whether the relationships are functions or not. Students are also reminded of the meaning of points on a graph as an input-output pair for a function and its meaning in the context of a real-life situation.
 Students define a function as a relationship that takes inputs from one set and assigns them to outputs from another set, assigning exactly one output to each input. They also define an independent variable as the input of a function and a dependent variable as the output of a function.
@@ -28,7 +27,6 @@ Let’s look at some fun functions around us and try to describe them!
 I can explain when a relationship between two quantities is a function.
 I can make sense of descriptions and graphs of functions and explain what they tell us about situations.
 I can identify independent and dependent variables in a function and use words and graphs to represent the function.
-View Student Lesson
 ## Required Preparation
 None
 ### Standards Alignment
@@ -52,11 +50,6 @@ An independent variable is a variable that represents the input of a function.
 For example, the equation \(y=6−x\) defines \(y\) as a function of \(x\).
 The variable \(x\) is called the independent variable because its value is chosen.
 The variable \(y\) is called the dependent variable because it depends on x. Once a value is chosen for \(x\), the value of \(y\) is determined.
-Practice
-### Other Resources
-View Student Lesson
-## Teacher Support
-## Student Handouts
 
 
 
@@ -65,20 +58,11 @@ Lesson Content
 Preparation
 Lesson
 ## Lesson 1
-View Student Lesson
 # Describing and Graphing Situations
 Image description: Course Icon
 15 mins
 ## Warm-up
 ### Bagel Shop
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 The goal of this opening activity is to activate, through a familiar context, what students know about functions from middle school.
 Students first encounter a relationship in which two quantities—the number of bagels bought and price—do not form a function. They see that for some numbers of bagels bought, there are multiple possible prices. The relationship between the number of bagels bought and the best price, however, do form a function, because there is only one possible best price for each number of bagels.
@@ -86,7 +70,6 @@ Students contrast the two relationships by reasoning about possible prices, comp
 ### Launch
 Arrange students in groups of 4. Give students a few minutes of quiet time to think about the first question and then a couple of minutes to share their thinking with their group. Pause for a class discussion.
 Invite students to share an explanation of how each person in the situation could be right. If possible, record and display students’ reasoning for all to see. After the reasoning behind each price is shared, direct students to the table in the second question. Ask students to write down “best price” in the header of the second column and then complete the table.
-### Activity
 ### Student Task Statement
 Image description: <p>Trays of bagels at a bagel shop.</p>
 Image description: <p>Fresh bagels sign. Prices listed. 1 bagel, 1 dollar 25 cents. 6 bagels, 6 dollars. 9 bagels, 8 dollars. 12 bagels, 10 dollars.</p>
@@ -111,10 +94,8 @@ numberof bagels | \(\phantom{BEST PRICE}\)
 11 | 
 12 | 
 13 | 
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Consider displaying a table to summarize the different possibilities for calculating the price of 13 bagels (or the prices for 6 or more bagels) and a table showing the best price for each number of bagels bought.
 numberof bagels | shopkeeper’sprice | Jada’sprice | Priya’sprice | Han’sprice
@@ -158,14 +139,6 @@ Emphasize that a function assigns one output to each input. Clarify that the wor
 10 mins
 ## Activity
 ### Be Right Back!
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 This activity further refreshes students’ understanding of functions through contextual examples. Here students are prompted to reason graphically about the relationship between the two quantities in the situation—time in seconds and the distance of a dog from a post. Students also recall the meaning of independent and dependent variables.
 Students are given descriptions of the dog’s movement while it was attached to a post and asked to sketch corresponding graphs. Along the way, students interpret each point on the graph to mean a particular point in time and a particular distance from the post.
@@ -180,7 +153,6 @@ After the third read, reveal the question: “Sketch a graph that could represen
 Discuss features of a graph that could represent the dog’s movement on Day 3, and display a possible graph. An example is shown here.
 Image description: <p>Nonlinear function. time in seconds and distance from post in feet.</p>
 Ask 2 group members to graph the dog’s movement on Day 1, and ask the other 2 members to graph the movement on Day 2.
-### Activity
 ### Student Task Statement
 Three days in a row, a dog owner tied his dog’s 5-foot-long leash to a post outside a store while he ran into the store to get a drink. Each time, the owner returned within minutes.
 Image description: <p>Dog with leash tied to a post.</p>
@@ -194,11 +166,9 @@ Your teacher will assign one of the days for you to analyze.
 Sketch a graph that could represent the relationship between the dog’s distance from the post, in feet, and time, in seconds, since the owner left.
 Day \(\underline{\hspace{0.5in}}\)
 Image description: <p>Blank grid. Horizontal axis from 0 to 160 by 20’s, time in seconds. Vertical axis from 0 to 6, distance from post in feet.</p>
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
 From the graph, is it possible to tell how many times the dog changed directions while walking around? Explain your reasoning.
-#### Student response
 ### Activity Synthesis
 Select some students to share their graphs and a brief explanation of how the graphs match the descriptions.
 One takeaway from this activity is that the relationship between the time since the owner left and the dog’s distance from the post is a function. Solicit as many explanations as possible of why it is. To emphasize that a function is a relationship in which one output is assigned to every input, explain that:
@@ -211,14 +181,6 @@ Remind students that a quantity that is an input for a function is called an ind
 10 mins
 ## Activity
 ### Talk about a Function
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 This activity gives students a chance to use mathematical language to describe relationships that are functions and to practice sketching a graph of a function given a description. The context is the same as in the previous activity, but the quantities are different.
 Deciding on which variable is independent and which is dependent, as well as sketching a graph of the relationship, engages students in aspects of modeling (MP4). It requires students to make sense of quantities, consider how they are related, and think about what values are reasonable. Using the language of “function” to articulate the relationship between variables is an opportunity to attend to precision (MP6).
@@ -232,7 +194,6 @@ How does the graph represent the relationship between \(\underline{\hspace{0.5in
 On the graph, how was the scale for each axis determined?
 Encourage students to notice any part of their own or their partner’s statement or graph that may not seem reasonable in the situation, then think about what might be more reasonable. (For instance, it is not reasonable for a dog to bark 1,000 times in 2 minutes.)
 Leave 1–2 minutes for a whole-class discussion.
-### Activity
 ### Student Task Statement
 Here are two pairs of quantities from a situation you’ve seen in this lesson. Each pair has a relationship that can be defined as a function.
 time, in seconds, since the dog owner left and the total number of times the dog has barked
@@ -242,10 +203,8 @@ In that function, which variable is independent? Which one is dependent?
 Write a sentence of the form “\(\underline{\hspace{0.5in}}\) is a function of \(\underline{\hspace{0.5in}}\).”
 Sketch a possible graph of the relationship on the coordinate plane. Be sure to label and indicate a scale on each axis, and be prepared to explain your reasoning.
 Image description: <p>Blank grid with axes. Origin O.</p>
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 For each situation, select 1–2 students who drew different graphs to display them for all to see. Ask the students to briefly explain how they decided which quantity should be the input and which should be the output and what the graph should look like.
 If it is not brought up, remind students of the definition of a function and that the number of barks must be a function of time because there are many times when the total number of barks is the same (for example, in the sample response, the dog barked a total of 2 times at 10 seconds and 20 seconds).
@@ -277,6 +236,5 @@ It is a function because there is one output for each input. The point \((125, 4
 Here is a graph that shows the time since takeoff as the output and the height of the plane as the input.
 Image description: A graph with height in feet on the x-axis and time in hours on the y-axis.
 This is not a function because an input of 100 feet has two possible outputs.
-Practice
 
 

@@ -13,7 +13,6 @@ CC BY-NC 4.0
 Preparation
 Lesson
 # Comparing Graphs
-## Preparation
 ## Lesson Narrative
 In this lesson, students deepen their understanding of functions by comparing representations of several functions relating the same pair of quantities. They analyze two or more graphs simultaneously, interpreting their relative features and their average rates of change in context.
 Students also study comparative statements in function notation, such as \(A(x) = B(x)\) or \(B(10) > A(10)\), and explain them in terms of changes in population, changes in the trends of phone ownership, and the popularity of different television shows. Particular attention is given to any intersection points between graphs as places where two functions share an output value for the same input value.
@@ -28,7 +27,6 @@ Let’s compare graphs of functions to learn about the situations they represent
 I can compare the features of graphs of functions and explain what they mean in the situations represented.
 I can make sense of an equation of the form $f(x)=g(x)$ in terms of a situation and a graph, and know how to find the solutions.
 I can make sense of statements about two or more functions when they are written in function notation.
-View Student Lesson
 ## Required Preparation
 None
 ### Standards Alignment
@@ -40,11 +38,6 @@ HSF-IF.B.6
 #### Building Toward
 HSA-REI.D.11
 ## Glossary
-Practice
-### Other Resources
-View Student Lesson
-## Teacher Support
-## Student Handouts
 
 
 
@@ -53,24 +46,14 @@ Lesson Content
 Preparation
 Lesson
 ## Lesson 9
-View Student Lesson
 # Comparing Graphs
 Image description: Course Icon
 5 mins
 ## Warm-up
 ### Population Growth
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 In this Warm-up, students compare functions by analyzing graphs and statements in function notation. The work here prepares students to make more sophisticated comparisons later in the lesson.
 ### Launch
-### Activity
 ### Student Task Statement
 This graph shows the populations of Baltimore and Cleveland in the 20th century. \(B(t)\) is the population of Baltimore in year \(t\). \(C(t)\) is the population of Cleveland in year \(t\).
 Image description: <p>Two functions. year and population.</p>
@@ -80,10 +63,8 @@ Here are pairs of statements about the two populations. In each pair, which stat
 \(B(2000) > C(2000)\) or \(B(2000) < C(2000)\)
 \(B(1900) = C(1900)\) or \(B(1900) > C(1900)\)
 Were the two cities’ populations ever the same? If so, when?
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to share their response to the first question. After students give a reasonable estimate of the population of Baltimore (about 800,000), display the statement \(B(1930) = 800,\!000\) for all to see. Make sure students can interpret it to mean “In 1930, the population of Baltimore was about 800,000 people.”
 Next, ask students to explain how they knew which statement in each pair of inequalities is true and how they knew that there were two points in time when Baltimore and Cleveland had the same population.
@@ -91,14 +72,6 @@ Ask students how we could use function notation to express that the populations 
 20 mins
 ## Activity
 ### Wired or Wireless?
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 In this activity, students continue to compare two functions by studying graphs and statements in function notation, as well as interpreting them in terms of a situation. They also revisit the meaning of a solution to an equation such as \(C(t) = 20\), both abstractly and in context, and apply what they know about average rate of change to compare the trend shown by each graph.
 Additionally, the activity draws students’ attention to the point where the two graphs intersect, its meaning in context, and its corresponding representation in function notation.
@@ -108,7 +81,6 @@ Display the graphs for all to see. Discuss questions such as:
 “How would you describe the trends in phone ownership over the years?” (Cell phones are increasing in use, and landlines are decreasing.)
 “How would you describe the shape of the graph of each function?” (Both are roughly linear. The value of \(H\) is decreasing over time, so the graph slants downward. The value of \(C\) is increasing over time, so the graph slants upward.)
 “In what year did about 60% of homes have a landline?” (2012)
-### Activity
 ### Student Task Statement
 \(H(t)\) is the percentage of homes in the United States that have a landline phone in year \(t\). \(C(t)\) is the percentage of homes with only a cell phone. Here are the graphs of \(H\) and \(C\).
 Graph of 2 functions. Blue solid line, H of t, represents percentage of homes in US with a landline phone in year t. Red dotted line, C of t, represents the percentage of homes with only a cell phone. H of 2006 is about 85. C of 2006 is about 14. C of 2008= 20. Lines intersect in 2015. The rate of increase in percentage of cell phones is increasing at approximately the same rate as the rate of home phones is decreasing.
@@ -120,13 +92,11 @@ Determine if each equation is true. Be prepared to explain how you know.
 \(C(2011) = H(2011)\)
 \(C(2015) = H(2015)\)
 Between 2004 and 2015, did the percentage of homes with landlines decrease at the same rate at which the percentage of cell-phones-only homes increased? Explain or show your reasoning.
-### Student Response
 ### Building on Student Thinking
 Students encounter percentages as the output of a function for the first time in this activity. Some students might think that the output of the functions here must be number of homes, and that they cannot estimate any output values because only percentages are known. Clarify that percent is the unit used in this case, as we are studying how the proportion of the two groups (rather than the actual number of homes in each group) changed over time.
 ### Are You Ready for More?
 Explain why the statement \(C(t) + H(t) \leq 100\) is true in this situation.
 What value does \(C(t) + H(t)\) appear to take between 2004 and 2017? How much does this value vary in that interval?
-#### Student response
 ### Activity Synthesis
 Focus the discussion on the meaning of equations such as \(C(t) = 20\) and \(C(2015)=H(2015)\), and on the meaning of the average rate of change of each function.
 Select students to share their responses. Highlight the following points, if not already mentioned in students’ explanations:
@@ -140,21 +110,12 @@ If time permits, discuss with students:
 15 mins
 ## Activity
 ### Audience of TV Shows
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 Previously, students compared functions by analyzing their graphs on the same coordinate plane. Each graph was a continuous graph.
 In this optional activity, students compare functions represented in separate graphs. Each graph is a discrete graph, showing the viewership of three TV shows as functions of the episode number. Students interpret features of the graphs and relate them to descriptions about the shows and to statements in function notation. They use their analyses to draw conclusions about the popularity of the shows and to sketch a possible graph for a fourth TV show.
 The work here requires students to make sense of quantities and their relationships while attending to their representations (MP2). In sketching a graph that matches a description, students need to be careful about showing correspondence to the quantities in the situation (MP6), including by using appropriate scale and marks.
 ### Launch
 Arrange students in groups of 2. Give students a few minutes of quiet work time, then time to discuss their thinking with their partner. Follow with a whole-class discussion.
-### Activity
 ### Student Task Statement
 The number of people who watched a TV episode is a function of that show’s episode number. Here are three graphs of three functions—\(A, B\), and \(C\)—representing three different TV shows.
 Show A10 data points on coordinate plane, no grid, origin O. Horizontal axis, episode number, from 0 to 10 by 2’s. Vertical axis, audience in millions, from 0 to 2 by 0 point 5s. Approximate data points as follows: 1 comma 0 point 75, 2 comma 0 point 9, 3 comma 0 point 95, 4 comma 1 point 25, 5 comma 1 point 3, 6 comma 1 point 4, 7 comma 1 point 75, 8 comma 1 point 6, 9 comma 1 point 8, 10 comma 2.
@@ -175,10 +136,8 @@ This show started out huge. Even though it feels like it crashed, it still has m
 Which is greatest, \(A(7)\), \(B(7)\), or \(C(7)\)? Explain what the answer tells us about the shows.
 Sketch a graph of the viewership of the fourth TV show that did not have a matching graph.
 Image description: <p>A blank graph, with origin O. The horizontal axis, episode number, scale from 0 to 10 by 2s. The vertical axis, audience in millions, scale is 6 units.</p>
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Focus the discussion on how students made their matches. Ask students to explain how parts of the descriptions and features of the graphs led them to believe that a pair of representations belong together.
 Next, invite students to share their graph of the fourth TV show. Display the graphs for all to see, and discuss how the graphs are alike and how they are different. Because each graph is created using the same description, they should share some common features. If they look drastically different, solicit possible reasons. (Possible explanations include differences in interpretation of the description or in the choice of scale for the vertical axis, errors in reading the description, and plotting errors.)
@@ -189,19 +148,10 @@ If time permits, ask students,
 10 mins
 ## Activity
 ### Functions $f$ and $g$
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 In this activity, students compare graphs and statements that represent functions without a context. Because no concrete information is given, students need to rely on their understanding of function notation and points on a graph to make comparisons and to interpret intersections of the graphs.
 Previously, students saw equations such as \(f(8) = g(8)\) and interpreted them in terms of a situation. Here, they begin to reason more abstractly about statements of the form \(f(x) = g(x)\) and relate them to one or more points where the graphs of \(f\) and \(g\) intersect. They see that a value of \(x\) that makes this equation true, or a solution to the equation, is the input value of such an intersection.
 ### Launch
-### Activity
 ### Student Task Statement
 Here are graphs that represent two functions, \(f\) and \(g\).Decide which function value is greater for each given input. Be prepared to explain your reasoning.\(f(2)\) or \(g(2)\)\(f(4)\) or \(g(4)\)\(f(6)\) or \(g(6)\)\(f(8)\) or \(g(8)\)A graph, with origin O. The horizontal axis, scale from 9 to 12 by 1s. The vertical axis, scale from 0 to 9 by 1s. A curve, shaped like a U, opening downward and labeled f passes through the points 4 comma 7 and 9 comma 7. It has a maximum at the point 6 comma 8. A line, labeled g, passes through the points 0 comma 8, 4 comma 7, and 9 comma 7.​​​​​
 Here are graphs that represent two functions, \(f\) and \(g\).
@@ -214,10 +164,8 @@ A graph, with origin O. The horizontal axis, scale from 9 to 12 by 1s. The verti
 Image description: <p>A graph. </p>
 Is there a value of \(x\) at which the equation \(f(x)=g(x)\) is true? Explain your reasoning.
 Identify at least two values of \(x\) at which the inequality \(f(x) < g(x)\) is true.
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Display the graphs of \(f\) and \(g\) for all to see. Invite students to share their responses to the first set of questions. As they point out the greater function value in each pair, mark the point on the graph and write a corresponding statement in function notation: \(f(2) < g(2)\), \(f(4) = g(4)\), \(f(6) > g(6)\), and \(f(8)>g(8)\). Emphasize that the function value that is greater in each pair has a higher vertical value on the coordinate plane for the same input value.
 Next, discuss if there are values of \(x\) that make \(f(x)=g(x)\) true and how we can tell. Point out that earlier we wrote \(f(4)=g(4)\) because the values of \(f\) and \(g\) are equal when the input is 4. This means that \((4,f(4))\) and \((4,g(4))\) are coordinates of the same point.
@@ -259,6 +207,5 @@ Both graphs slant upward from left to right.
 From 1900 to 2010, the population of California has risen faster than that of Texas. California had a greater average rate of change.
 If we draw a line to connect the points for 1900 and 2010 on each graph, the line for \(C\) has a greater slope than that for \(T\).
 Image description: <p>Equation. </p>
-Practice
 
 

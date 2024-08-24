@@ -1,0 +1,28 @@
+{
+    "warm_up": {
+        "activity_timing_mins": 5,
+        "activity_title": "Warm-up",
+        "activity_narrative": "In this Warm-up, students compute absolute guessing errors using class data. The absolute errors they find here will be plotted in the next activity.",
+        "launch": "Tell students to guess the number of objects in the collection. If no collection is available, display the image and ask students to guess the number of snap cubes in the jar.",
+        "student_task_statement": "Use the actual\u00a0number of items to calculate the absolute guessing error of each guess, or how far the guess is from the actual number. For example, suppose the actual number of objects is 100.",
+        "activity_synthesis": "If desired, display a completed table for all to see, or simply invite students to share some observations about the absolute guessing errors they found. If no one mentioned that all the values are positive, ask them about it and solicit some ideas about why this is the case."
+    },
+    "activities": [
+        {
+            "activity_timing_mins": 15,
+            "activity_title": "Activity",
+            "activity_narrative": "In this activity, students create a scatter plot of the data they compiled earlier and examine the scatter plot. Unless the data they collected consist mostly of overestimates or mostly of underestimates, students are likely to notice the data points forming a V shape. They then consider whether the relationship between the guesses and absolute guessing errors form a function.",
+            "launch": "Though a blank coordinate plane is provided (in the blackline master) so that students could individually plot the values by hand, there are other alternatives to consider, if desired. For instance, students could:",
+            "student_task_statement": "Refer to the table you completed in the Warm-up, which shows your class' guesses and absolute guessing errors.",
+            "activity_synthesis": "Display a scatter plot for all to see. Ask students to share something they notice and something they wonder. If no students commented on the shape of the data points, bring it up. Discuss questions such as:"
+        },
+        {
+            "activity_timing_mins": 15,
+            "activity_title": "Activity",
+            "activity_narrative": "This activity allows students to see how changing the target number in a guessing game changes the absolute guessing errors and changes the scatter plot of the data.",
+            "launch": "Tell students that suppose there had been a mistake in the reported number of items in the jar, and that their job is to find out how the absolute guessing errors and the scatter plot would change once they find out the corrected number of items.",
+            "student_task_statement": "Earlier, you guessed the number of objects in a container and then your teacher told you the actual number.",
+            "activity_synthesis": "Invite students to share their observations of the new data set (or data sets, if two new \"actual\" numbers were given to students)."
+        }
+    ]
+}

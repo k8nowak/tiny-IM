@@ -13,7 +13,6 @@ CC BY-NC 4.0
 Preparation
 Lesson
 # Function Notation
-## Preparation
 ## Lesson Narrative
 This lesson introduces students to function notation. Students encounter situations in which referring to certain functions and their input-output pairs gets complicated, wordy, or unclear. This motivates a way to talk about functions that is more concise and precise.
 Students learn that function notation is a succinct way to name a function and to specify its input and output. They interpret function notation in terms of the quantities in a situation and use function notation to represent simple statements about a function. The work in this lesson prompts students to reason quantitatively and abstractly (MP2) and communicate precisely (MP6).
@@ -27,7 +26,6 @@ Let’s learn about a handy way to refer to and talk about a function.
 I understand what function notation is and why it exists.
 When given a statement written in function notation, I can explain what it means in terms of a situation.
 I can use function notation to express functions that have specific inputs and outputs.
-View Student Lesson
 ## Required Preparation
 None
 ### Standards Alignment
@@ -42,11 +40,6 @@ HSF-IF.A.1
 ### function notation
 Function notation is a way of writing the relationship between the inputs and outputs of a function.
 For example, a function is named \(f\) and \(x\) is an input. Then \(f(x)\) denotes the corresponding output in function notation.
-Practice
-### Other Resources
-View Student Lesson
-## Teacher Support
-## Student Handouts
 
 
 
@@ -55,27 +48,17 @@ Lesson Content
 Preparation
 Lesson
 ## Lesson 2
-View Student Lesson
 # Function Notation
 Image description: Course Icon
 10 mins
 ## Warm-up
 ### Back to the Post!
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 The goal of this Warm-up is to motivate the need for a notation that can be used to communicate about functions.
 Students analyze three graphs from an earlier lesson, interpret various points on the graphs, and use their analyses to answer questions about the situations. This work requires students to make careful connections between points on the graphs, pairs of input and output values, and verbal descriptions of the functions. Students find that unless each feature and the function being referred to is clearly articulated, which could be tedious to do, what they wish to communicate about the function may be ambiguous or unclear.
 When answering the last two questions, students are likely to find the prompts lacking in specificity and to probe: “for which day?” Suggest that they answer based on their interpretation of the questions.
 Then, look for students who assume that the questions refer to one particular function and those who assume they refer to all three functions (and consequently answer them for each function). Ask them to share their interpretations during the whole-class discussion.
 ### Launch
-### Activity
 ### Student Task Statement
 Here are the graphs of some situations you saw before. Each graph represents the distance of a dog from a post as a function of time since the dog owner left to purchase something from a store. Distance is measured in feet, and time is measured in seconds.
 Day 1
@@ -108,10 +91,8 @@ Day 2:
 Day 3:
 Consider the statement, “The dog was 2 feet away from the post after 80 seconds.” Do you agree with the statement?
 What was the distance of the dog from the post 100 seconds after the owner left?
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to share their response to the first set of questions.
 To help illustrate that it could be tedious to refer to a specific part of a function fully and precisely, ask each question completely for each of the three days. (For instance, “How far away was the dog from the post 60 seconds after the owner left on Day 1? How far away was the dog from the post 60 seconds after the owner left on Day 2?”) If students offer a numerical value (for instance, “1.5 feet”) without stating what question it answers or to what quantity it corresponds to, ask them to clarify.
@@ -120,14 +101,6 @@ Explain that sometimes we need to be pretty specific when talking about function
 15 mins
 ## Activity
 ### A Handy Notation
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 In this activity, students learn that function notation can be used as a handy shorthand for communicating about functions and specific parts or features of a function. They interpret statements that are written in this notation and use the notation to refer to points on a graph or to represent simple verbal statements about a function.
 ### Launch
@@ -142,7 +115,6 @@ Display and review these criteria: 	Identify the input and outputReference part
 Identify the input and output
 Reference parts of the situation (distance, day, time since the owner left, units) as part of the description whenever possible
 Select 1–2 individuals or groups to read their revised draft aloud slowly enough to record for all to see. Scribe as each student shares, then invite the whole class to contribute additional language and edits to make the final draft even more clear and more convincing.
-### Activity
 ### Student Task Statement
 Let’s name the functions that relate the dog’s distance from the post and the time since its owner left: function \(f\) for Day 1, function \(g\) for Day 2, function \(h\) for Day 3. The input of each function is time in seconds, \(t\).
 Use function notation to complete the table.	day 1day 2day 3a. distance from post 60 seconds after the owner leftb. distance from post when the owner leftc. distance from post 160 seconds after the owner left
@@ -161,11 +133,9 @@ What does each equation mean in this situation?
 \(h(40) = 4.6\)
 \(f(t) = 5\)
 \(g(t) = d\)
-### Student Response
 ### Building on Student Thinking
 Students may ignore the function name and attend to only the input value. For instance, they may say, “\(f(60)\) means that 60 seconds have passed.” Explain that the input value of 60, or \(t=60\), does represent that 60 seconds have passed, but the expression \(f(60)\) represents the output value of the function. In this case, it means the dog’s distance from the post, on Day 1, 60 seconds after its owner left.
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to share their responses. As students begin to share, they may be unsure of how to express the notation orally. Explain that the expression \(f(60)\) is read "\(f\) of 60," \(g(160)\) is read "\(g\) of 160," and \(h(t)\) is read "\(h\) of \(t\)."
 To make sure students see the structure of this new notation, consider displaying it and annotating each part, as shown here.
@@ -176,18 +146,9 @@ The statement \(g(t) = d\) is read: “\(g\) of \(t\) is equal to \(d\).” It t
 10 mins
 ## Activity
 ### Birthdays
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 This activity reinforces students’ understanding about what makes a relationship between two variables a function—namely, that it gives a unique output for each input. It also prompts students to use function notation to express a functional relationship that does not involve numerical values for its input and output.
 ### Launch
-### Activity
 ### Student Task Statement
 Rule \(B\) takes a person’s name as its input and gives their birthday as the output.
 input | output
@@ -206,7 +167,6 @@ If you use your name as the input to \(B\), how many outputs are possible? Expla
 If you use your birthday as the input to \(P\), how many outputs are possible? Explain how you know.
 Only one of the two relationships is a function. The other is not a function. Which one is which? Explain how you know.
 For the relationship that is a function, write two input-output pairs from the table using function notation.
-### Student Response
 ### Building on Student Thinking
 If a student wonders what happens to a person born on February 29, tell them that the output of the function is the original birth date, not the annual birthday.
 ### Are You Ready for More?
@@ -222,7 +182,6 @@ Here are some input-output pairs with the same inputs but different outputs:
 \(v(\text{TWO})=1\)
 \(v(\text{THREE})=2\)
 \(v(\text{FOUR})=2\)
-#### Student response
 ### Activity Synthesis
 Discuss with students:
 “Why is \(B\) a function, but \(P\) isn’t?” (Each input for \(B\) has a unique output, while inputs for \(P\) may have several outputs. For example, March 14 is the birthday of Albert Einstein, Stephen Curry, Billy Crystal, Simone Biles, and many other people. February 12 is the birthday of Abraham Lincoln and Charles Darwin.)
@@ -258,6 +217,5 @@ In general, function notation has this form:
 Image description: <p>Function notation. The letter f, open parenthesis, x, closed parenthesis. F is labeled name of function. X is labeled input of function. The whole thing is labeled output of function.</p>
 It is read “\(f\) of \(x\)” and can be interpreted to mean that \(f(x)\) is the output of a function \(f\) when \(x\) is the input.
 The function notation is a concise way to refer to a function and describe its input and output, which can be very useful. Throughout this unit and the course, we will use function notation to talk about functions.
-Practice
 
 

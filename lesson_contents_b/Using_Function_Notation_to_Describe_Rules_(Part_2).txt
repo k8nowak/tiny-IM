@@ -13,7 +13,6 @@ CC BY-NC 4.0
 Preparation
 Lesson
 # Using Function Notation to Describe Rules (Part 2)
-## Preparation
 ## Lesson Narrative
 In this lesson, students use rules of functions to find the output when the input is given (or to evaluate functions) and to find the input when the output is known (or to solve equations that define functions). They also interpret rules of functions in terms of a situation. Along the way, they practice reasoning quantitatively and abstractly (MP2).
 The term linear function is introduced here. In middle school, students learned that a relationship between two quantities is linear if one quantity changes at a constant rate relative to the other. Students see that a linear function can be understood in similar terms: A function is linear if the output changes by a constant rate relative to its input.
@@ -28,7 +27,6 @@ Let’s graph and find the values of some functions.
 I know different ways to find the value of a function and to solve equations written in function notation.
 I know what makes a function a linear function.
 I can use technology to graph a function given in function notation and use the graph to find the values of the function.
-View Student Lesson
 ## Required Materials
 #### Activity 3
 Graphing technology
@@ -48,11 +46,6 @@ HSF-IF.C.7
 ### linear function
 A linear function is a function that has a constant rate of change. This means that it grows by equal differences over equal intervals.
 For example, \(f(x)=4x-3\) defines a linear function. Any time \(x\) increases by 1, \(f(x)\) increases by 4.
-Practice
-### Other Resources
-View Student Lesson
-## Teacher Support
-## Student Handouts
 
 
 
@@ -61,24 +54,14 @@ Lesson Content
 Preparation
 Lesson
 ## Lesson 5
-View Student Lesson
 # Using Function Notation to Describe Rules (Part 2)
 Image description: Course Icon
 5 mins
 ## Warm-up
 ### Make It True
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 This Warm-up refreshes the idea of evaluating and solving equations, preparing students for the main work of the lesson. It reminds students that to solve a variable equation is to find one or more values for the variable that would make the equation true. In subsequent activities, students will work with equations in function notation to find unknown input or output values.
 ### Launch
-### Activity
 ### Student Task Statement
 Consider the equation \(q = 4 + 0.8p\).
 What value of \(q\) would make the equation true when:\(p\) is 7?\(p\) is 100?
@@ -90,10 +73,8 @@ What value of \(p\) would make the equation true when:
 \(q\) is 12?
 \(q\) is 60?
 Be prepared to explain or show your reasoning.
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to share their response and strategy for answering the questions.
 To find the values of \(p\) in the second set of questions, some students may have guessed and checked, but many students should have recognized that they could solve the equations for \(p\) (either before or after substituting the value of \(q\)). If no students mentioned solving the equations, bring it to their attention.
@@ -101,14 +82,6 @@ Remind students that to solve \(12=4+0.8p\) is to find the value of \(p\) that m
 25 mins
 ## Activity
 ### Gaming Options
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 In this activity, students work with rules of functions that arise from situations and continue to make connections between different representations of functions. They use rules to evaluate functions and interpret the input and output values in context. For instance, students see that \(B(1)\) represents the cost of using the service 1 month beyond the trial period, and find its value by computing \(10(1)+250\).
 Students also use rules of functions to solve for an unknown input value. For example, given the rule \(B(x) = 10x + 250\) and the statement \(B(x)=280\), they work to find a value of \(x\) that makes \(B(x) = 280\) true. Monitor for students who use these strategies:
@@ -123,7 +96,6 @@ As a class, read the opening paragraphs and the first question in the activity s
 Invite students to share their interpretations, in particular the meaning of “trial period.” Many subscription services provide a trial period in which the service is free before users are charged for their time afterward. Before students begin the activity, make sure they see that an input value of 1 represents 1 month of the service after the trial period.
 Also tell students that the providers will charge a “prorated” amount for canceling in the middle of the month. For example, if the service is canceled on the 15th of the month, the user will be charged for half of the usual month’s fees.
 Select groups with different strategies, such as those described in the Activity Narrative, to share later.
-### Activity
 ### Student Task Statement
 Elena is looking at options for video game consoles. Each option begins with a purchase of the console and a 1 month free trial period of the online gaming service. The monthly cost of each option can be seen as a function and represented with an equation:
 Option A: \(A(x) = 600\)
@@ -137,12 +109,10 @@ Graph each function on the same coordinate plane. Then, explain which option you
 Image description: <p>Blank grid. Horizontal axis, 0 to 90, months after trial. Vertical axis, 0 to 900 by 100’s, cost, dollars.</p>
 ​​​​​​
 Elena budgeted only \$280 for the console and online service. She thought, “I wonder how many months I could have for \$280 if I go with Option B” and wrote \(B(x) = 280\). What is the answer to her question? Explain or show how you know.
-### Student Response
 ### Building on Student Thinking
 Students may question if \(A\) is a function at all because unlike \(B\) or other function rules they have seen so far, \(A(x)\) is defined with a constant instead of an expression containing the dependent variable. Or they may wonder why \(A(x)\) has the same value no matter what the input value is. Ask students to recall the definition of function and to consider whether each input value gives only one output value. Because it does, even though it is always the same output value, \(A\) is still a function.
 ### Are You Ready for More?
 Describe an option that, for any amount of time used, would cost no more than one of the given options and no less than the other given option. Explain or show how you know this option would meet these requirements.
-#### Student response
 ### Activity Synthesis
 The purpose of this discussion is to explore linear functions that represent situations and examine how to solve functions when the input or output value is known.
 Select students to share their interpretations of the two options. Make sure students see that:
@@ -160,14 +130,6 @@ If time permits, invite students to share which option they believe Elena should
 20 mins
 ## Activity
 ### Function Notation and Graphing Technology
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 In this optional activity, students learn to use graphing technology to graph an equation in function notation, evaluate the function at a specific input value, create a table of inputs and outputs, and identify the coordinates of the points along a graph. They also revisit how to set an appropriate graphing window.
 In the digital version of the activity, students use an applet to find precise function values. The applet allows students to click on the graph of a function to find precise coordinate pairs. If available, use the digital version to increase precision and allow students to focus on the notation rather than estimation.
@@ -183,7 +145,6 @@ Ask students to find the value of \(x\) when \(B(x)\) is 100. Then, demonstrate 
 Trace the line. Coordinates appear as we move along the line. Stop when the \(y\)-coordinate is 100, and see what the \(x\)-coordinate is.
 Type \(y=100\) in the expression list. A horizontal line appears. Find the intersection of this line and the graph of \(B\).
 Ask students to use one or both of these strategies to complete the activity.
-### Activity
 ### Student Task Statement
 The function \(B\) is defined by the equation \(B(x) = 10x + 25\). Use graphing technology to:
 Find the value of each expression:\(B(6)\)\(B(2.75)\)\(B(1.482)\)
@@ -196,10 +157,8 @@ Solve each equation:
 \(B(x) = 93\)
 \(B(x) = 42.1\)
 \(B(x) = 116.25\)
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to share any insights they had while using the graphing tool and techniques to evaluate expressions and solve equations. In what ways might the tool and techniques be handy? When might they be limited?
 Also discuss any issues, technical or otherwise, that students encountered while completing the task.
@@ -254,6 +213,5 @@ Find the input when we know the output.
 Suppose the output of function \(f\) is 65 at some value of \(x\), or \(f(x)=65\), and we want to find out what that value is. Because \(f(x)\) is equal to \(5(x+2)\), we can write \(5(x+2)=65\) and solve for \(x\).
 \(\begin{align}5(x+2)&=65\\ x+2 &=13\\ x&=11 \end {align}\)
 Each function here is a linear function because the value of the function changes by a constant rate and its graph is a line.
-Practice
 
 

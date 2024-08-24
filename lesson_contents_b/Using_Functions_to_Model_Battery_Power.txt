@@ -13,7 +13,6 @@ CC BY-NC 4.0
 Preparation
 Lesson
 # Using Functions to Model Battery Power
-## Preparation
 ## Lesson Narrative
 In this culminating lesson, students use functions to model a cell phone's battery power varying over time. The relationships in each activity can be appropriately modeled with linear functions, though some students may choose to use a piecewise function in the second activity.
 In the first activity, students are given a table of values showing times and percentages of battery power. They study the rates of change in the table, which are fairly constant, and produce a simple model to make a prediction.
@@ -26,7 +25,6 @@ Use functions to model real-life situations and make predictions.
 ### Student-Facing Goal
 Let’s use functions to model data and make predictions.
 ### Student-Facing Targets
-View Student Lesson
 ## Required Preparation
 #### Activity 2
 ### Standards Alignment
@@ -41,11 +39,6 @@ HSF-BF.A.1
 HSS-ID.B.6
 HSS-ID.B.6.a
 ## Glossary
-Practice
-### Other Resources
-View Student Lesson
-## Teacher Support
-## Student Handouts
 
 
 
@@ -54,26 +47,16 @@ Lesson Content
 Preparation
 Lesson
 ## Lesson 18
-View Student Lesson
 # Using Functions to Model Battery Power
 Image description: Course Icon
 5 mins
 ## Warm-up
 ### Devices
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 The modeling activities in this lesson center on electronic devices. This Warm-up activates students’ knowledge and personal experience with such devices, preparing them for the mathematical work ahead.
 Students may not have a good sense for the answer to the last question (about comparing the lengths of charging time if the device started out with different levels of power). This is fine, as students will do some modeling with specific data later in the lesson.
 ### Launch
 Arrange students in groups of 2. Give students 1–2 minutes of quiet think time (it is not necessary that students write responses to each question). Then, ask them to share their responses with their partner. Follow with a brief whole-class discussion.
-### Activity
 ### Student Task Statement
 Think about an electronic device with a battery that you have to charge on a regular basis.
 What device is it?
@@ -82,30 +65,19 @@ About how long does it take to charge to 100% starting from 0% or nearly 0%?
 Suppose you plugged in your device when the battery was 50% charged.How long do you think it would take to recharge the device to 100% compared to the time it would take if the device was at 0%? Would it be exactly half the time, more than half the time, or less than half the time it would take if starting from 0%?
 Suppose you plugged in your device when the battery was 50% charged.
 How long do you think it would take to recharge the device to 100% compared to the time it would take if the device was at 0%? Would it be exactly half the time, more than half the time, or less than half the time it would take if starting from 0%?
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to share their characterization of the time it takes to drain and charge the battery on their device. Students are likely to bring up different factors affecting how long their device would stay charged, such as how it is used and how long or how frequently it is used. They may also bring up factors that affect charging time, such as the age of the battery or the quality of the charging cable or wireless charger used.
 Highlight that both the battery life of a device after each charge and the length of charging time can vary for many reasons.
 20 mins
 ## Activity
 ### Charging a Phone
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 In this activity, students analyze percentages of battery power as it is being charged, generalize how the quantities are changing, and use their generalization to predict when the battery will be fully charged. The values in the table change at a roughly constant rate, so students are likely to choose a linear model, reason about the average rate of change (which they could do in different ways), and extend that rate of change to make their prediction.
 Students apply their understanding of average rate of change and linear relationships to reason about the data and to make a prediction (MP4). If students choose to use graphing technology to help with their analysis, they practice choosing appropriate tools strategically (MP5).
 One variation to consider as a follow-up to this activity or to the lesson is to ask students to collect their own data on charging time. This would increase the modeling demand. If students collect their own data, they may find out that batteries tend not to charge linearly all the way to 100%. (Based on the full information, students may decide to use a piecewise function as a refined model and revisit the problem.)
 ### Launch
-### Activity
 ### Student Task Statement
 A cell phone is plugged in to be charged. The table shows the percentage of battery power at some times after the phone was plugged in.
 time | percent charged
@@ -114,10 +86,8 @@ time | percent charged
 11:30 a.m. | 35%
 11:40 a.m. | 43%
 At what time will the battery be 100% charged? Use the data to find out and explain or show your reasoning.
-### Student Response
 ### Building on Student Thinking
 ### Are You Ready for More?
-#### Student response
 ### Activity Synthesis
 Invite students to share their predictions and explanations. Record and display for all to see the different assumptions and choices students made. If students claim that the battery was charging at 9% every 10 minutes, ask for their reasoning. If no students mentioned computing the average rate of change between 11:00 a.m. and 11:40 a.m., ask them about it.
 If variations in students' assumptions and choices led to different predictions, or if students used different representations in their reasoning, ask students to compare and contrast the different solution strategies:
@@ -126,14 +96,6 @@ If variations in students' assumptions and choices led to different predictions,
 20 mins
 ## Activity
 ### How Long Will It Last?
-### Standards Alignment
-#### Building On
-#### Addressing
-#### Building Toward
-### Instructional Routines
-### Materials
-#### To Copy (from Blackline Masters)
-#### To Gather
 ### Activity Narrative
 Previously, students analyzed a set of data on the power levels of a battery as it was being charged. They looked for a model that enabled them to predict when the battery would be 100% charged. In this activity, they engage in a similar, yet more challenging, modeling exercise to determine when a battery would be completely out of power.
 Here, students are asked to define a function and then use their function to make some predictions. Then, they evaluate their predictions and adjust the function to account for new information. Data about the situation are presented in a way that may be unfamiliar, so students need to persevere in making sense of quantities and the relationships among them (MP1).
@@ -146,7 +108,6 @@ Image description: <p>graph of battery usage</p>
 Tell students that the image shows the battery usage for a cell phone for 9 hours after it was fully charged. Give students a moment to observe the image and to make a prediction for how much longer the battery will last.
 Poll the class on their predictions, and display the predictions for all to see. Then, ask students to work on the activity.
 Consider arranging students in groups of 2–4 and asking students to pause for a whole-class discussion after the first set of questions.
-### Activity
 ### Student Task Statement
 The image shows the battery usage of a cell phone for 9 hours after it was fully charged.It also shows a prediction that the battery would last 8 more hours.Write an equation for a model that fits the data in the image and gives the percentage of battery power, \(p\), as a function of time since the phone was fully charged, \(t\). Show your reasoning.If you get stuck, consider creating a table of values or a scatter plot of the data.Based on your function, what percentage of power would the battery have 4 hours after this image was taken? What about 5 hours after the image was taken? Show your reasoning.
 The image shows the battery usage of a cell phone for 9 hours after it was fully charged.
@@ -162,16 +123,13 @@ Image description: <p>Two images of advanced battery usage, 29 percent and 7 per
 How well did the function you wrote predict the battery power 4 and 5 hours after the first image was taken (that is, 13 and 14 hours after the battery was fully charged)? Explain or show your reasoning.
 What do you notice about the change in the prediction at \(t=13\) and at \(t=14\)?
 Write a new equation for a function that would better fit the data shown in the last image.
-### Student Response
 ### Building on Student Thinking
 Because the images specify duration of time relative to the moment when they were taken, using phrases such as "9 hours ago" or "8 hours left," students may think that time was measured from a different reference point for each image. They may struggle to quantify the changes in time or to organize the values into a table. Ask students to consider when or at what power level we typically begin measuring the life of a battery. Clarify that all images referenced the time when the battery was at 100%, so they could use that as a starting point for measuring time.
 ### Are You Ready for More?
 Would a piecewise function be a better model for capturing the data shown in all three images? If so, what might the rules of that function be?
-#### Student response
 ### Activity Synthesis
 Select students or groups to share the function they defined for the first set of questions and to explain their reasoning, including the assumptions they made. After each model is shared, ask if others had written the same equation but arrived at it a different way, or had reasoned the same way and made the same assumptions but arrived at a different model.
 Then, focus the discussion on how students refined their original models to account for the new information given in the second question. Showcase the variety of strategies and representations students created to make sense of the additional data or to represent their new function.
 Consider using graphing technology to graph (on the same coordinate plane) the different equations students wrote and displaying the graphs for analysis and comparison.
-Practice
 
 
