@@ -1,0 +1,188 @@
+# Lesson Location
+## Unit Number
+5
+## Unit Name
+Functions
+## Lesson Number 
+17
+## Lesson Title
+Writing Inverse Functions to Solve Problems
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+# Lesson Preamble
+## Lesson Narrative
+"""
+In this lesson, students continue to expand their capacity to work with and interpret inverses of linear functions in various situations. The situations provided in this lesson require aspects of modeling (MP4) to write functions and find their inverses.
+Note that notation \(f^{\text-1}\) is intentionally not used to denote the inverse function at this point. This is so that students can focus their attention on the meaning of an inverse function rather than on learning a new notation. It is also to discourage students from thinking of finding an inverse function as a procedure.
+Technology isn't required for this lesson, but there are opportunities for students to choose to use appropriate technology to solve problems. Consider making technology available.
+"""
+## Learning Goals
+Write a linear function and an inverse function to model data and solve problems.
+Find the inverse of a linear function given in function notation.
+## Student-Facing Goal
+Let’s use inverse functions to solve problems.
+## Student-Facing Targets
+I can write a linear function to model given data and find the inverse of the function.
+When given a linear function defined using function notation, I know how to find its inverse.
+## Required Preparation
+"""
+None
+"""
+## Standards Alignment
+### Building On
+HSF-IF.B.6
+### Addressing
+HSF-BF.A.1
+HSF-BF.B.4
+HSF-BF.B.4.a
+HSF-IF.A.2
+HSF-IF.B.4
+HSS-ID.B.6.a
+HSS-ID.B.6.c
+### Building Toward
+## Glossary
+# Lesson Content
+## Activity
+### Activity Timing
+5 mins
+### Activity Title
+Water in a Tank
+### Activity Narrative
+"""
+In this Warm-up, students make sense of a linear function with a negative rate of change, set in a familiar context. Students have seen similar relationships between the amount of water in a tank and time in an earlier unit (on solving and graphing equations). Here, they think about the quantities in terms of input and output, interpret statements in function notation, and sketch a graph of the function.
+The work here prepares students to find and interpret the inverse of functions written in function notation and to use inverse functions to solve problems.
+"""
+### Launch
+"""
+Arrange students in groups of 2. Provide access to scientific or four-function calculators, if requested.
+"""
+### Student Task Statement
+"""
+A tank contained some water. The function \(w\) represents the relationship between \(t\), time in minutes, and the amount of water in the tank in liters. The equation \(w(t) = 80 - 2.5t\) defines this function.
+Discuss with a partner:How is the water in the tank changing? Be as specific as possible. What does \(w(t)\) represent? Is \(w(t)\) the input or the output of this function?
+Discuss with a partner:
+How is the water in the tank changing? Be as specific as possible.
+What does \(w(t)\) represent? Is \(w(t)\) the input or the output of this function?
+Sketch a graph of the function. Be sure to label the axes.
+Image description: <p>Blank grid, origin O.</p>
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Select students to share their responses, including their graph.
+Make sure students recall that in an equation such as \(w(t)=80-2.5t\), \(w(t)\) is the output when the input is \(t\). And they can interpret the equation in terms of the situation and see why the graph is a downward-slanting line.
+"""
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Another Look at the Tank
+### Activity Narrative
+"""
+In this activity, students revisit the same function they saw in the Warm-up, which was given in function notation. They work to find and represent the inverse function and think about what it tells us in this situation.
+"""
+### Launch
+"""
+Point out to students that the equations we have seen in the past few lessons use variables for the input and output. Sometimes, however, an equation that defines a function is written using function notation, so the output has the form \(w(t)\), or \(\text {function name (input variable)}\).
+Tell students that they will now think about how to represent the inverse of a function defined using function notation.
+"""
+### Student Task Statement
+"""
+A tank contained 80 liters of water. The function \(w\) represents the relationship between \(t\), time in minutes, and the amount of water in the tank in liters. The equation \(w(t) = 80 - 2.5t\) defines this function.
+How much water will be in the tank after 13 minutes?
+How many minutes will it take until the tank has 5 liters of water?
+In this situation, what information can we gain from the inverse of function \(w\)?
+Find the inverse of function \(w\). Be prepared to explain or show your reasoning.
+How would the graph of the inverse function of \(w\) compare to the graph of \(w\)? Describe or sketch your prediction.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Invite students to share their equation and interpretation of the inverse function of \(w\) and their prediction of what its graph would look like.
+Discuss questions such as:
+"In the inverse of function \(w\), what is the input and what is the output?" (\(w(t)\) is now the input and \(t\) is the output.)
+"The equation \(t = \frac {80 - w(t)}{2.5}\) represents the inverse function of \(w\). What does it tell us?" (It tells us the time in minutes as a function of the amount of water in liters. It allows us to find the time that has passed if we know how much water is left in the tank.)
+"Suppose that, instead of using the function name and writing \(w(t)\), we designate another variable, say \(r\), to represent it, so \(r = w(t)\). How would that affect the equation for the inverse function?" It would be written as \(t = \frac {80 - r}{2.5}\).)
+(Display the graphs of both function \(w\) and its inverse.) "On the graph of \(w\), which point represents the time the tank had 80 liters of water?" (the vertical intercept, \((0,80)\))
+"On the graph of the inverse function, which point represents that same time and same amount of water?" (the horizontal intercept, \((80,0)\))
+Image description: <p>graph of a line with negative slope</p>
+"""
+## Activity
+### Activity Timing
+20 mins
+### Activity Title
+Phones in Homes
+### Activity Narrative
+"""
+In this activity, students revisit another familiar situation: the percentage of homes that used only cell phones (instead of landline phones) as a function of time since 2004. Here, the focus is on finding a linear function that models the given data and using the model to answer questions about the situation.
+Previously, students saw questions about percentages, such as: “What percentage of homes had only cell phones in 2010?” Here, they see questions such as “In what year did 50% of all homes use only cell phones?” or "Solve \(P(t)=30\) for \(t\)." Students are not explicitly asked to find the inverse of the function, but the questions about time can be more efficiently answered by first finding the inverse of the function, motivating students to do so.
+To write an equation for a possible linear model, students may find a line of best fit (and then determine its slope and vertical intercept, by hand or using technology), or they may find an average rate of change between two meaningful points on the data. Students engage in aspects of modeling (MP4) as they make such decisions.
+Making graphing technology available gives students an opportunity to choose appropriate tools strategically (MP5).
+"""
+### Launch
+"""
+Arrange students in groups of 2–3. Provide access to graphing technology, if requested.
+"""
+### Student Task Statement
+"""
+In 2004, less than 5% of the homes in the United States relied on a cell phone instead of a landline phone. Since then, the percentage of homes that used only cell phones has increased.
+Here are the percentages of homes with only cell phones from 2004 to 2009.
+years since 2004 | percentages
+0 | 4.4
+1 | 6.7
+2 | 9.6
+3 | 13.6
+4 | 17.5
+5 | 22.7
+Graph of data, origin O. Horizontal axis, 0 to 5, years since 2004. Vertical axis, 0 to 24, percentage. Data points at 0 comma 4 point 4, 1 comma 6 point 7, 2 comma 9 point 6, 3 comma 13 point 6, 4 comma 17 point 5, and 5 comma 22 point 7.​​​​​​
+Image description: <p>Graph of data, origin O.</p>
+Suppose a linear function, \(P\), gives us the percentage of homes with only cell phones as a function of years since 2004, \(t\).Fit a line on the scatter plot to represent this function, and write an equation that could define the function. Use function notation.
+Suppose a linear function, \(P\), gives us the percentage of homes with only cell phones as a function of years since 2004, \(t\).
+Fit a line on the scatter plot to represent this function, and write an equation that could define the function. Use function notation.
+Use your equation to find the value of \(P(6)\). Then, explain what it means in this situation.
+Use your equation to solve \(P(t) = 30\) for \(t\). What does the solution represent?
+Suppose we want to know when the percentage of homes with only cell phones would reach 50%, 75%, or 100% (assuming that the trend continues and the function stays valid). What equation could be written to help us find the years that correspond to those percentages? Show your reasoning.
+"""
+### Building on Student Thinking
+"""
+Students may not recall how to write an equation to model a set of data, even if they see that the points on the scatter plot appear to be linear. Ask students how they might find the rate of change in the situation or the slope of a line that could represent the trend in the data. Prompt them with questions, such as "How quickly does the percentage of homes with only cell phones grow?" or "By how many percent, roughly, does it grow each year? How can we find out?" Once they see how to estimate a rate of change or to calculate the slope of a line that fits the data, ask what other information they might need to write a linear equation.
+"""
+### Are You Ready for More?
+"""
+How well do you think your model will work to predict the percentage of homes with only a cell phone in future years, for example, a decade or two decades from now? Explain your reasoning.
+"""
+### Activity Synthesis
+"""
+Invite students to share how they wrote an equation to model the relationship in the data. Then, focus the discussion on how they answered questions about time, such as how they solved \(P(t)=30\) for \(t\), or found the years in which the percentages of cell-phone-only homes reached 50%, 75%, and so on.
+When writing an equation for the last question, students may have solved for \(t\) without realizing that they have written an inverse of the original function. If so, highlight this connection and discuss how the inverse function could help answer the questions about time.
+"""
+# Lesson Close
+## Lesson Synthesis
+"""
+Discuss with students:
+"In this lesson, we saw some real-world situations where it was useful to find the inverse of a function. What kinds of problems does the inverse of a function allow us to solve? How do they help us understand a situation?"
+"""
+## Student Lesson Summary
+"""
+The water in a rain barrel is being drained and used to water a garden. Function \(v\) gives the volume of water remaining in the barrel, in gallons, \(t\) minutes after it started being drained. This equation represents the function:
+\(v(t) = 60 - 2.25t\)
+From the equation and description, we can reason that there were 60 gallons of water in the rain barrel, and that it was being drained at a constant rate of 2.25 gallons per minute.
+This equation is handy for finding out the amount of water left in the barrel after some number of minutes. In other words, it helps us find the output, \(v(t)\), when we know the input, \(t\).
+Suppose we want to know how long it would take before the barrel has 20 gallons of water remaining or how long it would take to empty the barrel. Let's find the inverse of function \(v\) so that the volume of water is the input and time is the output.
+Even though the equation is in function notation, we can still solve for \(t\) as we had done before:
+\(\begin {align} v(t) &= 60-2.25t\\v(t) + 2.25t &= 60\\ 2.25t &= 60-v(t)\\ t &=\dfrac{60-v(t)}{2.25} \end{align}\)
+This equation now shows \(t\) as the output and \(v(t)\) as the input. We can easily find or estimate the time when the barrel will have 20 gallons remaining by substituting 20 for \(v(t)\) and then evaluating \(\frac{60-20}{2.25}\). Or we can find the time when the barrel will have 0 gallons remaining by substituting 0 for \(v(t)\) and evaluating \(\frac{60−0}{2.25}\).
+"""

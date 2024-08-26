@@ -1,0 +1,259 @@
+# Lesson Location
+## Unit Number
+5
+## Unit Name
+Functions
+## Lesson Number 
+5
+## Lesson Title
+Using Function Notation to Describe Rules (Part 2)
+# Lesson Timing
+## Total Activity Time in Minutes 
+50
+## Total Lesson Time incl Lesson Synthesis
+60 
+# Lesson Preamble
+## Lesson Narrative
+"""
+In this lesson, students use rules of functions to find the output when the input is given (or to evaluate functions) and to find the input when the output is known (or to solve equations that define functions). They also interpret rules of functions in terms of a situation. Along the way, they practice reasoning quantitatively and abstractly (MP2).
+The term linear function is introduced here. In middle school, students learned that a relationship between two quantities is linear if one quantity changes at a constant rate relative to the other. Students see that a linear function can be understood in similar terms: A function is linear if the output changes by a constant rate relative to its input.
+This lesson includes an optional activity that is designed to enable students to use technology to graph and evaluate functions expressed in function notation. This skill can help to develop students’ understanding of functions and ability to solve problems in this unit and in future units.
+"""
+## Learning Goals
+Use technology to graph and evaluate functions given in function notation.
+Understand a linear function as a function whose output changes at a constant rate and whose graph is a line.
+Evaluate functions and solve equations given in function notation, either by graphing or by reasoning algebraically.
+## Student-Facing Goal
+Let’s graph and find the values of some functions.
+## Student-Facing Targets
+I know different ways to find the value of a function and to solve equations written in function notation.
+I know what makes a function a linear function.
+I can use technology to graph a function given in function notation and use the graph to find the values of the function.
+Required Materials
+#### Activity 3
+Graphing technology
+## Required Preparation
+"""
+#### Activity 3
+"""
+## Standards Alignment
+### Building On
+### Addressing
+HSA-REI.A.1
+HSF-IF.A.2
+HSF-IF.B.4
+### Building Toward
+HSF-IF.A.2
+HSF-IF.B.4
+HSF-IF.C.7
+## Glossary
+### linear function
+"""
+A linear function is a function that has a constant rate of change. This means that it grows by equal differences over equal intervals.
+For example, \(f(x)=4x-3\) defines a linear function. Any time \(x\) increases by 1, \(f(x)\) increases by 4.
+"""
+# Lesson Content
+## Activity
+### Activity Timing
+5 mins
+### Activity Title
+Make It True
+### Activity Narrative
+"""
+This Warm-up refreshes the idea of evaluating and solving equations, preparing students for the main work of the lesson. It reminds students that to solve a variable equation is to find one or more values for the variable that would make the equation true. In subsequent activities, students will work with equations in function notation to find unknown input or output values.
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+Consider the equation \(q = 4 + 0.8p\).
+What value of \(q\) would make the equation true when:\(p\) is 7?\(p\) is 100?
+What value of \(q\) would make the equation true when:
+\(p\) is 7?
+\(p\) is 100?
+What value of \(p\) would make the equation true when:\(q\) is 12?\(q\) is 60?
+What value of \(p\) would make the equation true when:
+\(q\) is 12?
+\(q\) is 60?
+Be prepared to explain or show your reasoning.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Invite students to share their response and strategy for answering the questions.
+To find the values of \(p\) in the second set of questions, some students may have guessed and checked, but many students should have recognized that they could solve the equations for \(p\) (either before or after substituting the value of \(q\)). If no students mentioned solving the equations, bring it to their attention.
+Remind students that to solve \(12=4+0.8p\) is to find the value of \(p\) that makes the equation true.
+"""
+## Activity
+### Activity Timing
+25 mins
+### Activity Title
+Gaming Options
+### Activity Narrative
+"""
+In this activity, students work with rules of functions that arise from situations and continue to make connections between different representations of functions. They use rules to evaluate functions and interpret the input and output values in context. For instance, students see that \(B(1)\) represents the cost of using the service 1 month beyond the trial period, and find its value by computing \(10(1)+250\).
+Students also use rules of functions to solve for an unknown input value. For example, given the rule \(B(x) = 10x + 250\) and the statement \(B(x)=280\), they work to find a value of \(x\) that makes \(B(x) = 280\) true. Monitor for students who use these strategies:
+Guessing and checking
+Analyzing the graph of \(y=10x+250\) and identifying the \(x\)-value when \(y\) is 280
+Reasoning that a budget of \$280 means that only \$30 is available for additional months, and at \$10 per month, it means 3 additional months of service.
+Solving \(10x+250=280\) algebraically
+Plan to have students present in this order to support moving students toward more precise algebraic thinking.
+"""
+### Launch
+"""
+Arrange students in groups of 2.
+As a class, read the opening paragraphs and the first question in the activity statement. Ask students, “What do \(A(1)\) and \(B(1)\) represent in this situation? What does the 1 in each expression mean?” Give students a minute of quiet think time and then time to discuss their thinking with their partner.
+Invite students to share their interpretations, in particular the meaning of “trial period.” Many subscription services provide a trial period in which the service is free before users are charged for their time afterward. Before students begin the activity, make sure they see that an input value of 1 represents 1 month of the service after the trial period.
+Also tell students that the providers will charge a “prorated” amount for canceling in the middle of the month. For example, if the service is canceled on the 15th of the month, the user will be charged for half of the usual month’s fees.
+Select groups with different strategies, such as those described in the Activity Narrative, to share later.
+"""
+### Student Task Statement
+"""
+Elena is looking at options for video game consoles. Each option begins with a purchase of the console and a 1 month free trial period of the online gaming service. The monthly cost of each option can be seen as a function and represented with an equation:
+Option A: \(A(x) = 600\)
+Option B: \(B(x) = 10x + 250\)
+In each function, the input, \(x\), represents the number of months Elena uses the online gaming service after the free trial period.
+Elena decides to find the values of \(A(1)\) and \(B(1)\) and compare them. What are those values?
+When planning her budget, she compares \(A(7.5)\) and \(B(7.5)\). What are those values?
+Describe each option in words.
+Graph each function on the same coordinate plane. Then, explain which option you think she should choose.	​​​​​​​​​​​
+​​​​​
+Image description: <p>Blank grid. Horizontal axis, 0 to 90, months after trial. Vertical axis, 0 to 900 by 100’s, cost, dollars.</p>
+​​​​​​
+Elena budgeted only \$280 for the console and online service. She thought, “I wonder how many months I could have for \$280 if I go with Option B” and wrote \(B(x) = 280\). What is the answer to her question? Explain or show how you know.
+"""
+### Building on Student Thinking
+"""
+Students may question if \(A\) is a function at all because unlike \(B\) or other function rules they have seen so far, \(A(x)\) is defined with a constant instead of an expression containing the dependent variable. Or they may wonder why \(A(x)\) has the same value no matter what the input value is. Ask students to recall the definition of function and to consider whether each input value gives only one output value. Because it does, even though it is always the same output value, \(A\) is still a function.
+"""
+### Are You Ready for More?
+"""
+Describe an option that, for any amount of time used, would cost no more than one of the given options and no less than the other given option. Explain or show how you know this option would meet these requirements.
+"""
+### Activity Synthesis
+"""
+The purpose of this discussion is to explore linear functions that represent situations and examine how to solve functions when the input or output value is known.
+Select students to share their interpretations of the two options. Make sure students see that:
+The equation \(A(x)=600\) tells us that, regardless of the number of months the service is used, \(x\), the cost, \(A(x)\) is always 600.
+The \(10x\) in the rule of \(B(x)\) tells us that each extra month of service after the trial period costs \$10, and that there is a \$250 price for the console.
+Explain to students that the two functions here are linear functions because the output of each function changes at a constant rate relative to the input. Option B involves a rate of change of \$10 per additional month after the trial period, while Option A has a rate of change of \$0 per additional month after the trial period.
+Then, ask students how they went about graphing the functions. Students are likely to have plotted some input-output pairs of each function. If no students mention identifying the slope and vertical intercept of each graph, ask them about it.
+Invite previously selected groups to share how they solved the last question. Sequence the discussion of the strategies by the order listed in the Activity Narrative. If possible, record and display their work for all to see.
+Connect the different responses to the learning goals by asking questions, such as:
+“How did the console price show up in your work of finding the number of months Elena could get for \$280?” (It is the constant 250 in the function. I subtracted that from the budgeted \$280 to see that there is \$30 left for additional months.)
+“How would these methods change if Elena had budgeted \$300?” (I would replace the 280 with 300 in my equation and solve the new equation for \(x\).)
+“Why is the graph of \(A(x)\) a horizontal line?” (\(A(x)\) is the output of function \(A\) and is represented by vertical values on a coordinate plane. The vertical values are typically labeled with the variable \(y\), so we can write \(y = A(x)\) and graph \(y = 600\) to represent function \(A\).)
+“How can we see the slope and intercept of the graph of Option B in the function?” (\(B(x)\)  is the output of function \(B\) and is represented by vertical values on a plane. We can write \(y = B(x)\) or \(y = 10x+250\) to see that the slope is 10 and the \(y\)-intercept is 250.)
+If time permits, invite students to share which option they believe Elena should choose and why.
+"""
+## Activity
+### Activity Timing
+20 mins
+### Activity Title
+Function Notation and Graphing Technology
+### Activity Narrative
+"""
+In this optional activity, students learn to use graphing technology to graph an equation in function notation, evaluate the function at a specific input value, create a table of inputs and outputs, and identify the coordinates of the points along a graph. They also revisit how to set an appropriate graphing window.
+In the digital version of the activity, students use an applet to find precise function values. The applet allows students to click on the graph of a function to find precise coordinate pairs. If available, use the digital version to increase precision and allow students to focus on the notation rather than estimation.
+"""
+### Launch
+"""
+Display the equation \(B(x) = 10x+25\) for all to see. Ask students,
+“How would you go about finding the value of \(B(1.482)\)?” (Substitute 1.482 into the expression \(10x+25\) and evaluate, or use the graph of \(y=10x+25\) to estimate the \(y\)-value when \(x\) is 1.482.)
+“How would you find the value of \(x\) that makes \(B(x) = 103.75\) true? Try solving the equation.” (Solve \(10x+25=103.75\), or use the graph of \(y=10x+25\) to estimate the \(x\)-value when \(y\) is 103.75.)
+Explain that while it’s possible to use a graph to find or estimate unknown input or output values, it is hard to be precise when using a hand-drawn or printed graph. We can evaluate the expression or solve the equation algebraically, but computing by hand can get cumbersome (though a calculator can take care of the most laborious part). Let’s see how graphing technology can help us!
+The digital version of this activity includes instructions for using the Desmos Math Tool to graph an equation, change the graphing window, and find the output of a function for a given input. If students will be using different graphing technology, consider preparing alternate instructions.
+Demonstrate how to graph \(B(x) = 10x+25\), change the graphing window, and find \(B(4)\) on the graph.
+Ask students to find the value of \(x\) when \(B(x)\) is 100. Then, demonstrate some ways (other than approximating visually) to solve for \(x\) given \(B(x) = 100\):Trace the line. Coordinates appear as we move along the line. Stop when the \(y\)-coordinate is 100, and see what the \(x\)-coordinate is.Type \(y=100\) in the expression list. A horizontal line appears. Find the intersection of this line and the graph of \(B\).
+Ask students to find the value of \(x\) when \(B(x)\) is 100. Then, demonstrate some ways (other than approximating visually) to solve for \(x\) given \(B(x) = 100\):
+Trace the line. Coordinates appear as we move along the line. Stop when the \(y\)-coordinate is 100, and see what the \(x\)-coordinate is.
+Type \(y=100\) in the expression list. A horizontal line appears. Find the intersection of this line and the graph of \(B\).
+Ask students to use one or both of these strategies to complete the activity.
+"""
+### Student Task Statement
+"""
+The function \(B\) is defined by the equation \(B(x) = 10x + 25\). Use graphing technology to:
+Find the value of each expression:\(B(6)\)\(B(2.75)\)\(B(1.482)\)
+Find the value of each expression:
+\(B(6)\)
+\(B(2.75)\)
+\(B(1.482)\)
+Solve each equation:\(B(x) = 93\)\(B(x) = 42.1\)\(B(x) = 116.25\)
+Solve each equation:
+\(B(x) = 93\)
+\(B(x) = 42.1\)
+\(B(x) = 116.25\)
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Invite students to share any insights they had while using the graphing tool and techniques to evaluate expressions and solve equations. In what ways might the tool and techniques be handy? When might they be limited?
+Also discuss any issues, technical or otherwise, that students encountered while completing the task.
+If desired, consider showing another way to obtain input-output pairs of a function in Desmos.
+Let’s assign a new input variable, say \(n\), to function \(B\). If we enter \((n, B(n))\) in the expression list, activate a slider for \(n\), and enable the option to label points, the graph will show the coordinate pair for any value of \(n\).
+Image description: <p>Screenshot of a Desmos graph.</p>
+"""
+# Lesson Close
+## Lesson Synthesis
+"""
+Refer back to the activity about gaming consoles. Display the two graphs for all to see.
+Ask students to use the graphs to find:
+The values of \(A(8)\) and \(B(8)\). (\(A(8)=600, B(8)\) is a little more than 300.)
+The solutions to \(A(x) = 700\) and \(B(x) = 700\). (\(A(x) = 700\) does not happen for any \(x\) value. \(B(x) = 700\) when \(x\) is about 45.)
+(Hold off on discussing students’ responses.)
+Image description: <p>Two functions. months after free trial and cost (dollars).</p>
+Next, display the two equations for all to see.
+Ask students to use the equations to find the same four values as they have just found using the graphs.
+\(A(x)=600\)
+\(B(x)=10x+250\)
+Invite students to compare and contrast the graphical and algebraic approaches for finding unknown inputs and outputs of linear functions. Discuss questions such as:
+“How easy is it to use the graph of \(B\) to find an output value, such as \(B(8)\)? What about using the graph to find an input value, such as the \(x\) in \(B(x)=700\)?” (Both are fairly straightforward, but may not be very precise. Some estimation was necessary. It was very easy to see that there is no solution to \(A(x)=700\).)
+“How easy is it to use the rule \(B(x)=10x+250\) to find an output value, such as \(B(8)\)? What about finding an input value, such as the \(x\) in \(B(x)=700\)?” (Both are fairly simple, but if the rule or the given input or output involves numbers that are harder to compute by hand, it might be more complicated.)
+If students did the optional activity on using graphing technology, ask students to identify some ways that technology could help to find unknown input and output values of a function.
+"""
+## Student Lesson Summary
+"""
+Knowing the rule that defines a function can be very useful. It can help us to:
+Find the output when we know the input.If the rule \(f(x) = 5(x+2)\) defines \(f\), we can find \(f(100)\) by evaluating \(5(100+2)\).If \(m(x) = 3-\frac12x \) defines function \(m\), we can find \(m(10)\) by evaluating \(3-\frac12(10)\).
+Find the output when we know the input.
+If the rule \(f(x) = 5(x+2)\) defines \(f\), we can find \(f(100)\) by evaluating \(5(100+2)\).
+If \(m(x) = 3-\frac12x \) defines function \(m\), we can find \(m(10)\) by evaluating \(3-\frac12(10)\).
+Create a table of values.Here are tables representing functions \(f\) and \(m\):\(x\)\(f(x)=5(x+2)\)010115220325430\(x\)\(m(x)=3-\frac12x\)031\(2\frac12\)223\(1\frac12\)41
+Create a table of values.
+Here are tables representing functions \(f\) and \(m\):
+\(x\) | \(f(x)=5(x+2)\)
+0 | 10
+1 | 15
+2 | 20
+3 | 25
+4 | 30
+\(x\) | \(m(x)=3-\frac12x\)
+0 | 3
+1 | \(2\frac12\)
+2 | 2
+3 | \(1\frac12\)
+4 | 1
+Graph the function. The horizontal values represent the input, and the vertical values represent the output.For function \(f\), the values of \(f(x)\) are the vertical values, which are often labeled \(y\), so we can write \(y=f(x)\). Because \(f(x)\) is defined by the expression \(5(x+2)\), we can graph \(y=5(x+2)\).For function \(m\), we can write \(y = m(x)\) and graph \(y=3- \frac12x\).Graph of a line, origin O. X axis from negative 4 to 4, by 2s. Y axis from negative 20 to 20, by 20s. Line passes through points negative 4 comma negative 10, negative 2 comma 0, 0 comma 10, and 2 comma 20.
+Graph the function. The horizontal values represent the input, and the vertical values represent the output.
+For function \(f\), the values of \(f(x)\) are the vertical values, which are often labeled \(y\), so we can write \(y=f(x)\). Because \(f(x)\) is defined by the expression \(5(x+2)\), we can graph \(y=5(x+2)\).
+For function \(m\), we can write \(y = m(x)\) and graph \(y=3- \frac12x\).
+Graph of a line, origin O. X axis from negative 4 to 4, by 2s. Y axis from negative 20 to 20, by 20s. Line passes through points negative 4 comma negative 10, negative 2 comma 0, 0 comma 10, and 2 comma 20.
+Image description: <p>Graph of a line, origin O.</p>
+Image description: <p>Graph of function y equals m of x. Origin O. X axis from negative 8 to 8. Y axis from negative 4 to 4. Graph is a line that passes through negative 2 comma 4 and 2 comma 2.</p>
+Find the input when we know the output.Suppose the output of function \(f\) is 65 at some value of \(x\), or \(f(x)=65\), and we want to find out what that value is. Because \(f(x)\) is equal to \(5(x+2)\), we can write \(5(x+2)=65\) and solve for \(x\).\(\begin{align}5(x+2)&=65\\ x+2 &=13\\ x&=11 \end {align}\)
+Find the input when we know the output.
+Suppose the output of function \(f\) is 65 at some value of \(x\), or \(f(x)=65\), and we want to find out what that value is. Because \(f(x)\) is equal to \(5(x+2)\), we can write \(5(x+2)=65\) and solve for \(x\).
+\(\begin{align}5(x+2)&=65\\ x+2 &=13\\ x&=11 \end {align}\)
+Each function here is a linear function because the value of the function changes by a constant rate and its graph is a line.
+"""

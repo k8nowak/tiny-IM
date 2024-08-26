@@ -18,11 +18,20 @@ unit_name = 'Functions'
 
 
 lesson_content_template = """
-Unit {unit_num}: {unit_name}
-Lesson {lesson_num}: {lesson_title}
-
-Total Activity Time: {total_activity_time} mins
-Total Lesson Time: {total_lesson_time} mins
+# Lesson Location
+## Unit Number
+{unit_num}
+## Unit Name
+{unit_name}
+## Lesson Number 
+{lesson_num}
+## Lesson Title
+{lesson_title}
+# Lesson Timing
+## Total Activity Time in Minutes 
+{total_activity_time}
+## Total Lesson Time incl Lesson Synthesis
+{total_lesson_time} 
 
 {prep_content}
 
@@ -106,7 +115,7 @@ def get_lesson_contents(lesson_url, prep_url):
         elif element.name == 'div' and 'im-c-icon-heading__title' in element.get('class', []):
             text = element.get_text().strip().replace('\n', '')
 
-        if text and text and text != text2 and text != text3:
+        if text and text != text2 and text != text3:
             extracted_content.append(text)
             text3 = text2
             text2 = text
@@ -182,8 +191,8 @@ def get_lesson_contents(lesson_url, prep_url):
         stop_index = prep_content.index(stop_at) + 1
         prep_content = prep_content[stop_index:]
 
-    prep_content.insert(0, "\n\nLesson Preamble\n")
-    extracted_content_str.insert(0, "\n\nLesson Content\n")
+    prep_content.insert(0, "\n\nLesson Preamble")
+    extracted_content_str.insert(0, "\n\nLesson Content")
 
     # Combine and format the extracted content using the template
     combined_content = lesson_content_template.format(
@@ -194,7 +203,7 @@ def get_lesson_contents(lesson_url, prep_url):
         prep_content='\n'.join(prep_content),
         extracted_content='\n'.join(extracted_content_str),
         total_activity_time=total_time,
-        total_lesson_time=total_time + 5
+        total_lesson_time=total_time + 10
     )
 
     title_string = lesson_title.replace(" ", "_")
@@ -207,6 +216,7 @@ def get_lesson_contents(lesson_url, prep_url):
         filename = title_string + '.txt'
     with open(filename, 'w') as file:
         file.write(combined_content)
+        print(f"Lesson {lesson_num} extracted and saved to {filename}")
 
 
 # uncomment the following lines to extract all lessons in the unit

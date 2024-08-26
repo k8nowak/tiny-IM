@@ -1,14 +1,22 @@
 
-Unit 5: Functions
-Lesson 17: Writing Inverse Functions to Solve Problems
-
-Total Activity Time: 35 mins
-Total Lesson Time: 40 mins
+# Lesson Location
+## Unit Number
+5
+## Unit Name
+Functions
+## Lesson Number 
+17
+## Lesson Title
+Writing Inverse Functions to Solve Problems
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
 
 
 
 Lesson Preamble
-
 CC BY-NC 4.0
 Preparation
 Lesson
@@ -51,7 +59,6 @@ View Student Lesson
 
 
 Lesson Content
-
 Preparation
 Lesson
 ## Lesson 17

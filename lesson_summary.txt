@@ -1,0 +1,115 @@
+Options for First Slide
+
+
+
+
+----------------------------------------
+What Students Do
+Prompt used: 
+Being as concise as possible, summarize what students do in this lesson in one sentence.
+Only include the really key essential stuff that is the core of the lesson. Do not include any nice-to-knows
+or side quests. Really encapsulate it into a super brief description. Eliminate any redundant or unnecessary words. 
+For example, this might look like: 'in groups of 4, plan a pizza party and estimate the costs'. 
+Here are the contents of the lesson: 
+
+
+
+----------------------------------------
+Providing the whole lesson 
+first version
+Students analyze relationships between quantities to determine if they form functions, identify independent and dependent variables, and create corresponding graphs.
+
+
+----------------------------------------
+shortened version
+Students analyze quantities to find functions, identify variables, and create graphs.
+
+
+----------------------------------------
+Providing just the activities 
+first version
+Students work in groups to analyze relationships involving functions by completing tables, sketching graphs, and discussing the nature of independent and dependent variables in the context of a dog's distance from a post and the pricing of bagels.
+
+
+----------------------------------------
+shortened version
+Students analyze function relationships in groups. They complete tables, sketch graphs, and discuss independent and dependent variables. They focus on a dog's distance from a post and bagel pricing.
+
+
+----------------------------------------
+Providing just the lesson narrative and lesson synthesis
+first version
+Students analyze tables and graphs to determine if relationships are functions, defining independent and dependent variables in real-life contexts.
+
+
+----------------------------------------
+shortened version
+Students analyze tables and graphs to identify functions. They define independent and dependent variables in real life.
+
+
+----------------------------------------
+
+----------------------------------------
+## What Students Learn
+
+
+
+----------------------------------------
+### Learning Goals Version
+
+**What Students Learn:**
+(1) That a relationship between two quantities is a function when there’s one output for each input.  
+(2) To interpret and describe functions using words and graphs, identifying independent and dependent variables.
+
+
+----------------------------------------
+**Shortened Version:**
+(1) A function has one output for each input.  
+(2) Describe functions with words and graphs; identify variables.
+
+
+----------------------------------------
+### Learning Targets Version
+
+**What Students Learn:**
+(1) That a relationship between two quantities is a function.  
+(2) To interpret and explain descriptions and graphs of functions and their connections to real-life situations.  
+(3) To identify independent and dependent variables in a function and use words and graphs to represent it.
+
+
+----------------------------------------
+**Shortened Version:**
+(1) A relationship between two quantities is a function.  
+(2) Interpret descriptions and graphs of functions in real life.  
+(3) Identify independent and dependent variables and represent them.
+
+
+----------------------------------------
+
+----------------------------------------
+## Lesson Narrative
+
+
+
+----------------------------------------
+### Lesson Narrative Version
+
+**Where It Fits:**
+as a foundation for understanding the nature of functions; as a bridge to applying functions in real-world contexts.
+
+
+----------------------------------------
+**Shortened Version:**
+for understanding functions and using them in real life.
+
+
+----------------------------------------
+
+**Shortening Prompt:**
+```
+Rewrite this copy. Use plain everyday language and make it absolutely as concise as possible while retaining critical meaning. Ruthlessly delete words that aren't absolutely necessary. Any sentence or component should be maximum ten words. If the input contains any formatting, keep the same style of formatting.
+
+```
+
+
+----------------------------------------

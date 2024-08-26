@@ -1,48 +1,54 @@
 
-Unit 5: Functions
-Lesson 14: Absolute Value Functions (Part 2)
+# Lesson Location
+## Unit Number
+5
+## Unit Name
+Functions
+## Lesson Number 
+14
+## Lesson Title
+Absolute Value Functions (Part 2)
+# Lesson Timing
+## Total Activity Time in Minutes 
+50
+## Total Lesson Time incl Lesson Synthesis
+60 
 
-Total Activity Time: 50 mins
-Total Lesson Time: 55 mins
 
 
-
-Lesson Preamble
-
-CC BY-NC 4.0
-Preparation
-Lesson
-# Absolute Value Functions (Part 2)
+# Lesson Preamble
 ## Lesson Narrative
+"""
 Students learned in previous courses that absolute value is the distance between a number and 0 on the number line. In this lesson, students look at the function \(f(x) = |x|\).
 Students see that because the graph of the absolute value function is composed of two linear pieces that form a V shape, the same function can also be defined as a piecewise function and described with this equation:
 \(\displaystyle f(x)=\begin{cases} x,& x\geq 0 \\ \text{-}x,& x < 0 \end{cases} \)
 Students also look at basic translations of the absolute value function by considering functions of the forms \(f(x) = \lvert x + a\rvert\) and \(g(x) = \lvert x \rvert + b\).  They focus on the location of the vertex of the graph, which is the highest or lowest point in an area of the graph. After noticing the influence of the constants, an optional activity is available to practice translating absolute value functions.
 Students look for and make use of structure (MP7) to relate the translation of a graph to the terms or values in the expression that defines the function. The distinctive V shape of the graph of an absolute value function is ideal for observing how adding or subtracting a constant term affects its graph.
+"""
 ## Learning Goals
 Analyze and describe (orally and in writing) the effects of adding a constant term to an expression defining an absolute value function.
 Interpret an absolute value function described in words or in function notation, and create a table of values and a graph to represent the function.
 Define absolute value function in terms of the distance of the input from zero.
-### Student-Facing Goal
+## Student-Facing Goal
 Let’s investigate distance as a function.
-### Student-Facing Targets
+## Student-Facing Targets
 I can describe the effects of adding a number to the expression that defines an absolute value function.
 When given an absolute value function in words or in function notation, I can make sense of it and create a table of values and a graph to represent it.
 I can explain the meaning of absolute value function in terms of distance.
-## Required Materials
+Required Materials
 #### Activity 4
 Graphing technology
 ## Required Preparation
 #### Activity 3
-### Standards Alignment
-#### Building On
-#### Addressing
+## Standards Alignment
+### Building On
+### Addressing
 HSF-BF.A.1
 HSF-BF.A.1.a
 HSF-BF.B.3
 HSF-IF.C
 HSF-IF.C.7.b
-#### Building Toward
+### Building Toward
 HSF-BF.A.1
 ## Glossary
 ### vertex (of a graph)
@@ -52,19 +58,20 @@ The absolute value of a number is its distance from 0 on the number line.
 
 
 
-Lesson Content
-
-Preparation
-Lesson
-## Lesson 14
-# Absolute Value Functions (Part 2)
-Image description: Course Icon
+# Lesson Content
+## Activity
+### Activity Timing
 10 mins
-## Warm-up
-### Temperature in Toronto
+### Activity Title
+Temperature in Toronto
 ### Activity Narrative
+"""
+"""
 ### Launch
+"""
+"""
 ### Student Task Statement
+"""
 Toronto is a city at the border of the United States and Canada, just north of Buffalo, New York. Here are twelve guesses of the average temperature of Toronto, in degrees Celsius, in February 2017.
 5
 2
@@ -83,9 +90,14 @@ The actual average temperature of Toronto in February 2017 is 0 degrees Celsius.
 Use this information to sketch a scatter plot representing the guesses, \(x\), and the corresponding absolute guessing errors, \(y\).
 Image description: <p>horizontal axis, guess. scale -8 to 8, by 1's. vertical axis, absolute guessing error. scale 0 to 8, by 1's. </p>
 What rule can you write to find the output given the input?
+"""
 ### Building on Student Thinking
+"""
 Some students may struggle to plot the data without explicitly computing the absolute guessing errors first or creating a table of values. Encourage them to take those intermediate steps if they are helpful.
+"""
 ### Are You Ready for More?
+"""
+"""
 ### Activity Synthesis
 Select a student to display the completed scatter plot. Ask students:
 "How is the scatter plot for this data like the scatter plot for the absolute guessing errors from an earlier lesson?" (The points still form a V shape. There are still no negative \(y\)-values.)
@@ -94,18 +106,25 @@ To help students see that the "actual average temperature" is like the "actual n
 Earlier, we saw that when the actual number of items is \(a\), the absolute guessing error is "the distance of guess from \(a\)," which can be expressed as "the absolute value of (guess - \(a\))," or \(|\text{guess} - a|\).
 Here, likewise, when the actual average temperature is \(a\) and the guess is \(x\), the absolute guessing error, \(y\), is "the distance of \(x\) from \(a\)," which can be written as \(y = |x-a|\).
 When the actual temperature in Toronto is 0 degrees Celsius, \(y\) is "the distance of \(x\) from 0," which can be written as \(y=|x-0|\), or simply \(y=|x|\).
-15 mins
 ## Activity
-### The Distance Function
+### Activity Timing
+15 mins
+### Activity Title
+The Distance Function
 ### Activity Narrative
+"""
 This activity formally introduces students to the absolute value function as the function that takes an input value and gives its distance from the origin as the output. Students see two different ways to represent this function algebraically: using the absolute value notation and using the cases notation:
 \(A(x)=|x|\)
 \(A(x)=\begin{cases} x,& x \geq 0 \\ \text{-}x, & x < 0 \end{cases}\)
 The equation in cases notation focuses on what has to happen algebraically to an input value to give its distance from the origin. Different rules apply to different intervals of the domain.
 As students work, look for those who plot points for the graph of function \(A\) and those who sketch two lines. Ask students who sketch different types of graphs to share during discussion.
+"""
 ### Launch
+"""
 Arrange students in groups of 2. Give students a few minutes of quiet work time, than time to share their response with their partner. Follow with a whole-class discussion.
+"""
 ### Student Task Statement
+"""
 The function \(A\) gives the distance of \(x\) from 0 on the number line.
 Complete the table with at least one possible value in each blank position, and sketch a graph of function \(A\).	\(x\)\(A(x)\)85.6\(\pi\)\(\frac12\)10\(\text-\frac12\)-1-5.68
 \(x\) | \(A(x)\)
@@ -125,9 +144,14 @@ Andre and Elena are trying to write a rule for this function.
 Andre writes: \(A(x)=\begin{cases} x,& x \geq 0 \\ \text-x, & x < 0 \\ \end{cases}\)
 Elena writes: \(A(x) = |x|\)
 Explain why both equations correctly represent the function \(A\).
+"""
 ### Building on Student Thinking
+"""
 Students who interpret the “\(\text-x\)” in Andre's rule to mean "negative \(x\)" (rather than "the opposite of \(x\)") may be unsure how to use that information. Ask students to evaluate the function for specific values of \(x\) and to write down each step. For instance, when \(x\) is -2, \(A(\text{-}2)\) is \(\text{-}(\text{-}2)\), which is 2.
+"""
 ### Are You Ready for More?
+"""
+"""
 ### Activity Synthesis
 Select previously identified students to display their graph of function \(A\). Ask students who plotted only the ordered pairs in the table whether the pairs that are not in the table, if plotted, would also fall on the same two lines. Emphasize that \(A\) can be shown with two lines.
 Next, ask students to share their response to the last question. Students may find Elena's rule easier to explain because of their work with absolute value in recent activities. They may struggle to explain Andre's rule.
@@ -144,10 +168,13 @@ Explain to students that:
 Function \(A\) is the absolute value function. It gives the distance of an input value from a certain value, the origin in this case.
 The graph of function \(A\) is a V shape with the two lines of points meeting at \((0,0)\), which is the minimum of the graph. We call this point the vertex of the graph. It is the point where the graph changes direction.
 The absolute value function is also a piecewise function because different rules are applied to different parts of the domain to get the outputs.
-10 mins
 ## Activity
-### Moving Graphs Around
+### Activity Timing
+10 mins
+### Activity Title
+Moving Graphs Around
 ### Activity Narrative
+"""
 In this activity, students expand their awareness of absolute value functions by analyzing the graphs and equations of several absolute value functions. The graphs have the same V shape but not the same vertex. The expressions that define the functions have a constant term added to or subtracted from the input, \(x\), or from the absolute value of the input, \(|x|\). Students observe how each constant term affects the graph and consider possible explanations.
 Dynamic graphing technology can be very useful for observing how the parameters of a function are related to the features of its graph and can help students generalize their observations. Consider giving students individual access to dynamic graphing technology and then giving them time to explain the behaviors of the graphs. If students don't have individual access, projecting the applet in the digital Launch would be helpful.
 Although digital tools can help students notice the connection between the parameters and the graph easily, it is still important for students to understand why they behave in that way.
@@ -157,13 +184,17 @@ Interpret the expressions in terms of finding an absolute error of a guess.
 Use the position of the number added or subtracted to reason about how the inputs and outputs are affected in the graph.
 Plan to have students present in this order to support moving students from plotting points to thinking of functions as an object that can be translated.
 In the digital version of the activity, students use an applet to adjust the parameters for translating functions. The applet allows students to see how the different values affect the graph in real time. Use the digital version if available so that students can more easily see the connections between the values added to different parts of the function and the result for the graph.
+"""
 ### Launch
+"""
 Give students a few minutes of quiet think time. Provide access to graphing technology, if requested.
 Ask students to not only observe how the addition or subtraction of 2 affects each graph, but also be prepared to offer an explanation for why it makes sense that the graph is where it is. Consider demonstrating what a possible explanation could look or sound like, using function \(f\) as an example. Or, consider giving prompts, such as:
 It makes sense that the graph of \(\underline {\hspace{0.5in}}\) is located \(\underline {\hspace{0.5in}}\) because . . . .
 I know that the vertex of the graph of \(\underline {\hspace{0.5in}}\) belongs at \(\underline {\hspace{0.5in}}\) because . . . .
 Select students with different approaches, such as those described in the Activity Narrative, to share later.
+"""
 ### Student Task Statement
+"""
 Here are equations and graphs that represent five absolute value functions.
 \(f(x)=|x|\)
 Image description: <p>graph of f of x = the absolute value of x.</p>
@@ -177,14 +208,19 @@ Image description: <p>graph of absolute value function with vertex at 0 comma -
 Image description: <p>Graph of absolute value function with vertex on y axis up 2 units from the origin </p>
 Notice that the number 2 appears in the equations for functions \(g,h,j\), and \(k\). Describe how the addition or subtraction of 2 affects the graph of each function.
 Then, think about a possible explanation for the position of the graph. How can you show that it really belongs where it is on the coordinate plane?
+"""
 ### Building on Student Thinking
+"""
+"""
 ### Are You Ready for More?
+"""
 Mark the minimum of each graph in the activity. Each point you marked represents the least output value of the function.In each function, what value of \(x\) gives that minimum output value?
 Mark the minimum of each graph in the activity. Each point you marked represents the least output value of the function.
 In each function, what value of \(x\) gives that minimum output value?
 Another function is defined by \(m(x)=|x+11.5|\). What value of \(x\) produces the least output of function \(m\)? Be prepared to explain how you know.Describe or sketch the graph of \(m\).
 Another function is defined by \(m(x)=|x+11.5|\). What value of \(x\) produces the least output of function \(m\)? Be prepared to explain how you know.
 Describe or sketch the graph of \(m\).
+"""
 ### Activity Synthesis
 Invite previously selected students to share their reasoning about the position of the graphs with different parameters. Sequence the discussion of the approaches by the order listed in the Activity Narrative. If possible, record and display their work for all to see.
 Connect the different responses to the learning goals by asking questions, such as:
@@ -194,10 +230,13 @@ Connect the different responses to the learning goals by asking questions, such 
 If time permits and if not already mentioned by students, remind students that each function can be seen as a piecewise function with two parts, each part being a linear function.
 Graphing the two linear functions gives two lines that intersect on the horizontal axis. For \(g\), the two lines meet at \((2,0)\). For \(h\), they meet at \((\text-2,0)\).
 Image description: <p>graph absolute value function </p>
-15 mins
 ## Activity
-### More Moving Graphs Around
+### Activity Timing
+15 mins
+### Activity Title
+More Moving Graphs Around
 ### Activity Narrative
+"""
 This optional activity gives students a chance to test the observations or apply the generalizations they made in the previous activity. They match equations and graphs of other absolute value functions, then sketch the graph of an equation without a match.
 Students also encounter new cases in which a constant term is added or subtracted both before and after absolute value is applied to the input, resulting in a graph that shifts both vertically and horizontally relative to the graph of \(f(x)=|x|\).
 In making the matches (and before using technology to check their graphs), students are likely to reason in different ways and rely on structure to varying degrees (MP7). For instance, students may:
@@ -206,9 +245,13 @@ Start with the graph of \(|x|\) and then shift sideways for addition or subtract
 Think about the \(x\)-value that would produce the smallest possible output and relate that ordered pair to the vertex of the graph.
 Monitor for students using different strategies, and invite them to share during discussion.
 Students will have opportunities to explore transformations of functions and their graphs in a later unit and more formally in a future course.
+"""
 ### Launch
+"""
 Provide access to devices that can run Desmos or other graphing technology.
+"""
 ### Student Task Statement
+"""
 Here are five equations and four graphs.
 Equation 1: \(y=|x-3|\)
 Equation 2: \(y=|x-9|+3\)
@@ -226,19 +269,28 @@ Image description: <p>graph of absolute value function with vertex at 9 comma 3
 Match each equation with a graph that represents it. One equation has no match.
 For the equation without a match, sketch a graph on the blank coordinate plane.
 Use graphing technology to check your matches and your graph. Revise your matches and graphs as needed.
+"""
 ### Building on Student Thinking
+"""
+"""
 ### Are You Ready for More?
+"""
+"""
 ### Activity Synthesis
 Select previously identified students to share their strategies for making a match. If students use the strategies listed in the Activity Narrative, order their presentation as shown.
 If time permits, ask students to use a strategy that they find effective to describe the graphs of \(f(x) = |x-3|+5\) and \(y = |x+4|+7\).
+# Lesson Close
 ## Lesson Synthesis
+"""
 Display the graph of \(A(x)=|x|\) for all to see, along with the two equations for the function, \(A(x)=|x|\) and \(\displaystyle A(x)=\begin{cases} x,& x\geq 0 \\ \text{-}x,& x < 0 \end{cases} \)
 Ask questions such as:
 "None of the points on the graph of this absolute value function lie below the \(x\)-axis. Why is that?" (The absolute value of a number is never negative.)
 "Suppose we know that \(A(x)\) is 4. How do we know what value or values of \(x\) would give an output of 4?" (We look at numbers that are 4 units from 0. There are two numbers that meet this requirement: 4 and -4.)
 "How do we use the equation \(A(x)=|x|\) to find the function value at \(x=\text{-}5\)?" (\(A(\text-5) = |\text-5|\), which is 5.)
 "How do we use the equation that uses the cases notation to find the function value at \(x=\text-5\)?" (Because -5 is less than 0, we use the rule for \(x<0\) and find \(A(\text{-}5)\), which gives \(\text{-}(\text{-}5)\) or 5.)
+"""
 ## Student Lesson Summary
+"""
 In a guessing game, each guess can be seen as an input of a function and each absolute guessing error as an output. Because absolute guessing error tells us how far a guess is from a target number, the output is distance.
 Suppose the target number is 0.
 We can find the distance of a guess, \(x\), from 0 by calculating \(x-0\). Because distance cannot be negative, what we want to find is \(|x-0|\), or simply \(|x|\).
@@ -262,3 +314,4 @@ Image description: <p>Graph of absolute value function q with vertex at -4 comm
 Notice that the graphs of \(p\) and \(q\) are like that of \(f\), but they have shifted horizontally.
 
 
+"""

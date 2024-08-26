@@ -1,37 +1,43 @@
 
-Unit 5: Functions
-Lesson 10: Domain and Range (Part 1)
+# Lesson Location
+## Unit Number
+5
+## Unit Name
+Functions
+## Lesson Number 
+10
+## Lesson Title
+Domain and Range (Part 1)
+# Lesson Timing
+## Total Activity Time in Minutes 
+45
+## Total Lesson Time incl Lesson Synthesis
+55 
 
-Total Activity Time: 45 mins
-Total Lesson Time: 50 mins
 
 
-
-Lesson Preamble
-
-CC BY-NC 4.0
-Preparation
-Lesson
-# Domain and Range (Part 1)
+# Lesson Preamble
 ## Lesson Narrative
+"""
 In this lesson, students focus their attention on possible input and output values. They define the list of possible inputs as the domain of the function and the possible outputs as the range of the function. They identify the domain and range of functions from graphs and descriptions of situations, then describe them using words, lists of numbers, or inequalities (if appropriate).
 Students' analyses of inputs and outputs continue to be grounded in context, allowing many chances to reason quantitatively and abstractly (MP2). In an optional activity, there is an opportunity to study the domain of a function without a context.
+"""
 ## Learning Goals
 Given a description of a function that represents a situation, determine reasonable domain and range.
 Understand that the domain of a function is the set of all possible inputs and the range is the set of all possible outputs.
-### Student-Facing Goal
+## Student-Facing Goal
 Let’s find all possible inputs and outputs for a function.
-### Student-Facing Targets
+## Student-Facing Targets
 When given a description of a function in a situation, I can determine a reasonable domain and range for the function.
 I know what is meant by the “domain” and “range” of a function.
 ## Required Preparation
 #### Activity 4
-### Standards Alignment
-#### Building On
-#### Addressing
+## Standards Alignment
+### Building On
+### Addressing
 HSF-IF.B
 HSF-IF.B.5
-#### Building Toward
+### Building Toward
 ## Glossary
 ### domain
 The domain of a function is the set of all of its possible input values.
@@ -40,20 +46,21 @@ The range of a function is the set of all of its possible output values.
 
 
 
-Lesson Content
-
-Preparation
-Lesson
-## Lesson 10
-# Domain and Range (Part 1)
-Image description: Course Icon
+# Lesson Content
+## Activity
+### Activity Timing
 5 mins
-## Warm-up
-### Number of Barks
+### Activity Title
+Number of Barks
 ### Activity Narrative
+"""
 This Warm-up prompts students to consider possible input and output values for a familiar function in a familiar context. The work here prepares students to do the same in other mathematical contexts and to think about domain and range in the rest of the lesson.
+"""
 ### Launch
+"""
+"""
 ### Student Task Statement
+"""
 The total number of times a dog has barked is a function of the time, in seconds, after its owner tied its leash to a post and left. Less than 3 minutes after he left, the owner returned, untied the leash, and walked away with the dog.
 Could each value be an input of the function? Be prepared to explain your reasoning.15\(84\frac12\)300
 Could each value be an input of the function? Be prepared to explain your reasoning.
@@ -65,17 +72,25 @@ Could each value be an output of the function? Be prepared to explain your reaso
 15
 \(84\frac12\)
 300
+"""
 ### Building on Student Thinking
+"""
+"""
 ### Are You Ready for More?
+"""
+"""
 ### Activity Synthesis
 Invite students to share their responses and reasoning. Highlight explanations that make a convincing case for why values beyond 180 could not be inputs for this function and why fractional values could not be outputs.
 Some students may argue that 300 could be an input because "300 seconds after the dog's owner walked away" is an identifiable moment, even though the dog and its owner have walked away and may no longer be near the post. Acknowledge that this is a valid point, and that it highlights the need for a function to be more specifically defined in terms of when it "begins" and "ends." If time permits, solicit some ideas on how this could be done.
 Tell students that in this lesson, they will think more about values that make sense as inputs and outputs of functions.
-20 mins
 ## Activity
-### Card Sort: Possible or Impossible?
+### Activity Timing
+20 mins
+### Activity Title
+Card Sort: Possible or Impossible?
 Possible or Impossible Cards
 ### Activity Narrative
+"""
 The goal for this activity is for students to define the domain of a function by examining what inputs are possible for various functions. The activity also gives students different types of numbers that they may consider when examining domains of functions in the future.
 Students sort different values as inputs during this activity. A sorting task gives students opportunities to analyze representations, statements, and structures closely and make connections (MP2, MP7).
 Monitor for different ways groups choose to categorize the values, but especially for categories that distinguish between different number types such as rationals, positives, negatives, and integers.
@@ -93,7 +108,9 @@ Each blackline master contains two sets of cards. Here are the numbers on the ca
 6.8
 72
 As students sort the cards and discuss their thinking in groups, listen for their reasons for classifying a number one way or another. Identify students who can correctly and clearly articulate why certain numbers are or are not possible inputs.
+"""
 ### Launch
+"""
 Arrange students in groups of 2, and distribute the pre-cut cards. Allow students to familiarize themselves with the values on the cards:
 Give students 1 minute to sort the cards into categories of their choosing.
 Pause the class after students have sorted the cards.
@@ -102,7 +119,9 @@ Discuss as many different types of categories as time allows.
 Attend to the language that students use to describe their categories and values, giving them opportunities to describe their values more precisely. Highlight the use of terms like “positive,” “negative,” “whole numbers,” “integers,” and “rational numbers.” After a brief discussion, invite students to complete the remaining questions.
 Clarify that the cards will get sorted three times (once for each function), so students should record their sorting results for one function before moving on to the next function.
 Some students may be unfamiliar with camps and may not know that units other than degrees Fahrenheit and Celsius are used to measure temperature. Provide a brief orientation, if needed.
+"""
 ### Student Task Statement
+"""
 Your teacher will give you a set of cards that each contain a number. Decide whether each number is a possible input for the functions described here. Sort the cards into two groups—possible inputs and impossible inputs. Record your sorting decisions.
 The area of a square, in square centimeters, is a function of its side length, \(s\), in centimeters. The equation \(A(s) = s^2\) defines this function.Possible inputs:Impossible inputs:
 The area of a square, in square centimeters, is a function of its side length, \(s\), in centimeters. The equation \(A(s) = s^2\) defines this function.
@@ -117,8 +136,13 @@ The relationship between temperature in degrees Celsius and the temperature in k
 The relationship between temperature in degrees Celsius and the temperature in kelvin can be represented by a function \(k\). The equation \(k(c) = c + 273.15\) defines this function, where \(c\) is the temperature in degrees Celsius and \(k(c)\) is the temperature in kelvin.
 Possible inputs:
 Impossible inputs:
+"""
 ### Building on Student Thinking
+"""
+"""
 ### Are You Ready for More?
+"""
+"""
 ### Activity Synthesis
 Select groups to share their sorting results. Record and display for all to see the values students considered possible and impossible inputs for each function. Discuss any remaining disagreements students might have about particular values.
 Tell students that we call the set of all possible input values of a function the domain of the function.
@@ -127,14 +151,21 @@ Students may not know that \(0\text{ K}\) or \(\text-273.15 ^\circ \text{C}\), i
 Area: \(s\), the input of function \(A\) can be any value equal to or greater than 0 (\(s \geq 0\)). The side length can be 0 or any positive number, including irrational numbers. There may be a debate over whether 0 is a possible length of a square. Either side of the debate should be accepted as long as the connection between the input and the side length of a square is made correctly.
 Tennis camp: \(n\), the input of function \(R\) can be any whole-number value that is at least 5 and at most 16 (\(5 \leq n \leq 16\)). The number of campers cannot be fractional.
 Temperature: \(c\), the input of function \(k\) can be any value that is greater than -273.15 (\(\text- 273.15).
-10 mins
 ## Activity
-### What about the Outputs?
+### Activity Timing
+10 mins
+### Activity Title
+What about the Outputs?
 ### Activity Narrative
+"""
 Earlier, students learned that the domain of a function refers to the set of all possible inputs. In this activity, students are introduced to the range of a function and examine it in terms of a situation. They begin to consider how the domain and range of a function are related to the features of its graph.
+"""
 ### Launch
+"""
 Keep students in groups of 2–4. Give students a few minutes of quiet work time and then a moment to share their responses with their group. Leave a few minutes for whole-class discussion.
+"""
 ### Student Task Statement
+"""
 In an earlier activity, you saw a function representing the area of a square (function \(A\)) and another representing the revenue of a tennis camp (function \(R\)). Refer to the descriptions of those functions to answer these questions.
 Here is a graph that represents function \(A\), defined by \(A(s) = s^2\), where \(s\) is the side length of the square in centimeters.	A graph with origin O. The horizontal axis, side length, centimeters, scale from 0 to 8 by 0.5’s. The vertical axis, area, square centimeters, scale from 0 to 50 by 25s. A curve, trending up and to the right, passes through the points 0 comma 0, 4 comma 16, and 6 comma 36.Name three possible input-output pairs of this function.Earlier we described the set of all possible input values of \(A\) as “any number greater than or equal to 0.” How would you describe the set of all possible output values of \(A\)?
 A graph with origin O. The horizontal axis, side length, centimeters, scale from 0 to 8 by 0.5’s. The vertical axis, area, square centimeters, scale from 0 to 50 by 25s. A curve, trending up and to the right, passes through the points 0 comma 0, 4 comma 16, and 6 comma 36.
@@ -152,10 +183,15 @@ A graph with origin O. The horizontal axis, number of students, scale from 0 to 
 Image description: <p>A graph. </p>
 A graph with origin O. The horizontal axis, number of students, scale from 0 to 20 by 1s. The vertical axis, amount in dollars, scale from 0 to 700 by 50s. Points are marked at 5 comma 200, 6 comma 240, 7 comma 280, 8 comma 320, 9 comma 360, 10 comma 400, 11 comma 440, 12 comma 480, 13 comma 520, 14 comma 560, 15 comma 600, 16 comma 640.
 Describe the set of all possible output values of \(R\).
+"""
 ### Building on Student Thinking
+"""
 Some students may mistakenly associate the possible inputs and outputs of a function with the horizontal and vertical values that are visible in a graphing window or with the upper and lower limits of the scale of each axis on a coordinate plane. While that is good practice in situations in which it is difficult to determine what would happen outside of what is graphed, if we understand the situation more clearly, we can sometimes say more about what is possible. For example, students may think that the set of possible outputs of the area function, \(A\), includes values only from 0 to 50 because the scale on the vertical axis goes from 0 to 50. Ask these students if it is possible to use a different scale on each axis or, if the function is graphed using technology, to adjust the graphing window. Clarify that the possible inputs and outputs  should be considered in terms of a situation rather than the graphing boundaries.
+"""
 ### Are You Ready for More?
+"""
 If the camp wishes to collect at least \$500 from the participants, how many students can they have? Explain how this information is shown on the graph.
+"""
 ### Activity Synthesis
 Invite students to share their descriptions of the possible outputs for each function. Explain that we call the set of all possible output values of a function the range of the function. Emphasize that the range of a function depends on its domain (or all possible input values).
 For the area of the square, the range—all the possible values of \(A(s)\)—includes all numbers that are at least 0.
@@ -165,14 +201,21 @@ Ask students to explain which values could or could not be the outputs of \(R\) 
 If time permits, draw students' attention to the temperature function they saw in an earlier activity, defined by \(k(c) = c + 273.15\). It gives the temperature in kelvin as a function of the temperature in degrees Celsius, \(c\). Ask students:
 "What values are in the domain of this function?" (The domain includes any value that is at least -273.15, the lowest possible temperature in degrees Celsius, or greater)
 "What about the range?" (The range includes any value that is at least 0, the lowest possible temperature in kelvin, or greater.)
-10 mins
 ## Activity
-### What Could Be the Trouble?
+### Activity Timing
+10 mins
+### Activity Title
+What Could Be the Trouble?
 ### Activity Narrative
+"""
 This optional activity is an opportunity to reason about domain more abstractly. Students evaluate an expression that defines a function at some values of input and notice a value that produces an undefined output. They graph the function to examine its behavior and then think about how to describe the domain of the function. Rational functions are explored in more depth in a later course.
+"""
 ### Launch
+"""
 A device with access to graphing technology is needed for every student.
+"""
 ### Student Task Statement
+"""
 Consider the function \(f(x)=\dfrac {6}{x-2}\).
 To find out the sets of possible input and output values of the function, Clare created a table and evaluated \(f\) at some values of \(x\). Along the way, she ran into some trouble.
 Find \(f(x)\) for each \(x\)-value Clare listed. Describe what Clare’s trouble might be.\(x\)-100\(\frac12\)28\(f(x)\)
@@ -183,10 +226,15 @@ Find \(f(x)\) for each \(x\)-value Clare listed. Describe what Clare’s troubl
 Use graphing technology to graph function \(f\). What do you notice about the graph?
 Use a calculator to compute the value you and Clare had trouble computing. What do you notice about the computation?
 How would you describe the domain of function \(f\)?
+"""
 ### Building on Student Thinking
+"""
+"""
 ### Are You Ready for More?
+"""
 Why do you think the graph of function \(f\) looks the way it does? Why are there two parts that split at \(x=2\), with one curving down as it approaches \(x=2\) from the left and the other curving up as it approaches \(x=2\) from the right?
 Evaluate function \(f\) at different \(x\)-values that approach 2 but are not exactly 2, such as 1.8, 1.9, 1.95, 1.999, 2.2, 2.1, 2.05, and 2.001. What do you notice about the values of \(f(x)\) as the \(x\)-values get closer and closer to 2?
+"""
 ### Activity Synthesis
 Display a graph of the function for all to see. Invite students to share their observations of the behavior of function \(f\) based on the completed table and their graph. Solicit their ideas on what the problem might be with this function.
 If no students mentioned division by 0 as the issue, bring this up. Ask questions such as:
@@ -194,7 +242,9 @@ If no students mentioned division by 0 as the issue, bring this up. Ask question
 "In the expression \(\dfrac {6}{x-2}\), what value or values of \(x\) would result in a denominator of 0?" (Only 2 gives a denominator of 0.)
 "If 2 does not produce an output, is it a possible input for \(f\)?" (No.)
 Highlight that the domain of \(f\) includes all numbers except 2.
+# Lesson Close
 ## Lesson Synthesis
+"""
 Tell students that function \(q\) gives the number of minutes a person sleeps as a function of the number of hours they sleep in a 24-hour period. Display a graphic organizer such as shown.
  | in the domain? | in the range?
 negative values |  | 
@@ -218,7 +268,9 @@ between 0 and 1  | yes | yes
 nonnegative fractions | yes | yes
 values greater than 480 | no | yes
 1,500 | no | no
+"""
 ## Student Lesson Summary
+"""
 The domain of a function is the set of all possible input values. Depending on the situation represented, a function may take all numbers as its input or only a limited set of numbers.
 Function \(A\) gives the area of a square, in square centimeters, as a function of its side length, \(s\), in centimeters.The input of \(A\) can be 0 or any positive number, such as 4, 7.5, or \(\frac{19}{3}\). It cannot include negative numbers because lengths cannot be negative.The domain of \(A\) includes 0 and all positive numbers (or \(s \geq 0\)).
 Function \(A\) gives the area of a square, in square centimeters, as a function of its side length, \(s\), in centimeters.
@@ -239,3 +291,4 @@ The output of \(q\) is the number of buses, which can only be 0 or positive whol
 The output of function \(v\) is the number of visitors, which cannot be fractional or negative. The range of \(v\), therefore, includes 0 and all positive whole numbers.
 
 
+"""

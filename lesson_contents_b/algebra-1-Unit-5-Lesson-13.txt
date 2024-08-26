@@ -1,31 +1,37 @@
 
-Unit 5: Functions
-Lesson 13: Absolute Value Functions (Part 1)
+# Lesson Location
+## Unit Number
+5
+## Unit Name
+Functions
+## Lesson Number 
+13
+## Lesson Title
+Absolute Value Functions (Part 1)
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
 
-Total Activity Time: 35 mins
-Total Lesson Time: 40 mins
 
 
-
-Lesson Preamble
-
-CC BY-NC 4.0
-Preparation
-Lesson
-# Absolute Value Functions (Part 1)
+# Lesson Preamble
 ## Lesson Narrative
+"""
 This lesson enables students to experience the idea of a distance function before they learn about such functions more formally. The function comes up naturally in the context of computing absolute errors. This lesson is built around the idea of guessing a target number and examining how far the guesses are from it.
 Advanced preparation is required for this lesson. See Required Preparation.
 Students guess the number of objects in a collection and calculate how far off each guess is from the actual value. The distance between the guess and the actual value is called the absolute guessing error. Then they analyze the plot of the absolute guessing error to generalize to similar cases with a different target value.
 Technology isn't required for this lesson, but consider making it available, as there are opportunities for students to choose to use appropriate technology to solve problems (MP5). It also helps the class process the collected data more efficiently.
 The blackline master for the Warm-up activity, which includes two tables and two blank coordinate planes, will be used throughout the lesson.
+"""
 ## Learning Goals
 Generalize (using words or equations) the relationship between guesses and absolute errors.
 Analyze and describe (orally and in writing) features of a scatter plot that relates guesses and absolute errors.
 Given a set of numerical guesses and a target number, calculate absolute errors and create a scatter plot of the data.
-### Student-Facing Goal
+## Student-Facing Goal
 Let’s make some guesses and see how good they are.
-### Student-Facing Targets
+## Student-Facing Targets
 I can describe the general relationship between guesses and absolute errors using words or equations.
 I can analyze and describe features of a scatter plot that shows absolute error data.
 Given a set of numerical guesses and a target number, I can calculate absolute errors and create a scatter plot of the data.
@@ -38,77 +44,95 @@ Each student will need the data set and at least one coordinate plane.
 If using graphing or statistical technology to calculate absolute guessing errors and to create scatter plots of the data, prepare access to the technology.
 #### Activity 3
 If using graphing or statistical technology to calculate absolute guessing errors and to create scatter plots of the data, prepare access to the technology.
-### Standards Alignment
-#### Building On
-#### Addressing
+## Standards Alignment
+### Building On
+### Addressing
 HSF-IF.C
 HSF-IF.C.7.b
-#### Building Toward
+### Building Toward
 HSF-IF.C.7.b
 ## Glossary
 
 
 
-Lesson Content
-
-Preparation
-Lesson
-## Lesson 13
-# Absolute Value Functions (Part 1)
-Image description: Course Icon
+# Lesson Content
+## Activity
+### Activity Timing
 5 mins
-## Warm-up
-### How Good Are Your Guesses?
+### Activity Title
+How Good Are Your Guesses?
 How Good Are Your Guesses Handout
 ### Activity Narrative
+"""
 In this Warm-up, students compute absolute guessing errors using class data. The absolute errors they find here will be plotted in the next activity.
 The absolute errors could be calculated and compiled in different ways, by hand or using technology, including a spreadsheet tool (MP5). For example, students could:
 Complete a table of values individually.
 Complete a table in groups of 2–4, with the calculations done by hand but divided among group members.
 Complete a table as a class, with each student calculating only one absolute guessing error and sharing it with the class.
+"""
 ### Launch
+"""
 Tell students to guess the number of objects in the collection. If no collection is available, display the image and ask students to guess the number of snap cubes in the jar.
 Image description: <p>jar of cubes</p>
 Collect all of the guesses from the students, and display them for all to see.
 Read the Task Statement with the class. Make sure students understand what they are asked to compute. Consider arranging students in groups of 2–4 so students can split up the calculations, if desired. Provide access to calculators and spreadsheet technology.
 Give each student a copy of the blackline master to record their calculations, then reveal the actual number of items in the collection. If using the image given in this lesson, the actual number of snap cubes in the jar is 47.
 Students should compute at least 12 absolute guessing errors, and more if time permits.
+"""
 ### Student Task Statement
+"""
 Use the actual number of items to calculate the absolute guessing error of each guess, or how far the guess is from the actual number. For example, suppose the actual number of objects is 100.
 If a guess is 75, then the absolute guessing error is 25.
 If a guess is 110, then the absolute guessing error is 10.
 Record the absolute guessing error of at least 12 guesses in Table A of the handout (or elsewhere, as directed by your teacher).
+"""
 ### Building on Student Thinking
+"""
 Some students may record negative values for the absolute guessing errors of guesses that are lower than the actual number, not realizing that the term “absolute error” refers to “how far away” and, therefore, cannot be negative. Suggest that they revisit the examples in the Task Statement, and clarify the term as needed.
+"""
 ### Are You Ready for More?
+"""
+"""
 ### Activity Synthesis
 If desired, display a completed table for all to see, or simply invite students to share some observations about the absolute guessing errors they found. If no one mentioned that all the values are positive, ask them about it and solicit some ideas about why this is the case.
 Also ask students if they could tell from the data how good the guesses were. (Were the guesses close? Were there a lot of overestimates or underestimates?)
 Tell students that they will plot the data next.
-15 mins
 ## Activity
-### Plotting the Guesses
+### Activity Timing
+15 mins
+### Activity Title
+Plotting the Guesses
 ### Activity Narrative
+"""
 In this activity, students create a scatter plot of the data they compiled earlier and examine the scatter plot. Unless the data they collected consist mostly of overestimates or mostly of underestimates, students are likely to notice the data points forming a V shape. They then consider whether the relationship between the guesses and absolute guessing errors form a function.
+"""
 ### Launch
+"""
 Though a blank coordinate plane is provided (in the blackline master) so that students could individually plot the values by hand, there are other alternatives to consider, if desired. For instance, students could:
 Create individual scatter plots using graphing or statistical technology.
 Create a class scatter plot by hand. Display a large coordinate plane for the entire class to use. Give each student a dot sticker, and assign them one data point to plot, by sticking the dot sticker on the large coordinate plane.
 Create a class scatter plot using technology, by accessing a shared spreadsheet or table online and generating a scatter plot. Display the scatter plot for all to see.
 If plotting the data by hand, give students a few minutes to plot at least 12 points from the data set (or more if possible) on the given coordinate plane and time to think about the last two questions. Be sure to leave time for a whole-class discussion.
+"""
 ### Student Task Statement
+"""
 Refer to the table you completed in the Warm-up, which shows your class' guesses and absolute guessing errors.
 Plot at least 12 pairs of values from your table on the coordinate plane on the handout (or elsewhere, as directed by your teacher).
 Write down 1–2 observations about the completed scatter plot.
 Is the absolute guessing error a function of the guess? Explain how you know.
+"""
 ### Building on Student Thinking
+"""
+"""
 ### Are You Ready for More?
+"""
 Suppose there's another guessing contest that comes with a prize. Each class can submit one guess. It is up to the students to decide on the number to be submitted. Here are some ideas that have been proposed on how to decide on that number:
 Option A: Ask the person or persons who did really well in the previous guessing game to make a guess.
 Option B: Ask everyone to make a guess and have a discussion to narrow the list, and then choose a number.
 Option C: Ask everyone to make a guess and find the mean of all the guesses.
 Option D: Ask everyone to make a guess and find the middle point between the largest number and the smallest number.
 Which approach do you think would give your class the best chance of winning? Explain your reasoning.
+"""
 ### Activity Synthesis
 Display a scatter plot for all to see. Ask students to share something they notice and something they wonder. If no students commented on the shape of the data points, bring it up. Discuss questions such as:
 “If someone’s guess matches the actual number exactly, where would the point representing that guess be on the scatter plot?” (\((47,0)\))
@@ -116,20 +140,27 @@ Display a scatter plot for all to see. Ask students to share something they noti
 “It couldn’t have been a correct guess, but how would you graph a guess of 48.3?” (It would be a point at \((48.3,1.3)\).)
 (If time permits:) “Did more people overestimate or underestimate? Explain how you know.” (In the sample response, more people underestimated. The scatter plot shows more points with \(x\)-values greater than 47, or to the right of 47 on the horizontal axis. The table shows more numbers that are greater than 47.)
 Then, ask students to share their response to the last question and their reasoning. Highlight that the absolute guessing error is a function of the guess because there is only one possible absolute guessing error for each guess.
-15 mins
 ## Activity
-### Oops, Try Again!
+### Activity Timing
+15 mins
+### Activity Title
+Oops, Try Again!
 ### Activity Narrative
+"""
 This activity allows students to see how changing the target number in a guessing game changes the absolute guessing errors and changes the scatter plot of the data.
 Here, students see that they are still finding the difference between the guesses and a number, that the absolute guessing errors are still all positive, and that the data points still seem to form a V above the horizontal axis. What is different is that the position of the V shape has now shifted horizontally and that the number of points forming the two pieces of the V may have changed.
 The work here prepares students to later see the absolute value function in terms of finding the distance between input values and 0.
 The activity is written so that students could perform the calculations and graphing individually and by hand. To make more time for reasoning and analysis, however, use of statistical and graphing technology for computation and plotting is recommended, as is splitting up the work among students.
+"""
 ### Launch
+"""
 Tell students that suppose there had been a mistake in the reported number of items in the jar, and that their job is to find out how the absolute guessing errors and the scatter plot would change once they find out the corrected number of items.
 Consider giving one half of the class one value for the actual number of objects and giving the other half of the class another value so that they could observe the general behavior of the function. (For example, give “50” to half the class and “40” to the other half.)
 Students could follow the same process as earlier: calculating the absolute errors using the new "actual" number, recording them in a table, and plotting the data points on a coordinate plane. If doing so by hand, ask students to use Table B and the second coordinate plane on the handout given earlier. Keep students in groups of 2–4 so they could split up the calculations. Provide access to calculators.
 Alternatively, give students the option of using technology (statistical or graphing tool) to calculate the absolute errors and to create the scatter plot. Another option is to arrange for the calculations to be split up among students and collected in a shared table or spreadsheet, and then create a class scatter plot, either by hand or using technology, displayed for all to see.
+"""
 ### Student Task Statement
+"""
 Earlier, you guessed the number of objects in a container and then your teacher told you the actual number.
 Suppose your teacher made a mistake about the number of objects in the jar and would like to correct it. The actual number of objects in the jar is \(\underline{\hspace{0.5in}}\).
 Find the new absolute guessing errors based on this new information. Record the errors in Table B of the handout (or elsewhere, as directed by your teacher).
@@ -138,8 +169,13 @@ Predict how the scatter plot would change given the new actual number of objects
 Predict how the scatter plot would change given the new actual number of objects. (Would it have the same shape as in the first scatter plot? If so, what would be different about it? If not, what would it look like?)
 Use technology to plot the points and test your prediction.
 Can you write a rule for finding the output (absolute guessing error) given the input (a guess)?
+"""
 ### Building on Student Thinking
+"""
+"""
 ### Are You Ready for More?
+"""
+"""
 ### Activity Synthesis
 Invite students to share their observations of the new data set (or data sets, if two new "actual" numbers were given to students).
 If time is limited, focus the discussion on the features of the new scatter plot and on whether the relationship between the guesses and the absolute guessing errors form a function.
@@ -147,7 +183,9 @@ Display a completed scatter plot for all to see. Ask questions such as:
 "How is this scatter plot like the first scatter plot we saw earlier?" (The points form two straight lines that seem to converge at a point, forming a V.)
 "How is this scatter plot different from the first one?" (The points seem to have been shifted horizontally. Earlier, the two sets of points—each forming a line—seemed to meet at \((47,0)\). Now they see to meet at \((50,0)\).)
 Students may also note that there were more points (or fewer points, depending on the data) that represent underestimates (or overestimates) in the new scatter plot than in the first one.
+# Lesson Close
 ## Lesson Synthesis
+"""
 One key thread across the activities in this lesson is the idea of distance from a certain value. To help students see this thread, discuss questions such as:
 "In either set of data, how is the absolute guessing error related to the actual number?" (The absolute guessing error is the distance of a guess to the actual number.)
 "What affects the size of the absolute guessing error? What makes it larger or smaller?" (The farther a guess is from the actual number, the greater the absolute guessing error. The closer it is to the actual number, the smaller the absolute guessing error.)
@@ -155,7 +193,9 @@ One key thread across the activities in this lesson is the idea of distance from
 "Is the absolute guessing error a function of the guess? Why or why not?" (Yes. For every guess, there is one absolute guessing error.)
 "Is there a rule we can write to define the relationship between the input and output of this function?" (The output is the distance of a guess from the actual number of objects, which we can express as a difference: output = input – actual number.)
 "If we subtract the actual number from the guess, wouldn't we end up with a negative number if the guess is less than the actual number?" (Because the error is about ‘how far away,’ what we want is the absolute value of that difference: output = |input – actual number|.)
+"""
 ## Student Lesson Summary
+"""
 Have you played a number guessing game in which the guess that is closest to a target number wins?
 In such a game, it doesn’t matter if the guess is above or below the target number. What matters is how far off the guess is from the target number, or the absolute guessing error. The smaller the absolute guessing error, or the closer it is to 0, the better.
 Suppose eight people made these guesses for the number of pretzels in a jar: 14, 15, 19, 21, 23, 24, 26, and 28. If the actual number of pretzels is 22, the absolute guessing error of each number is as shown in the table.
@@ -176,3 +216,4 @@ Image description: <p>horizontal axis, guess. scale 0 to 32, by 4's. vertical ax
 Why does the relationship between guesses and absolute guessing errors always have this kind of graph? We will explore more in the next lesson!
 
 
+"""

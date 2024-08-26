@@ -1,0 +1,242 @@
+# Lesson Location
+## Unit Number
+5
+## Unit Name
+Functions
+## Lesson Number 
+15
+## Lesson Title
+Inverse Functions
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+# Lesson Preamble
+## Lesson Narrative
+"""
+This lesson introduces students to inverse functions. The idea is developed through several contextual problems that each requires reversing a process and using outputs as inputs.
+In the Warm-up and the first activity, students encounter the idea of inverse functions as they use Caesar shift ciphers to encode and decode messages. In such ciphers, encoding involves shifting the position of a letter in the alphabet a certain distance and in a certain direction. Decoding then means undoing, or reversing, the action.
+In the second activity, students solve problems about currency exchange. They convert an amount in one currency (dollars) to another (pesos) and work with inverse functions as they do the opposite conversion (from pesos to dollars).
+Throughout the lesson, students reason repeatedly with linear functions, working forward and backward as they perform calculations with numerical values. They practice finding regularity through repeated reasoning, which they then apply to write expressions or equations to describe inverse functions (MP8). Students continue to use multiple representations of functions and to make connections between them. In doing so, they make sense of quantities and relationships in concrete and abstract terms (MP2).
+"""
+## Learning Goals
+Recognize that if one function takes $a$ as its input and gives $b$ as its output, its inverse function takes $b$ as its input and gives $a$ as the output.
+Given a linear function in context, describe (using words or equations) its inverse function.
+Understand that the inverse of a linear function can be found by reversing the process that defines the initial function.
+## Student-Facing Goal
+Let’s define functions forward and backward.
+## Student-Facing Targets
+I understand the meaning of “inverse function” and how it could be found.
+When given a linear function that represents a situation, I can use words and equations to describe the inverse function.
+Required Materials
+Scientific calculators
+## Required Preparation
+"""
+None
+"""
+## Standards Alignment
+### Building On
+HSA-CED.A.4
+### Addressing
+HSF-BF.B.4
+### Building Toward
+HSF-BF.B.4
+## Glossary
+### inverse (function)
+"""
+Two functions are inverses to each other if their input-output pairs are reversed.
+If one function takes \(a\) as input and gives \(b\) as an output, then the other function takes \(b\) as an input and gives \(a\) as an output.
+An inverse function can sometimes be found by reversing the processes that define the first function in order to define the second function.
+"""
+# Lesson Content
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+What Does It Say?
+### Activity Narrative
+"""
+This Warm-up challenges students to decode a short message, prompting them to think about what was done to produce the coded message so that it could be undone. The reasoning they do here paves the way for thinking about reversing the process that defines a function and about using outputs as inputs. This will get students ready to make sense of the inverse of a function.
+It is not essential that students decode the message. What is important is the awareness that cracking the code involves a reversal process.
+"""
+### Launch
+"""
+Some students may be unfamiliar with the idea of ciphers or coded messages. Offer a brief introduction, if needed.
+Give students a moment of quiet think time. If students struggle to get started after some time, consider giving a clue or two:
+The letters A and I are the only two letters that can stand on their own (each letter can be a word).
+The word “is” is the most common two-letter word in the English language.
+Leave time for class discussion, even if students have not yet managed to decipher the code at that time.
+"""
+### Student Task Statement
+"""
+Here is an encoded message, a message that has been converted into a code.
+WRGDB LV D JRRG GDB.
+Can you figure out what it says in English? How was the original message encoded?
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+If one or more students were able to decode the message, ask them to share their result and how they went about decoding it. Otherwise, solicit some comments on the strategies they tried and any hypotheses on how the message was encoded. (Students are likely to hypothesize that the code is related to the position number of each letter in the alphabet.)
+Then, reveal the original message. Give students a brief moment to think about how it was coded. Discuss questions such as:
+"Suppose you found out that each letter in the message was encoded by using the letter 3 places after the original letter. How would you decode the secret message?" (By using the letter 3 places before that coded letter.)
+"The code JRRG IRRG is produced with the same method. What does it say?" (GOOD FOOD) "What about EDEB?" (BABY)
+Introduce Caesar shift cipher (or shift cipher) as a way to encrypt a message by shifting its alphabet position a certain number of places. The message in the Warm-up is called "a shift of 3" because it substitutes each letter in the original message with the letter 3 places after. A table could be used as a key. It enables us to easily see the plain-text alphabet and the cipher-text alphabet. Here is an example for a shift of 3.
+plain text | cipher text
+A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
+D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | A | B | C
+A similar table could be used as a key for a shift of 5, 2, -3, or any other number.
+Tell students that they will use the idea of writing and decoding a cypher to think about functions.
+"""
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+Caesar Says, “Shift”
+Caesar Says, "Shift" Cutouts
+### Activity Narrative
+"""
+In this activity, students are introduced to inverse functions. They begin by creating their own shift cipher and using it to encode a message. After exchanging messages with a partner and decoding each other's messages, students describe the encoding and decoding process in terms of mathematical functions.
+The encoding and decoding portion of the activity can be simplified by assigning a shift number to students.
+The Task Statement includes a table students can use to create a key to help with encoding and decoding.
+Another tool that can be used as a key for multiple shift cipher is a cipher wheel, as shown here. If desired and if time permits, consider constructing one or asking students to do so. A template and instructions are included in the blackline master.
+Image description: <p>letters of alphabet written twice on segments inside of circle  </p>
+"""
+### Launch
+"""
+Arrange students in groups of 2. Tell partners that they are each to use a shift cipher to write a short secret message, exchange it with their partner's, and try to decode each other's secret message.
+Tell students to look at the first table and share what they notice or wonder. Ensure that students understand how they can use the numbers in the third row to do their encoding. For example, if the code is to shift backward by 1 letter, then A (corresponding to 1) gets shifted to Z (because \(1-1=0\)).
+"""
+### Student Task Statement
+"""
+Now it’s your turn to write a secret code!Write a short and friendly message with 3–4 words.Pick a number from 1 to 10. Then, encode your message by shifting each letter that many steps forward or backward in the alphabet, wrapping around from Z to A as needed.Complete these tables to create a key for your cipher.position in the alphabet12345678910111213letter in the messageABCDEFGH I  J KLMletter in codeposition in the alphabet14151617181920212223242526letter in the messageNOPQRSTUVWXYZletter in codeGive your encoded message to a partner to decode. If requested, give the number you used.Decode the message from your partner. Ask for their number, if needed.
+Now it’s your turn to write a secret code!
+Write a short and friendly message with 3–4 words.
+Pick a number from 1 to 10. Then, encode your message by shifting each letter that many steps forward or backward in the alphabet, wrapping around from Z to A as needed.Complete these tables to create a key for your cipher.position in the alphabet12345678910111213letter in the messageABCDEFGH I  J KLMletter in codeposition in the alphabet14151617181920212223242526letter in the messageNOPQRSTUVWXYZletter in code
+Pick a number from 1 to 10. Then, encode your message by shifting each letter that many steps forward or backward in the alphabet, wrapping around from Z to A as needed.
+Complete these tables to create a key for your cipher.
+position in the alphabet | letter in the message | letter in code
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13
+A | B | C | D | E | F | G | H |  I  |  J  | K | L | M
+ |  |  |  |  |  |  |  |  |  |  |  | 
+position in the alphabet | letter in the message | letter in code
+14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26
+N | O | P | Q | R | S | T | U | V | W | X | Y | Z
+ |  |  |  |  |  |  |  |  |  |  |  | 
+Give your encoded message to a partner to decode. If requested, give the number you used.
+Decode the message from your partner. Ask for their number, if needed.
+Each letter can be represented by a number. For example, F is 6 because it is the 6th letter of the alphabet. Complete the first 2 rows of the table to convert between letters and numbers.Complete the third row by adding or subtracting the number you chose in the last problem to find the coded letter number.Complete the fourth row by converting the coded number to a letter.letter in messageFISmessage letter number \(m\)68coded letter number \(c\)letter in code
+Each letter can be represented by a number. For example, F is 6 because it is the 6th letter of the alphabet.
+Complete the first 2 rows of the table to convert between letters and numbers.
+Complete the third row by adding or subtracting the number you chose in the last problem to find the coded letter number.
+Complete the fourth row by converting the coded number to a letter.
+letter in message | message letter number \(m\) | coded letter number \(c\) | letter in code
+F | I | S | 
+6 |  |  | 8
+ |  |  | 
+ |  |  | 
+Use \(m\) and \(c\) to write an equation that can be used to encode an original message into your secret code.
+Use \(m\) and \(c\) to write an equation that can be used to decode your secret code into the original message.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+There are 26 letters in the alphabet, so only the numbers 1–26 make sense for \(m\) and \(c\).
+Try using the equation that you wrote to encode the letters A, B, Y, and Z. Did you end up with position numbers or \(c\) values that are less than 1 or greater than 26? For which letters?
+Use your encoding equation to plot the \((m, c)\) pairs for all the letters in the alphabet.
+Image description: <p>Horizontal axis, m. Scale, 0 to 26, by 2’s. Vertical axis, c. Scale -10 to 36, by 2’s.</p>
+Look for the points whose \(c\) value is less than 1 or greater than 26. What letters should they be in the code? Plot the points where they should be according to the rule of your cipher.
+Did you end up with a graph of a piecewise function? If so, can you describe the different rules that apply to different domains of the function?
+"""
+### Activity Synthesis
+"""
+Focus the discussion on the mathematical representations of ciphering and deciphering a message and their connections to functions.
+Select students to share the equations they wrote for the last two questions. Display them for all to see, and ask students to make some observations. Discuss with students:
+"How are the two equations alike?" (Each pair of equations have the same letters and number.)
+"How are they different?" (One equation seems to undo the other. In each pair of equations, a different variable is isolated.)
+"Can we think of the process of encoding a message (going from \(m\) to \(c\)) as a function? Why or why not?" (Yes. For every input letter, there is only one possible output letter.) "What would be the input and output?" (In encoding a message, the plain-text letters are the inputs. The ciphered letters are the outputs.)
+"Can we think of the process of decoding a secret code (going from \(c\) to \(m\)) as a function? Why or why not?" (Yes. Every coded letter used as an input has only one output.) "What would be the input and output?" (The ciphered letters are the inputs. The plain-text letters are the outputs.)
+Explain to students that, if the rule for encoding is a function, then the rule for decoding is its inverse function. Two functions are inverses to each other if their input-output pairs are reversed, so if one functions takes \(a\) as its input and gives \(b\) as an output, then the other function takes \(b\) as its input and gives \(a\) as an output.
+"""
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Japanese Yen and Peruvian Soles
+### Activity Narrative
+"""
+In this activity, students continue to develop an understanding of inverse functions, using currency exchange as a context. Students convert values in one currency into another and then the other way around. They make sense of the former as a function and the latter as the inverse of the first function.
+The reasoning here builds on students' prior work on solving equations for a variable. Earlier in the course, students had isolated a variable to highlight a quantity or make it easier to compute the values of the variable. What is new here is the idea of inverse function: the recognition that a variable that is an output in one function (the one that is isolated) is an input in the inverse function, and vice versa.
+Some students may choose to graph the first function (\(y=39.77s\)) and use the graph to find all the unknown values in either currency. Making graphing technology available gives students an opportunity to choose appropriate tools strategically (MP5).
+"""
+### Launch
+"""
+Give students a few minutes of quiet work time and follow with a whole-class discussion. Provide access to scientific or four-function calculators.
+Tell students that exchanging money often involves fees. For this task, students should assume there are no fees and all of the money is exchanged at the rate given.
+After the 1st read: “Tell your partner what this situation is about.”
+After the 2nd read: “List the quantities. What can be counted or measured?”
+For the 3rd read: Reveal and read the questions. Ask, “What are some ways we might get started on this?”
+"""
+### Student Task Statement
+"""
+A Japanese traveler who is heading to Peru exchanges some Japanese yen for Peruvian soles. At the time of his travel, 1 yen can be exchanged for 39.77 soles.
+At the same time, a Peruvian businesswoman who is in Japan is exchanging some Peruvian soles for Japanese yen at the same exchange rate.
+Image description: Japanese yen and Peruvian soles.
+Find the amount of money in soles that the Japanese traveler would get if he exchanged:100 yen500 yen
+Find the amount of money in soles that the Japanese traveler would get if he exchanged:
+100 yen
+500 yen
+Write an equation that gives the amount of money in soles, \(s\), as a function of the amount of money in yen, \(y\), being exchanged.
+Find the amount that the Peruvian businesswoman would get if she exchanged:1,000 soles5,000 soles
+Find the amount that the Peruvian businesswoman would get if she exchanged:
+1,000 soles
+5,000 soles
+Explain why it might be helpful to write the inverse of the function you wrote earlier. Then, write an equation that defines the inverse function.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Discuss with students how they found the dollar value of the amounts given in pesos. Ask questions such as:
+"How did you find the inverse function?" (By reversing the steps used to find the amount in soles when we know the amount in yen. By solving for \(y\).)
+"In the first function, which variable is the input and which is the output?" (Amount in yen is the input, and amount in soles is the output.)
+"In the inverse function, which variable is the input and which is the output?" (Amount in soles is the input, and amount in yen is the output.)
+To emphasize the two quantities switching roles, display the graphs of both functions.
+Give students a moment to observe the graphs, and invite them to share something they notice and something they wonder.
+Image description: <p>graph of a line with positive slope</p>
+If not mentioned by students, highlight that the labels of the axes have switched places, as have the first and second values in the coordinate pair. Explain that if we trace the graphs using graphing technology, we will see that all the values of all the coordinate pairs are reversed.
+"""
+# Lesson Close
+## Lesson Synthesis
+"""
+To help students synthesize the key ideas in this lesson, discuss questions such as:
+"The amount of money in cents, \(c\), is a function of the amount in dollars, \(d\). What equation can we write to represent this function?" (\(c = 100d\))
+"How can we find the inverse function?" (We can reverse the process and solve for \(d\). To find the amount in cents, \(c\), we multiply the dollar amount, \(d\) by 100. To find the inverse, we divide the amount in cents by 100.)
+"Why might it be helpful to find the inverse function, in this case?" (If we know an amount in cents, we can find the amount in dollars. It gives us the amount in dollars as a function of the amount in cents.)
+"Let's say \(d=7w\) represents a function that gives the number of days, \(d\), in \(w\) weeks. A student says that the inverse function is \(w=7d\) because now the variables are switched. Do you agree? Why or why not?" (No. To find the number of days in \(w\) weeks, we multiply \(w\) by 7. So to find the number of weeks, \(w\), in \(d\) days, we need to divide \(d\) by 7, not multiply \(d\) by 7.)
+"In general, how can you check if two functions are inverses?" (We can check if the process done to get the output of the original function gets reversed in the inverse function. If \(a\) is the input in the original function and it gives \(b\) for the output, we can see if putting \(b\) in the inverse function gives \(a\) for the output.)
+"""
+## Student Lesson Summary
+"""
+Sometimes it is useful to reverse a function so that the original output is now the input.
+Suppose Han lives 400 meters from school and walks to school. A linear function gives Han's distance to school, \(D\), in meters, after he has walked \(w\) meters from home, and is defined by:
+\(D= 400 - w\)
+With this equation, if we know how far Han has walked from home, \(w\), we can easily find his remaining distance to school, \(D\). Here, \(w\) is the input, and \(D\) is the output.
+What if we know Han's remaining distance to school, \(D\), and want to know how far he has walked, \(w\)?
+We can find out by solving for \(w\):
+\(\begin {align} D &= 400 - w\\ D+w &= 400\\ w &=400 - D \end{align}\)
+The equation \(w=400-D\) represents the inverse of the original function.
+With this equation, we can easily find how far Han has walked from home if we know his remaining distance to school. Here, \(w\) and \(D\) have switched roles: \(w\) is now the output, and \(D\) is the input.
+In general, if a function takes \(a\) as its input and gives \(b\) as its output, its inverse function takes \(b\) as the input and \(a\) as the output.
+"""

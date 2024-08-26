@@ -1,14 +1,22 @@
 
-Unit 5: Functions
-Lesson 9: Comparing Graphs
-
-Total Activity Time: 50 mins
-Total Lesson Time: 55 mins
+# Lesson Location
+## Unit Number
+5
+## Unit Name
+Functions
+## Lesson Number 
+9
+## Lesson Title
+Comparing Graphs
+# Lesson Timing
+## Total Activity Time in Minutes 
+50
+## Total Lesson Time incl Lesson Synthesis
+60 
 
 
 
 Lesson Preamble
-
 CC BY-NC 4.0
 Preparation
 Lesson
@@ -49,7 +57,6 @@ View Student Lesson
 
 
 Lesson Content
-
 Preparation
 Lesson
 ## Lesson 9

@@ -1,58 +1,65 @@
 
-Unit 5: Functions
-Lesson 8: Interpreting and Creating Graphs
+# Lesson Location
+## Unit Number
+5
+## Unit Name
+Functions
+## Lesson Number 
+8
+## Lesson Title
+Interpreting and Creating Graphs
+# Lesson Timing
+## Total Activity Time in Minutes 
+70
+## Total Lesson Time incl Lesson Synthesis
+80 
 
-Total Activity Time: 70 mins
-Total Lesson Time: 75 mins
 
 
-
-Lesson Preamble
-
-CC BY-NC 4.0
-Preparation
-Lesson
-# Interpreting and Creating Graphs
+# Lesson Preamble
 ## Lesson Narrative
+"""
 In this lesson, students use the skills they've been developing to interpret or create graphs of functions that are less well defined and that model real-life situations that are more complex. The lesson includes two main activities about flag raising and two optional activities that use other contexts for additional practice drawing graphs from descriptions or a video.
 Information about the functions is presented in the form of verbal descriptions, video clips, and images. More ambiguity is involved here than in cases students have previously encountered, so they will need to persevere in sense making and problem solving (MP1). At times, the information given may be inadequate, so students will need to make assumptions and decisions in order to produce graphs that show the desired behaviors or meet certain requirements. Along the way, students engage in important aspects of mathematical modeling (MP4).
+"""
 ## Learning Goals
 Interpret the average rate of change in a situation.
 Practice interpreting key features of graphs and explaining (orally and in writing) their meaning in terms of a situation.
 Given a verbal or visual representation of a situation, sketch a graph and show key features.
-### Student-Facing Goal
+## Student-Facing Goal
 Let’s sketch graphs to represent situations.
-### Student-Facing Targets
+## Student-Facing Targets
 I can make sense of important features of a graph and explain what they mean in a situation.
 I can explain the average rate of change of a function in terms of a situation.
 When given a description or a visual representation of a situation, I can sketch a graph that shows important features of the situation.
 ## Required Preparation
 #### Activity 2
-### Standards Alignment
-#### Building On
-#### Addressing
+## Standards Alignment
+### Building On
+### Addressing
 HSF-IF.B.4
 HSF-IF.B.6
-#### Building Toward
+### Building Toward
 ## Glossary
 
 
 
-Lesson Content
-
-Preparation
-Lesson
-## Lesson 8
-# Interpreting and Creating Graphs
-Image description: Course Icon
-5 mins
+# Lesson Content
 ## Activity
-### Which Three Go Together: Temperature over Time
+### Activity Timing
+5 mins
+### Activity Title
+Which Three Go Together: Temperature over Time
 ### Activity Narrative
+"""
 This Warm-up prompts students to compare four graphs of functions relating time and temperature. It gives students a reason to use language precisely (MP6). It gives the teacher an opportunity to hear how students use terminology and talk about characteristics of the items in comparison to one another.
+"""
 ### Launch
+"""
 Arrange students in groups of 2–4. Display the graphs for all to see. Give students 1 minute of quiet think time and then time to share their thinking with their small group. In their small groups, tell each student to share their response with their group and then together find as many sets of three as they can.
+"""
 ### Student Task Statement
+"""
 Which three go together? Why do they go together?
 A
 Image description: <p>A graph, origin O. Horizontal axis is labeled time. Vertical axis is labeled temperature. A horizontal line is drawn on the graph.</p>
@@ -64,20 +71,30 @@ Image description: <p>A graph. </p>
 DA graph, origin O. Horizontal axis is labeled time. Vertical axis is labeled temperature. The curve begins on the vertical axis and trends up, then down, then up, then down forming U shapes, alternating opening up and down.
 D
 Image description: <p>A graph. </p>
+"""
 ### Building on Student Thinking
+"""
+"""
 ### Are You Ready for More?
+"""
+"""
 ### Activity Synthesis
 Invite each group to share one reason why a particular set of three goes together. Record and display the responses for all to see. After each response, ask the class if they agree or disagree. Since there is no single correct answer to the question of which three go together, attend to students’ explanations and ensure the reasons given are correct.
 During the discussion, ask students to explain the meaning of any terminology they use, such as “intercepts,” “maximum,” or “linear functions.” Also, press students on unsubstantiated claims.
-20 mins
 ## Activity
-### Flag Raising (Part 1)
+### Activity Timing
+20 mins
+### Activity Title
+Flag Raising (Part 1)
 ### Activity Narrative
+"""
 Prior to this point, students have had multiple opportunities to interpret graphs of functions in terms of a situation. In most cases, students were given some information about the units of measurement of at least one quantity, which helped them reason about the functions being represented.
 In this activity, students encounter graphs without units on either of the axes. They interpret the graphs in the context of raising a flag and make a case for whether the graphs are realistic (which may depend on the units chosen for the axes). Students also see for the first time a graph that is a vertical line and think about why this graph does not represent a function.
 As students relate features of graphs to behaviors of quantities in a situation, they reason quantitatively and abstractly (MP2). In explaining and discussing why a graph is or is not realistic, students practice constructing logical arguments and critiquing the reasoning of others (MP3).
 In the digital version of the activity, students use an applet to adjust the scale of a graph in the Are You Ready for More? task. The applet allows students to graph a function and easily test different scales for the viewing window to find one that accurately shows the function. Use the digital version if students need help identifying scales for axes in a digital tool and have time to work on the Are You Ready for More? items.
+"""
 ### Launch
+"""
 Show pictures of a flag ceremony, and describe flag raising to students who might be unfamiliar with it. Consider sharing that in some countries, students hold a flag-raising ceremony on a daily or weekly basis.
 Arrange students in groups of 2. Ask students to read the task statement and look at graphs. Then, give students a moment of quiet time to think about the following questions:
 “What might be reasonable units to use for the axes of the graphs?”
@@ -85,7 +102,9 @@ Arrange students in groups of 2. Ask students to read the task statement and loo
 Give students a moment to share their thinking with their partner. Follow with a brief whole-class discussion.
 Students are likely to suggest seconds as a reasonable unit to use for time and meters or yards as a reasonable unit for height. If these units are not mentioned, ask students about them.
 Assign each group 1, 2, or 3 graphs to describe for the first question. Next, tell partners to take turns interpreting the graphs. Ask students to pause for a whole-class discussion about their interpretations of each graph before moving to the second question.
+"""
 ### Student Task Statement
+"""
 A flag ceremony is held at a Fourth of July event. The height of the flag is a function of time.
 Here are some graphs that could each be a possible representation of the function.
 Image description: <p>a US flag being raised</p>
@@ -118,8 +137,12 @@ A graph, origin O. Horizontal axis, time, scale from 0 to 6 by 1s. Vertical axis
 Image description: <p>A graph. </p>
 Can this graph represent the time and height of the flag? Explain your reasoning.
 Is this a graph of a function? Explain your reasoning.
+"""
 ### Building on Student Thinking
+"""
+"""
 ### Are You Ready for More?
+"""
 Suppose an ant is moving at a rate of 1 millimeter per second and keeps going at that rate for a long time.
 If time, \(x\), is measured in seconds, then the distance, in millimeters, that the ant has traveled, \(y\), is \(y=1x\). If time, \(x\), is measured in minutes, the distance in millimeters is \(y=60x\).
 Explain why the equation \(y=(365 \boldcdot 24 \boldcdot 3,\!600)x\) gives the distance, in millimeters, that the ant has traveled as a function of time, \(x\), in years.
@@ -129,19 +152,25 @@ Label the axes with appropriate quantities and units.
 Does the graph look like that of a function? Why do you think it looks this way?
 Adjust the graphing window until the graph no longer looks this way. If you manage to do so, describe the graphing window that you use.
 Do you think the last graph in the flag activity could represent a function relating time and height of the flag? Explain your reasoning.
+"""
 ### Activity Synthesis
 Select students to explain what each graph means in the context of flag raising and give an argument for why it is or is not realistic. Consider asking partners to illustrate their response together—one partner explaining what is happening with the flag and the other acting out the action of the flag raiser.
 Discuss with students which graph is the most realistic and why. Also discuss whether using certain units of measurements would make an unrealistic graph more realistic, or vice versa. (For example, none of the graphs would be realistic if the time is measured in days or months and the height in kilometers or centimeters.)
 Next, solicit some explanations for why the vertical line does not represent a function. If not mentioned in students' explanations, bring up a key point: A vertical line can be interpreted to mean that for one particular input (3 units of time, in this case), there is an infinite number of possible outputs. Therefore, it cannot represent a function.
-10 mins
 ## Activity
-### Flag Raising (Part 2)
+### Activity Timing
+10 mins
+### Activity Title
+Flag Raising (Part 2)
 ### Activity Narrative
+"""
 Previously, students analyzed several graphs to see if they could represent the height of a flag being raised in a ceremony. In this activity, students watch a video of a flag being raised. They sketch a possible graph to represent the height of the flag as a function of time and then use their graphs to estimate the rate of change of the flag.
 Students’ graphs do not need to be very precise but should capture key features of the situation. To do so, students need to make some estimates. For example, they need to gauge the starting height of the flag, the height of the pole, the heights at which pauses happened, and whether the flag was moving at a constant rate between the pauses. Students also need to make some decisions about the graph—for instance, the scale to use on each axis and whether the graph should be discrete or continuous. Along the way, students engage in aspects of modeling (MP4).
 If desired and if possible, provide each student or each group with access to the video so students can replay the clip a few times, as needed. As students work, identify those who make different decisions for their graph and can explain their rationale. Ask them to share their work later.
 If time is limited, focus work time and discussion on the graphing portion (the first question).
+"""
 ### Launch
+"""
 Tell students that they will watch a video of a flag being raised and their job is to sketch a graph that represents the height of the flag, in feet, as a function of time, in seconds. Explain to students that their graphs do not need to be precise and some estimations are required, but the graphs should reasonably capture the movement of the flag.
 Before playing the video, ask students to think about what information or quantities to look for while watching the video. If possible, record and display their ideas for all to see.
 Here are videos that show the same clip of a flag being raised, played back at full speed and half speed. Show one or more of the videos for all to see. Students may wish to see the slower version a few times to help them sketch a graph.
@@ -149,28 +178,40 @@ Full speed: Video of a person raising a flag.
 Video of a person raising a flag.
 Half speed: Video of a person raising a flag up a flagpole at half speed.
 Video of a person raising a flag up a flagpole at half speed.
+"""
 ### Student Task Statement
+"""
 Your teacher will show a video of a flag being raised. Function \(H\) gives the height of the flag over time. Height is measured in feet. Time is measured in seconds since the flag is fully secured to the string, which is when the video clip begins.
 On the coordinate plane, sketch a graph that could represent function \(H\). Be sure to include a label and a scale for each axis.
 Image description: <p>A blank graph with grid, origin O. The horizontal axis contains 13 units, beginning at 0. The vertical axis contains 8 units, beginning at 0.</p>
 Use your graph to estimate the average rate of change from the time the flag starts moving to the time it reaches the top. Be prepared to explain what the average rate of change tells us about the flag.
+"""
 ### Building on Student Thinking
+"""
 Some students may have trouble starting their graphs because they don’t know what upper limits to use for the axes. Ask them to watch the video clip again and try to gather some information that may help them decide on the upper limits. Assure them that some estimation and decision making are necessary.
+"""
 ### Are You Ready for More?
+"""
+"""
 ### Activity Synthesis
 Select previously identified students to share their graph and explain their drawing decisions. If time permits, display the graphs for all to see and briefly discuss:
 How the graphs are alike and how they are different.
 Key features such as intercepts, maximum, minimum, and intervals when the function increases, remains constant, or decreases.
 If time permits, invite a couple of students to share how they used their graph to estimate the flag’s average rate of change. Emphasize that the average rate of change (which would vary for different graphs) represents how fast, on average, the flag was moving from the time it started being raised until the time it reached the top of the pole.
-20 mins
 ## Activity
-### Two Pools
+### Activity Timing
+20 mins
+### Activity Title
+Two Pools
 ### Activity Narrative
+"""
 This optional activity allows students to practice creating graphs of functions based on verbal descriptions. Students sketch graphs that could represent the heights of water in two pools, each as a function of time since the pools start to be filled.
 The modeling demand in this activity is higher than in previous activities, as students are given less quantitative information and, therefore, need to make more assumptions and decisions (MP4). For example, they need to consider whether and how the shape and size of each pool affect the rate at which the water rises, how much longer it would take to fill the large pool compared to the small pool, and how moving a hose from one pool to the other changes the graph of each function.
 Students are not expected to draw precise graphs. What is more important is that the graphs of the two functions are comparatively correct and reasonable in terms of the situation, that students consider the quantities carefully, and that they can explain their decisions.
 As students work, look for different assumptions and decisions students make that result in a variety of graphs. Consider asking them to share their graphs and reasoning during the whole-class discussion.
+"""
 ### Launch
+"""
 Arrange students in groups of 2. Ask students to read the Task Statement and be prepared to ask any clarifying questions about the task.
 After answering students’ questions, give students a few minutes of quiet time to sketch the graphs for the first situation and then time to discuss the graphs with their partner. Tell partners to discuss their assumptions about the situation and the reasonableness of the graphs based on those assumptions. Ask them to revise their graphs based on each other’s feedback.
 Consider selecting a few students to share their graphs and graphing decisions before the class continues to the second and third situations. Discuss questions such as:
@@ -178,7 +219,9 @@ Consider selecting a few students to share their graphs and graphing decisions b
 “Did you assume that the water for the two hoses was turned on at the same time?”
 “What assumptions did you make about the shape and size of each pool? Did you assume that the pools have the same area for their base but different heights, or that they have different areas?”
 “What assumptions did you make about how water was rising in each pool?”
+"""
 ### Student Task Statement
+"""
 To prepare for a backyard party, a parent uses two identical hoses to fill a small pool that is 15 inches deep and a large pool that is 27 inches deep.
 The height of the water in each pool is a function of time since the water is turned on.
 An image with two pools. The larger pool has a ladder and a girl filling it with a hose. The smaller pool is smaller and inflatable and being filled with a hose.
@@ -190,21 +233,31 @@ Image description: <p>A blank graph, origin O. Horizontal axis, time in minutes,
 Situation 2: Each hose fills one pool at a constant rate. When the small pool is full, both hoses are shut off.
 Situation 3: Each hose fills one pool at a constant rate. When the small pool is full, both hoses are used to fill the large pool until it is full.
 Image description: <p>A blank graph, origin O. Horizontal axis, time in minutes, scale from 0 to 20 by 2s. Vertical axis, height in inches, from 0 to 30 by 3s.</p>
+"""
 ### Building on Student Thinking
+"""
 Some students might mistakenly think that when the pools are “full,” the water in each pool has reached the same height. Remind students that the two pools have different heights, so it takes different heights of water to make them full.
+"""
 ### Are You Ready for More?
+"""
+"""
 ### Activity Synthesis
 Invite or select students to share their graphs and the assumptions and decisions they made as they were graphing. Display graphs that correctly represent the same situation but look different because of variation in assumptions.
 Discuss questions such as:
 “How would the vertical values of the two graphs compare when the pools are full?” (The vertical value of the large pool would be up to 12 inches greater than that of the small pool because the large pool is 12 inches taller than the small pool.)
 “When each pool is being filled by one hose and at the same rate, should the two graphs have the same slope? Why or why not? If not, which graph has a greater slope?” (No. The water in the smaller pool rises more quickly because the area of the pool is smaller, so the slope for that graph should be greater.)
 “How does the graph of the large pool change when one hose is moved from the small pool to the large pool? Does its slope increase, decrease, or stay the same?” (The slope of the graph for the large pool doubles because water is now rising at twice its previous rate. The graph for the small pool stays constant, as the water is no longer increasing in height.)
-15 mins
 ## Activity
-### The Bouncing Ball
+### Activity Timing
+15 mins
+### Activity Title
+The Bouncing Ball
 ### Activity Narrative
+"""
 This optional activity gives students another opportunity to represent the quantities in a situation with a table and a graph, identify key features of the graph, and interpret those features in terms of the situation.
+"""
 ### Launch
+"""
 The following videos show the same clip of a ball being dropped, but they are played back at different speeds. Show one or more of the videos for all to see. Before showing the videos, ask students to think about what information or quantities to look for while watching the videos.
 At the original speed: 	A video of a man dropping a ball to the ground. The ball bounces a few times.
 A video of a man dropping a ball to the ground. The ball bounces a few times.
@@ -213,7 +266,9 @@ A video of a man dropping a tennis ball, slowed down to half speed.
 At quarter speed: 	A video of a man dropping a tennis ball, slowed down to quarter speed.
 A video of a man dropping a tennis ball, slowed down to quarter speed.
 If possible, allow students to replay the videos several times to help them sketch as accurate a graph as possible. Alternatively, give students individual access to the interactive applet, if available.
+"""
 ### Student Task Statement
+"""
 Your teacher will show you one or more videos of a tennis ball being dropped from 6 feet off the ground. Here are some still images of the situation.
 The height of the ball is a function of time. Suppose the height is \(h\) feet, \(t\) seconds after the ball is dropped.
 Use the blank coordinate plane to sketch a graph of the height of the tennis ball as a function of time.To help you get started, here are some pictures and a table. Complete the table with your estimates before sketching your graph.0 seconds0.28 seconds0.54 seconds0.74 seconds1.03 seconds1.48 seconds1.88 seconds2.25 secondstime				(seconds)height				(feet)00.280.540.741.031.481.882.25
@@ -243,17 +298,24 @@ time(seconds) | height(feet)
 Image description: <p>A blank graph, origin O. Horizontal axis, time, seconds, scale from 0 to 4 by 0.25’s. Vertical axis, height, feet, from 0 to 7 by 0.5’s.</p>
 Identify horizontal and vertical intercepts of the graph. Explain what the coordinates tell us about the tennis ball.
 Find the maximum and minimum values of the function. Explain what they tell us about the tennis ball.
+"""
 ### Building on Student Thinking
+"""
 Some students may mistake the horizontal axis on the graph to represent horizontal distance rather than time. Because the movement of the bouncing ball is primarily up and down (except toward the end, when it begins rolling), these students might sketch a graph that is essentially a series of overlapping vertical segments. Ask them to revisit the input variable and what the horizontal axis represents. Then, ask them to plot some points for different values of \(t\).
+"""
 ### Are You Ready for More?
+"""
 If you see only the still images of the ball and not the video of the ball bouncing, can you accurately graph the height of the ball as a function of time? Explain your reasoning.
+"""
 ### Activity Synthesis
 Discuss how students created a graph from the movement of the dropped ball, and discuss the connections between the graph and the situation. Ask questions such as:
 “Which parts of the ball’s movement did you find easier to plot more precisely? Which parts require estimating?” (The position of the ball when it was released and the points when it hit the ground were easier to plot because they were more distinct and obvious. The points when the ball reached a peak and changed direction required a bit of estimation. The points between the peaks and the bounces were mainly estimated.)
 “In this case, the horizontal intercepts are also the minimums of the graph. Why is that?” (The ball could not have a height that is less than 0. The lowest point it could be is 0 feet.)
 “What happened to the output value, \(h\), as the input value, \(t\), increased?” (Overall, the output decreased as \(t\) increased, but there were intervals—whenever the ball bounced up—in which the height of the ball increased as time increased.)
 If time permits, discuss students’ responses to the last two questions.
+# Lesson Close
 ## Lesson Synthesis
+"""
 Representing a function with a graph requires careful attention to the behavior of the quantities in the situation. To reinforce this idea, tell students that they will observe a walk from one end of the classroom to the other and suppose they were to graph the distance from the starting point as a function of time.
 Ask students to notice any characteristics of the movement that would affect the output of this function and show up as distinct features on a graph.
 Walk from one side of the classroom to the other, incorporating moves, such as:
@@ -264,7 +326,9 @@ Taking a few steps, stopping and standing still, and then continuing walking.
 Walking backward a few steps, then walking forward again.
 Solicit as many observations as possible about the walk. For each observation that students make, ask them how it would affect a graph of the function. For instance, students may note that slowing down and speeding up translate to shallower and steeper parts of the graph, respectively. They may also say that stopping translates to a horizontal segment on the graph, and that the longer the pause, the longer the segment.
 If time permits, repeat the walking demonstration and ask students to graph the function.
+"""
 ## Student Lesson Summary
+"""
 We can use graphs to help visualize the relationship between quantities in a situation, even if we have only a general description.
 Here is a description of a hiker’s journey on a trail:
 A hiker walked briskly and steadily for about 30 minutes and then took a 10-minute break. Afterward, she jogged all the way to the end of the trail, which took about 20 minutes. There, she took a 15-minute break, and then started walking back leisurely, stopping twice to enjoy the scenery. Her return trip along the same trail took 105 minutes.
@@ -281,3 +345,4 @@ Image description: <p>A graph. </p>
 It shows the distance increasing as the hiker was walking away from the trailhead, then decreasing as she was returning to the trailhead.
 
 
+"""
