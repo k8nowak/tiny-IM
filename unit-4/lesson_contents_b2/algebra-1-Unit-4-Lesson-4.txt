@@ -1,0 +1,254 @@
+# Lesson Location
+## Unit Number
+4
+## Unit Name
+LinearInequalitiesAndSystems
+## Lesson Number 
+4
+## Lesson Title
+Graphing Linear Inequalities in Two Variables (Part 1)
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+# Lesson Preamble
+## Lesson Narrative
+"""
+In this lesson, students begin looking at solutions to inequalities in two variables. They make use of their understanding that solutions to linear equations in two variables can be represented on a graph with a line.
+Students learn that the solutions to inequalities in two variables also involve pairs of values. When graphed, the solutions are no longer points on a single line, but comprise a region that is bounded by a line. The boundary line is the graph of an equation related to the inequality. The solution region includes all points in a plane on one side of the boundary. The region also includes the boundary line itself when the inequality is not strict and allows for the two sides of the expression to be equal.
+Students begin by noticing that the plots of solutions and non-solutions occupy different parts of a coordinate plane. Next, they think about the boundary line between the two regions and whether it is a part of the solution. Finally, students write some inequalities, given graphs that represent solution regions.
+"""
+## Learning Goals
+Given the graph of a related equation, determine the solution region to an inequality in two variables by testing the points on the line and on either side of the line.
+Understand that the solutions to a linear inequality in two variables are represented graphically as a half-plane bounded by a line.
+## Student-Facing Goal
+Let’s find out how to use graphs to represent solutions to inequalities in two variables.
+## Student-Facing Targets
+I can describe the graph that represents the solutions to a linear inequality in two variables.
+Given a two-variable inequality and the graph of the related equation, I can determine on which side of the line the solutions to the inequality will fall.
+Required Materials
+#### Activity 2
+Colored pencils
+## Required Preparation
+"""
+#### Activity 2
+"""
+## Standards Alignment
+### Building On
+### Addressing
+HSA-REI.D.12
+### Building Toward
+HSA-REI.D.12
+## Glossary
+# Lesson Content
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Math Talk: Less Than, Equal To, or More Than 12?
+### Activity Narrative
+"""
+This Math Talk focuses on substituting values from an ordered pair into an expression and comparing its value to a given number. It encourages students to think about the meaning of ordered pairs and inequalities and to rely on the structure of ordered pairs to mentally solve problems. The understanding elicited here will be helpful later in the lesson when students test values in a region of the coordinate plane to determine if they are in the solution region of given inequality.
+To correctly substitute into the expression, students need to look for and make use of structure (MP7).
+"""
+### Launch
+"""
+Tell students to close their books or devices (or to keep them closed). Reveal one problem at a time. For each problem:
+Give students quiet think time, and ask them to give a signal when they have an answer and a strategy.
+Invite students to share their strategies and record and display their responses for all to see.
+Use the questions in the Activity Synthesis to involve more students in the conversation before moving to the next problem.
+Keep all previous problems and work displayed throughout the talk.
+"""
+### Student Task Statement
+"""
+Here is an expression: \(2x+3y\).
+Decide if the values in each ordered pair, \((x, y)\), make the value of the expression less than, greater than, or equal to 12.
+\((0, 5)\)
+\((6,0)\)
+\((\text-1, \text-1)\)
+\((\text-5,10)\)
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+To involve more students in the conversation, consider asking:
+“Who can restate \(\underline{\hspace{.5in}}\)’s reasoning in a different way?”
+“Did anyone have the same strategy but would explain it differently?”
+“Did anyone solve the problem in a different way?”
+“Does anyone want to add on to \(\underline{\hspace{.5in}}\)’s strategy?”
+“Do you agree or disagree? Why?”
+“What connections to previous problems do you see?”
+To help students recall the meaning of a solution to an inequality, ask: "Which pairs, if any, are solutions to the inequality \(2x + 3y \leq 12\)?" Make sure that students recognize that both \((\text-1,\text-1)\) and \((6,0)\) are solutions because they make the inequality true.
+"""
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+Solutions and Not Solutions
+### Activity Narrative
+"""
+Earlier in the unit, students saw that a linear inequality in one variable has many solutions, which are represented by all the points on one side of a number on a number line. They also recalled that a linear equation in two variables has many solutions, which are represented by all the points on the graph of the equation. The work in this activity builds on those understandings.
+Students see that the solutions to a linear inequality in two variables can be represented by many points on a coordinate plane, and that the set of points are in a region bounded by a line. To represent the set of all points that are solutions, we can shade that region. Students also see that the points that fall on the other side of the boundary line are not solutions to the inequality.
+During the activity, students are not yet expected to recognize that the line is the graph of an equation related to the inequality (although some students may notice that). That insight is made explicit in the Activity Synthesis and reinforced in the next activity.
+"""
+### Launch
+"""
+Display the inequality \(2x+3y \le 12\) for all to see, along with a blank coordinate grid.
+Image description: <p>Blank x y coordinate plane with grid and origin labeled O. Both axes labeled from negative 10 to 8 by 2’s.</p>
+Remind students that earlier, in the Warm-up, we saw that \((0,5)\) and \((\text-5, 10)\) are not solutions to this inequality, but \((6,0)\) and \((\text-1,\text-1)\) are solutions. On the coordinate plane, mark each point that is a solution with a dot and each point that is not a solution with an X (or use different colors to mark the points).
+Then, ask each student to identify 3 coordinate pairs that are solutions and 3 pairs that are not solutions to the inequality. Encourage students to use some negative values of \(x\) and \(y\), and to find pairs that are different from those chosen by the people seated around them.
+After a few minutes, poll the class to collect all ordered pairs that students identified and plot them on the blank coordinate grid (again, using different symbols or different colors for solutions and non-solutions).
+When all the points are plotted, the plot might look something like the following. (Blue points represent solutions and red X's represent non-solutions.)
+Image description: <p>Coordinate plane with scatter points.</p>
+Ask students what they notice about the plotted points. Students are not expected to perfectly articulate the idea of a solution region at this point, but they should notice that the solutions are separated from non-solutions by what appears to be an invisible line that slants downward from left to right.
+When choosing their coordinate pairs, some students may have started with the equation \(2x+3y=12\) and plotted some solutions for that equation. If they suggest that the invisible line might be the graph of \(2x+3y=12\), that's great, but it is unnecessary to point this out otherwise.
+Arrange students in groups of 3–4. Tell students that their job in this activity is to plot some points that do and do not represent solutions to a few inequalities. If time is limited, consider assigning 1–2 inequalities to each group.
+"""
+### Student Task Statement
+"""
+Here are four inequalities. Study each inequality assigned to your group and work with your group to:
+Find some coordinate pairs that represent solutions to the inequality and some coordinate pairs that do not represent solutions.
+Plot both sets of points. Use either two different colors or two different symbols like X and O.
+Plot enough points until you start to see the region that contains solutions and the region that contains non-solutions. Look for a pattern describing the region where solutions are plotted.
+\(x \geq y\)
+Image description: <p>Blank coordinate grid, origin O. Each axis goes from negative 10 to 10, by 1’s.</p>
+\(\text-2y \ge \text-4\)
+\(3x < 0\)
+Image description: <p>Blank coordinate grid, origin O. Each axis goes from negative 10 to 10, by 1’s.</p>
+\(x+y > 10\)
+"""
+### Building on Student Thinking
+"""
+If students don’t know how to begin finding points that are solutions and points that are non-solutions, suggest that they pick any \((x,y)\) pair and then determine if it makes the inequality true. This way, they don’t have to worry about picking an “incorrect” point.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Display four graphs that are representative of students' work for the four inequalities. (A document camera would be very helpful, if available.) In particular, look for examples in which a student decided to “shade” all the points on one side of the boundary line.
+Invite students to make some observations about the graphs. Discuss questions such as:
+"What do the two sets of points represent?" (Solutions and non-solutions to the inequalities)
+"If we plot a new point somewhere on the coordinate plane, how can we tell if it is or is not a solution?" (There appears to be a line that separates the solutions from non-solutions. If it's on the same side of the line as other solutions, then it is a solution.)
+"What might be a good way to show all the possible solutions to a linear inequality in two variables? Is there a better way other than plotting individual points?" (We can shade the region that contains the points that are solutions.)
+Ask students: "How can we tell where exactly the solution region stops and non-solution region starts?" Solicit some ideas from students. If no one predicts that the line is the graph of an equation related to the inequality, remind students that when we solved inequalities in one variable, we used a related equation to help us identify a boundary value (a point on a number line). We can do the same here.
+Take the first inequality, \(x \geq y\), as an example. Explain that:
+The solutions to \(x=y\) are all coordinate pairs where \(x\) and \(y\) are equal. We can graph it as line that goes through \((\text-1, \text-1), (0,0), (1,1), (2,2)\), and so on.
+The solutions to \(x \geq y\) are all coordinate pairs where \(x\) equals \(y\) (such as the points previously noted), and where \(x\) is greater than \(y\) (such as \((2,1), (3, 2), (4,2)\)). The latter are all located below the line.
+We can shade the region below the line to represent the solutions to \(x\geq y\).
+In the next activity, students will take a closer look at whether the boundary line itself is part of the solution region. For now, it is sufficient that students see that the graph of an equation that is related to each inequality delineates the solution and non-solution regions.
+\(x \geq y\)​​​​​​
+\(x \geq y\)
+Image description: <p>Graph of inequality with solution and non-solution regions.</p>
+\(\text-2y \geq \text-4\)
+\(3x<0\)
+Image description: <p>Graph of inequality with solution and non-solution regions.</p>
+\(x+y>10\)
+"""
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Sketching Solutions to Inequalities
+### Activity Narrative
+"""
+In the preceding activity, students looked at the regions that represent solutions and non-solutions to inequalities. They recognized that the boundary between the two regions is the graph of an equation that is related to the inequality. Students did not, however, look closely at whether the boundary line itself is a part of the solution. That investigation is the focus of this activity.
+Students reason with algebraic and graphical representations of inequalities in two directions. They first graph the solutions to given inequalities, and later write inequalities whose solutions could be represented by given graphs.
+If many students get stuck on graphing or writing inequalities, consider moving fairly quickly through the activity and using the discussion questions in the Lesson Synthesis to help students gain clarity and focus.
+"""
+### Launch
+"""
+Display the inequalities \(x \ge y\) and \(x > y\) for all to see. Then, ask students to consider whether the following coordinate pairs are solutions to each inequality.
+\((5,4)\)
+\((5,4.9)\)
+\((5,5)\)
+Make sure that students understand why all three coordinate pairs are solutions to \(x \ge y\), but only \((5,4)\) and \((5,4.9)\) are solutions to \(x > y\). Display two graphs, each representing one of these inequalities.
+Image description: <p>Pair of inequality graphs.</p>
+Ask students to predict which graph represents which inequality. Consider polling the class on their predictions.
+Explain that the solid line is a way to say that all the points on that line (\(x=y\)) are solutions, and the dashed line is a way to say otherwise. (This is similar to how we use solid and open circles to represent the boundary values of a one-variable inequality on a number line.)
+Because the solutions to \(x>y\) do not include coordinates where \(x\) and \(y\) are equal, the graph of \(x=y\) is drawn with a dashed line. The solutions to \(x\geq y\) do include coordinates where \(x\) and \(y\) are equal, so the graph of \(x=y\) is drawn with a solid line.
+Tell students that they will now sketch the solutions of some other inequalities and think about whether or not the boundary line is included in the solutions.
+"""
+### Student Task Statement
+"""
+Here is a graph that represents solutions to the equation \(x-y=5\).	Sketch 4 quick graphs representing the solutions to each of these inequalities:	 \(x-y<5\)\(x-y \le 5\)\(x-y>5\)\(x-y \ge 5\)
+Image description: <p>Graph of a line, origin O, no grid. Scale is negative 10 to 5, by 5's on both axes. Line passes through 0 comma negative 5 and 5 comma 0.</p>
+Sketch 4 quick graphs representing the solutions to each of these inequalities:
+\(x-y<5\)
+Image description: <p><strong>Blank x y coordinate plane, no grid, and origin labeled “O”. The numbers -10, -5, and 5 are labeled on both axes.</strong></p>
+\(x-y \le 5\)
+\(x-y>5\)
+Image description: <p><strong>Blank x y coordinate plane, no grid, and origin labeled “O”. The numbers -10, -5, and 5 are labeled on both axes.</strong></p>
+\(x-y \ge 5\)
+For each graph, write an inequality whose solutions are represented by the shaded part of the graph.	AInequality graphed on a coordinate plane, origin O. Each axis from negative 10 to 8, by 2’s. Dashed line passes through 3 comma 8, 3 comma 0, and 3 comma negative 10. The region to the right of the dashed line is shaded.BInequality graphed on a coordinate plane, origin O. Each axis from negative 10 to 8, by 2’s. Solid line passes through negative 10 comma negative 2, negative 2 comma negative 2, and 10 comma negative 2. The region below the solid line is shaded. CInequality graphed on a coordinate plane, origin O. Each axis from negative 10 to 8, by 2’s. Dashed line passes through negative 10 comma negative 10, 0 comma 0, and 10 comma 10. The region above the dashed line is shaded. DInequality graphed on a coordinate plane, origin O. Each axis from negative 10 to 8, by 2’s. Solid line passes through negative 10 comma negative 10, 0 comma 0, and 10 comma 10. The region below the solid line is shaded.
+AInequality graphed on a coordinate plane, origin O. Each axis from negative 10 to 8, by 2’s. Dashed line passes through 3 comma 8, 3 comma 0, and 3 comma negative 10. The region to the right of the dashed line is shaded.
+A
+Image description: <p>Graph of an inequality.</p>
+BInequality graphed on a coordinate plane, origin O. Each axis from negative 10 to 8, by 2’s. Solid line passes through negative 10 comma negative 2, negative 2 comma negative 2, and 10 comma negative 2. The region below the solid line is shaded.
+B
+Image description: <p>Graph of an inequality.</p>
+CInequality graphed on a coordinate plane, origin O. Each axis from negative 10 to 8, by 2’s. Dashed line passes through negative 10 comma negative 10, 0 comma 0, and 10 comma 10. The region above the dashed line is shaded.
+C
+Image description: <p>Graph of an inequality line.</p>
+DInequality graphed on a coordinate plane, origin O. Each axis from negative 10 to 8, by 2’s. Solid line passes through negative 10 comma negative 10, 0 comma 0, and 10 comma 10. The region below the solid line is shaded.
+D
+Image description: <p>Graph of an inequality line.</p>
+"""
+### Building on Student Thinking
+"""
+Some students may struggle with the second set of questions because they do not recall how to write an equation for a vertical line or a horizontal line. Suggest that they write the coordinates of several points on the line and look for a pattern. For example, some points on the vertical line are \((3,\text-2), (3, 0), (3,4)\), and \((3,6)\). Noticing that the \(x\)-value is always 3, regardless of the \(y\)-value, may help remind students that the equation is \(x=3\).
+"""
+### Are You Ready for More?
+"""
+The points \((7,3)\) and \((7,5)\) are both in the solution region of the inequality \(x - 2y < 3\).	Compute \(x-2y\) for both of these points.Which point comes closest to satisfying the equation \(x-2y=3\)? That is, for which \((x,y)\) pair is \(x-2y\) closest to 3?
+Compute \(x-2y\) for both of these points.
+Which point comes closest to satisfying the equation \(x-2y=3\)? That is, for which \((x,y)\) pair is \(x-2y\) closest to 3?
+Image description: <p>Coordinate plane, x, negative 4 to 4 by 1, y, negative 4 to 4 by 1.  Dotted line through negative 1 comma negative 2 and 3 comma 0. The area above the line is shaded blue.</p>
+The points \((3,2)\) and \((5,2)\) are also in the solution region. Which of these points comes closest to satisfying the equation \(x-2y=3\)?
+Find a point in the solution region that comes even closer to satisfying the equation \(x-2y=3\). What is the value of \(x-2y\)?
+For the points \((5,2)\) and \((7,3)\), \(x-2y=1\). Find another  point in the solution region for which \(x-2y=1\).
+Find \(x-2y\) for the point \((5,3)\). Then find two other points that give the same answer.
+"""
+### Activity Synthesis
+"""
+Select students to share their sketched graphs for the first set of questions and the inequalities they wrote for the second set of questions. Use their work and explanations to help the class synthesize the new ideas in this lesson.
+See the Lesson Synthesis for discussion questions.
+"""
+# Lesson Close
+## Lesson Synthesis
+"""
+Refer to the work that students have done in the last activity. Discuss with students how they made decisions about the solution region and boundary line for the given inequalities, and about the inequality symbol for the given graphs. Ask questions such as:
+"Once you knew where the boundary line is, how did you decide which side of the line represents the solution region?" (I tested a point on each side of the line by substituting the values into the inequality. The pair of values that created a true statement is in the solution region.)
+"How did you decide whether the boundary line should be solid or dashed?" (A solid line means that a pair of values on the line is a solution, and a dashed line means that the pair is not a solution. I tested a pair of values on the line to check if it created a true statement.)
+"When you have the graph showing the solution region, how did you determine the inequality symbol to use?" (First, I used whether the line was dashed or solid to determine if the sides could be equal or not. Then, I substituted a pair of values from the solution region and wrote the appropriate inequality to make the statement true.)
+Some students might incorrectly conclude that an inequality with a < symbol will be shaded below the boundary line and that an inequality with a > symbol will be shaded above it. Any inequality in the first question can be used to show that this is not the case.
+Take \(x-y<5\), for example. We're looking for coordinate pairs that have a value of less than 5 when \(y\) is subtracted from \(x\). Let's see if \((0,0)\) meets this condition: \(0-0<5\) gives \(0<5\), which is a true statement. This means that \((0,0)\), which is above the graph of \(x-y=5\), is in the solution region. If we test a point below the line, say, \((10,\text-10)\), we would see that \(x-y\) is greater than 5, not less than 5. This means that the region below the line is for non-solutions.
+Emphasize that we cannot assume that the < or \(\leq\) symbol means shading below a line. It is important to test points on either side of the line to see if the pair of values make the inequality true, or to reason carefully about the inequality statement and think about pairs of values that would satisfy the inequality.
+"""
+## Student Lesson Summary
+"""
+The equation \(x+y = 7\) is an equation in two variables. Its solution is any pair of \(x\) and \(y\) whose sum is 7. The pairs \(x=0, y=7\) and \(x =\text5, y= 2\) are two examples.
+We can represent all the solutions to \(x+y = 7\) by graphing the equation on a coordinate plane.
+The graph is a line. All the points on the line are solutions to \(x+y = 7\).
+​​​​​
+Image description: <p>Graph of a line, origin O, with grid. Scale is negative 8 to 10, by 2’s on both axes. Line passes through 0 comma 7 and 5 comma 2.</p>
+The inequality \(x+y \leq 7\) is an inequality in two variables. Its solution is any pair of \(x\) and \(y\) whose sum is 7 or less than 7.
+This means it includes all the pairs that are solutions to the equation \(x+y=7\), but also many other pairs of \(x\) and \(y\) that add up to a value less than 7. The pairs \(x=4, y=\text-7\) and \(x=\text-6, y=0\) are two examples.
+On a coordinate plane, the solution to \(x+y \leq 7\) includes the line that represents \(x+y=7\). If we plot a few other \((x,y)\) pairs that make the inequality true, such as \((4, \text-7)\) and \((\text-6,0)\), we see that these points fall on one side of the line. (In contrast, \((x,y)\) pairs that make the inequality false fall on the other side of the line.)
+We can shade that region on one side of the line to indicate that all points in it are solutions.
+Inequality graphed on a coordinate plane, origin O. Each axis from negative 8 to 10, by 2’s. Solid line goes through 0 comma 7 and 5 comma 2. The region below the solid line is shaded. The points negative 6 comma 0 and 4 comma negative 7 are labeled.​​​​​​
+Image description: <p>Graph of an inequality.</p>
+What about the inequality \(x+y <7\)?
+The solution is any pair of \(x\) and \(y\) whose sum is less than 7. This means pairs like \(x=0, y=7\) and \(x =5, y=2\) are not solutions.
+On a coordinate plane, the solution does not include points on the line that represent \(x+y=7\) (because those points are \(x\) and \(y\) pairs whose sum is 7).
+To exclude points on that boundary line, we can use a dashed line.
+All points below that line are \((x,y)\) pairs that make \(x+y<7\) true. The region on that side of the line can be shaded to show that it contains the solutions.
+Inequality graphed on a coordinate plane, origin O. Each axis from negative 8 to 10, by 2’s. Dashed line goes through 0 comma 7 and 7 comma 0. The region below the dashed line is shaded.​​​​​​
+Image description: <p>Graph of an inequality.</p>
+"""

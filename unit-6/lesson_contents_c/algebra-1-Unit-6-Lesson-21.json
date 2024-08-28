@@ -1,0 +1,81 @@
+{
+  "Lesson Location": {
+    "Unit Number": "6",
+    "Unit Name": "Introduction to Exponential Functions",
+    "Lesson Number": "21",
+    "Lesson Title": "Predicting Populations"
+  },
+  "Lesson Timing": {
+    "Total Activity Time in Minutes": "50",
+    "Total Lesson Time incl Lesson Synthesis": "60"
+  },
+  "Lesson Preamble": {
+    "Lesson Narrative": "In this lesson, students use the main function types they have studied\u00a0thus far in the course (linear and exponential) to model different populations.\nFor timing, it may be appropriate to select only one of the modeling tasks. The first task focuses on selecting an appropriate model (linear, exponential, or neither) for given data, then writing a function for the model. The second task focuses on researching additional data, examining data on different time intervals, and breaking a single set of data into pieces that can be modeled differently on different time intervals. Select the task that would better support students\u2019 understanding.\nStudents engage in different parts of the modeling cycle (MP4). This can be adjusted further, for example, by choosing other cities for the first activity and having students find the data. They will have to think carefully (MP1) about how to choose an appropriate linear or exponential model\u00a0because none of the data is exactly exponential or linear. They will also attend to precision (MP6) in choosing the parameters in their models.",
+    "Learning Goals": [
+      "Use given population data to calculate or estimate growth rates and make predictions.",
+      "Determine and explain (in writing) how well a function models the given data.",
+      "Choose and write a linear or exponential function to model real-world data."
+    ],
+    "Student-Facing Goal": "Let's use linear and exponential models to represent and understand population changes.",
+    "Student-Facing Targets": {},
+    "Required Preparation": {},
+    "Standards Alignment": {
+      "Building On": "",
+      "Addressing": [
+        "HSF-LE.A.1",
+        "HSF-LE.A.1.b",
+        "HSF-LE.A.1.c",
+        "HSF-LE.A.2",
+        "HSN-Q.A.3",
+        "HSS-ID.B.6.a"
+      ],
+      "Building Toward": "HSF-LE.A.1"
+    },
+    "Glossary": {}
+  },
+  "Lesson Content": {
+    "Activities": [
+      {
+        "Activity Timing": "5 mins",
+        "Activity Title": "Notice and Wonder: Changing Populations",
+        "Activity Narrative": "The purpose of this warm-up is to familiarize students with data in a context that they will be using in a later activity. While students may notice and wonder many things about these data, estimates\u00a0of average rate of change and curiosity about models for the populations are the important discussion points.\nThis Warm-up prompts students to make sense of a problem before solving it, by familiarizing themselves with a context and the mathematics that might be involved (MP1).",
+        "Launch": "Arrange students in groups of 2. Display the table for all to see. Ask students to think of at least one thing they notice and at least one thing they wonder about. Give students 1 minute of quiet think time, and then 1 minute to discuss the things they notice and wonder with their partner.",
+        "Student Task Statement": "Here are the populations of three cities during different years.\nWhat do you notice? What do you wonder?\nCity | 1950 | 1960 | 1970 | 1980 | 1990 | 2000\nParis | 6,300,000 | 7,400,000 | 8,200,000 | 8,700,000 | 9,300,000 | 9,700,000\nAustin | 132,000 | 187,000 | 254,000 | 346,000 | 466,000 | 657,000\nChicago | 3,600,000 | 3,550,000 | 3,400,000 | 3,000,000 | 2,800,000 | 2,900,000",
+        "Building on Student Thinking": "",
+        "Are You Ready for More?": "",
+        "Activity Synthesis": "Ask students to share the things they noticed and wondered about. Record and display, for all to see, their responses without editing or commentary. If possible, record the relevant reasoning on or near the table. Next, ask students, \u201cIs there anything on this list that you are wondering about now?\u201d Encourage students to observe what is on display and to respectfully ask for clarification, point out contradicting information, or voice any disagreement.\nIf a general description of the trends in population and possible models for population do not come up during the conversation, ask students to discuss this idea.\nFor example:\nParis has been growing steadily but not at a constant rate.\nAustin has been growing very rapidly.\nChicago's population has decreased, at a variable rate, but it increased in the decade from 1990 to 2000."
+      },
+      {
+        "Activity Timing": "25 mins",
+        "Activity Title": "Population Predictions 1",
+        "Activity Narrative": "This is the first of two modeling tasks prompting students to apply what they have learned about exponential growth and decay as well as about linear functions. Students have just seen how linear functions change by equal differences over equal intervals and how exponential functions change by equal factors over equal intervals, so they are likely to look for these features. They investigate the growth of three city populations over a period of 50 years. The data is real and thus not exactly linear or exponential. But the cities are carefully selected so that one population can be approximated well with a linear function, one can be approximated well with an exponential function, and one is neither linear nor exponential.\nWhen writing equations to model the populations, a natural variable to use is decades, because the populations are only given for each decade. Students can choose to use years, but then finding the growth rate for Austin is problematic. If students get stuck, consider suggesting the use of decades to measure time.\nAfter students create their models and make predictions, consider sharing more recent population data so they can check their predictions.\nCity | 2010 | 2017\nParis | 10,500,000 | 11,000,000\nAustin | 790,000 | 950,000\nChicago | 2,700,000 | 2,730,000\nMonitor for students who create their model by:\nUsing coordinates of two points to find differences or quotients.\nFinding differences or quotients and then finding their averages.\nFitting a line or a curve through the data points to approximate the growth (or using\u00a0technology to fit a line or a curve) and then finding the equation for that line or curve.\nPlan to have students present in this order to support more accurate models based on multiple data values.",
+        "Launch": "Arrange students in groups of 3 or 4. Display the populations of the three cities from the Warm-up.\nCity | 1950 | 1960 | 1970 | 1980 | 1990 | 2000\nParis | 6,300,000 | 7,400,000 | 8,200,000 | 8,700,000 | 9,300,000 | 9,700,000\nAustin | 132,000 | 187,000 | 254,000 | 346,000 | 466,000 | 657,000\nChicago | 3,600,000 | 3,550,000 | 3,400,000 | 3,000,000 | 2,800,000 | 2,900,000\nAsk students: \"Can this information be used to predict today's population in the three cities? How? What about the population in 2050?\" Give students a minute of quiet think time and then time to share their thoughts with their group. Invite groups to share their responses. Highlight responses that suggest that we observe whether they grow linearly or exponentially (either by calculation or by graphing) and then create\u00a0mathematical models accordingly.\nProvide access to graphing technology. It is ideal if each student has their own device. If students are to present their models on visual displays, provide access to tools for creating visual displays.\nSelect students with different strategies, such as those described in the Activity Narrative, and ask them to share later.",
+        "Student Task Statement": "Here are population data for three cities at different times between 1950 and 2000. What does the data tell us, if anything, about the current population in the cities or what the population will be in 2050?\nCity | 1950 | 1960 | 1970 | 1980 | 1990 | 2000\nParis | 6,300,000 | 7,400,000 | 8,200,000 | 8,700,000 | 9,300,000 | 9,700,000\nAustin | 132,000 | 187,000 | 254,000 | 346,000 | 466,000 | 657,000\nChicago | 3,600,000 | 3,550,000 | 3,400,000 | 3,000,000 | 2,800,000 | 2,900,000\nHow would you describe the population change in each city during this time period? Write one to two sentences for each city. Then discuss with your group.\nWhat kind of model, linear or exponential, both, or neither do you think is appropriate for each city population?\nFor each population that you think can be modeled by a linear and or exponential function:\tWrite an equation for the function(s).Graph the function(s).\nWrite an equation for the function(s).\nGraph the function(s).\nCompare the graphs of your functions with the actual population data. How well do the models fit the data?\nUse your models to predict the population in each city in 2010, the current year, and 2050.Do you think that these predictions are (or will be) accurate? Explain your reasoning.\nUse your models to predict the population in each city in 2010, the current year, and 2050.\nDo you think that these predictions are (or will be) accurate? Explain your reasoning.",
+        "Building on Student Thinking": "Students may continue to find modeling tasks uncomfortable and challenging. Remind students that real-world data is often very \"messy\" and we should use the tools we have to approximate and estimate values as best as we can, but it will probably not line up exactly.",
+        "Are You Ready for More?": "",
+        "Activity Synthesis": "Focus the discussion on how students decided on the model to use for Paris and Chicago, and the specific models (the equations) they chose. Either linear or exponential can be justified, though students can also argue that neither of these models is appropriate because neither the successive differences (linear) nor the successive quotients (exponential) are close to being constant.\nInvite previously selected groups to share how they decided what models to use, including the values they selected in their models. Sequence the discussion of the strategies by the order listed in the Activity Narrative. If possible, record and display their work for all to see.\nConnect the different responses to the learning goals by asking questions such as:\n\u201cWhat would you expect in a good linear or exponential model?\u201d (The population predicted by the model is close to the actual data. The general trend predicted by the model follows the shape of\u00a0the data in the graph (for example, the overall rate of growth for Paris is slowing down as time progresses).)\n\u201cHow do the slopes for the linear models compare to one another using these different methods?\u201d (They are all very close, at around 0.7 for Paris.)\n\u201cHow do the growth factors compare for the exponential models?\u201d (They are also very close, at around 1.38 for Austin.)\nUse technology to display the data on a graph along with some of the models that are shared. \u201cLooking at the data on a graph and the different models that we came up with, which models are the best?\u201d"
+      },
+      {
+        "Activity Timing": "20 mins",
+        "Activity Title": "Population Predictions 2",
+        "Activity Narrative": "This task provides students with a more open-ended modeling opportunity within a population context. Students consider the world population by decade from 1950 through 2000, and then examine the annual world population for the last 70 years. Data are not provided in the problem, allowing students to investigate using online resources.\nIf students use the online resource\u00a0suggested in the Lesson Narrative\u00a0for world population estimates, restrict their attention to one column of the table. The big list of numbers may still be intimidating. Ask students what an appropriate level of accuracy for reporting the world population\u00a0is (to the nearest 10 million will probably give the clearest pattern, to the nearest 100 million would also be mathematically appropriate). Because there is a lot of information, it could be worth uploading the data in advance so that students can see a visual display and so that the data could be distributed more readily.\nMaking graphing technology available gives students an opportunity to choose appropriate tools strategically (MP5).",
+        "Launch": "Display the table from the task statement\u00a0for all to see. Invite students to observe the table and share what they notice and what they wonder.\nAfter students have worked on the first two problems, consider pausing for a discussion. Consider searching the internet for a short video about the growth of world population using \u201chuman population growth\u201d in a search engine.\u00a0Students should be invited to consider how human population growth and resource use can impact the planet in the future.",
+        "Student Task Statement": "Image description: <p>Earth from space</p>\nyear | world population in billions\n1804 | 1927 | 1960 | 1974 | 1987 | 1999 | 2011\n1 | 2 | 3 | 4 | 5 | 6 | 7\nWould a linear function be appropriate for modeling the world population growth over the last 200 years? Explain. If you think it is appropriate, find a linear model.\nWould an exponential function be appropriate for modeling the world population growth over the last 200 years? Explain. If you think it is appropriate, find an exponential model.\nFrom 1950 to the present day, by about what percentage has the world population grown each year?\nFrom 1950 to the present day, by about how many people has the world population grown each year?\nIf the growth trend continues, what will the world population be in 2050? How long do you think the growth will continue? Explain your reasoning.",
+        "Building on Student Thinking": "Students may not notice that the years in the table are not consecutive. Help point out that the table shows only the years at which the next billion-person milestone was reached.",
+        "Are You Ready for More?": "Another common model for population growth, which fixes some of the improbable predictions of the exponential model, is called a\u00a0logistic\u00a0model. A sample function,\u00a0\\(f\\), of this type is the function \\(\\displaystyle f(t)=\\frac{10}{1+50\\boldcdot 2^{\\text-t}}.\\)\nUse technology to graph this function, and explain why it could make sense as a population model.",
+        "Activity Synthesis": [
+          "\"\"\"",
+          "The way the data is presented shows that the world population is not growing linearly. If it were, then it would consistently take about the same number of years to grow by 1 billion. To bring this point home, ask questions such as:",
+          "\"How many years did it take for the population to grow from 1 billion to 2 billion?\" (123 years)",
+          "\"What about from 6 billion to 7 billion?\" (12\u00a0years)",
+          "\"Why was that the case? Does that make sense?\" (With a smaller population, it is a larger\u00a0percentage change to increase by 1 billion. With a larger population, however, growing by 1 billion is a smaller percentage change, so it does not take as long to happen.)",
+          "To test whether or not the data might be exponential is more subtle. One good strategy is to check some doubling times. It took:",
+          "123 years for the population to double from 1 billion to 2 billion",
+          "47 years for the population to double from 2 billion to 4 billion (and it looks like it will take maybe another 50 years for the population to double from 4 billion to 8 billion)",
+          "39 years to double from 3 to 6 billion",
+          "Based on this information, an exponential model for the entire period of time is probably not the best (the growth rate was faster in the 20th century than in the 19th), but a couple of different exponential models might work well (one for each century). If students dig deeper into the data, they will find that a linear model is remarkably good for the past few decades. If the videos suggested\u00a0in the Launch were not shown earlier (after the first two problems), consider showing them here."
+        ]
+      }
+    ]
+  }
+}

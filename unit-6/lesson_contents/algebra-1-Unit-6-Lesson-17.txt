@@ -1,0 +1,253 @@
+
+# Lesson Location
+## Unit Number
+6
+## Unit Name
+Introduction to Exponential Functions
+## Lesson Number 
+17
+## Lesson Title
+Different Compounding Intervals
+# Lesson Timing
+## Total Activity Time in Minutes 
+55
+## Total Lesson Time incl Lesson Synthesis
+65 
+
+
+
+Lesson Preamble
+CC BY-NC 4.0
+Preparation
+Lesson
+# Different Compounding Intervals
+## Preparation
+## Lesson Narrative
+In this lesson, students apply what they have learned about compound interest to critically examine different situations. First, they look at how credit card companies often report interest rates (nominal annual percentage rate), versus how much interest a cardholder actually pays over the course of a year on an unpaid balance (effective annual percentage rate). The effective rate is higher than the nominal rate because of the effect of compounded interest.
+Next, students are asked to choose the better of two investment options with different interest rates and compounding intervals. Finally, an optional activity looks at the rising costs of college tuition and compares the rates of increase over different decades.
+Throughout this lesson, students strategically write expressions, compare them, and relate them back to monetary contexts (MP2).
+## Learning Goals
+Compare interest rates and compounding intervals to choose the better investment option.
+Calculate the result of repeated percent increase for the same initial balance and interest rate, but compounded at different intervals.
+### Student-Facing Goal
+Let's find out what happens when we repeatedly apply the same percent increase at different intervals of time.
+### Student-Facing Targets
+I can calculate interest when I know the starting balance, interest rate, and compounding intervals.
+When given interest rates and compounding intervals, I can choose the better investment option.
+View Student Lesson
+## Required Materials
+#### Activity 2
+Math Community Chart
+## Required Preparation
+None
+### Standards Alignment
+#### Building On
+#### Addressing
+HSA-SSE.A
+HSA-SSE.A.1
+HSF-BF.A.1.a
+HSF-IF.A.2
+HSN-Q.A.2
+#### Building Toward
+## Glossary
+Practice
+### Other Resources
+View Student Lesson
+## Teacher Support
+## Student Handouts
+
+
+
+Lesson Content
+Preparation
+Lesson
+## Lesson 17
+View Student Lesson
+# Different Compounding Intervals
+Image description: Course Icon
+5 mins
+## Warm-up
+### Returns over Three Years
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+The Warm-up prompts students to think about equivalent ways to express a compounded interest calculation. The given expressions describe the same initial investment for the same period of time, but one expression counts the number of months while the other counts the number of years. This work prepares students to look at different compounding intervals in this lesson and upcoming ones.
+If time is limited, focus only on the first question.
+### Launch
+Arrange students in groups of 2. This situation was originally mentioned in an earlier lesson. Remind students that they worked with this situation in a previous activity.
+### Activity
+### Student Task Statement
+\$1,000 is deposited into a bank account that earns 1% interest each month. Each month, the interest is added to the account, and no other deposits or withdrawals are made.
+To calculate the account balance in dollars after 3 years, Elena wrote: \(1,\!000 \boldcdot (1.01)^{36}\) and Tyler wrote: \(1,\!000 \boldcdot \left((1.01)^{12}\right)^3\).
+Discuss with a partner:
+Why do Elena's expression and Tyler's expression both represent the account balance correctly?
+Kiran said, "The account balance is about \(1,\!000 \boldcdot (1.1268)^3\)." Do you agree? Why or why not?
+### Student Response
+### Building on Student Thinking
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Invite groups to share their explanations for why Tyler's and Elena's expressions both represent the account balance after 3 years. If not already mentioned in students explanations, highlight the following:
+In Elena's expression, \((1.01)^{36}\) correctly represents the 1% interest applied or compounded every month for 36 months, which is 3 years.
+In Tyler's expression, \((1.01)^{12}\) represents the 1% interest compounded every month for 12 months or a year. So for 3 years, we need to multiply the initial balance by that yearly rate 3 times, or \((1.01)^{12} \boldcdot(1.01)^{12} \boldcdot(1.01)^{12}\), which is equivalent to\(\left((1.01)^{12}\right)^3\).
+By the power of powers property, we also know that \(\left((1.01)^{12}\right)^3 =(1.01)^{36}\).
+(If time permits:) Evaluating \((1.01)^{12}\) gives approximately 1.1268. This means that 12.68 is the effective annual rate, which is the rate that Kiran used in his expression.
+15 mins
+## Activity
+### Contemplating Credit Cards
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+Building on their work in the Warm-up, students make several compound-interest calculations in a credit card context. They revisit and explore how nominal and effective interest rates are used by credit institutions.
+In a borrowing context, the nominal annual percentage rate, or the nominal APR, is 12 times the monthly interest rate. The effective annual percentage rate is the compounded interest rate if no payments are made over a year. As in other compounding situations, the nominal APR is lower than the effective annual rate (the actual rate cardholders pay). For this reason, credit card companies usually report the nominal APR rather than the effective annual rate to make the card more appealing.
+Students also practice writing different expressions to represent the same quantity in an exponential situation. Look for these variations in students' work, and ask them to share later:
+\(1,\!000 \boldcdot \left((1.02)^{12}\right)^t\)
+\(1,\!000 \boldcdot (1.02)^{12t}\)
+about \(1,\!000 \boldcdot (1.268)^3\)
+### Launch
+Math Community
+Display the Math Community Chart for all to see. Give students a brief quiet think time to read the norms or invite a student to read them out loud. Tell them that during this activity they are going to choose a norm to focus on and practice. This norm should be one that they think will help themselves and their group during the activity. At the end of the activity, students can share what norm they chose and how the norm did or did not support their group.
+Give students an overview of credit cards, in case students are unfamiliar. Consider using the explanation: Credit card companies allow their clients (the cardholders) to borrow money. In return, the companies charge interest, a percentage of the borrowed amount, until the debt is paid. The percentage charged every year is called the annual percentage rate (APR). The companies allow their card holders to pay incrementally, by making a certain minimum amount of payment every month. Interest is charged on the remaining owed amount (the balance). Many companies charge late fees if the minimum payment is not made.
+Students will have seen the terms nominal interest rate and effective interest rate from a previous lesson. Remind them as needed.
+Use Co-Craft Questions to orient students to the context and to elicit possible mathematical questions.
+Display only the problem stem and related image, without revealing the questions. Give students 1–2 minutes to write a list of mathematical questions that could be asked about the situation, before comparing questions with a partner.
+Invite several partners to share one question with the class, and record responses. Ask the class to make comparisons among the shared questions and their own. Ask, “What do these questions have in common? How are they different?” Listen for and amplify language related to the learning goal, such as “nominal or effective APR.”
+Reveal the questions, and give students 1–2 minutes to compare them to their own question and those of their classmates. Invite students to identify similarities and differences by asking:	“Which of your questions is most similar to or different from the ones provided? Why?” “Is there a main mathematical concept that is present in both your questions and those provided? If so, describe it.”
+“Which of your questions is most similar to or different from the ones provided? Why?”
+“Is there a main mathematical concept that is present in both your questions and those provided? If so, describe it.”
+### Activity
+### Student Task Statement
+A credit card company lists a nominal APR (annual percentage rate) of 24% but compounds interest monthly, so it calculates 2% per month.
+Suppose a cardholder made \$1,000 worth of purchases using his credit card and made no payments or other purchases. Assume the credit card company does not charge any additional fees other than the interest.
+Image description: <p>Ends of credit cards.</p>
+Write expressions for the balance on the card after 1 month, 2 months, 6 months, and 1 year.
+Write an expression for the balance on the card, in dollars, after \(m\) months without payment.
+How much does the cardholder owe after 1 year without payment? What is the effective APR of this credit card?
+Write an expression for the balance on the card, in dollars, after \(t\) years without payment. Be prepared to explain your expression.
+### Student Response
+### Building on Student Thinking
+For students struggling to work with the expressions in this activity, refer them to the Warm-up and the multiple options used to represent the values seen there.
+### Are You Ready for More?
+A bank account has an annual interest rate of 12% and an initial balance of \$800. Any earned interest is added to the account, but no other deposits or withdrawals are made. Write an expression for the account balance:
+After 5 years, if interest is compounded \(n\) times per year.
+After \(t\) years, if interest is compounded \(n\) times per year.
+After \(t\) years, with an initial deposit of \(P\) dollars and an annual interest percentage rate of \(r\), compounded \(n\) times per year.
+#### Student response
+### Activity Synthesis
+Select previously identified students to share their expressions for the account balance after \(t\) years. Discuss questions such as:
+“Are all of these expressions equivalent? How do you know?” (Make sure students understand that \(1,\!000 \boldcdot \left(1.02^{12}\right)^t\) and \(1,\!000 \boldcdot \left(1.02^{12t}\right)\) are equivalent, but that \(1,\!000 \boldcdot (1.268)^t\) is a convenient approximation for the other two.)
+“Why do you think the credit card company advertises the nominal annual percentage rate rather than the effective annual percentage rate?” (The nominal APR of 24% sounds better because it is less than the effective annual rate of 26.8%. Credit card companies choose the percentage rate so that it works to their advantage. Banks advertise the effective annual percentage for their interest-bearing accounts for the same reason.)
+Math Community
+Invite 2–3 students to share the norm they chose and how it supported the work of the group or a realization they had about a norm that would have worked better in this situation. Provide these sentence frames to help students organize their thoughts in a clear, precise way:
+“I picked the norm ‘\(\underline{\hspace{.5in}}\).’ It really helped me/my group because \(\underline{\hspace{.5in}}\).”
+“I picked the norm ‘\(\underline{\hspace{.5in}}\).’ During the activity, I realized that the norm ‘\(\underline{\hspace{.5in}}\)’ would be a better focus because \(\underline{\hspace{.5in}}\).”
+15 mins
+## Activity
+### Which One Would You Choose?
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+This task prompts students to build mathematical models to compare two different interest options. Along the way, they need to make assumptions, most notably about the length of the investment because the better investment option may depend on what they assume to be true.
+The given rates and compounding intervals are chosen so that it is not clear how the investments would pay for an investment time that is not a multiple of the compounding interval. For example, if the investment is left for 9 months, the option that compounds interest every 3 months will make 3 payouts, but what about the option that compounds interest every 4 months? Students might assume that each method pays only at the end of the compounding interval. In that event, the option that compounds interest every 4 months would pay interest only twice.
+Notice how students deal with the length of the investment. Some students may recognize the structural similarity between the situation here and that in the previous activity (that a 1% monthly rate leads to a higher interest than a 12% annual rate does) and reason accordingly.
+In asking "What if?" questions, stating their assumptions, and applying what they know about exponential growth to solve a real-world problem, students are engaging in aspects of mathematical modeling (MP4). While the investment context is authentic and practical, the rates in this task are theoretical, because they are chosen to enable students to find and compare effective annual rates.
+### Launch
+Arrange students in groups of 2–4. If time is limited, consider asking half of each group to analyze the first investment option and the other half to analyze the second option and then to discuss their findings.
+Ask students who take the length of the investment into account to prepare to share their thinking during the discussion.
+### Activity
+### Student Task Statement
+Suppose you have \$500 to invest and can choose between two investment options.
+Option 1: Every 3 months 3% interest is applied to the balance
+Option 2: Every 4 months 4% interest is applied to the balance
+Which option would you choose? Build a mathematical model for each investment option and use them to support your investment decision. Remember to state your assumptions about the situation.
+### Student Response
+### Building on Student Thinking
+Students may be unsure about what to do because the length of time of the investment is not given. Encourage them to try out different time frames, or prompt them to choose different time frames for different cases. Students should still support any decisions with mathematical reasoning.
+### Are You Ready for More?
+Is there a period of time during which the first option (3% interest rate, compounded quarterly) will always be the better option? If so, when might it be? If not, why might that be?
+#### Student response
+### Activity Synthesis
+Invite students to share their choice and their rationales. Discuss questions such as:
+"What is the nominal annual interest rate for each option?" (12%. There are four quarters or four 3-month periods in a year, so the nominal annual rate is 4 times 3%, or 12%. There are three 4-month periods in a year, so the nominal annual rate is 3 times 4%, or 12%).
+"Do they have the same effective annual rate? Why or why not?" (No, because the periodic interest is not calculated with the same frequency.)
+"How does the length of investments influence your calculations and investment choice?" (Because the interest is given on only certain months, the balances jump up at certain times rather than changing smoothly. This means that if I’m planning to take out the money at a certain time, I need to choose the better option based on how long the money has been invested.)
+"Will the 4% investment option ever be the better option? When?" (It would be the preferred option if the investment option is, say, 4 months or 8 months.)
+Option 2 will be favorable for a length of investment that is a multiple of 4 months but not a multiple of 3 months, up until a certain time, at which point the shorter compounding period in Option 1 will always present an advantage over the higher rate in Option 2. The extension problem prompts students to think about whether the exact length of investment would continue to matter, or whether one option would always outperform the other for some domain.
+20 mins
+## Activity
+### Changes over the Years
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+In this activity, students interpret an exponential equation in context. The equation describes college tuition cost as a function of time in years. Students are invited to examine how the tuition changes each decade.
+Along the way, students observe that the rate of change is the same for any decade and that the time it takes tuition cost to double remains consistent. (If desired, this may be an opportunity to introduce the Rule of 72, a method for estimating the doubling time of a quantity that grows exponentially. In an earlier lesson, when comparing the graphs of the owed amounts at 12%, 24%, and 30% interest rates, students made estimates of when each loan would double. If the Rule of 72 is introduced, consider referring back to that activity to test the rule.)  Students may also notice that the current rate of growth for tuition is likely unsustainable.
+For the second question, students may reason inductively (by evaluating the expressions for certain 10-year periods) or deductively (by using the structure of the expressions and properties of exponents). Identify students who use each approach so they can share later.
+### Launch
+### Activity
+### Student Task Statement
+The function, \(f\), defined by \(f(x)= 15 \boldcdot (1.07)^x\) models the cost of tuition, in thousands of dollars, at a local college \(x\) years since 2017.	What is the cost of tuition at the college in 2017?At what annual percentage rate does the tuition grow?Assume that the model function holds for the years before 2017. What was the tuition in 2000? Show your reasoning.What was the tuition in 2010?What will the tuition be when you graduate from high school?
+What is the cost of tuition at the college in 2017?
+At what annual percentage rate does the tuition grow?
+Assume that the model function holds for the years before 2017. What was the tuition in 2000? Show your reasoning.
+What was the tuition in 2010?
+What will the tuition be when you graduate from high school?
+Between 2000 and 2010 the tuition nearly doubled.	By what factor will the tuition grow between 2017 and 2027? Show your reasoning.Choose another 10-year period, and find the factor by which the tuition grows. Show your reasoning.What can you say about how the tuition changes over any 10-year period (assuming that the function, \(f\), continues to be an accurate model)? Explain or show how you know that this will always be the case.
+By what factor will the tuition grow between 2017 and 2027? Show your reasoning.
+Choose another 10-year period, and find the factor by which the tuition grows. Show your reasoning.
+What can you say about how the tuition changes over any 10-year period (assuming that the function, \(f\), continues to be an accurate model)? Explain or show how you know that this will always be the case.
+### Student Response
+### Building on Student Thinking
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Highlight the fact that every year the tuition grows by a factor of \(1.07\), and so every two years it will grow by a factor of \((1.07)^2\), and every ten years it will grow by a factor of \((1.07)^{10}\). In this context, 10-year periods are convenient because \(1.07^{10} \approx 1.97\). So approximately every 10 years, the tuition doubles.
+Ask students by what factor the tuition will grow between 2017 and 2037, assuming this trend continues. In thousands of dollars, it would be \(15 \boldcdot (1.07)^{20}\), or (because 20 years is 2 decades) \(15 \boldcdot \left((1.07)^{10}\right)^2\). Because \((1.07)^{10} \approx 2\), this means that in 2037 the tuition would be about \$60,000! Another way to see this is that from 2017 to 2027 the tuition will double to \$30,000, and then from 2027 to 2037 it doubles again to \$60,000.
+## Lesson Synthesis
+We looked at how to calculate account balances when the interest is calculated at different time intervals. Review how compounding intervals affect the quantity being studied, and how to represent the different patterns of increase using expressions.
+Let's say you have \$1,000 in a bank account that pays 8% annual interest and you make no other deposits or withdrawals.
+"Which of these options for calculating interest would you prefer: 8% calculated at the end of one year, 4% calculated every half a year, 2% calculated every quarter (or 3 months), or \(\frac{8}{12}\)% calculated every month? Why?" (I would prefer the monthly option because I will have more times when interest is calculated on interest and that would result in a greater total at the end of a year. It also means I could withdraw my money sooner if I needed and still have some interest added.)
+"For each option, what expression would you write to represent the balance in the account after one year?" (Yearly: \(1000 \boldcdot 1.08\). Half-year: \(1000 \boldcdot (1.04)^2\). Quarterly: \(1000 \boldcdot (1.02)^4\). Monthly: \(1000 \boldcdot \left( \frac{8}{12} \right)^{12}\).)
+"If the bank calculates 1/12 of the interest every month, will you have 8% of \$1,000 (or \$80) after one year? Why or why not?" (No, there will be more than that because each month the new interest is calculated using the original amount as well as the interest from all the previous months.)
+## Student Lesson Summary
+In many situations, interest is calculated more frequently than once a year. How often the interest is compounded and calculated and added to the previous amount affects the overall amount of interest earned (or owed) over time.
+Suppose a bank account has a balance of \$1,000 and a nominal annual interest rate of 6% per year. No additional deposits or withdrawals are made.
+If the bank compounds interest annually, the account will have one interest calculation in one year, at a 6% rate. If it compounds interest every 6 months, the account will see two interest calculations in one year, at a 3% rate each time (because \(6 \div 2 = 3\)). If it is compounded every 3 months, there will be 4 calculations at 1.5% each time, and so on.
+This table shows the nominal interest rates used for different compounding intervals, as well as the corresponding expressions for the account balance in one year.
+compoundinginterval | compoundingfrequency per year | nominal interest rate | account balance in one year
+annually (12 months) | 1 time | 6% | \(1,\!000 \boldcdot (1+0.06)\)
+semi-annually (6 months) | 2 times | 3% | \(1,\!000 \boldcdot (1+0.03)^2\)
+quarterly (3 months) | 4 times | 1.5% | \(1,\!000 \boldcdot (1+0.015)^4\)
+monthly (1 month) | 12 times | 0.5% | \(1,\!000 \boldcdot (1+0.005)^{12}\)
+If we evaluate the expressions, we find these account balances:
+annually: \(1,\!000 \boldcdot (1.06) = 1,\!060\)
+semi-annually: \(1,\!000 \boldcdot (1.03)^2 = 1,\!060.90\)
+quarterly: \(1,\!000 \boldcdot (1.015)^4 \approx 1,\!061.36\)
+monthly: \(1,\!000 \boldcdot (1.005)^{12} \approx 1,\!061.68\)
+Notice that the more frequently interest is calculated, the greater the balance is.
+Practice
+
+

@@ -1,6 +1,4 @@
-step 4 is functioning but still testing prompts and inputs
+all steps are functioning
 
-to do: 
-activity steps
-activity takeaways
-what to do about lesson synthesis
+next:
+see how effortful it is to turn the gpt outputs into contents we want to put on slides, and in the process I'll probably end up iterating on some of the prompts

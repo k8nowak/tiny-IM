@@ -1,0 +1,266 @@
+
+# Lesson Location
+## Unit Number
+4
+## Unit Name
+LinearInequalitiesAndSystems
+## Lesson Number 
+5
+## Lesson Title
+Graphing Linear Inequalities in Two Variables (Part 2)
+# Lesson Timing
+## Total Activity Time in Minutes 
+50
+## Total Lesson Time incl Lesson Synthesis
+60 
+
+
+
+Lesson Preamble
+CC BY-NC 4.0
+Preparation
+Lesson
+# Graphing Linear Inequalities in Two Variables (Part 2)
+## Preparation
+## Lesson Narrative
+In this lesson, students deepen their understanding of the solutions to linear inequalities by studying them in context. They write inequalities in two variables to represent constraints, and interpret the points on a boundary line and on either side of it in terms of the situation.
+Interpreting the solutions contextually also engages students in an aspect of mathematical modeling (MP4). It enables students to see that, while some values might make an inequality true, they might not be feasible or appropriate in the situation. There is an opportunity to make a generalization based on repeated reasoning (MP8) when students first find numbers that meet a constraint, and then use variables in place of those numbers to write an equation and an inequality.
+Because reasoning about the solution region of an inequality is important here, graphing technology should not be used. Students will have opportunities to use graphing technology to solve inequalities in two variables in upcoming lessons.
+## Learning Goals
+Find the solution to a two-variable inequality by graphing a related two-variable equation and determining the correct region for the solution.
+Interpret, in context, points on the graphs of equations and in the solution region of inequalities in two variables.
+Write inequalities in two variables to represent the constraints in a situation, and identify possible solutions by reasoning.
+### Student-Facing Goal
+Let’s write inequalities in two variables and make sense of the solutions by reasoning and by graphing.
+### Student-Facing Targets
+I can find the solutions to a two-variable inequality by using the graph of a related two-variable equation.
+I can write inequalities to describe the constraints in a situation.
+Given a two-variable inequality that represents a situation, I can interpret points in the coordinate plane and decide if they are solutions to the inequality.
+View Student Lesson
+## Required Preparation
+None
+### Standards Alignment
+#### Building On
+#### Addressing
+HSA-CED.A.3
+HSA-REI.D.10
+HSA-REI.D.12
+#### Building Toward
+## Glossary
+Practice
+### Other Resources
+View Student Lesson
+## Teacher Support
+## Student Handouts
+
+
+
+Lesson Content
+Preparation
+Lesson
+## Lesson 5
+View Student Lesson
+# Graphing Linear Inequalities in Two Variables (Part 2)
+Image description: Course Icon
+5 mins
+## Warm-up
+### Landscaping Options
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+In this lesson, students will be writing linear inequalities that represent constraints in situations and graphing the solution regions. To prepare for that work, students review writing and graphing an equation that represents a situation.
+### Launch
+If needed, explain or show additional images of grass sod and flower beds to students who might be unfamiliar with these landscaping terms.
+### Activity
+### Student Task Statement
+A homeowner is making plans to landscape her yard. She plans to hire professionals to install grass sod in some parts of the yard and flower beds in other parts.
+Grass sod installation costs \$2 per square foot, and flower bed installation costs  \$12 per square foot. Her budget for the project is \$3,000.
+Image description: <p>Rocks in a garden</p>
+Write an equation that represents the square feet of grass sod, \(x\), and the square feet of flower beds, \(y\), that she could afford if she used her entire budget.
+On the coordinate plane, sketch a graph that represents your equation. Be prepared to explain your reasoning.
+Image description: <p>Blank grid, origin O. Horizontal axis, grass sod, square feet, scale is 0 to 1,800 by 200’s. Vertical axis, flower beds, square feet, scale is 0 to 300 by 50’s.</p>
+### Student Response
+### Building on Student Thinking
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Invite students to share their equation and graph. Discuss with students:
+"In this situation, what does a point on the line mean?" (A combination of square feet of grass sod and square feet of flower beds that the homeowner could have if she spent her entire budget.)
+"What does the vertical intercept of the graph mean?" (The square feet of flower beds she could have if she installs no grass sod.)
+"What does the horizontal intercept of the graph tell us?" (The square feet of grass sod she could install if she installs no flower beds.)
+20 mins
+## Activity
+### Rethinking Landscaping
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+This is the first of a series of activities in which students write an inequality to represent a constraint in a situation. Students graph a related equation, interpret the coordinate pairs of points on the graph and on either side of the graph, and test the pairs of values to see if they make the inequality true. They then use these observations to determine the solution region to the inequality.
+Students also consider whether all the points in the solution region are necessarily meaningful or feasible in the situation. In doing so, they reason quantitatively and abstractly (MP2) and practice evaluating the reasonableness of their solutions in context (MP4).
+Graphing technology should not be used in this activity and the other activities in the lesson.
+### Launch
+Briefly explain to students who are unfamiliar with landscape materials what artificial turf and gravel are (or show additional pictures).
+Consider arranging students in groups of 2 and giving them quiet time to work on the first set of questions, followed by time to share their thinking before moving on to the rest of the activity.
+After the 1st read, say to students, “Tell your partner what this situation is about.”
+After the 2nd read, say to students, “List the quantities. What can be counted or measured?”
+For the 3rd read, reveal and read the questions. Ask, “What are some ways we might get started on this?”
+### Activity
+### Student Task Statement
+The homeowner is worried about the work needed to maintain a grass lawn and flower beds, so she is now looking at some low-maintenance materials.
+She is considering artificial turf, which costs \$15 per square foot to install, and gravel, which costs \$3 per square foot. She may use a combination of the two materials in different parts of the yard. Her budget is still \$3,000.
+Here is a graph representing some constraints in this situation.
+Graph of a line, origin O. Horizontal axis, gravel square feet, scale is 0 to 1000, by 200’s. Vertical axis, artificial turf square feet, scale is 0 to 250, by 50’s. Line starts at 0 comma 200, passes through 500 comma 100, and 1000 comma 0. The point 200 comma 100 is labeled.
+Image description: <p>Graph of a line. Artificial turf, square feet. Gravel, square feet.</p>
+The graph shows a line going through \((500, 100)\).In this situation, what does the point \((500,100)\) mean?Write an equation that the line represents.What do the solutions to the equation mean?
+The graph shows a line going through \((500, 100)\).
+In this situation, what does the point \((500,100)\) mean?
+Write an equation that the line represents.
+What do the solutions to the equation mean?
+The point \((600, 200)\) is located to the right and above the line. Does that combination of turf and gravel meet the homeowner’s constraints? Explain or show your reasoning.Choose another point in the same region (to the right and above the line). Check if the combination meets the homeowner’s constraints.
+The point \((600, 200)\) is located to the right and above the line.
+Does that combination of turf and gravel meet the homeowner’s constraints? Explain or show your reasoning.
+Choose another point in the same region (to the right and above the line). Check if the combination meets the homeowner’s constraints.
+The point \((200, 100)\) is located to the left and below the line. Does that combination of turf and gravel meet the homeowner’s constraints? Explain or show your reasoning.Choose another point in the same region (to the left and below the line). Check if the combination meets the homeowner’s constraints.
+The point \((200, 100)\) is located to the left and below the line.
+Does that combination of turf and gravel meet the homeowner’s constraints? Explain or show your reasoning.
+Choose another point in the same region (to the left and below the line). Check if the combination meets the homeowner’s constraints.
+Write an inequality that represents the constraints in this situation. Explain what the solutions mean, and show the solution region on the graph.
+### Student Response
+### Building on Student Thinking
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Select students to share their interpretations of the two points on either side of the line. Make sure that students understand that one point represents a combination of gravel and artificial turf that meets the budget constraint and that the other point does not. The region in which each point belongs can be interpreted in the same way.
+Also make sure that students understand why points on the boundary line are included in the solution set of \(3x + 15y \leq 3,\!000\).
+To encourage students to evaluate the reasonableness of their solutions in terms of the situation being modeled, discuss questions such as:
+"Both \((100,50)\) and \((50,100)\) are in the solution region. Both points mean a total of 150 square feet of landscape materials. Does it make a difference which option is chosen?" (It does not make a difference in terms of the total area, but it does in terms of cost. It might also make a difference to the plants and to the overall appearance of the yard.)
+“All the points in the shaded region represent amounts of gravel and turf that are within the homeowner's budget. Are all these options equally good and desirable?" (Most likely not. For example, if the homeowner needs both materials, pairs such as \((0,100)\) or \((450,0)\) are probably not desirable because they mean buying only one material but not the other. The point \((0,0)\) is also in the solution region, but buying no materials is probably also not an option because it would not help the homeowner with her landscaping goals.)
+10 mins
+## Activity
+### The Saturday Market
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+In this activity, students continue to work with inequalities in two variables in context. They write an inequality that represents the constraints in a situation, graph its solutions, and interpret points in the solution region.
+Earlier, students saw that some points in the solution region might satisfy an inequality (mathematically) but might not work in the given situation because other considerations were at play. Here, they see another reason that some values that satisfy an inequality might be unfeasible in the situation—namely, that the pair of values must be whole numbers. When students think about the plausibility of these values in context, they engage in an aspect of mathematical modeling (MP4).
+As students work, look for those who plot discrete points to represent the solution region and those who shade a part of the plane.
+### Launch
+Arrange (or keep) students in groups of 2. Give students a few minutes of quiet time to work on the first three questions, and then time to discuss their responses before they continue with the last two questions.
+### Activity
+### Student Task Statement
+A vendor at the Saturday Market makes \$9 profit on each necklace she sells and \$5 profit on each bracelet.
+Find a combination of necklaces and bracelets that she could sell in order to make:exactly $100 profitmore than $100 profit
+Find a combination of necklaces and bracelets that she could sell in order to make:
+exactly $100 profit
+more than $100 profit
+Write an equation whose solution is the combination of necklaces and bracelets she could sell to make exactly $100 profit.
+Write an inequality whose solutions are the combinations of necklaces and bracelets she could sell to make more than $100 profit.
+Graph the solutions to your inequality.Blank coordinate plane with grid, origin O. Horizontal axis from 0 to 24 by 4’s, labeled number of necklaces. Vertical axis from 0 to 24 by 4’s, labeled number of bracelets.
+Image description: <p>Blank coordinate plane. Number of bracelets. Number of necklaces.</p>
+Is \((3,18.6)\) a solution to the inequality? Explain your reasoning.
+### Student Response
+### Building on Student Thinking
+Some students may have trouble graphing the line that delineates the solution region from non-solution region because they are used to solving for the variable \(y\), but here the variables are \(b\) and \(n\). Ask these students to decide which variable to solve for based on the graph that has been set up. Ask them to notice which quantity is represented by the vertical axis.
+### Are You Ready for More?
+Write an inequality using two variables \(x\) and \(y\) where the solution would be represented by shading the entire coordinate plane.
+Write an inequality using two variables \(x\) and \(y\) where the solution would be represented by not shading any of the coordinate plane.
+#### Student response
+### Activity Synthesis
+If some students plotted discrete points and some shaded the region, choose one of each and display these for all to see. Ask students why each one might be an appropriate representation of the solutions to the inequality.
+Highlight that the discrete points represent the situation more accurately, because it is impossible to sell a fraction of a bracelet or 2.75 necklaces. It is, however, tedious to plot a bunch of points to show the solution region. It is much easier to shade the entire region, but with the understanding that, in this situation, only whole-number values make sense as solutions.
+15 mins
+## Activity
+### Charity Concerts
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+This optional activity offers an additional opportunity for writing a linear inequality in two variables to represent constraints and for graphing and interpreting the solutions.
+In previous activities, the solution region of an inequality \(Ax + By \leq C\) lies below a boundary line and the solution region of an inequality \(Ax + By \geq C\) lies above a boundary line. In this activity, students encounter an example in which the symbol \(\geq\) does not correspond to a solution region above the boundary line. (In the given situation, pairs of values that generate more revenue for the concert are points below the graph of \(Ax+By=C\).)
+The work here reinforces the importance of reasoning about points on either side of a boundary line, rather than simply assuming that < or \(\leq\) means shading below the line and > or \(\geq\) means shading above the line. It allows students to practice reasoning quantitatively and abstractly (MP2).
+### Launch
+### Activity
+### Student Task Statement
+A popular band is trying to raise at least \$20,000 for charity by holding multiple concerts at a park. It plans to sell tickets at \$25 each. For each 2-hour concert, the band would need to pay the park \$1,250 in fees for security, cleaning, and traffic services.
+The band needs to find the combinations of number of tickets sold, \(t\), and number of concerts held, \(c\), that would allow it to reach its fundraising goal.
+Write an inequality to represent the constraints in this situation.
+Graph the solutions to the inequality on the coordinate plane.
+Image description: <p>Blank grid, origin O. Horizontal axis, number of tickets sold, scale is 0 to 2,500 by 500’s. Vertical axis, number of concerts held, scale is 0 to 24 by 4’s.</p>
+Name two possible combinations of number of tickets sold and number of concerts held that would allow the band to meet its goal.
+Which combination of tickets and concerts would mean more money for charity:1,300 tickets and 10 concerts, or 1,300 tickets and 5 concerts?1,600 tickets and 16 concerts, or 1,200 tickets and 9 concerts?2,000 tickets and 4 concerts, or 2,500 tickets and 10 concerts?
+Which combination of tickets and concerts would mean more money for charity:
+1,300 tickets and 10 concerts, or 1,300 tickets and 5 concerts?
+1,600 tickets and 16 concerts, or 1,200 tickets and 9 concerts?
+2,000 tickets and 4 concerts, or 2,500 tickets and 10 concerts?
+### Student Response
+### Building on Student Thinking
+Some students may find it challenging to graph the boundary line (\(25t -1,\!250c = 20,\!000\)) by identifying the intercepts. The horizontal intercept is fairly easy to find, but the graph intersects the vertical axis at a negative value (and a negative number of concerts does not make sense in this situation). Ask students to find at least one other point (besides the vertical intercept) that is a solution to the equation.
+Students who rewrite the equation in slope-intercept form and find the slope to be 0.02 may also find it difficult to interpret. Ask them to try writing the slope as a fraction (\(\frac{2}{100}\)).
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Invite students to share their inequality and the graph of the solution region.
+Focus the discussion on the last two questions—on how students knew which combinations of tickets and concerts would enable the band to meet its goal and would raise more money. Highlight responses that involve testing pairs of values to see if they satisfy the inequality or to make comparisons.
+If not mentioned in students' explanations, point out that even though the inequality has a \(\geq\) symbol, the solution region is below the boundary line, not above it. Stress the importance of not blindly shading a region based on the symbol in the inequality.
+## Lesson Synthesis
+Display the inequalities and graphs from both activities in the lesson.
+\(3x+15y\leq 3,\!000\)
+Image description: <p>Graph of an inequality. Artificial turf, square feet. Gravel, square feet.</p>
+\(9n+5b>100\)
+Image description: <p>Graph of an inequality. Number of bracelets. Number of necklaces.</p>
+Ask students to compare the solution regions and think about what they tell us about the constraints of the situation they represent. Discuss questions such as:
+"How are the solution regions of the two inequalities alike?" (Each region represents all pairs of values that meet a money-related constraint in a situation. They cover a part of the plane. They stop at a line.)
+"How do we know where the boundary line would be for each graph?" (It is the graph of a related equation.)
+"For each inequality, how did we find out which side of the line contains the solutions?" (We tested one or more pairs of values on each side and saw if—when substituted for the variables—they made the inequality true.)
+"In the first situation, some pairs of values that are in the solution region don't make sense in the situation. Can you explain why a pair such as \((800, 1)\), which is in the solution region, might not be a reasonable option for the homeowner?" (It doesn't quite make sense to cover 1 square foot of the garden with artificial turf and the rest with gravel. The area of the garden might be a lot greater or a lot less than 801 square feet.)
+"In the second situation, we know that fractional values are not meaningful even though they are in the shaded region. Can you think of other reasons that some points in the solution region might not make sense?" (A point like \((100, 100)\) would be in the solution region, but the vendor might not have that many items to sell.)
+Some students may point out that it is possible to reason about the side that contains the solutions by reasoning about each context. In these particular examples, this can be done intuitively and correctly. When the boundary line represents the cost of two quantities exactly on budget, smaller values of each quantity would lead to costs that are below the budget. When the boundary line represents a profit of \$100 from selling two kinds of products, a greater number of each product would mean a greater profit.
+Emphasize, however, that it is not always the case that the solution region could be reasoned easily or correctly from the context, so it is always a good idea to verify using another method. The optional activity ("Charity Concert") illustrates this point.
+## Student Lesson Summary
+Inequalities in two variables can represent constraints in real-life situations. Graphing their solutions can enable us to solve problems.
+Suppose a café is purchasing coffee and tea from a supplier and can spend up to \$1,000. Coffee beans cost \$12 per kilogram, and tea leaves cost \$8 per kilogram.
+Buying \(c\) kilograms of coffee beans and \(t\) kilograms of tea leaves will therefore cost \(12c + 8t\). To represent the budget constraints, we can write: \(12c + 8t \leq 1,\!000\).
+The solution to this inequality is any pair of \(c\) and \(t\) that makes the inequality true. In this situation, it is any combination of the kilograms of coffee and tea that the café can order without going over the \$1,000 budget.
+We can try different pairs of \(c\) and \(t\) to see what combinations satisfy the constraint, but it would be difficult to capture all the possible combinations this way. Instead, we can graph a related equation, \(12c+8t = 1,\!000\), and then find out which region represents all possible solutions.
+Here is the graph of that equation.
+To determine the solution region, let’s take one point on the line and one point on each side of the line, and see if the pairs of values produce true statements.
+A point on the line: \((30,80)\)
+\(\begin {align}12(30) + 8(80) \leq 1,\!000\\ 360 + 640 \leq 1,\!000\\ 1,\!000\leq 1,\!000 \end {align}\)
+This is true.
+Graph of a line, origin O. Horizontal axis, coffee, kilograms, scale is 0 to 140, by 20’s. Vertical axis, tea, kilograms, scale is 0 to 140, by 20’s. Line starts at 0 comma 125 and passes through 30 comma 80. Points 20 comma 40 and 70 comma 100 are identified.
+Image description: <p>Graph of a line.</p>
+A point below the line: \((20,40)\)
+\(\begin {align}12(20) + 8(40) \leq 1,\!000\\ 240 + 320 \leq 1,\!000\\ 560\leq 1,\!000 \end {align}\)
+This is true.
+A point above the line: \((70,100)\)
+\(\begin {align}12(70) + 8(100) \leq 1,\!000\\ 840 + 800 \leq 1,\!000\\ 1,\!640\leq 1,\!000 \end {align}\)
+This is false.
+The points on the line and in the region below the line are solutions to the inequality. Let's shade the solution region.
+It is easy to read solutions from the graph. For example, without any computation, we can tell that \((50,20)\) is a solution because it falls in the shaded region. If the café orders 50 kilograms of coffee and 20 kilograms of tea, the cost will be less than \$1,000.
+​​​​
+Image description: <p>Graph of an inequality.</p>
+Practice
+
+

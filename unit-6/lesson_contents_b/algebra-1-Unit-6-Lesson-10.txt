@@ -1,0 +1,213 @@
+
+# Lesson Location
+## Unit Number
+6
+## Unit Name
+Introduction to Exponential Functions
+## Lesson Number 
+10
+## Lesson Title
+Looking at Rates of Change
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+
+
+
+# Lesson Preamble
+## Lesson Narrative
+"""
+The purpose of this lesson is for students to revisit the idea of average rate of change and apply it to exponential functions. While rate of change has an unambiguous meaning for linear functions, for nonlinear functions rates of change are not constant, so an interval must be specified.
+In this lesson, students first are invited to recall how to calculate an average rate of change for a specific interval for a function represented by a data table. By comparing the average rate of change of different intervals that all start at the same point, students can observe that while the average rate of change can describe how the data is changing with reasonable accuracy over some intervals, it is not a good predictor over larger intervals, because exponential functions do not have a constant rate of change. Contexts are used throughout this lesson to give students an opportunity to reason abstractly and quantitatively (MP2).
+"""
+## Learning Goals
+Explain (in writing) how well given rates of change reflect the changes in an exponential function.
+Calculate the average rate of change of a function over a specified interval.
+Understand that an exponential function, unlike a linear function, has different average rate-of-change values for different intervals.
+## Student-Facing Goal
+Let's calculate average rates of change for exponential functions.
+## Student-Facing Targets
+I know how the average rate of change of an exponential function differs from that of a linear function.
+I can calculate the average rate of change of a function over a specified period of time.
+## Required Preparation
+None
+## Standards Alignment
+### Building On
+### Addressing
+HSF-IF.B.6
+### Building Toward
+## Glossary
+
+
+
+# Lesson Content
+## Activity
+### Activity Timing
+5 mins
+### Activity Title
+Falling Prices
+### Activity Narrative
+"""
+The purpose of this Warm-up is for students to recall how to calculate an average rate of change from two points. Students will use this skill throughout the lesson and return to the context and data table in the last activity of the lesson.
+"""
+### Launch
+"""
+Display the table for all to see. Ask students to describe how quickly \(p(t)\) is decreasing between 1977 (\(t=0\)) and 1978 (\(t=1\)) and then how it is decreasing between 1986 (\(t=9\)) and 1987 (\(t=10\)). (In the first year on the table it’s decreasing by 20. In the last year on the table, it decreases only by 1.5.)
+"""
+### Student Task Statement
+"""
+Let \(p\) be the function that gives the cost \(p(t)\), in dollars, of producing 1 watt of solar energy \(t\) years after 1977. Here is a table showing the values of \(p\) from 1977 to 1987.
+\(t\) | \(p(t)\)
+0 | 80
+1 | 60
+2 | 45
+3 | 33.75
+4 | 25.31
+5 | 18.98
+6 | 14.24
+7 | 10.68
+8 | 8.01
+9 | 6.01
+10 | 4.51
+Which expression can be used to calculate the average rate of change in solar cost between 1977 and 1987?
+\(p(10)-p(0)\)
+\(p(10)\)
+\(\dfrac{p(10) - p(0)}{10-0}\)
+\(\dfrac{p(10)}{p(0)}\)
+"""
+### Building on Student Thinking
+"""
+Some students might confuse finding an average of the values in the table and finding an average rate of change. Help them see that average usually involves one unit, such as average number of cookies. Average rate of change involves comparing how one quantity changes when another quantity changes by 1, such as cost ($) per year.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+The goal of this discussion is for students to recall the meaning of average rate of change for a function and how it is calculated. Select students to describe what the value of each expression represents in this context. For example, \(p(10)-p(0)\) is the difference in cost for a solar cell between 1977 and 1987 while \(\dfrac{p(10)}{p(0)}\) could be used to identify the percent change from 1977 to 1987. An important takeaway for students is that the actual expression for the average rate of change, \(\dfrac{p(10)-p(0)}{10-0} \approx \text-7.55\), tells us that the price decreased by -\$7.55 each year on average, because the expression looks at the total difference in price between 1977 and 1987, divided by the total number of years that passed.
+## Activity
+### Activity Timing
+20 mins
+### Activity Title
+Coffee Shops
+### Activity Narrative
+"""
+Earlier in the course, students looked at constant rates of change in linear functions. In this activity, they begin to explore average rates of change in an exponential growth function. In particular, the focus for this activity is on how exponential functions have different rates of change for different input intervals, which was not the case for linear functions.
+In the next activity, they investigate average rates of growth in a decay function. In both cases, they revisit contexts from earlier lessons.
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+Here are a table and a graph that show the number of coffee shops worldwide that a company had in its first 10 years, between 1987 and 1997. The growth in the number of stores was roughly exponential.
+Graph of a roughly exponential function, origin O. Horizontal axis, years since 1987, scale 0 to 10, by 1’s Vertical axis, number of coffee shops, scale 0 to 1,500, by 100’s. The function is discrete and has these points: (0 comma 17), (1 comma 33), (2 comma 55), (3 comma 84), (4 comma 116), (5 comma 165), (6 comma 272), (7 comma 425), (8 comma 677), (9 comma 1,015) and (10 comma 1,412).
+Image description: <p>Graph of a roughly exponential function, origin O. Years since 1987 and number of coffee shops.</p>
+year | number of stores
+1987 | 17
+1988 | 33
+1989 | 55
+1990 | 84
+1991 | 116
+1992 | 165
+1993 | 272
+1994 | 425
+1995 | 677
+1996 | 1,015
+1997 | 1,412
+Find the average rate of change for each period of time. Show your reasoning.1987 and 19901987 and 19931987 and 1997
+Find the average rate of change for each period of time. Show your reasoning.
+1987 and 1990
+1987 and 1993
+1987 and 1997
+Make some observations about the rates of change that you calculated. What do these average rates tell us about how the company was growing during this time period?
+Use the graph to support your answers to these questions. How well do the average rates of change describe the growth of the company in:the first 3 years?the first 6 years?the entire 10 years?
+Use the graph to support your answers to these questions. How well do the average rates of change describe the growth of the company in:
+the first 3 years?
+the first 6 years?
+the entire 10 years?
+Let \(f\) be the function so that\(f(t)\) represents the number of stores \(t\) years since 1987. The value of \(f(20)\) is 15,011. Find \(\dfrac {f(20) - f(10)}{20-10}\), and say what it tells us about the change in the number of stores.
+"""
+### Building on Student Thinking
+"""
+If students struggle with a rate of change that is not constant like the slope they saw in linear relationships, ask if they can draw a straight line between all the points on the graph in question 3. Spend time on the graph in the synthesis so the lines can help them see why the rate of change varies with an exponential function.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+For the third question, make sure students see that when they calculated the average rate of change for each of the three time periods, they were in effect finding the slope of the line that goes through two points that represent the starting year and the ending year. Display a graph like the one shown here to help illustrate this point:
+Image description: <p>11 points on coordinate plane. Lines connect first point to fourth, seventh, and eleventh points. Horizontal axis from 0 to 10, time in years. Vertical axis from 0 to 1500, number of coffee shops.</p>
+The line that connects the points for 1987 and 1990 fit the data for that period fairly well, so the slope of that line (the average rate of change between those two points) describes the growth in those three years fairly accurately. In contrast, the line that connects the points for 1987 and 1997, does not at all fit the data, so the slope of that line does not paint an accurate picture of how the company was growing that decade.
+Here are some questions for discussion
+“Would the average rate of change between 1994 and 1997 accurately depict how the company was growing in the last three years in the data?” ( Yes, because the average rate of change from 1994 to 1997 is 329 shops per year because \(\dfrac{1412-425}{10-7}= 329\). The actual number of shops increased by 252, 338, and then 397 from 1994 to 1997, respectively.)
+“Would the average rate of change between any 2 years accurately reflect the growth for all of 1987 to 1997?” (No, because the number of shops is increasing at an increasing rate, an average of two values is not enough to summarize the growth of the company.)
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Revisiting Cost of Solar Cells
+### Activity Narrative
+"""
+In this activity, students continue to explore average rates of change for exponential functions, this time focusing on a previously encountered exponential decay context. Unlike the previous activity, students are asked to calculate the average rate of change from a graph for two different intervals of time. Using those values, students then predict what the average rate of change is for an interval extending into the future beyond what is shown in the graph.
+Monitor for students who:
+Use the graph to estimate values and calculate the average rates of change from these estimates.
+Look back at the data given in the Warm-up and calculate the average rates of change numerically.
+Draw in lines to visualize the average rate of change for the two intervals.
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+This graph represents the exponential function, \(p\), which models the cost \(p(t)\), in dollars, of producing 1 watt of solar energy, from 1977 to 1988, where \(t\) is years since 1977.
+Graph of an exponential function, origin O. Horizontal axis, t (years since 1977), scale 0 to 11, by 1’s. Vertical axis, p (dollars per watt), scale 0 to 80, by 20’s. The function has these points: (0 comma 80), (1 comma 60), (2 comma 45), (3 comma 33 point 75), (4 comma 25 point 3), (5 comma 18 point 98), (6 comma 14 point 2), (7 comma 10 point 7), (8 comma 8), (9 comma 6), (10 comma 4 point 5) and (11 comma 3 point 8).
+Image description: <p>Graph of an exponential function, origin O. t (years since 1977) and p (dollars per watt).</p>
+Clare said, "In the first five years, between 1977 and 1982, the cost fell by about \$12 per year. But in the second five years, between 1983 and 1988, the cost fell only by about \$2 a year." Show that Clare is correct.
+If the trend continues, will the average decrease in price be more or less than \$2 per year between 1987 and 1992? Explain your reasoning.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+Suppose the cost of producing 1 watt of solar energy had instead decreased by \$12.20 each year between 1977 and 1982. Compute what the costs would be each year and plot them on the same graph shown in the activity. How do these alternate costs compare to the actual costs shown?
+"""
+### Activity Synthesis
+Display 2–3 approaches from previously selected students for all to see. Use Compare and Connect to help students compare, contrast, and connect the different approaches. Here are some questions for discussion:
+“What do the approaches have in common? How are they different?”
+“Did anyone solve the problem the same way, but would explain it differently?”
+# Lesson Close
+## Lesson Synthesis
+"""
+The purpose of this synthesis is for students to practice calculating the average rate of change for an exponential function over specific intervals and to consider when the average rate of change adequately describes the function over that interval.
+Show students the table, which gives the value in dollars of a laptop originally priced for \$1,500 and losing \(\frac{3}{5}\) of its value every year after purchase.
+years since purchase | value in dollars
+0  | 1500
+1 | 600
+2 | 240
+3 | 96
+4 | 38.40
+5 | 15.36
+Ask students
+"About how much was the average rate of change for the 5 year period?" (almost \$300 per year)
+"Does the average rate of change accurately describe how the value of the laptop changes over the 5 years?" (No, it loses almost \$1000 in value the first year and very little from the third year to the fifth.)
+"Are there some years where the average rate of change shows how the value of the laptop is changing?" (Yes, from year 1 to year 2 it is a reasonable estimate.)
+"""
+## Student Lesson Summary
+"""
+When we calculate the average rate of change for a linear function, no matter what interval we pick, the value of the rate of change is the same. A constant rate of change is an important feature of linear functions! When a linear function is represented by a graph, the slope of the line is the rate of change of the function.
+Exponential functions also have important features. We've learned about exponential growth and exponential decay, both of which are characterized by a constant quotient over equal intervals. But what does this mean for the value of the average rate of change for an exponential function over a specific interval?
+Let's look at an exponential function that we studied earlier. Let \(A\) be the function that models the area, \(A(t)\), in square yards, of algae covering a pond \(t\) weeks after beginning treatment to control the algae bloom. Here is a table showing about how many square yards of algae remain during the first 5 weeks of treatment.
+\(t\) | \(A(t)\)
+0 | 240
+1 | 80
+2 | 27 
+3 | 9
+4 | 3
+The average rate of change of \(A\) from the start of treatment to Week 2 is about -107 square yards per week because \(\dfrac{A(2)-A(0)}{2-0} \approx \text-107\). The average rate of change of \(A\) from Week 2 to Week 4, however, is only about -12 square yards per week because \(\dfrac{A(4)-A(2)}{4-2} \approx \text-12\).
+The negative average rates of change show that \(A\) is decreasing over both intervals, but the average rate of change for the time during Weeks 0 to 2 indicates that the values are decreasing more rapidly than during Weeks 2 to 4 due to the effect of the decay factor. For an exponential function with a growth factor greater than 1, the values for the average rate of change of each interval are positive, with the second interval increasing more quickly due to the effect of the growth factor.
+
+
+"""

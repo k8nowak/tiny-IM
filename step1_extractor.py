@@ -13,9 +13,16 @@ from urllib.parse import urljoin
 from pathlib import Path
 
 course = 'algebra-1'
-unit_num = '5'
-unit_name = 'Functions'
+unit_num = '6'
+unit_name = 'Introduction to Exponential Functions'
 
+# set for processing all the lessons in the unit, or just one
+process_all_lessons = False
+
+# if processing one lesson, indicate which one
+if not process_all_lessons:
+    one_section = 'a'
+    one_lesson = 1
 
 lesson_content_template = """
 # Lesson Location
@@ -207,11 +214,11 @@ def get_lesson_contents(lesson_url, prep_url):
     )
 
     title_string = lesson_title.replace(" ", "_")
-    folder = Path('lesson_contents')
+    folder = Path(f'unit-{unit_num}/lesson_contents')
 
     # Combine and save the extracted information
     if folder.is_dir():
-        filename = 'lesson_contents/' + course +'-Unit-'+ unit_num+'-Lesson-'+lesson_num + '.txt'
+        filename = f'unit-{unit_num}/lesson_contents/' + course +'-Unit-'+ unit_num+'-Lesson-'+lesson_num + '.txt'
     else:
         filename = title_string + '.txt'
     with open(filename, 'w') as file:
@@ -219,15 +226,15 @@ def get_lesson_contents(lesson_url, prep_url):
         print(f"Lesson {lesson_num} extracted and saved to {filename}")
 
 
-# uncomment the following lines to extract all lessons in the unit
-section=['a','b','c','d','e','f']
-for s in section:
-    for l in range(1,20):
-        lesson_url,prep_url=check_url(s,l)
-        if(lesson_url!=''):
-            get_lesson_contents(lesson_url,prep_url)
-
-# # uncomment the following lines to extract only the first lesson
-# lesson_url,prep_url=check_url('a',1)
-# if(lesson_url!=''):
-#     get_lesson_contents(lesson_url,prep_url)
+if(process_all_lessons):
+    section=['a','b','c','d','e','f']
+    for s in section:
+        for l in range(1,25):
+            lesson_url,prep_url=check_url(s,l)
+            if(lesson_url!=''):
+                print('Processing Lesson: '+str(l))
+                get_lesson_contents(lesson_url,prep_url)
+else:
+    lesson_url,prep_url=check_url(one_section,one_lesson)
+    if(lesson_url!=''):
+        get_lesson_contents(lesson_url,prep_url)

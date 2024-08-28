@@ -1,0 +1,211 @@
+
+# Lesson Location
+## Unit Number
+6
+## Unit Name
+Introduction to Exponential Functions
+## Lesson Number 
+4
+## Lesson Title
+Representing Exponential Decay
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+
+
+
+Lesson Preamble
+CC BY-NC 4.0
+Preparation
+Lesson
+# Representing Exponential Decay
+## Preparation
+## Lesson Narrative
+In this lesson, students examine situations with quantities that decrease exponentially. They work from an equation to a graph and from a graph to an equation. In both cases, they interpret the different parts of their equation in terms of the situation and use the graph to answer questions.
+Students are alerted that sometimes people use the terms exponential growth and exponential decay to distinguish between situations in which the growth factor is greater than or less than 1. Additionally, students learn that when the growth factor is less than 1 (but still positive), people sometimes refer to it as the decay factor.
+Like many activities in this unit, the equations and graphs represent actual quantities (the area covered by algae and the luminescence of a glow stick) and are to be interpreted in context (MP2).
+Technology isn't required for this lesson, but there are opportunities for students to choose to use appropriate technology to solve problems. We recommend making technology available.
+## Learning Goals
+Calculate growth factor using points on a graph that represents exponential decay.
+Interpret equations and graphs that represent exponential decay situations.
+Graph equations that represent quantities that change by a growth factor that is between 0 and 1.
+### Student-Facing Goal
+Let’s think about how to show and talk about exponential decay.
+### Student-Facing Targets
+I can explain the meanings of $a$ and $b$ in an equation that represents exponential decay and is written as $y=a \boldcdot b^x$.
+I can find a growth factor from a graph and write an equation to represent exponential decay.
+I can graph equations that represent quantities that change by a growth factor that is between 0 and 1.
+View Student Lesson
+## Required Preparation
+#### Activity 2
+### Standards Alignment
+#### Building On
+#### Addressing
+HSA-CED.A.2
+HSF-IF.B.4
+HSF-LE.B.5
+#### Building Toward
+HSF-BF.A
+HSF-IF.B.4
+HSF-IF.C.7.e
+HSF-LE.A.2
+## Glossary
+Practice
+### Other Resources
+View Student Lesson
+## Teacher Support
+## Student Handouts
+
+
+
+Lesson Content
+Preparation
+Lesson
+## Lesson 4
+View Student Lesson
+# Representing Exponential Decay
+Image description: Course Icon
+5 mins
+## Warm-up
+### Two Other Tables
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+This Warm-up asks students not only to identify that a quantity is changing linearly or exponentially, but also to identify a term when the preceding value is not given.
+### Launch
+### Activity
+### Student Task Statement
+Use the patterns you notice to complete the tables. Show your reasoning.
+Table A
+
+\(x\) | 0 | 1 | 2 | 3 |    4    |   25  
+\(y\) | 2.5 | 10 | 17.5 | 25 |   |  
+Table B
+
+\(x\) | 0 | 1 | 2 | 3 |    4    |   25  
+\(y\) | 2.5 | 10 | 40 | 160 |   |  
+### Student Response
+### Building on Student Thinking
+For the last entry in each table, students may struggle to find the actual value to write in the table. Explain that an expression representing the value is all that’s needed.
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Focus the discussion on how students used the patterns in the tables to generate a \(y\)-value for a non-consecutive value of \(x\). Make sure students are able to express the pattern of repeated addition in the first table, using an expression like \(2.5 + 7.5x\), and that they can express the pattern of repeated multiplication in the second table using an exponential expression like \((2.5) \boldcdot 4^x\). Highlight the words “linear“ and “exponential“ to describe how the quantities are changing suggested by the tables.
+15 mins
+## Activity
+### The Algae Bloom
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+In this activity, students focus on situations in which quantities change exponentially with a growth factor that is between 0 and 1. The factor is still called the growth factor, though students should learn that sometimes people refer to it as a decay factor.
+Students begin by producing and interpreting a graph representing a quantity that decays exponentially. They can then use the graph to make some estimates about the context, which is about algae control. After students create their graph, use the Activity Synthesis to encourage students to interpret the meaning of input values that are not whole numbers.
+Note that the axes on the given graph aren’t scaled. Students will need to make sure that the vertical intercept can be plotted and that it is not too close to 0. If students do the work to decide how to scale the axes, they are creating a coherent representation of the relationship (MP2).
+Making graphing technology available gives students an opportunity to choose appropriate tools strategically (MP5).
+### Launch
+To introduce the context and keep students thinking about exponential growth and decay, consider presenting this question:
+"A certain area of the pond is covered in algae. Each day, the algae-covered area doubles. If it takes 24 days for the algae to completely cover the pond, how many days did it take to cover half of the pond?"
+Select students to share their solutions to the question. Given the word "half," students may be inclined to immediately say that it takes 12 days. But if they ponder the situation a bit, they should recognize that it takes 23 days to cover half the pond, because it only takes one more day (or one more doubling) to cover the whole pond.
+### Activity
+### Student Task Statement
+In order to control an algae bloom in a lake, scientists introduce some treatment products.
+Once the treatment begins, the area covered by algae \(A\), in square yards, is given by the equation \(A = 240 \boldcdot \left(\frac{1}{3}\right)^t\). Time, \(t\), is measured in weeks.
+Image description: <p>Lake with algae growth.</p>
+In the equation, what does the 240 tell us about the algae? What does the \(\frac13\) tell us?
+Create a graph to represent \(A = 240 \boldcdot \left(\frac{1}{3}\right)^t\) when \(t\) is 0, 1, 2, 3, and 4. Think carefully about how you choose the scale for the axes. If you get stuck, consider creating a table of values.
+Image description: <p>Blank coordinate plane, origin O, with 16 unit by 16 unit grid.</p>
+About how many square yards will the algae cover after 2.5 weeks? Explain your reasoning.
+### Student Response
+### Building on Student Thinking
+Students may find it challenging to choose a scale for the axes in a way that helps them plot the points and see a pattern. If they are still struggling to choose a scale for the axes after a few minutes, ask students to think about the greatest and least vertical coordinates they need to show on the graph and what the height of each rectangle on the grid should be to show these values. In addition, if they get stuck plotting points, suggest that they first make a table of values.
+### Are You Ready for More?
+The scientists estimate that to keep the algae bloom from spreading after the treatment concludes, they will need to get the area covered to be under one square foot. How many weeks should they run the treatment in order to achieve this?
+#### Student response
+### Activity Synthesis
+Make sure that students understand that a growth factor that is between 0 and 1 causes the value to decrease each time the factor is applied. Tell students that the quantity changes exponentially, though sometimes people use the more specific terms exponential growth and exponential decay to indicate whether the amount is increasing or decreasing. The multiplier is still called the growth factor, but when it is a positive number less than 1, the result decreases with every iteration. Sometimes people use decay factor to indicate that a quantity that decreases exponentially involves a positive factor that is less than 1, but it is still correct to use the term "growth factor."
+Discuss questions such as:
+“What is the growth factor for this situation?” (\(\frac{1}{3}\))
+“When the growth factor is between 0 and 1, what do you expect to happen to the \(y\)-values of points on the graph as you read from left to right? Explain your reasoning.” (I expect the values to decrease as they get closer and closer to the \(x\)-axis. This happens because the \(y\)-values are being multiplied by a fraction that is between 0 and 1, which decreases its value while still being positive.)
+Time permitting, consider discussing:
+“What does a \(t\) value of 2.5 mean?” (A value \(t\) of 2.5 means 2.5 weeks or a little more than 17 days after treatment begins.)
+“How did you estimate the area covered by algae after a certain non-whole-number of weeks?” (We can use the graph to estimate the area of algae, which is between the area in week 2 and that in week 3, though not too much precision can be given. It is definitely less than 27 square yards and more than 9 square yards. Following the general trend of the points decreasing less and less rapidly as time goes on, an estimate of 15 is reasonable.)
+“Someone says that after seven weeks, the algae will disappear. Do you agree?” (No, if we keep multiplying by \(\frac13\), the area will keep getting smaller, but never reach 0. No, after seven weeks there would be about \(\frac{1}{9}\) of a square yard or 1 square foot covered by algae. Yes, rounded to the nearest square yard, there are 0 square yards covered by the algae after seven weeks.)
+15 mins
+## Activity
+### Glow Stick Luminescence
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+Here students make sense of a graph representing a situation characterized by exponential decay. They justify why the luminescence of a glow stick could change exponentially and use the graph to answer questions about the situation. The numbers, chosen explicitly to provide a realistic model of the luminescence context, are more complex than what students have seen so far. They will need to apply their understanding both to identify the growth factor and to write an expression showing how much luminescence stays after \(h\) hours.
+In this activity, students are building skills that will help them in mathematical modeling (MP4). They don't decide which model to use, but students have an opportunity to figure out how to justify that an exponential model is a good model for the data. Also, they are prompted to construct an equation to represent the model in a scaffolded way.
+### Launch
+Tell students to close their books or devices (or to keep them closed). Display the graph for all to see. Give students 1 minute of quiet think time, and ask them to be prepared to share at least one thing they notice and one thing they wonder about. Record and display, for all to see, their responses without editing or commentary. If possible, record the relevant reasoning on or near the graph.
+If the definitions of luminescence and lumen do not come up, tell students that something is luminescent if it glows but does not produce heat and that lumens are a way to measure light the same way inches are a way to measure distance.
+### Activity
+### Student Task Statement
+Once a glow stick begins to glow, it can glow for hours. The graph shows the luminescence, in lumens, of a glow stick over time, in hours.
+Image description: A graph of luminescence (lumens) over time (hours) showing 13 points including 0 comma 9, 1 comma 6.3, 2 comma 4.4, and 3 comma 3.1.
+Scientists have found that glow stick luminescence decreases exponentially. How can you check if the graph supports the scientists’ claim?
+How much less bright is the glow stick after the first hour? What fraction of the original luminescence is that?
+How much less bright is the glow stick after the second hour? What fraction is that of the luminescence 1 hour earlier?
+What fraction of luminescence stays for each hour that passes? Explain your reasoning.
+Complete the table to show the predicted luminescence 4 and 5 hours after beginning to glow.	glowing time (hours)0123 4  5 luminescence (lumens)96.34.43.1
+glowing time (hours) | luminescence (lumens)
+0 | 1 | 2 | 3 |  4  |  5 
+9 | 6.3 | 4.4 | 3.1 |  | 
+Describe how you would find how many lumens the glow stick produces after 10 hours. After \(h\) hours?
+### Student Response
+### Building on Student Thinking
+If students are unsure if \(\frac{3}{10}\) or \(\frac{7}{10}\) of the luminescence stays each hour, consider asking:
+“Tell me more about how much luminescence stays and how much goes away.”
+“Is the graph showing the luminescence that stays or the luminescence that goes away?”
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+The goal of this discussion is to highlight the connections between the equation, the graph, and the quantities in the situation. Ask students:
+“How can we use an equation to express the luminescence of the glow stick (\(g\)) after \(h\) hours using an equation?” (\(g=9 \boldcdot (\frac{7}{10})^h\))
+“Where can we see the 9 lumens in the graph?” (the vertical intercept)
+“What about the \(\frac{7}{10}\)?” (The coordinates tell us that the brightness reduces by \(\frac{3}{10}\) of the previous luminescence each hour, so \(\frac{7}{10}\) of it, which is most of it, is left every hour.)
+Also consider asking:
+“Will there be any luminescence remaining from the glow stick 12 hours after it starts glowing?”
+“If so, when will the glow stick stop glowing?”
+These are difficult questions to answer. The mathematical model will never reach 0 because a positive quantity multiplied by \(\frac{7}{10}\) is always positive. Practically speaking, however, the chemical reaction causing the glow stick to luminesce will end, unless more chemicals are added to the situation. This is a good opportunity to remind students that mathematical models are simplified descriptions of reality.
+## Lesson Synthesis
+Use examples from the lesson or the new example presented here. Here is a graph showing the amount, in mg, of a medicine in a person’s body at some different times, measured in hours after taking some medicine. Every hour, \(\frac25\) of the medicine is broken down by the body.
+Image description: <p>7 points on coordinate plane. Labels on four points: 0 comma 400, 1 comma 240, 2 comma 144, 3 comma 86 point 4. Horizontal axis 0 to 8, time in hours. Vertical axis 0 to 1,000, medicine in milligrams.</p>
+Discuss questions such as:
+“What is the vertical intercept and what does it mean in this context?” (400. It is the milligrams of medicine in the person's body right after taking the pill.)
+“How can you tell from the graph that \(\frac25\) of the medicine is broken down after one hour?” (The amount of medicine after 1 hour dropped by 160 mg, and 160 is \(\frac25\) of 400.)
+“How can you tell from the graph that \(\frac35\) remained after each hour?” (240 is \(\frac35\) of 400, and 144 is \(\frac35\) of 240, and so on.)
+“What is an equation representing the remaining amount of medicine in mg, \(m\),  \(t\) hours after taking the medicine?” (\(m = 400 \left(\frac{3}{5}\right)^t\))
+“Why does it make sense to write \(\left(\frac35\right)^t\)?” (\(\frac35\) of the medicine remained with the passing every hour, so for \(t\) hours, we multiply the 400 by \(\frac35\), \(t\) times.)
+## Student Lesson Summary
+Here is a graph showing the luminescence of a glow-in-the-dark paint, measured in lumens, over a period of time, measured in hours. The luminescence of this glow-in-the-dark paint can be modeled by an exponential function.
+Image description: A graph comparing luminescence (lumens) over time (hours) with 7 data points including $(0,12)$, $(1,6)$, $(2,3)$, and $(3,1.5)$.
+Notice that the amounts are decreasing over time. The graph includes the point \((0, 12)\). This means that when the glow-in-the-dark paint started glowing, its glow measured 12 lumens. The point \((1, 6)\) tells us the glow measured 6 lumens 1 hour later. Between 3 and 4 hours after the glow-in-the-dark paint began to glow, the luminescence fell below 1 lumen.
+We can use the graph to find out what fraction of luminescence stays each hour. Notice that \(\frac{6}{12}=\frac{1}{2}\) and \(\frac{3}{6}=\frac{1}{2}\). As each hour passes, the luminescence that stays is multiplied by a factor of \(\frac{1}{2}\).
+If \(y\) is the luminescence, in lumens, and \(t\) is time, in hours, then this situation is modeled by the equation:
+\(y=12 \boldcdot (\frac{1}{2})^t\)
+We can confirm that the data is changing exponentially because it is multiplied by the same value each time. When the growth factor is between 0 and 1, the quantity being multiplied decreases, the situation is sometimes called “exponential decay,” and the growth factor may be called a “decay factor.”
+Practice
+
+

@@ -1,0 +1,228 @@
+
+# Lesson Location
+## Unit Number
+6
+## Unit Name
+Introduction to Exponential Functions
+## Lesson Number 
+19
+## Lesson Title
+Which One Changes Faster?
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+
+
+
+# Lesson Preamble
+## Lesson Narrative
+"""
+This lesson revisits the fact that exponential functions grow more quickly, eventually, than do linear functions. The first activity compares simple interest (linear growth) with compound interest (exponential growth). Students examine tables and graphs and see that the exponential function quickly overtakes the linear function. In the second activity, the exponential function is deliberately chosen to grow slowly over a large domain, making it less clear whether or not the exponential function will overtake the linear function.
+The second activity provides an opportunity for students to strategically use technology (MP5), whether they make a graph (for which they will need to think carefully about the domain and range) or continue to tabulate explicit values of the two functions (likely with the aid of a calculator for the exponential function). This lesson provides multiple opportunities for students to justify their reasoning and critique the reasoning of others (MP3).
+"""
+## Learning Goals
+Use tables, calculations, and graphs to compare growth rates of linear and exponential functions.
+Use graphs and calculations to show that a quantity that increases exponentially will eventually surpass one that increases linearly.
+## Student-Facing Goal
+Let's compare linear and exponential functions as they continue to increase.
+## Student-Facing Targets
+I can use tables, calculations, and graphs to compare growth rates of linear and exponential functions and to predict how the quantities change eventually.
+Required Materials
+#### Activity 2
+Graphing technology
+#### Activity 3
+Graphing technology
+## Required Preparation
+#### Activity 2
+Acquire devices that can run Desmos (recommended) or other graphing technology. It is ideal if each student has their own device. (Desmos is available under Math Tools.)
+Be prepared to display a graph for all to see using the embedded Desmos applet or other graphing technology.
+#### Activity 3
+Acquire devices that can run Desmos (recommended) or other graphing technology. It is ideal if each student has their own device. (Desmos is available under Math Tools.)
+Be prepared to display a graph for all to see using the embedded Desmos applet or other graphing technology.
+## Standards Alignment
+### Building On
+### Addressing
+HSF-IF.A.2
+HSF-IF.B.4
+HSF-IF.B.5
+HSF-LE.A.1
+HSF-LE.A.2
+HSF-LE.A.3
+### Building Toward
+## Glossary
+
+
+
+# Lesson Content
+## Activity
+### Activity Timing
+5 mins
+### Activity Title
+Graph of Which Function?
+### Activity Narrative
+"""
+At the beginning of this unit, students compared linear and exponential growth. They return to this comparison in this lesson. This Warm-up aims to show that, visually, it could be very difficult to distinguish linear and exponential growth for some domain of the function. While any exponential function eventually grows very quickly, it also can look remarkably linear over a portion of the domain.
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+Here is a graph.
+Image description: <p>Graph of line, origin O. Horizontal axis 0 to 7, by 1’s, labeled x. Vertical from 0 to 150, by 50’s, labeled y. Starts at 0 comma 120, appears to pass through 1 point 5 comma 125 and 7 comma 150.<br>
+ </p>
+Which equation do you think the graph represents? Use the graph to support your reasoning.	 \(y=120 + (3.7)\boldcdot x\) \(y = 120 \boldcdot (1.03)^x\)
+\(y=120 + (3.7)\boldcdot x\)
+\(y = 120 \boldcdot (1.03)^x\)
+What information might help you decide more easily whether the graph represents a linear or an exponential function?
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Invite students to share the rationales for their decision and their ideas for improving the clarity of the graph.
+Help students understand that the graph of a linear function always looks like a line regardless of the domain in which it is plotted. An exponential function, however, can sometimes look linear, depending on the domain and range. Graphs are very helpful for seeing the general behavior of a function but not always for determining what kind of function is being graphed.
+Consider showing students this image of the graph showing a larger domain and range as well as the original window (the red rectangle in the lower left).
+Image description: <p>A graph.</p>
+Or show a dynamic graph of \(y=120\boldcdot(1.03)^x\) starting with a small window in which the graph looks linear and then zooming out until the curve is visible.
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+Simple and Compound Interests
+### Activity Narrative
+"""
+In this activity, students compare linear and exponential growth in a context involving simple and compound interest. The initial balances are chosen so that the two options stay pretty close for small values of time. The intersection of their graphs is far enough from 0 that it is not easily noticed with only a few calculations. The graph for simple interest is linear. The graph for compound interest is exponential, but it is relatively flat for small values of time. As the domain values increase, students may notice that the values of the two options get closer and closer, or they may notice from the graph that the gap between the two graphs gets smaller.
+Look for students who make different choices for the investment option, as the better option would depend on the length of investment, which is unspecified. As in the case of the fish's offers in an earlier lesson, simple interest is better if the investment term is short, but compound interest becomes increasingly more favorable as time passes. Some students may not recognize this until they graph the two functions in the last question. Identify students who decide to change their earlier choice and can defend the change. Ask them to share later.
+"""
+### Launch
+"""
+Arrange students in groups of 2. Encourage students to think quietly about the questions before conferring with their partner. Provide access to graphing technology.
+Use Three Reads to support reading comprehension and sense-making about this problem. Display only the problem stem and the tables, without revealing the questions.
+For the first read, read the problem aloud then ask, “What is this situation about?” (different ways to invest money). Listen for and clarify any questions about the context.
+After the second read, ask students to list any quantities that can be counted or measured (interest rates, fees, initial amount invested).
+After the third read, reveal the question: “Which investment option should the family choose?” and ask, “What are some ways we might get started on this?” Invite students to name some possible starting points, referring to quantities from the second read (complete the table and look for patterns of how the values are calculated).
+Remind students that simple interest is found by adding interest based only on the initial investment and does not compound by adding interest to the interest from previous time periods.
+"""
+### Student Task Statement
+"""
+A family has \$1,000 to invest and is considering two options: investing in government bonds that offer 2% simple interest, or investing in a savings account at a bank, which charges a $20 fee to open an account and pays 2% compound interest. Both options pay interest annually.
+Here are two tables showing what they would earn in the first couple of years if they do not invest additional amounts or withdraw any money.
+Bonds
+years of investment | amount in dollars
+0 | \$1,000
+1 | \$1,020
+2 | \$1,040
+ | 
+ | 
+Savings Account
+years of investment | amount in dollars
+0 | \$980
+1 | \$999.60
+2 | \$1,019.59
+ | 
+ | 
+Bonds: How does the investment grow with simple interest?
+Savings account: How are the amounts \$999.60 and \$1,019.59 calculated?
+For each option, write an equation to represent the relationship between the amount of money and the number of years of investment.
+Which investment option should the family choose? Use your equations or calculations to support your answer.
+Use graphing technology to graph the two investment options and show how the money grows in each.
+"""
+### Building on Student Thinking
+"""
+Students may have trouble choosing an option without additional information. Ask them to think about what might make sense for their own family or to give circumstances that would justify a choice.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Consider surveying the class to see the choices that students made. Select students who made different choices to explain their responses, starting with those who opted for the bonds. Display their reasoning and graphs for all to see. If no students consider a time frame beyond 8 or 9 years, ask students which option would be better if the money could be left alone for 20 years. Discuss questions such as:
+"How does the fee for the savings account affect the function?" (It reduces the account balance, at the beginning, by \$20. In the equation, there is a subtraction of 20.)
+"Where can we see the fees on the graph?" (The vertical intercept of the graph for the savings account is at 980, which is 20 less than 1,000.)
+"When might the bonds be the better investment, if ever?" (When the investment is shorter than a decade, as that is when the savings account surpasses it.)
+"When might the savings account be the better investment, if ever?" (When it is left for more than 10 years, after the compounding effects of interest make up for the initial fees.)
+Point out that the exponential function here (the balance of the savings account) has a relatively slow rate of growth. It takes it a relatively long time before it overtakes the linear function, but it eventually does.
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+Reaching 2,000
+### Activity Narrative
+"""
+This activity prompts students to again compare a linear function with an exponential one, but this time without a context, and the exponential function grows much more slowly over a long period of time. Even if students predict that the exponential function will grow more quickly because it is exponential, they still need to decide which one reaches 2,000 first.
+Monitor for students who:
+Continue the table of values with increasingly larger values
+Use graphing technology
+Find when \(f(x) = 2,\!000\) and substitute this value (\(x=1,\!000\)) into \(g(x)\)
+Making graphing and spreadsheet technology available gives students an opportunity to choose appropriate tools strategically (MP5).
+"""
+### Launch
+"""
+Present the two equations that define two functions, \(f\) and \(g\): \(f(x) = 2x\) and \(g(x) = (1.01)^x\).
+Select work from students with different strategies, such as those described in the Activity Narrative, and ask them to share later.
+"""
+### Student Task Statement
+"""
+\(f(x) = 2x\) and \(g(x) = (1.01)^x\)
+Complete the table of values for the functions \(f\) and \(g\).	\(x\)\(f(x)\)\(g(x)\)11050100500
+\(x\) | \(f(x)\) | \(g(x)\)
+1 |  | 
+10 |  | 
+50 |  | 
+100 |  | 
+500 |  | 
+ |  | 
+ |  | 
+ |  | 
+Based on the table of values, which function do you think grows faster? Explain your reasoning.
+Which function do you think will reach a value of 2,000 first? Show your reasoning. If you get stuck, consider increasing \(x\) by 100 a few times and record the function values in the table.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+Consider the functions \(g(x)=x^5\) and \(f(x)=5^x\). While it is true that \(f(7)>g(7)\), for example, it is hard to check this using mental math. Find a value of \(x\) for which properties of exponents allow you to conclude that \(f(x)>g(x)\) without a calculator.
+"""
+### Activity Synthesis
+The goal of this discussion is to recognize that exponential functions will eventually be greater than linear functions, even when they initially grow slowly.
+Display, for all to see, 2–3 approaches from previously selected students. Use Compare and Connect to help students compare, contrast, and connect the different approaches. Here are some questions for discussion:
+“What do the approaches have in common? How are they different?”
+“Did anyone solve the problem the same way, but would explain it differently?”
+“How does the value at 2,000 show up in each method?”
+Emphasize that the table needs to be continued for a long time to identify when the values of \(g\) become greater than those of \(f\). Similarly, the window of the graph needs to be chosen carefully. A very efficient method is to identify that \(f(1,\!000)=2,\!000\) and then evaluate \(g(1,\!000)\). Since \(g(1,\!000)\) is much greater than 2,000, \(g\) reaches 2,000 first.
+If not already illustrated by students who used graphing, show this dynamic sketch and zoom out:
+Though for quite a while it doesn't seem like the values of \(g\) would ever catch up with those of \(f\), if the growth is allowed to take place long enough, exponential eventually surpasses linear.
+# Lesson Close
+## Lesson Synthesis
+"""
+Help students review the features and behaviors of linear and exponential functions by presenting these pairs of functions (all of which represent growth):
+Two linear functions \(f\) and \(g\), for example: \(f(x)=\frac12 x+100\) and \(g(x) = 2x\)
+Two exponential functions \(p\) and \(q\), for example: \(p(x)= 100 \boldcdot (1.5)^x\) and \(q(x) = 5 \boldcdot 2^x\)
+A linear function \(m\) and an exponential function \(n\) for example: \(m(x) = 300x+ 1\!,000\) and \(n(x) = (0.4)\boldcdot 2^x\)
+For each pair for functions, ask students these questions:
+"How can we tell which one grows more quickly?"(When comparing two linear functions, the slopes indicate how quickly they are growing. When comparing two exponential functions, the one with the greater growth factor will grow faster (or decay less quickly). Exponential functions with growth factors greater than 1 will always eventually grow faster than linear functions.)
+"Will the one that started out with the lower initial value catch up with the function that starts with a higher initial value?" (In these examples, they will all catch up eventually.)
+"What are some ways to check if one function will overtake another?" (The easiest way is to look at a graph and see if the higher graph eventually switches to being lower. You can also check input values to see if the output values have a different ordering for some inputs.)
+Reiterate that even though an exponential function might seem to be growing too slowly to catch up to a linear function with large numbers for its \(y\)-intercept and slope, at some value of \(x\) down the line, the exponential function will catch up with the linear. Remind students how this was the case in the magical fish activity early in the unit. (The starting value for the linear function was 100,000 times that of the exponential function, and the slope of the linear function was 2,000 while the growth factor of the exponential function was 2. But within 3 weeks, the exponential function surpassed the linear.)
+"""
+## Student Lesson Summary
+"""
+Suppose that you won the top prize from a game show and are given two options. The first option is a cash gift of \$10,000 and \$1,000 is added per day for the next 7 days. The second option is a cash gift of 1 cent (or \$0.01) that grows tenfold each day for 7 days. You must wait the entire time and get all of the prize money at the end of the week. Which option would you choose?
+In the first option, the amount of money increases by the same amount (\$1,000) each day, so we can represent it with a linear function. In the second option, the money grows by multiples of 10, so we can represent it with an exponential function. Let \(f\) represent the amount of money \(x\) days after winning with the first option, and let \(g\) represent the amount of money \(x\) days after winning with the second option.
+Option 1: \(f(x) = 10,\!000 + 1,\!000x\)
+\(f(1)=11,\!000\)\(f(2)=12,\!000\)\(f(3)=13,\!000\). . .\(f(6)=16,\!000\)\(f(7)=17,\!000\)
+Option 2: \(g(x) = (0.01) \boldcdot 10^x\)
+\(g(1)=0.1\)\(g(2)=1\)\(g(3)=10\). . .\(g(6)=10,\!000\)\(g(7)=100,\!000\)
+For the first few days, the second option trails far behind the first. Because of the repeated multiplication by 10, however, after 7 days it surges past the amount in the first option.
+What if the factor of growth is much smaller than 10? Suppose we have a third option, represented by a function \(h\). The starting amount is still \$0.01 and it grows by a factor of 1.5 times each day. If we graph the function \(h(x)=(0.01) \boldcdot (1.5)^x\), we see that it takes many, many more days before we see rapid growth. But given time to continue growing, the amount in this exponential option will eventually also outpace that in the linear option. If the prize rules are changed so that both prizes can grow for more than 38 days, this new exponential prize may be worth more than the linear option, but if the prizes can grow for only a shorter amount of time, the linear option is worth more.
+Graph of 2 functions on grid, origin O. Horizontal axis, number of days, from .0 to 40, by 2's. Vertical axis, amount in dollars, from 0 to 90,000 by 10,000's. Linear function, f of x equals 10,000 plus 1,000 x represented by red dots. Exponential function, h of x equals 0 point 01 times 1 point 5 to the x, represented by blue dots. Red dots well above blue dots from 0 days to 37 days. Dots intersect around 38 comma 48,000. Blue dot exceeds red dot at 40 days.
+Image description: <p>Graph of 2 functions on grid.</p>
+
+
+"""

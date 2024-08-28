@@ -1,0 +1,303 @@
+
+# Lesson Location
+## Unit Number
+6
+## Unit Name
+Introduction to Exponential Functions
+## Lesson Number 
+2
+## Lesson Title
+Patterns of Growth
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+
+
+
+Lesson Preamble
+CC BY-NC 4.0
+Preparation
+Lesson
+# Patterns of Growth
+## Preparation
+## Lesson Narrative
+In this lesson, students continue to examine two types of patterns by looking at tables, noting that one type is characterized by common differences and the other by common factors. They then match different representations with two contexts. This is an opportunity for students to notice structure in expressions (MP7) and to reason abstractly and quantitatively (MP2). Note that we are still not expecting students to use the words linear or exponential to describe these patterns, though they may naturally use the word linear to describe linear growth, since they have encountered these types of functions before.
+## Learning Goals
+Given descriptions of linear and exponential relationships, create tables of values and write expressions.
+Describe (using words and expressions) patterns in tables that represent linear and exponential relationships.
+### Student-Facing Goal
+Let’s compare different patterns of growth.
+### Student-Facing Targets
+When I have descriptions of linear and exponential relationships, I can write expressions and create tables of values to represent them.
+I can use words and expressions to describe patterns in tables of values.
+View Student Lesson
+## Required Materials
+#### Activity 2
+Spreadsheet technology
+## Required Preparation
+#### Activity 2
+### Standards Alignment
+#### Building On
+#### Addressing
+HSF-BF.A.1.a
+HSF-IF.B.4
+#### Building Toward
+HSF-BF.A
+HSF-LE.A.1
+HSF-LE.A.2
+## Glossary
+Practice
+### Other Resources
+View Student Lesson
+## Teacher Support
+## Student Handouts
+
+
+
+Lesson Content
+Preparation
+Lesson
+## Lesson 2
+View Student Lesson
+# Patterns of Growth
+Image description: Course Icon
+5 mins
+## Warm-up
+### Which Three Go Together: Tables of Values
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+This Warm-up prompts students to compare four tables. It gives students a reason to use language precisely (MP6). It gives the teacher an opportunity to hear how students use terminology and talk about characteristics of the items in comparison to one another.
+### Launch
+### Activity
+### Student Task Statement
+Which three go together? Why do they go together?
+Table A
+\(x\) | \(y\)
+1 | 8
+2 | 16
+3 | 24
+4 | 32
+8 | 64
+Table B
+\(x\) | \(y\)
+0 | 0
+2 | 16
+4 | 32
+6 | 48
+8 | 64
+Table C
+\(x\) | \(y\)
+0 | 1
+1 | 4
+2 | 16
+3 | 64
+4 | 256
+Table D
+\(x\) | \(y\)
+0 | 4
+1 | 8
+2 | 12
+3 | 16
+4 | 20
+### Student Response
+### Building on Student Thinking
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Invite each group to share one reason why a particular set of three go together. Record and display the responses for all to see. After each response, ask the class if they agree or disagree. Since there is no single correct answer to the question of which three go together, attend to students’ explanations and ensure that the reasons given are correct.
+During the discussion, ask students to explain the meaning of any terminology they use, such as “common differences” or “common factors.”
+20 mins
+## Activity
+### Growing Stores
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+In this activity, students use tables to make comparisons between 2 patterns. A table is particularly helpful for illustrating that:
+Linear functions grow by equal differences over equal intervals
+Exponential functions grow by equal factors over equal intervals
+At this stage, students simply observe these properties for a few particular functions and in the context of concrete problems. Toward the end of the unit, they will prove that these properties are true for any linear or exponential function.
+### Launch
+Display the table for all to see. It shows the number of coffee shops worldwide that a company had in its first 10 years. Ask, "What do you notice? What do you wonder?"
+Ask students to share the things that they noticed and wondered about.
+Students may notice:
+The number of stores nearly doubled between 1987 and 1988.
+The number continued to grow by more than 1.5 times per year (except from 1990 to 1991 and from 1991 to 1992).
+They added close to 1,000 stores in 10 years.
+Students may wonder:
+How many stores do they have now? (22,519 in 2015, more than 24,000 in 2017)
+Have the stores increased by roughly the same number since 1996?
+How do you find the differences and factors from previous years?
+year | number of stores | difference from previous year | factor from previous year
+1987 | 17 | - | -
+1988 | 33 |  | 
+1989 | 55 |  | 
+1990 | 84 |  | 
+1991 | 116 |  | 
+1992 | 165 |  | 
+1993 | 272 |  | 
+1994 | 425 |  | 
+1995 | 677 |  | 
+1996 | 1,015 |  | 
+... |  |  | 
+2015 |  |  | 
+Ask students how they might calculate values for the last 2 columns. (For the difference, subtract the number of stores in the row from the number of stores in the row above it. For example, in the 1988 row, the difference is 16 because \(33 - 17 = 16\). For the factor, divide the number of stores in the row by the number of stores in the row above it. For example, in the 1988 row, the factor is about 1.94 because \(\frac{33}{17} \approx 1.94\).)
+Give students access to a spreadsheet tool or a calculator. It is ideal if each student has their own device. Arrange students in groups of 2. If time is limited, ask one partner to complete the questions for Plan A and the other to do so for Plan B.
+### Activity
+### Student Task Statement
+A food company currently has 5 convenience stores. It is considering 2 plans for expanding its chain of stores.
+Plan A: Open 20 new stores each year.
+Use technology to complete a table for the number of stores for the next 10 years, as shown here.	yearnumber of storesdifference from previous yearfactor from previous year05--1252345678910
+year | number of stores | difference from previous year | factor from previous year
+0 | 5 | - | -
+1 | 25 |  | 
+2 |  |  | 
+3 |  |  | 
+4 |  |  | 
+5 |  |  | 
+6 |  |  | 
+7 |  |  | 
+8 |  |  | 
+9 |  |  | 
+10 |  |  | 
+What do you notice about the difference from year to year?What do you notice about the factor from year to year?If there are \(n\) stores one year, how many stores will there be a year later?
+What do you notice about the difference from year to year?
+What do you notice about the factor from year to year?
+If there are \(n\) stores one year, how many stores will there be a year later?
+What do you notice about the difference every 3 years?What do you notice about the factor every 3 years?If there are \(n\) stores one year, how many stores will there be 3 years later?
+What do you notice about the difference every 3 years?
+What do you notice about the factor every 3 years?
+If there are \(n\) stores one year, how many stores will there be 3 years later?
+Plan B: Double the number of stores each year.
+Use technology to complete a table for the number of stores for the next 10 years, as shown here.	yearnumber of storesdifference from				previous yearfactor from				previous year05--12345678910
+year | number of stores | difference fromprevious year | factor fromprevious year
+0 | 5 | - | -
+1 |  |  | 
+2 |  |  | 
+3 |  |  | 
+4 |  |  | 
+5 |  |  | 
+6 |  |  | 
+7 |  |  | 
+8 |  |  | 
+9 |  |  | 
+10 |  |  | 
+What do you notice about the difference from year to year?What do you notice about the factor from year to year?If there are \(n\) stores one year, how many stores will there be a year later?
+What do you notice about the difference from year to year?
+What do you notice about the factor from year to year?
+If there are \(n\) stores one year, how many stores will there be a year later?
+What do you notice about the difference every 3 years?What do you notice about the factor every 3 years?If there are \(n\) stores one year, how many stores will there be 3 years later?
+What do you notice about the difference every 3 years?
+What do you notice about the factor every 3 years?
+If there are \(n\) stores one year, how many stores will there be 3 years later?
+### Student Response
+### Building on Student Thinking
+Students may struggle to write an expression using the variable \(n\). Ask them to tell you any patterns they notice in the tables, and then encourage them to use those patterns to write an expression for \(n\).
+### Are You Ready for More?
+Suppose the food company decides it would like to grow from the 5 stores it has now so that it will have at least 600 stores, but no more than 800 stores 5 years from now.
+Come up with a plan for the company to achieve this in which it adds the same number of stores each year.
+Come up with a plan for the company to achieve this in which the number of stores multiplies by the same factor each year. (Note that you might need to round the outcome to the nearest whole store.)
+#### Student response
+### Activity Synthesis
+To help students compare and contrast the two tables, ask:
+“How are the tables alike? Or how was the process of completing the two tables the same?” (The tables both follow a simple pattern: Each table row is calculated by applying the same single arithmetic operation to the previous row. This pattern also holds for every other row or every third row, and so on. The entries in both tables increase as we go down the table.)
+“How are the tables different? Or how was the process of completing the two tables different?” (In Plan A, 20 new stores are added each year; the repeated arithmetic operation is addition. In Plan B, the number of stores is doubled each year; the repeated arithmetic operation is multiplication. Plan B grows much more quickly than does Plan A.)
+Students may notice in the table that the difference from the number of stores the previous year is the same as the number of stores the previous year. This is because of the doubling pattern: to find the number of stores in the next year, the number from the previous year is added to itself (or doubled).
+10 mins
+## Activity
+### Flow and Followers
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+Students study two stories characterized by different growth patterns, and they match expressions and tables with the two situations. The numbers in the two scenarios are identical, so students need to focus on the mathematical relationships and the operations in the expressions to successfully complete the activity. If students are evaluating the expressions, encourage them to reason about the operations without calculating anything.
+### Launch
+### Activity
+### Student Task Statement
+Here are verbal descriptions of 2 situations, followed by tables and expressions that could help to answer one of the questions in the situations.
+Situation 1: A person has 80 followers on social media. The number of followers triples each year. How many followers will she have after 4 years?
+Situation 2: A tank contains 80 gallons of water and is getting filled at a rate of 3 gallons per minute. How many gallons of water will be in the tank after 4 minutes?
+Match each representation (a table or an expression) with one situation. Be prepared to explain how the table or expression answers the question.
+A. \(80 \boldcdot 3\boldcdot 3 \boldcdot 3\boldcdot 3\)
+B.
+\(x\) | \(y\)
+0 | 1 | 2 | 3 | 4
+80 | 240 | 720 | 2,160 | 6,480
+C. \(80 + 3+3+3+3\)
+D. \(80 + 4 \boldcdot 3\)
+E.
+\(x\) | \(y\)
+0 | 1 | 2 | 3 | 4
+80 | 83 | 86 | 89 | 92
+F. \( 80 \boldcdot 81\)
+### Student Response
+### Building on Student Thinking
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Focus the discussion on how students went about matching the representations and the situations. Record students' reasoning for all to see. In particular, highlight observations about common differences and common factors. Ask questions such as:
+“Besides evaluating the expression, how could you tell which expressions matched each of the situations?” (To fit the first situation that is tripling, I looked for things being multiplied by 3 multiple times. For the second situation, it was growing at a constant rate of 3, so I looked for things where 3 was added multiple times.
+“How could you tell which table matched each of the situations?” (I looked for \(y\) values that are being multiplied by 3 for each increase of 1 in \(x\) to match the first situation. For the second situation, I looked for \(y\) values that have a difference of 3 for each increase of 1 in \(x\).
+“How is the number of followers growing every 2 years?” (It is tripling twice, so they are being multiplied by 9 every 2 years.)
+“How is the amount of water in the tank increasing every 2 minutes?” (3 gallons of water are being added twice, so 6 gallons are added every 2 minutes.)
+## Lesson Synthesis
+Tables of values and expressions that represent two different patterns of growth can be used to notice relationships between variables. Ask students to summarize the key features of the two patterns using tables and situations from a classroom activity, or new tables and situations such as these.
+This table shows the height, in centimeters, of water in a swimming pool as it is being filled.
+time in minutes | height in centimeters
+0 | 50
+1 | 53
+2 | 56
+3 | 59
+4 | 62
+This table shows the total number of possible outcomes (heads or tails) when flipping a certain number of coins.
+number of coins | number of outcomes
+1 | 2
+2 | 4
+3 | 8
+4 | 16
+5 | 32
+Ask questions such as:
+“How are the values in each table growing?” (The water is growing at a constant rate of 3 centimeters each minute. The number of outcomes doubles with each additional coin.)
+“Which table shows common differences? Which one shows common factors?” (The water height shows common differences, and the number of outcomes shows common factors.)
+“What expression can we write to find the height of the water after 10 minutes?” (\(50+3 \boldcdot 10\))
+“What expression can we write to find the number of possible outcomes for 7 coins?” (\(2^7\))
+## Student Lesson Summary
+Here are two tables representing two different situations.
+A student runs errands for a neighbor every week. The table shows the pay he may receive, in dollars, in any given week.	number of errandspay in dollarsdifference from previous weekfactor from previous week010--11551.522051.3332551.2543051.2
+number of errands | pay in dollars | difference from previous week | factor from previous week
+0 | 10 | - | -
+1 | 15 | 5 | 1.5
+2 | 20 | 5 | 1.33
+3 | 25 | 5 | 1.25
+4 | 30 | 5 | 1.2
+A student at a high school heard a rumor that a celebrity will be speaking at graduation. The table shows how the rumor is spreading over time, in days.	daypeople who have				heard the rumordifference from previous dayfactor from previous				day01--15452252053125100546255005
+day | people who haveheard the rumor | difference from previous day | factor from previousday
+0 | 1 | - | -
+1 | 5 | 4 | 5
+2 | 25 | 20 | 5
+3 | 125 | 100 | 5
+4 | 625 | 500 | 5
+Once we recognize how these patterns change, we can describe them mathematically. This allows us to understand their behavior, extend the patterns, and make predictions.
+Notice that in the situation with the student running errands, the difference is constant from week to week, while the factor changes. In the situation about a rumor spreading, the difference changes from day to day, but the factor is constant. This can give us clues to how we might write out the pattern in each situation.
+Practice
+
+

@@ -10,9 +10,12 @@ Returns:
 import os
 import glob
 
+unitnum = '6'
+process_all_files = True
+
 # Define the input and output directories
-input_dir = 'lesson_contents/'
-output_dir = 'lesson_contents_b/'
+input_dir = f'unit-{unitnum}/lesson_contents/'
+output_dir = f'unit-{unitnum}/lesson_contents_b/'
 
 # Ensure the output directory exists
 os.makedirs(output_dir, exist_ok=True)
@@ -208,11 +211,11 @@ def process_file(input_file, output_dir):
 
     print(f"Processed {input_file} -> {output_file}")
 
-process_all_files = True
+
 
 # Process a single file or all files based on the 'files' variable
 if not process_all_files:
-    input_file = 'lesson_contents/algebra-1-Unit-5-Lesson-2.txt'
+    input_file = f'unit-{unitnum}/lesson_contents/algebra-1-Unit-{unitnum}-Lesson-1.txt'
     process_file(input_file, output_dir)
 elif process_all_files:
     # Loop through all text files in the input directory

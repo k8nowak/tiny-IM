@@ -1,0 +1,296 @@
+# Lesson Location
+## Unit Number
+4
+## Unit Name
+LinearInequalitiesAndSystems
+## Lesson Number 
+7
+## Lesson Title
+Solutions to Systems of Linear Inequalities in Two Variables
+# Lesson Timing
+## Total Activity Time in Minutes 
+50
+## Total Lesson Time incl Lesson Synthesis
+60 
+# Lesson Preamble
+## Lesson Narrative
+"""
+In this lesson, students build on their understanding of linear inequalities in two variables to find the solutions to systems of linear inequalities in two variables.
+Students learn that two linear inequalities that represent the constraints in the same situation form a system of inequalities, and that the solutions to the system include all numbers that satisfy both constraints simultaneously. Graphically, the solution set of the system is represented by the region where the graphs of the individual inequalities overlap.
+Throughout the lesson, students endeavor to find values that satisfy multiple constraints, both in terms of a situation and in the absence of one. The process requires that students make sense of problems and persevere in solving them (MP1) and that students reason quantitatively and abstractly (MP2).
+"""
+## Learning Goals
+Write systems of inequalities in two variables, use technology to graph the solutions, and interpret the solutions in context.
+Understand that the solution set of a system of inequalities in two variables is composed of any pair of values that make both inequalities true, and that it is represented graphically by the region where the graphs overlap.
+Given descriptions and graphs that represent two constraints, identify values that satisfy each constraint and those that satisfy both constraints simultaneously.
+## Student-Facing Goal
+Let’s look at situations in which two constraints (that can be expressed by inequalities) must be met simultaneously.
+## Student-Facing Targets
+I can write a system of inequalities to describe a situation, find the solution by graphing, and interpret points in the solution.
+I know what is meant by "the solutions to a system of inequalities" and can describe the graphs that represent the solutions.
+When given descriptions and graphs that represent two different constraints, I can find values that satisfy each constraint individually, and values that satisfy both constraints at once.
+Required Materials
+#### Activity 1
+Graphing technology
+#### Activity 2
+Graphing technology
+#### Activity 3
+Graphing technology
+## Required Preparation
+"""
+#### Activity 1
+Acquire devices that can run Desmos (recommended) or other graphing technology. It is ideal if students each have their own device. (If students typically access the digital version of the materials, Desmos is available under Math Tools.)
+#### Activity 2
+Acquire devices that can run Desmos (recommended) or other graphing technology. It is ideal if students each have their own device. (If students typically access the digital version of the materials, Desmos is available under Math Tools.)
+#### Activity 3
+Acquire devices that can run Desmos (recommended) or other graphing technology. It is ideal if students each have their own device. (If students typically access the digital version of the materials, Desmos is available under Math Tools.)
+"""
+## Standards Alignment
+### Building On
+HSA-REI.C.6
+### Addressing
+HSA-CED.A.3
+HSA-REI.D.12
+### Building Toward
+HSA-REI.D.12
+## Glossary
+### solutions to a system of inequalities
+"""
+The solutions to a system of inequalities are all the values for the variables that make all of the inequalities true.
+This graph shows a system of two inequalities. The solutions of the system are all the coordinate pairs that make both inequalities true. On the graph, the solution is shown as all the points in the region where the graphs of the two inequalities overlap.
+"""
+### system of inequalities
+"""
+Two or more inequalities that represent the constraints in the same situation form a system of inequalities.
+"""
+# Lesson Content
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+A Silly Riddle
+### Activity Narrative
+"""
+This Warm-up reminds students about systems of equations and their solutions. Students recall that a solution to a linear equation in two variables is any pair of numbers that makes the equation true, and that a solution to a system of two equations in two variables is a pair of numbers that make both equations true.
+The given system has a solution that is hard to find mentally, but can be calculated algebraically or by using graphing technology.
+Making graphing technology available gives students an opportunity to choose appropriate tools strategically (MP5).
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+Here is a riddle: “I am thinking of two numbers that add up to 5.678. The difference between them is 9.876. What are the two numbers?”
+Name any pair of numbers whose sum is 5.678.
+Name any pair of numbers whose difference is 9.876.
+The riddle can be represented with two equations. Write the equations.
+Solve the riddle. Explain or show your reasoning.
+"""
+### Building on Student Thinking
+"""
+Students who graph the system of equations using technology may estimate from the graph and offer \((8,\text-2)\) as a solution. Ask them to check whether \(8+\text-2\) really does equal 5.678.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Ask students who use different methods to briefly describe their solving process. Record and display their reasoning (including a graph) for all to see.
+If not mentioned in students' explanations, highlight that the riddle can be solved by writing and solving a system of equations. Each equation represents a constraint. Ask students:
+"What constraints do the two equations represent?" (The first equation represents a constraint about the sum of the two numbers. The second represents a constraint about the difference of the two numbers.)
+"What does a solution to the system represent?" (The solution is a pair of numbers that simultaneously meets both constraints, or makes both equations true.)
+"How many pairs of numbers meet both constraints at the same time?" (Only one pair. The graphs of the equations intersect at one point.)
+"""
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+A Quilting Project
+### Activity Narrative
+"""
+In this activity, students encounter a situation in which two constraints that can be expressed with inequalities are represented on two separate graphs, which makes it challenging to find pairs of values that meet both constraints simultaneously. This motivates a desire to represent both constraints on the same graph.
+As students work, monitor for the different ways in which they try to find a pair of values that satisfy both inequalities. Some likely approaches:
+Substituting different \(x\)- and \(y\)-values into the inequalities until they find a pair that makes both inequalities true.
+Visually estimating a point in the solution region of one graph that appears likely to also be in the solution region of the other graph (for example, noticing that \((6,4)\) is in the solution region of each inequality.
+Graphing both inequalities on the same coordinate plane (either by using technology or by copying the line in one graph onto the other graph) and finding a point in the region where they overlap.
+Identify students who use these or other approaches, and ask them to share during class discussion.
+Making graphing technology available gives students an opportunity to choose appropriate tools strategically (MP5).
+"""
+### Launch
+"""
+Give students a moment to read the task statement and to look at the two graphs. Ask students:
+“Do you or your family have a quilt? Is there a story about why that quilt is important to you? Do the shapes or patterns have an important meaning?”
+“What are the two constraints in this situation?” (A length constraint and a cost constraint)
+“Which graph represents which constraint? How do you know?” (The first graph represents the length constraint. Possible explanations:	The graph intersects the vertical and horizontal axes at approximately 9.5, which means that if the quilter bought 0 yards of one color, he will need at least 9.5 yards of the other color.The length constraint says "at least 9.5 yards," so the lengths must include values greater than 9.5, which is shown by the shaded region of the first graph.The second graph represents the cost constraint. If the quilter bought 0 yards of the light color, he could buy up to \(\frac{110}{13}\), or about 8.5, yards of the dark color fabric. This corresponds to the vertical intercept of the second graph.) The cost constraint says "up to \$110," so the lengths must be below certain limits. The solution region of the second graph shows values below a boundary.)
+The graph intersects the vertical and horizontal axes at approximately 9.5, which means that if the quilter bought 0 yards of one color, he will need at least 9.5 yards of the other color.
+The length constraint says "at least 9.5 yards," so the lengths must include values greater than 9.5, which is shown by the shaded region of the first graph.
+The second graph represents the cost constraint. If the quilter bought 0 yards of the light color, he could buy up to \(\frac{110}{13}\), or about 8.5, yards of the dark color fabric. This corresponds to the vertical intercept of the second graph.)
+The cost constraint says "up to \$110," so the lengths must be below certain limits. The solution region of the second graph shows values below a boundary.)
+Arrange students in groups of 2, and provide access to graphing technology, in case it is requested.
+Ask students to pause briefly after they have written both inequalities. Before students proceed to the rest of the activity, verify that the inequalities that they have written accurately represent the constraints.
+"""
+### Student Task Statement
+"""
+To make a quilt, a quilter is buying fabric in two colors, light and dark. He needs at least 9.5 yards of fabric in total.
+The light color costs \$9 a yard. The dark color costs \$13 a yard. The quilter can spend up to \$110 on fabric.
+Image description: <p>Close up of a quilt</p>
+Here are two graphs that represent the two constraints.
+AInequality graphed on a coordinate plane, origin O. Horizontal axis, light fabric, yards, scale from 0 to 16, by 4’s. Vertical axis, dark fabric, yards, scale from 0 to 12, by 4’s. Line starts on vertical axis at approximately 9 point 5, goes through about 4 comma 5 point 5 and ends on the horizontal axis at 9 point 5. The region above the line is shaded.
+A
+Image description: <p>Inequality graphed on a coordinate plane.</p>
+BInequality graphed on a coordinate plane, origin O. Horizontal axis, Light fabric, yards, scale from 0 to 16, by 4’s. Vertical axis, dark fabric, yards, scale from 0 to 12, by 4’s. Line starts on vertical axis at approximately 8 point 5, goes through about 6 comma 4 and ends on the horizontal axis at 12. The region below the line is shaded.
+B
+Image description: <p>Inequality graphed on a coordinate plane.</p>
+Write an inequality to represent the length constraint. Let \(x\) represent the yards of light fabric and \(y\) represent the yards of dark fabric.
+Select all the pairs that satisfy the length constraint.\((5,5)\)\((2.5, 4.5)\)\((7.5, 3.5)\)\((12,10)\)
+Select all the pairs that satisfy the length constraint.
+\((5,5)\)
+\((2.5, 4.5)\)
+\((7.5, 3.5)\)
+\((12,10)\)
+Write an inequality to represent the cost constraint.
+Select all the pairs that satisfy the cost constraint.\((1,1)\)\((4,5)\)\((8,3)\)\((10,1)\)
+Select all the pairs that satisfy the cost constraint.
+\((1,1)\)
+\((4,5)\)
+\((8,3)\)
+\((10,1)\)
+Explain why \((2,2)\) satisfies the cost constraint, but not the length constraint.
+Find at least one pair of numbers that satisfies both constraints. Be prepared to explain how you know.
+What does the pair of numbers represent in this situation?
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Focus the discussion on the last two questions. Select previously identified students to share how they identified a pair of values that meet both constraints. Sequence the discussion of the approaches by the order listed in the Activity Narrative. If possible, record and display their work for all to see.
+Select students who graphed both inequalities on the same plane and display their graphs for all to see.
+If no students did this on their own, display (for all to see) the embedded applet in the online materials.
+Consider selecting first one inequality, then the other, and then both simultaneously.
+(The Desmos graphs show both variables being restricted to positive values, but students are not expected to do this when graphing. Consider discussing with students why it makes sense in this situation to disregard negative values.)
+Discuss the meaning of a pair of values that satisfies both inequalities. Emphasize that, in this situation, it refers to the amount of fabric of each color that meets both the length and cost requirements.
+Explain to students that the two inequalities representing the constraints in the same situation form a system of inequalities. In a system of equations, the solutions can be represented by one or more points where the graphs of the equations intersect. The solutions to a system of inequalities are all points in the region where the graphs of the two inequalities overlap, because those points represent all pairs of values that make both inequalities true.
+"""
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Remember These Situations?
+### Activity Narrative
+"""
+In this activity, students write systems of inequalities that represent situations and find the solutions by graphing. Students have encountered the same situations and constraints in a previous lesson, so the main work here is on thinking about each pair of constraints as a system, finding the solution region of each inequality, and identifying as a solution to the system a point in the region where the graphs overlap.
+"""
+### Launch
+"""
+Arrange students in groups of 2–4. Explain to students that they will now revisit some situations that they have seen and graphed in an earlier lesson. Assign one situation to each group member (or allow them to choose one situation), and ask them to answer the questions. Provide access to graphing technology.
+Give students 5-6 minutes of quiet work time, and then time to discuss their responses and graph with their group.
+"""
+### Student Task Statement
+"""
+Here are some situations that you have seen before. Answer the questions for one situation.
+Club Donations
+A school environmental club is raising money during the year to donate in support of two causes: a national organization lobbying for clean air and a local non-profit working to restore a stream that runs past the school. They plan to donate a maximum of $600 by the end of the year, some toward clean air and some toward stream restoration.
+When the restoration of the stream is complete, the name of any person or group that donated $500 or more will be added to a commemorative plaque. The national organization lobbying for clean air does not offer any donation perks.
+Concert Tickets
+Two kinds of tickets to an outdoor concert were sold: lawn tickets and seat tickets. Fewer than 400 tickets in total were sold.
+Lawn tickets cost \$30 each and seat tickets cost \$50 each. The organizers want to make at least $14,000 from ticket sales.
+Advertising Packages
+An advertising agency offers two packages for small businesses who need advertising services. A basic package includes only design services. A premium package includes design and promotion. The agency's goal is to sell at least 60 packages in total.
+The basic advertising package has a value of \$1,000 and the premium package has a value of \$2,500. The goal of the agency is to sell more than $60,000 worth of small-business advertising packages.
+1. Write a system of inequalities to represent the constraints. Specify what each variable represents.
+2. Use technology to graph the inequalities and sketch the solution regions. Include labels and scales for the axes.
+Image description: <p>Blank coordinate plane with grid, origin O.</p>
+3. Identify a solution to the system. Explain what the numbers mean in the situation.
+"""
+### Building on Student Thinking
+"""
+Students may need reminding what “a solution to the system” would be in these specific contexts. First find a point where the total money donated by the club is less than or equal to \$600. Now make sure the money given to stream restoration is also at least \$500.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Much of the discussion would have happened in small groups. During the whole-class discussion, emphasize the meaning of a point in the region where two graphs of linear inequalities overlap. Make sure students understand that all the points in that region represent values that simultaneously meet both constraints in the situation.
+If time permits, ask students, "Why does it make sense to think of the two inequalities in each situation as a system and find the solutions to the system, instead of only to individual inequalities?" (If both constraints in the situation must be met, then we need to find values that satisfy both inequalities.)
+"""
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+Scavenger Hunt
+### Activity Narrative
+"""
+This optional activity reinforces the idea that the solutions to a system of inequalities can be effectively represented by a region on the graphs of the inequalities in the system. The activity is designed to be completed without the use of graphing technology.
+"""
+### Launch
+"""
+Ask students to put away any devices.
+"""
+### Student Task Statement
+"""
+Members of a high school math club are doing a scavenger hunt. Three items are hidden in the park, which is a rectangle that measures 50 meters by 20 meters.
+The clues are written as systems of inequalities. One system has no solutions.
+The locations of the items can be narrowed down by solving the systems. A coordinate plane can be used to describe the solutions.
+Can you find the hidden items? Sketch a graph to show where each item could be hidden.
+Clue 1: \(\qquad y>14\\ \qquad x<10\)
+Image description: <p>Blank grid, origin O. X axis, scale is 0 to 40, by 10’s. Y axis, scale is 0 to 20, by 10’s.</p>
+Clue 2: \(\qquad x+y<20\\ \qquad x>6\)
+Clue 3: \(\qquad y<\text-2x+20\\ \qquad y < \text-2x+10\)
+​​​​
+Image description: <p>Blank grid, origin O. X axis, scale is 0 to 40, by 10’s. Y axis, scale is 0 to 20, by 10’s.</p>
+Clue 4: \(\qquad y \ge x+10\\ \qquad x > y\)
+"""
+### Building on Student Thinking
+"""
+Some students may have trouble interpreting the graph of the fourth system, wondering if a point in either of the shaded regions on the graph could be where an item is hidden. Ask them to pick a point on the graph and to consider whether it satisfies the first inequality, and then whether it satisfies the second inequality. Remind them that a solution to a system needs to satisfy both.
+"""
+### Are You Ready for More?
+"""
+Two non-negative numbers \(x\) and \(y\) satisfy \(x + y \leq 1\).
+Find a second inequality, also using \(x\) and \(y\) values greater than or equal to zero, to make a system of inequalities with exactly one solution.
+Find as many ways to answer this question as you can.
+"""
+### Activity Synthesis
+"""
+Invite students to share their graphs and strategies for finding the solution regions. In particular, discuss how they found out which system had no solutions.
+Remind students that a system of linear equations has no solutions if the graphs of the equations are two parallel lines that never intersect. Explain that a system of linear inequalities has no solutions if their regions are bound by two parallel lines and the solution region of each one is on the "outside" of the parallel lines, as is the case with the last given system.
+"""
+# Lesson Close
+## Lesson Synthesis
+"""
+To help students make connections between systems of inequalities and systems of equations, display the following graphs for all to see.
+Image description: <p>Graph of 2 intersecting inequalities. Horizontal axis, x, from 0 to 50 by 5s. Vertical axis, y, from 0 to 30 by 5s. Shading right of vertical line and below slanted line. Intersect near 12 comma 13.</p>
+Image description: <p>Graph of 2 intersecting lines. Horizontal axis, x, from 0 to 50 by 5s. Vertical axis, y, from 0 to 30 by 5s. 1 line is vertical with x-intercept of 12. Other line has y-intercept of 25.</p>
+Ask students:
+"How are the two sets of graphs alike?" (They have the same two lines. They can tell us about the solutions to individual equations or inequalities, as well as the solutions to systems.)
+"How are they different?" (The first set of graphs show two regions that overlap, bounded by dotted lines. The second set shows two intersecting lines and the lines are solid. One set represents the solutions to a system of linear inequalities.)
+"How can we tell the number of solutions from each set of graphs?" (The graphs representing a system of equations show one point of intersection, so there is only one solution. The graphs representing a system of inequalities show one region of overlap, but there are many points in that region. This means that there are many solutions.)
+"""
+## Student Lesson Summary
+"""
+In this lesson, two linear inequalities in two variables represent the constraints in a situation. Each pair of inequalities forms a system of inequalities.
+A solution to a system of inequalities is any \((x,y)\) pair that makes both inequalities true, or any pair of values that simultaneously meet both constraints in the situation. The solution to the system is often best represented by a region on a graph.
+Suppose there are two numbers, \(x\) and \(y\), and there are two things we know about them.
+The value of one number is more than double the value of the other.
+The sum of the two numbers is less than 10.
+We can represent these constraints with a system of inequalities.
+\(\begin {cases} y > 2x\\ x+y <10 \end {cases}\)
+There are many possible pairs of numbers that meet the first constraint, for example: 1 and 3, or 4 and 9.
+The same can be said about the second constraint, for example: 1 and 3, or 2.4 and 7.5.
+The pair \(x=1\) and \(y=3\) meets both constraints, so it is a solution to the system.
+The pair \(x=4\) and \(y=9\) meets the first constraint but not the second (\(9 >2(4)\) is a true statement, but \(4+9<10\) is not true.)
+Remember that graphing is a great way to show all the possible solutions to an inequality, so let’s graph the solution region for each inequality.​​​​​​
+A graph of an inequality on a coordinate plane, origin O. Each axis from negative 10 to 5, by 5’s. Dashed line starts below x axis and right of y axis, goes through negative 2 point 5 comma negative 5, 0 comma 0, and 2 point 5 comma 5. The region above the dashed line is shaded.
+Image description: <p>A graph of an inequality on a coordinate plane.</p>
+A graph of an inequality on a coordinate plane, origin O. Each axis from negative 10 to 5, by 5’s. A dashed line starts on the y axis at 10, goes through 5 comma 5, and ends on x axis at 10. The region below the dashed line is shaded.
+Because we are looking for a pair of numbers that meet both constraints or make both inequalities true at the same time, we want to find points that are in the solution regions of both graphs.
+To do that, we can graph both inequalities on the same coordinate plane.
+The solution set to the system of inequalities is represented by the region where the two graphs overlap.
+A graph of two intersecting inequalities on a coordinate plane, origin O. Each axis from negative 10 to 5, by 5’s. The first dashed line starts below x axis and right of y axis, goes through negative 2 point 5 comma negative 5, 0 comma 0, and 2 point 5 comma 5. The region above the dashed line is shaded. Second line at on the y axis at 10, goes through 5 comma 5, end on x axis at 10. The region below the dashed line is shaded.
+Image description: <p>A graph of two intersecting inequalities on a coordinate plane.</p>
+"""

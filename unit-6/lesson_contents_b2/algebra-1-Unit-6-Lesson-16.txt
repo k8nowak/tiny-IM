@@ -1,0 +1,189 @@
+# Lesson Location
+## Unit Number
+6
+## Unit Name
+Introduction to Exponential Functions
+## Lesson Number 
+16
+## Lesson Title
+Compounding Interest
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+# Lesson Preamble
+## Lesson Narrative
+"""
+In this lesson, students continue to examine repeated percent change and practice representing it with expressions. An important focus of the lesson is on distinguishing the effect of compounded percent change from that of simple percent change. For example, increasing by 10% twice is not the same as increasing by 20% once. Students see that the repeated application of a percent change yields a greater final change because, with each iteration, the value that is used to compute the percent increase grows. They learn that this process is called compounding.
+Students critically examine two ways of scaling an image and make a reasoned argument about whether the two results are equal (MP3). Students also look for equations to represent repeated interest calculations in the second activity (MP8).
+"""
+## Learning Goals
+Justify (orally and in writing) why applying a percent increase $p$, $n$ times, is not equivalent to applying the percent $np$.
+Compare the outcome of applying a percent increase, $p$, $n$ times to the outcome of applying the percent increase $np$.
+## Student-Facing Goal
+Let's explore different ways of repeatedly applying a percent increase.
+## Student-Facing Targets
+I can explain why applying a percent increase, $p$, $n$ times is like or unlike applying the percent increase $np$.
+## Required Preparation
+"""
+None
+"""
+## Standards Alignment
+### Building On
+### Addressing
+HSF-BF.A.1.a
+### Building Toward
+## Glossary
+# Lesson Content
+## Activity
+### Activity Timing
+5 mins
+### Activity Title
+Five Years Later
+### Activity Narrative
+"""
+In this Warm-Up, students practice writing an exponential expression for repeated interest calculations. To emphasize the exponential structure of compounded interest, they are prompted to write an expression before calculating a monetary value.
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+You owe 12% interest each year on a \$500 loan. If you make no payments and take no additional loans, what will the loan balance be after 5 years?
+Write an expression to represent the balance and evaluate it to find the answer in dollars.
+"""
+### Building on Student Thinking
+"""
+Some students may find it difficult to write an expression because they are reasoning about the interest calculation in additive terms, for example, \(500 + (0.12) \boldcdot500\) for the first year, \([500 + (0.12) \boldcdot500] + (0.12) \boldcdot[500 + (0.12) \boldcdot500] \) for the second year, and so on. Encourage them to think about each year's calculation as a product and to refer to the work in a previous lesson, if needed.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Invite students to share their expressions. If not already brought up in students' responses, bring up the following two expressions:
+\(500 \boldcdot (1.12) \boldcdot (1.12) \boldcdot (1.12) \boldcdot (1.12) \boldcdot (1.12)\)
+\(500 \boldcdot (1.12)^5\)
+Highlight that the first expression with the 1.12 written out five times makes explicit the five separate years over which the interest is compounded. The second expression is shorthand for the first and is more succinct.
+"""
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Resizing Images
+### Activity Narrative
+"""
+In this activity, students use a geometric context to investigate whether increasing an amount by 10% and then increasing the result by 10% again is the same as applying a 20% increase once. The work addresses a common misconception about successive percent increase. While the two increases (10% twice and 20% once) are in fact relatively close in value, they are not identical. The difference will become more pronounced the more times that the percent increase is applied.
+The work prepares students to see how banks and credit card companies actually calculate or compound interest, which is explored in upcoming activities. Rather than charging customers with interest on an annual basis, they calculate and compound the interest on a daily or monthly basis, which typically results in a different actual rate for one year than the published annual interest rate.
+The same principle applies for repeated percent decrease. For example, the result of decreasing by 10% three successive times is not the same as decreasing it by 30% once. Recall that earlier in the unit, students have seen that a car losing \(\frac13\) of its value in any given year (a varying amount) is not the same as losing \(\frac13\) of its original value every year (a fixed amount).
+Monitor for students who:
+Choose a number for the height, apply each method of scaling, then compare the two resulting heights.
+Compare the scale factors for the two methods (think in terms of multiplying the height by \((1.1)^2\) for Andre's method and by 1.2 for Mai's method).
+Use a variable for the height, apply each method of scaling, and then compare the resulting expressions.
+Plan to have students present in this order to support more abstract thinking.
+"""
+### Launch
+"""
+Arrange students in groups of 2. Give students 1–2 minutes of quiet think time and a minute to discuss their response with their partner. Follow with a whole-class discussion.
+Select students with different strategies, such as those described in the Activity Narrative, and ask them to share later.
+"""
+### Student Task Statement
+"""
+Andre and Mai need to enlarge two images for a group project. The two images are the same size when they begin.
+Andre makes a scaled copy of his image, increasing the lengths by 10%. It is still a little too small, so he increases the lengths by 10% again.
+Mai says, “If I scale my image and increase the lengths by 20%, our images will be exactly the same size.”
+Do you agree with Mai? Explain or show your reasoning.
+"""
+### Building on Student Thinking
+"""
+Students may struggle to understand how to begin the problem. Although the general case is the intention, some students may benefit from having a concrete value for the original image. Suggest that students begin with images that are 100 pixels tall and try additional starting values until a pattern is evident.
+"""
+### Are You Ready for More?
+"""
+What if you want to calculate \(5\boldcdot (1.01)^{10}\) but don’t have a calculator? As long as the value you’re multiplying is close to 1, you can estimate using addition rather than multiplication. \(5+(0.01)\boldcdot 10=5.1\) which is quite close to the actual value of the original expression, which is approximately 5.523.
+The quantity \((1.02)^7\) is hard to calculate by hand. Use mental math to compute \(1+(0.02)\boldcdot7\) to get a good approximation to it.
+Estimate \((0.99)^9\). Use a calculator to compare your estimate to the actual value.
+Estimate \((1.6)^{11}\). Use a calculator to compare your estimate to the actual value. What is different about this example?
+"""
+### Activity Synthesis
+"""
+Invite previously selected students to share their strategies for comparing the two methods of scaling the image. Sequence the discussion of the strategies by the order listed in the Activity Narrative. If possible, record and display their work for all to see.
+Connect the different responses to the learning goals by asking questions such as:
+“Does it matter what the original size of the image was?” (No, the scale factor comes from the number multiplying the original image dimension, not from the original image dimension itself.)
+“How much larger is Andre’s image after applying a 10% increase twice? Whose final image is larger, Andre’s or Mai’s?” (Andre’s image is 21% larger because \(1.1^2 = 1.21\) which will result in a slightly larger image than Mai’s because hers is only 20% larger.)
+“Would the difference between the two final images be more noticeable with a larger original image or a smaller one?” (Because the images are being scaled by a percentage, a larger original image would result in a larger difference between the two final images.)
+If time permits, consider showing this image to help students connect the symbolic work to a visual representation of Andre and Mai's approaches. The shaded area is the original image. The difference in height is slight but noticeable given the grid.
+Image description: <p>Two sets of resized rectangles.<br>
+ </p>
+"""
+## Activity
+### Activity Timing
+20 mins
+### Activity Title
+Earning Interest
+### Activity Narrative
+"""
+Students now explore the idea of repeated percent change in a banking or savings context. This may be a good time to more formally introduce the term compounding. They examine the effect of compounding 1% interest each month for a year. From the previous activity, students should recognize that the result will be more than 12% interest on the initial balance. This is because for each month after the first one, the amount used to calculate the interest includes previously earned interest, so that amount is higher than the initial balance. In future lessons, students will continue to investigate the effects of compounding interest in the long term.
+Monitor for students who use these different strategies to find the account balance at different times (the first question):
+Calculate the numerical values
+Write expressions
+Plan to have students present in this order to support strategies that extend to larger numbers more easily.
+Note that this activity simplifies what banks actually do to calculate interest rates. Financial institutions commonly calculate interest rates based on the number of days in the month or the year. The monthly interest rate for February, for instance, will be lower than that for March.
+"""
+### Launch
+"""
+Give students a brief overview of savings accounts. Explain that when we deposit money in a savings account, we are allowing the bank to hold on to the money (and potentially to use it to generate more revenue for the bank). In exchange, the bank pays us “interest”—that is, a certain percentage of the money—at a regular interval. The more money we put in the account, the more interest we earn. The interest calculation here works the same way as that for loans and credit cards, except that, in this case, higher interest rates and more-frequent interest calculations work in our favor, instead of against us.
+Select students with different strategies, such as those described in the Activity Narrative, and ask them to share later.
+"""
+### Student Task Statement
+"""
+A bank account has a monthly interest rate of 1% and initial balance of \$1,000. Any earned interest is added to the account, and no other deposits or withdrawals are made.
+What is the account balance after 6 months, 1 year, 2 years, and 5 years? Show your reasoning.
+Write an equation expressing the account balance, \(a\), in terms of the number of months, \(m\). Assume that all interest earned continues to be added to the account and that no other deposits or withdrawals are made.
+How much interest will the account earn in 1 year? What percentage of the initial balance is that? Show your reasoning.
+The term annual return refers to the percent of interest an account holder could expect to receive in one year. Discuss with your partner: If you were the bank, would you advertise the account as having a 12% annual return? Why or why not? Use your work so far to explain your reasoning.
+"""
+### Building on Student Thinking
+"""
+Students may miss that the interest is applied monthly rather than annually. Help them read the question carefully, note this difference, and adjust the units to months for the appropriate questions.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Ask previously selected students to share their strategies for the first question. Sequence the discussion of the strategies by the order listed in the activity narrative. If possible, record and display their work for all to see.
+Connect the different responses to the learning goals by asking questions such as:
+“How can you see the 1% interest in each strategy?” (It is included with the 100% from the initial balance to form the 1.01 used in the calculations.)
+“Which strategy is more efficient for finding long amounts of time such as 5 years?” (Writing the expression makes it easier to jump straight to the solution as opposed to repeatedly multiplying by 1.01 either with a calculator or in a spreadsheet.)
+Ask, “After 1 year, the account will have increased by 12.7% instead of 12%. Where do you think the additional 0.7% is coming from?” (There is interest on the interest each month, which accounts for a little bit of extra interest overall.)
+Make sure that students understand that twelve successive increases of 1% yield a balance that is more than a single 12% increase. If there is time, invite groups to share which annual interest rate they would advertise if they were the bank.
+Conclude by explaining that banking institutions call the two different interest rates different names. The 12% is called the nominal rate and the 12.7% the effective rate. The latter reflects the actual interest amount earned over a year, taking into account the monthly interest payment. This process of generating new earnings from previous earnings is called compounding. (In the context of loans, compounding refers to the generation of new debt from previous debts.)
+As in the previous activity, the difference between the one-year interest calculated using the nominal rate versus the actual rate is not large. The differences become more and more pronounced, however, as time goes on.
+"""
+# Lesson Close
+## Lesson Synthesis
+"""
+In this lesson, we compared the results of applying a percent increase, \(p\), two successive times versus applying twice the percent, \(2p\), one time. Give students the following example:
+Two years ago, a pound of snow crab was priced at \$25 at both Store A and Store B. Last year, Store A increased the price by 20%. This year, it increased the price by 20% again. Store B did not increase the price at all last year, but increased its price by 40% this year.
+Discuss questions such as:
+“Are the current snow crab prices at the two stores equal? Why or why not?” (No, because at Store A the second 20% increase is applied to both the original price as well as the price increase from the year before.)
+“Write an expression to represent the current price at each store. Which parts of the expressions are the same? Which parts are different?” (Store A: \(25 \boldcdot (1.2)^2\). Store B: \(25 \boldcdot 1.4\). Both include the original \$25 price, but the way the increase is calculated is different.)
+“In which of the two pricing situations do we see compounding? What does it mean?” (At Store A the increase is compounding because the second time the increase is applied it accounts for the original price as well as the price increase from the first year.)
+“Which option would result in more interest earned on a balance in a bank account: 1% interest calculated monthly or 6% calculated every six months? (Assume no money is added or removed from the account and the balance is left in the account for 6 months.) Why?” (The account that is calculated monthly would result in more interest earned because each month the increase is applied to the original deposit as well as the interest from the previous months. The account with 6 month interest only has the interest applied to the original amount after 6 months.)
+"""
+## Student Lesson Summary
+"""
+Suppose a runner runs 4 miles a day this month. She is increasing her daily running distance by 25% next month, and then by 25% of that the month after. Will she be running 50% more than her current daily distance two months from now?
+It is tempting to think that two months from now she will be running 6 miles, because twice 25% is 50%, and 50% more than her current daily distance is \(4 \boldcdot (1.5)\). But if we calculate the increase one month at a time, we can see that next month she will run \(4 \boldcdot (1.25)\) or 5 miles. The month after that she will run \(5 \boldcdot (1.25)\) or 6.25 miles.
+So two months from now her daily distance will actually be: \(\displaystyle 4 \boldcdot (1.25)^2\). Two repeated 25% increases actually lead to an overall increase of 56.25% rather than of 50%, because \(1.25^2=1.5625\). Applying a percent increase on an amount that has had a prior percent increase is called compounding.
+Compounding happens when we calculate interest on money in a bank account or on a loan. An account that earns 2% interest every month does not actually earn 24% a year because the interest applies not only to the original amount, but also to any interest already included earlier. Let's say a savings account has \$300 and no other deposits or withdrawals are made. The account balances after some months are shown in this table.
+number of months | account balance in dollars
+1 | \(300 \boldcdot (1.02)\)
+2 | \(300 \boldcdot (1.02)^2\)
+3 | \(300 \boldcdot (1.02)^3\)
+12 | \(300 \boldcdot (1.02)^{12}\)
+\((1.02)^{12} \approx 1.2682\), so the account will grow by about 26.82% in one year. This rate is called the effective interest rate. It reflects how the account balance actually changes after one year.
+The 24% is called the nominal interest rate. It is the stated or published rate and is usually used to determine the monthly, weekly, or daily rates (if interest were to be calculated at those intervals).
+"""

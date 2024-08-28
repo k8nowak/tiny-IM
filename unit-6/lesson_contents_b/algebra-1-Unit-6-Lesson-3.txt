@@ -1,0 +1,247 @@
+
+# Lesson Location
+## Unit Number
+6
+## Unit Name
+Introduction to Exponential Functions
+## Lesson Number 
+3
+## Lesson Title
+Representing Exponential Growth
+# Lesson Timing
+## Total Activity Time in Minutes 
+45
+## Total Lesson Time incl Lesson Synthesis
+55 
+
+
+
+# Lesson Preamble
+## Lesson Narrative
+"""
+In this lesson, students study a situation characterized by exponential change and learn the term growth factor. They represent this relationship using a table, an expression, and a graph. They also explain the meaning of the numbers \(a\) and \(b\) in an exponential expression \(a \boldcdot b^x\), identifying their meaning in terms of a context (\(a\) is the initial amount, and \(b\) is the multiplier or growth factor) and also in terms of a graph (where \(a\) is the vertical intercept, and \(b\) determines how quickly the graph increases). Students interpret the different representations of growth in terms of a bacteria population (MP2).
+There is an optional activity intended to remind students of the convention that \(a^0 = 1\) for a non-zero number \(a\).
+Technology isn't required for this lesson, but there are opportunities for students to choose to use appropriate technology to solve problems. We recommend making technology available.
+"""
+## Learning Goals
+Explain (in writing) how to see $a$ and $b$ on the graph of an equation of the form $y=a \boldcdot b^x$.
+Interpret $a$ and $b$ given equations of the form $y=a \boldcdot b^x$ and a context of exponential growth.
+Write an equation of the form $y=a\boldcdot b^x$ to represent a quantity $a$ that changes by a growth factor $b$.
+## Student-Facing Goal
+Let’s explore exponential growth.
+## Student-Facing Targets
+I can explain the connections between an equation and a graph that represents exponential growth.
+I can write and interpret an equation that represents exponential growth.
+## Required Preparation
+None
+## Standards Alignment
+### Building On
+8.EE.A.1
+### Addressing
+HSA-CED.A.2
+HSF-BF.A.1.a
+HSF-LE.B.5
+### Building Toward
+HSF-IF.C.7
+## Glossary
+### growth factor
+In an exponential function, the output is multiplied by the same factor every time the input increases by 1. This multiplier is called the growth factor.
+
+
+
+# Lesson Content
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Math Talk: Exponent Rules
+### Activity Narrative
+"""
+This Math Talk focuses on properties of exponents. It encourages students to think about how to multiply and divide numbers in exponential notation when the bases are the same and to rely on the structure of the notation to mentally solve problems. The understanding elicited here will be helpful later in the lesson when students work with exponential growth.
+"""
+### Launch
+"""
+Before starting the math talk, it may be helpful to take time to ensure that students understand the question. Ask students for examples and non-examples of a power of 2. Some examples are \(2^5\) and \(2^{100}\). Non-examples include \(100^2\) and \(5\boldcdot 2\). It may be useful to further remind students that, for example, \(2^5\) equals \(2 \boldcdot2 \boldcdot2 \boldcdot2 \boldcdot2\).
+Tell students to close their books or devices (or to keep them closed). Reveal one problem at a time. For each problem:
+Give students quiet think time, and ask them to give a signal when they have an answer and a strategy.
+Invite students to share their strategies, and record and display their responses for all to see.
+Use the questions in the Activity Synthesis to involve more students in the conversation before moving to the next problem.
+Keep all previous problems and work displayed throughout the talk.
+"""
+### Student Task Statement
+"""
+Rewrite each expression as a power of 2.
+\(2^3 \boldcdot 2^4\)
+\(2^5 \boldcdot 2\)
+\(2^{10} \div 2^7\)
+\(2^9 \div 2\)
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+To involve more students in the conversation, consider asking:
+“Who can restate \(\underline{\hspace{.5in}}\)’s reasoning in a different way?”
+“Did anyone use the same strategy but would explain it differently?”
+“Did anyone solve the problem in a different way?”
+“Does anyone want to add on to \(\underline{\hspace{.5in}}\)’s strategy?”
+“Do you agree or disagree? Why?”
+“What connections to previous problems do you see?”
+Remind students that exponents can be added when multiplying exponential expressions with the same base and subtracted when dividing those with the same base.
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+What Does $x^0$ Mean?
+### Activity Narrative
+"""
+This task reviews an important property of exponents, which students have studied in grade 8, namely that if \(b\) is a non-zero number, then \(b^0 = 1\). This is a convention, one that allows the rule \(b^x \boldcdot b^y = b^{x+y}\) to remain true when \(x\) or \(y\) is allowed to be 0. An additional convention, which is not addressed in this task, states that \(b^{\text-n} = \frac{1}{b^n}\) for a whole number \(n\). With these conventions, the equation \(b^x \boldcdot b^y = b^{x+y}\) is true for all integers \(x\) and \(y\).
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+Complete the table. Take advantage of any patterns you notice.	\(x\)43210\(3^x\)8127
+\(x\) | \(3^x\)
+4 | 3 | 2 | 1 | 0
+81 | 27 |  |  | 
+Here are some equations. Find the solution to each equation using what you know about exponent rules. Be prepared to explain your reasoning.\(9^?\boldcdot 9^7 = 9^7\)\(\dfrac {9^{12}}{9^?}= 9^{12}\)
+Here are some equations. Find the solution to each equation using what you know about exponent rules. Be prepared to explain your reasoning.
+\(9^?\boldcdot 9^7 = 9^7\)
+\(\dfrac {9^{12}}{9^?}= 9^{12}\)
+What is the value of \(5^0\)? What about \(2^0\)?
+"""
+### Building on Student Thinking
+"""
+Students may think that \(a^0=0\). First, remind them that exponents are not the same as multiplication (for example \(4^3= 4\boldcdot 4\boldcdot 4\), and \(4 \boldcdot 4 \boldcdot 4\) is very different from \(4 \boldcdot 3\)). Next, ask them to use the patterns that they notice in the equations and tables to determine the correct value.
+"""
+### Are You Ready for More?
+"""
+We know, for example, that \((2+3)+5=2+(3+5)\) and \(2\boldcdot (3\boldcdot 5)=(2\boldcdot 3)\boldcdot 5\). The grouping with parentheses does not affect the value of the expression.
+Is this true for exponents? That is, are the numbers \(2^{(3^5)}\) and \((2^3)^5\) equal? If not, which is bigger? Which of the two would you choose as the meaning of the expression \(2^{3^5}\) written without parentheses?
+"""
+### Activity Synthesis
+Make sure students understand that \(5^0 = 1\) is an agreed-upon definition. The reason for defining \(5^0\) this way is so that the property (\(5^a \boldcdot 5^b = 5^{a+b}\)) continues to hold when we allow 0 as an exponent.
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+Multiplying Microbes
+### Activity Narrative
+"""
+This activity prompts students to build expressions of the form \(a \boldcdot b^x\) to encapsulate a type of pattern they have encountered several times so far, and to consider what \(a\) and \(b\) mean in the context of bacteria growth. They do so by writing numerical expressions that make explicit the key feature of exponential change, the repeated multiplication by the same factor, and then making a generalization of their repeated reasoning (MP8) using exponential notation. Since students are finally representing this pattern using an exponent, a quantity following this type of pattern is described as changing exponentially. The term growth factor is given to the multiplier or \(b\) in an expression of the form \(a \boldcdot b^x\).
+"""
+### Launch
+"""
+Display the problem stem from the first question for all to see. Ask students what happens to the population of the bacteria when they split. (The number of bacteria doubles.) If necessary, draw a picture of 2 bacteria labeled “at hour 0” and 4 bacteria labeled “hour 1” to represent the population growth.
+Clarify that it is not necessary to compute the number of bacteria at the end of each hour. Students may write an expression. If needed, provide an example (for example, the expression for the first day could be \(500 \boldcdot 2\) rather than 1000).
+Use Collect and Display to create a shared reference that captures students’ developing mathematical language. Collect the language that students use to describe the population growth. Display words and phrases such as “multiplier,” “exponentially,” and “doubling.”
+"""
+### Student Task Statement
+"""
+In a biology lab, 500 bacteria reproduce by splitting. Every hour, on the hour, each bacterium splits into two bacteria.Write an expression to show how to find the number of bacteria after each hour listed in the table.Write an equation relating \(n\), the number of bacteria, to \(t\), the number of hours.Use your equation to find \(n\) when \(t\) is 0. What does this value of \(n\) mean in this situation?When the values of one variable are multiplied by the same value each time the other variable increases by 1, that multiplier is called the growth factor. What is the growth factor in this situation?hournumber of bacteria05001236t
+In a biology lab, 500 bacteria reproduce by splitting. Every hour, on the hour, each bacterium splits into two bacteria.
+Write an expression to show how to find the number of bacteria after each hour listed in the table.
+Write an equation relating \(n\), the number of bacteria, to \(t\), the number of hours.
+Use your equation to find \(n\) when \(t\) is 0. What does this value of \(n\) mean in this situation?
+When the values of one variable are multiplied by the same value each time the other variable increases by 1, that multiplier is called the growth factor. What is the growth factor in this situation?
+hour | number of bacteria
+0 | 500
+1 | 
+2 | 
+3 | 
+6 | 
+t | 
+In a different biology lab, a population of single-cell parasites also reproduces hourly. An equation that gives the number of parasites, \(p\), after \(t\) hours is \(p = 100 \boldcdot 3^t.\) Explain what the numbers 100 and 3 mean in this situation.
+"""
+### Building on Student Thinking
+"""
+For the first question, some students may write either \(2 \boldcdot 500\) or \(500+500\) for the number of bacteria after one hour. Both are mathematically correct, but \(2 \boldcdot 500\) is more helpful for identifying a pattern, which will help generate an expression for the number of bacteria after \(t\) hours. If they struggle to complete the table, refocus their attention on the second row of the table and ask them if there is a different expression they could use for the number of bacteria after one hour.
+Students may misread the directions and write the actual values in the table rather than expressions. Ask them to record the expression they used to determine the value in the table rather than the value itself.
+Students may write something like \(500 \boldcdot 2 \boldcdot 2\boldcdot \text{. . .} \boldcdot 2\) with a note about there being \(t\) 2s. Encourage them to think how they might be able to write this expression more concisely.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Direct students’ attention to the reference created using Collect and Display. Ask students to share how they found the first expression. Invite students to borrow language from the display as needed and update the reference to include additional phrases as they respond.
+Invite students to share the expressions in their table and their generalized expression for the number of bacteria after \(t\) hours. Make connections between, for example, \(500 \boldcdot 2 \boldcdot 2 \boldcdot 2 \boldcdot 2 \boldcdot 2\), the more concise expression \(500 \boldcdot 2^5\), and the more general expression representing any number of hours \(500 \boldcdot 2^t\). Highlight that 500 is not only the initial number of bacteria, but the result of evaluating \(500 \boldcdot 2^0\).
+Tell students that in patterns like these, where a quantity is repeatedly multiplied by the same factor, the quantity is often described as changing exponentially. We can see why: An exponent is used to express the relationship.
+Questions for discussion:
+“Is the growth of the bacteria characterized by common differences or common factors? How do you know?” (Common factors, since each time that the hour increases by 1, the number of bacteria is multiplied by the same factor.)
+“In each row in the table, what does the value of 500 mean? Why doesn't it change?” (It is the initial bacteria population when they are first measured.)
+“What does \(2^0\) mean in this situation?” (\(2^0\) tells us no doubling has happened, so the original population of 500 is all we have.)
+“What do the 100 and 3 mean in the expression \(100 \boldcdot 3^t\)?” (100 is the initial population of the parasites when they are first measured, and the number 3 is the growth factor—the number by which the population is multiplied each hour.)
+“If the starting parasite population is 80 but the population quadruples every hour, how will the expression change?” (It will be \(80 \boldcdot 4^t\).)
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Graphing the Microbes
+### Activity Narrative
+"""
+Having just seen an example of the meaning of \(a\) and \(b\) in an exponential expression \(a \boldcdot b^x\), students now focus on interpreting these numbers using graphs. They graph the equations from the previous task, noticing that \(a\) is the vertical intercept of the graph, while the number \(b\) determines how quickly the graph grows (since in these cases \(b>1\)). A larger value of \(b\) corresponds to a more rapid rate of growth for the bacteria population. The axes for the graphs have been labeled here, but in future activities, students will have to think strategically about how to label the axes to most effectively plot the points.
+Making graphing technology available gives students an opportunity to choose appropriate tools strategically (MP5).
+"""
+### Launch
+"""
+Display the equations \(n = 500 \boldcdot 2^t\) and \(p = 100 \boldcdot 3^t\) from the previous activity for all to see.
+"""
+### Student Task Statement
+"""
+Refer back to your work in the table of the previous task. Use that information and the given coordinate planes to graph the following:a. Graph \((t,n)\) when \(t\) is 0, 1, 2, 3, and 4. 	 b. Graph \((t,p)\) when \(t\) is 0, 1, 2, 3, and 4. (If you get stuck, you can create a table.)
+Refer back to your work in the table of the previous task. Use that information and the given coordinate planes to graph the following:
+a. Graph \((t,n)\) when \(t\) is 0, 1, 2, 3, and 4.
+Image description: <p>Blank coordinate plane, origin O, with grid. Horizontal axis, labeled t, from 0 to 4, by 1’s. Vertical axis, labeled n, from 0 to 9,000, by 1,000’s.</p>
+b. Graph \((t,p)\) when \(t\) is 0, 1, 2, 3, and 4. (If you get stuck, you can create a table.)
+Image description: <p>Blank coordinate plane, origin O, with grid. Horizontal axis, labeled t, from 0 to 4, by 1’s. Vertical axis, labeled p, from 0 to 9,000, by 1,000’s.</p>
+On the graph of \(n\), where can you see each number that appears in the equation?
+On the graph of \(p\), where can you see each number that appears in the equation?
+"""
+### Building on Student Thinking
+"""
+Students may have trouble graphing the points, particularly finding the appropriate vertical (\(n\) or \(p\)) values. Ask them to find the coordinates of the grid points on the vertical axis and use that to estimate the vertical position of their points.
+When calculating values by hand, many students may mistakenly write an expression like \(100 \boldcdot 3^2\) as \(300^2\). Remind them that the expression \(100 \boldcdot 3^2\) means \(100 \boldcdot 3 \boldcdot 3\).
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Make sure that students recognize two key takeaways from this activity:
+The vertical intercept of the graph is the initial bacteria population size. It is the size of the population when first measured, or when \(t\), the number of hours since measurement, is 0.
+The growth factor of the populations is represented by how quickly the graph increases.
+# Lesson Close
+## Lesson Synthesis
+"""
+In this lesson we learned the term growth factor and used equations and graphs to represent situations with quantities that change exponentially. Ask students to identify the connections between the quantities in a situation, and the graph and expressions that represent it. Use an example from a classroom activity or a new example like this:
+\(1000 \boldcdot 2^t\) represents a fish population after \(t\) years. Here is the graph of the yearly fish population. Display for all to see, and ask students where they can see the 1000 and the 2 in the graph.
+Image description: <p>A discrete graph. Number of fish. Time in years.</p>
+Ask students:
+What was the fish population when the scientists first measured it? (1000)
+How can you tell from the graph? (It is the vertical intercept, the number of fish when \(t = 0\).)
+How is the fish population changing from year to year? (It's doubling.)
+How does the expression \(1000 \boldcdot 2^t\) represent the fish population after \(t\) years? (The 1000 is the starting population. Every year it doubles, so we multiply 1000 by 2, \(t\) times.)
+"""
+## Student Lesson Summary
+"""
+In relationships where the change is exponential, a quantity is repeatedly multiplied by the same amount. The multiplier is called the growth factor.
+Suppose a population of cells starts at 500 and triples every day. The number of cells each day can be calculated as follows:
+number of days | number of cells
+0 | 500
+1 | 1,500 (or \(500 \boldcdot 3\))
+2 | 4,500 (or \(500 \boldcdot 3\boldcdot 3\), or \(500 \boldcdot 3^2\))
+3 | 13,500 (or \(500 \boldcdot 3\boldcdot 3 \boldcdot 3\), or \(500 \boldcdot 3^3\))
+\(d\) | \(500 \boldcdot 3^d\)
+We can see that the number of cells (\(p\)) is changing exponentially, and that \(p\) can be found by multiplying 500 by 3 as many times as the number of days (\(d\)) since the 500 cells were observed. The growth factor is 3. To model this situation, we can write this equation: \(\displaystyle p = 500 \boldcdot 3^d\).
+The equation can be used to find the population on any day, including day 0, when the population was first measured. On day 0, the population is \(500 \boldcdot 3^0\). Since \(3^0 = 1\), this is \(500 \boldcdot 1\) or 500.
+Here is a graph of the daily cell population. The point \((0,500)\) on the graph means that on day 0, the population starts at 500.
+Graph of an exponential function, origin O. Horizontal axis, number days, scale 0 to 4, by 1’s Vertical axis, cell population, scale 0 to 20,000, by 5,000’s. The function is discrete and has these points: (0 comma 500), (1 comma 1,500), (2 comma 4,500) and (3 comma 13,500).
+Image description: <p>Graph of an exponential function, origin O.  number of days and cell population.</p>
+Each point is 3 times higher on the graph than the previous point. \((1,1500)\) is 3 times higher than \((0,500)\), and \((2,4500)\) is 3 times higher than \((1,1500)\).
+
+
+"""

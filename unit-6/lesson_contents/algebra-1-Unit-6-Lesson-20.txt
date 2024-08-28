@@ -1,0 +1,247 @@
+
+# Lesson Location
+## Unit Number
+6
+## Unit Name
+Introduction to Exponential Functions
+## Lesson Number 
+20
+## Lesson Title
+Changes over Equal Intervals
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+
+
+
+Lesson Preamble
+CC BY-NC 4.0
+Preparation
+Lesson
+# Changes over Equal Intervals
+## Preparation
+## Lesson Narrative
+In this lesson, students work to show that linear functions change by equal differences over equal intervals, while exponential functions grow by equal factors over equal intervals. When the interval length is 1, the equal difference is the slope of a linear function. When the interval length is more than 1, the difference is the length of the interval times the slope. For an exponential function \(f\) given by \(f(x) = a \boldcdot b^x\), when the interval length is 1, the factor of growth is \(b\). If the interval length is a whole number \(n\), then the factor of growth is \(b^n\).
+In order to justify why linear functions change by equal differences over equal intervals and exponential functions change by equal factors over equal intervals, students observe this structure repeatedly for specific numbers and then generalize this reasoning to apply to all intervals (MP8). Along the way, they need to recognize and use properties of exponents, which is an example of noticing and making use of structure (MP7).
+## Learning Goals
+Use rates of change, and show that, for any equal intervals of the independent variable, an exponential function always increases or decreases by an equal factor.
+Calculate rates of change of functions given graphs, equations, or tables.
+Use rates of change to show that, for any equal intervals of the independent variable, a linear function always changes by an equal difference.
+### Student-Facing Goal
+Let's explore how linear and exponential functions change over equal intervals.
+### Student-Facing Targets
+I can calculate rates of change of functions given graphs, equations, or tables.
+I can use rates of change to describe how a linear function and an exponential function change over equal intervals.
+View Student Lesson
+## Required Preparation
+None
+### Standards Alignment
+#### Building On
+7.EE.A
+8.EE.A.1
+#### Addressing
+HSF-LE.A.1.a
+HSF-LE.A.1.b
+HSF-LE.A.2
+#### Building Toward
+## Glossary
+Practice
+### Other Resources
+View Student Lesson
+## Teacher Support
+## Student Handouts
+
+
+
+Lesson Content
+Preparation
+Lesson
+## Lesson 20
+View Student Lesson
+# Changes over Equal Intervals
+Image description: Course Icon
+5 mins
+## Warm-up
+### Writing Equivalent Expressions
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+This Warm-up allows students to practice writing equivalent expressions. It prepares students to use this skill as they work with complex expressions arising from linear and exponential functions in this lesson.
+### Launch
+### Activity
+### Student Task Statement
+For each given expression, write an equivalent expression with as few terms as possible.
+\(7p -3+ 2(p +1)\)
+\([4(n+1)+10] - 4(n+1)\)
+\(9^5 \boldcdot 9^2\boldcdot 9^x\)
+\(\frac {2^{4n}}{2^n}\)
+### Student Response
+### Building on Student Thinking
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Invite students to share how they manipulated the expressions. If not already mentioned in students' explanations, bring up how arithmetic properties of operations (distributive, commutative) and properties of exponents come into play in writing equivalent expressions.
+10 mins
+## Activity
+### Outputs of a Linear Function
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+In grade 8, students learned that a linear function has a constant rate of change. Each time the input increases by 1, the output changes by a particular amount, and this amount is called the rate of change of the function. In this activity, students revisit and extend their understanding of this structure. If \(f\) is a linear function, then whenever the input, \(x\), increases by 2, the output always changes by the same amount. The same is true if 2 is replaced by any non-zero quantity. When the input, \(x\), changes by the same quantity, the output \(f(x)\) also changes by the same quantity.
+This idea is connected to the fact that a line representing the linear function has a well-defined slope. Look for students who draw slope triangles in order to calculate the differences in \(x\) and \(y\), and invite them to share during the discussion.
+### Launch
+Tell students that they will now revisit a linear function in order to describe its behavior more generally and clearly. Later, they will compare and contrast this behavior with that of an exponential function.
+Arrange students in groups of 2. Give partners a moment to discuss the first question. Consider asking partners to use different pairs of consecutive values when checking how \(f(x)\) changes when \(x\) increases by 1 (for example, one partner uses 1 and 2 for the values of \(x\), and the other partner uses 19 and 20).
+Use Critique, Correct, Clarify to give students an opportunity to improve a sample written response for generalizing how a linear function changes whenever \(x\) increases by 1, by correcting errors, clarifying meaning, and adding details.
+Display this first draft:	“We checked what happens when \(x\) is 1 and 2, 19 and 20. Because the values increased the same both times, it must always do that.”	Ask, “What parts of this response are unclear, incorrect, or incomplete?” As students respond, annotate the display with 2–3 ideas to indicate the parts of the writing that could use improvement.
+Give students 2–4 minutes to work with a partner to revise the first draft.
+Display and review these criteria: 	Checking at specific pairs is not enough to make a general statement about something always happening. To prove that a claim must be true for all values, use a variable.For a general statement, it must be true for all pairs of numbers that are 1 apart.Be specific when stating a claim. If possible, avoid words like “it” or “that.”
+Checking at specific pairs is not enough to make a general statement about something always happening. To prove that a claim must be true for all values, use a variable.
+For a general statement, it must be true for all pairs of numbers that are 1 apart.
+Be specific when stating a claim. If possible, avoid words like “it” or “that.”
+Select 1–2 individuals or groups to read their revised draft aloud slowly enough to record for all to see. Scribe as each student shares, then invite the whole class to contribute additional language and edits to make the final draft even more clear and more convincing.
+Before beginning the additional questions, ask students how to find \(f(x+1)\). If necessary, remind students that \(f(2)\) means to substitute 2 for \(x\), so similarly \(f(x+1)\) means to substitute \((x+1)\) for \(x\). Then point out that, in this example, \(f(x+1) = 2(x+1)+5\) is used in the first part of the expression for the question.
+### Activity
+### Student Task Statement
+Here is a graph of \(y =f(x)\), where \(f(x) = 2x + 5\).
+Graph of an increasing linear function, x y plane, origin O. Horizontal axis, scale 0 to 10, by 5’s. Vertical axis, scale 0 to 15, by 20’s. The function starts at (0 comma 3) and goes through (1 comma 7) , ( 2 comma 9), (3 comma 11), (4 comma 13) and (5 comma 15).
+Image description: <p>Graph of an increasing linear function, x y plane, origin O.</p>
+How do the values of \(f\) change whenever \(x\) increases by 1, for instance, when it increases from 1 to 2, or from 19 to 20? Be prepared to explain or show how you know.
+Here is an expression we can use to find the difference in the values of \(f\) when the input changes from \(x\) to \(x+1\).\(\displaystyle  [2(x+1) +5] - [2x+5]\)Does this expression have the same value as what you found in the previous questions? Show your reasoning.
+Here is an expression we can use to find the difference in the values of \(f\) when the input changes from \(x\) to \(x+1\).
+\(\displaystyle  [2(x+1) +5] - [2x+5]\)
+Does this expression have the same value as what you found in the previous questions? Show your reasoning.
+How do the values of \(f\) change whenever \(x\) increases by 4? Explain or show how you know.Write an expression that shows the change in the values of \(f\) when the input value changes from \(x\) to \(x+4\).Show or explain how that expression has a value of 8.
+How do the values of \(f\) change whenever \(x\) increases by 4? Explain or show how you know.
+Write an expression that shows the change in the values of \(f\) when the input value changes from \(x\) to \(x+4\).
+Show or explain how that expression has a value of 8.
+### Student Response
+### Building on Student Thinking
+If students seem to have trouble making sense of how the expression \([2(x+1) +5] - [2x+5]\) represents the change in \(f(x)\) when \(x\) increases by 1, or how the expression has a value of 2, consider asking them to reason about the expression as if \(x\) and \(x+1\) were numerical expressions (say, 3 and \(3+1\)).
+Students may have trouble with the first part of the last question (about how the values of \(f\) change whenever \(x\) increases by 4). Ask them to try several pairs of values (like 1 and 5, 3 and 7, and so on) to see if there is a pattern. Then prompt them to refer to how an increase of 1 was expressed algebraically and rearranged in an earlier question.
+Watch for students who overlook the fact that the change in the value of \(x\) must be 1 if the change in the value of \(y\) is the same as the slope.
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Invite students to share their responses to the last two questions. Relate the algebraic work done in this activity to what students have learned about slope and similar triangles in grade 8. Discuss questions such as:
+"Can you find an example where the output of \(f\) does not increase by 2 when \(x\) goes up by 1? Explain your reasoning?" (No. The graph of \(f\), a line, has a particular slope, an amount by which the output value changes when \(x\) changes by 1. So any two points on the line whose \(x\)-values are 1 unit apart will have \(y\)-values that differ by the value of the slope.)
+"Can you find an example where the input \(x\) increases by 4, but the output \(f(x)\) does not increase by 8? Explain your reasoning." (No. If increasing the input by 1 always changes the output by 2, then increasing by 1 four times always changes the output by 4 times the slope, or \(4 \boldcdot 2\). Consider showing a graph.)
+"How does the expression \([2(x+4)+5]- [2x + 5]\) show that when \(x\) changes by 4, the output changes by 8?" (The \(2(x+4)+5\) is the output of \(f\) for \(x+4\). The \(2x+5\) is the output of \(f\) for \(x\). Subtracting the two gives us: \(2x + 8 + 5 - 2x - 5\), which is 8.)
+Image description: <p>Graph.<br>
+ </p>
+Emphasize that in any linear function, when \(x\) increases by an equal amount, the output also changes by an equal amount.
+To further highlight that this observation is true for any linear function, and if time permits, consider showing a diagram of an abstract case of a linear function with slope \(s\).
+When the input changes by \(a\), the output changes by \(a \boldcdot s\). (The triangles drawn are similar triangles, so the ratios of their corresponding sides are equivalent.)
+Image description: <p>Graph.<br>
+ </p>
+20 mins
+## Activity
+### Outputs of an Exponential Function
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+This activity complements the previous one. Students first examine what happens to the values of an exponential function, \(f\), when the input is increased by 1. If \(f\) is an exponential function defined by \(f(x) = a \boldcdot b^x\), then its value changes by a factor of \(b\). Similarly, if the input is increased by 7, then the function value increases by a factor of \(b^7\). More generally, an exponential function always changes by equal factors over equal intervals.
+Students may have little trouble recognizing how the output values change when dealing with numerical input values, but may find it challenging to generalize their observations. Focus the discussion on this transition and on using properties of exponents to extend their observations toward generalized cases.
+### Launch
+When students pause their work, invite students to make a conjecture about what happens when the input is increased by 1. (The value is tripled.)
+Remind students that we can check this by looking for a constant factor for all pairs of output values that have input values which are 1 apart. In this case, we can check \(\frac{g(x+1)}{g(x)}\). Invite students to explain how this is equal to 3 for this situation.
+### Activity
+### Student Task Statement
+Here is a table that shows some input and output values of an exponential function \(g\). The equation \(g(x) = 3^x\) defines the function.
+\(x\) | \(g(x)\)
+3 | 27
+4 | 81
+5 | 243
+6 | 729
+7 | 2,187
+8 | 6,561
+ | 
+ | 
+\(x\) | 
+\(x+1\) | 
+How does \(g(x)\) change every time \(x\) increases by 1? Show or explain your reasoning.
+Choose two new input values that are consecutive whole numbers and find their output values. Record them in the table. How do the output values change for those two input values?
+Complete the table with the output when the input is \(x\) and when it is \(x+1\).
+Look at the change in output values as the \(x\) increases by 1. Does it still agree with your findings earlier? Show your reasoning.Pause here for a class discussion. Then work with your group on the next few questions.
+Look at the change in output values as the \(x\) increases by 1. Does it still agree with your findings earlier? Show your reasoning.
+Pause here for a class discussion. Then work with your group on the next few questions.
+Choose two \(x\)-values where one is 3 more than the other (for example, 1 and 4). How do the output values of \(g\) change as \(x\) increases by 3? (Each group member should choose a different pair of numbers and study the outputs.)
+Complete this table with the output when the input is \(x\) and when it is \(x+3\). Look at the change in output values as \(x\) increases by 3. Does it agree with your group's findings in the previous question? Show your reasoning.\(x\)\(g(x)\)\(x\)\(x+3\)
+Complete this table with the output when the input is \(x\) and when it is \(x+3\). Look at the change in output values as \(x\) increases by 3. Does it agree with your group's findings in the previous question? Show your reasoning.
+\(x\) | \(g(x)\)
+\(x\) | 
+\(x+3\) | 
+### Student Response
+### Building on Student Thinking
+After the previous activity on linear relationships, students may initially look for something similar here. They should notice that the differences in consecutive rows of the table are not the same. Encourage them to look for other patterns.
+### Are You Ready for More?
+For integer inputs, we can think of multiplication as repeated addition and exponentiation as repeated multiplication:
+\(\displaystyle 3\cdot 5=3+3+3+3+3\qquad\qquad\text{ and }\qquad\qquad 3^5=3\cdot 3\cdot 3\cdot 3\cdot 3\)
+We could continue this process with a new operation called tetration. It uses the symbol \(\uparrow\uparrow\), and is defined as repeated exponentiation:
+\(\displaystyle 3\uparrow\uparrow5 = 3^{3^{3^{3^3}}}.\)
+Compute \(2\uparrow\uparrow 3\) and \(3\uparrow\uparrow 2\). If \(f(x)=3\uparrow\uparrow x\), what is the relationship between \(f(x)\) and \(f(x+1)\)?
+#### Student response
+### Activity Synthesis
+Invite students to share what they noticed about values of \(g\) for consecutive whole numbers. If not mentioned by students, point out the pattern that as the \(x\)-value increases by 1, the output changes by a factor of 3. For example: \(g(5)\) is 3 times \(g(4)\), \(g(8)\) is 3 times \(g(7)\), and so on.
+Discuss questions such as:
+"What do we have when dividing the outputs for two consecutive \(x\)-values, such as \(\frac{g(5)}{g(4)}\) or \(\frac{g(8)}{g(7)}\)?" (A quotient of 3)
+"How are the two outputs \(g(x+1)\) and \(g(x)\) related?" (\(g(x+1)\) is \(g(x)\) times 3, or when we divide \(g(x+1)\) by \(g(x)\), the quotient is 3.)
+"How can we use the rules of exponents to show that this is always the case?" (\(g(x) = 3^x\), so \(g(x+1) = 3^{x+1}\). When dividing two powers with the same bases, we can subtract the exponents. Dividing the two, we have \(\frac{3^{x+1}}{3^x}\), which is 3.)
+"Does this reasoning work if the function has a different initial value, say \(h\) given by \(h(x) = 5 \boldcdot 3^x\)?" (Yes,\(\frac{5\boldcdot 3^{x+1}}{5 \boldcdot 3^x}\) still equals 3.)
+"What happens to the output of \(g\) when \(x\) increases by 2?" (\(g(x)\) increases by a factor of 3 twice, or \(3^2\).) What about when it increases by 5? (\(g(x)\) increases by a factor of 3 five times.)
+"What happens to the output when \(x\) increases by \(a\)?" (\(g(x)\) increases by a factor of 3 \(a\) times, or \(3^a\). The rule of exponents can help us here as well. If we divide \(g(x+a)\) by \(g(x)\), we have: \(\frac{3^{x+a}}{3^x} = 3^a\).)
+Consider using a graph of \(g\) to help students visualize the growth of \(g\) over equal intervals of \(x\). The successive quotients of the outputs are always 3.
+Image description: <p>Graph.<br>
+ </p>
+## Lesson Synthesis
+Previously, we saw that an exponential function eventually overtakes a linear function. We can understand better why this is so by examining how these functions change when we change their input. Present these equations and tables for functions \(f\) and \(g\):
+\(f(x) = 3x + 2\)
+\(x\) | \(f(x)\)
+0 | 1 | 2 | 3 | 4 | 5 | 10 | 15
+2 | 5 | 8 | 11 | 14 | 17 | 32 | 47
+\(g(x) = 2 \boldcdot 3^x\)
+\(x\) | \(g(x)\)
+0 | 1 | 2 | 3 | 4 | 5 | 10 | 15
+2 | 6 | 18 | 54 | 162 | 486 | 118,098 | 28,697,814
+Ask students:
+"How does the function \(f\) change when \(x\) grows by 1? By 5? By 10?" (It grows by adding 3 times each of the values.)
+"How does the function \(g\) change when \(x\) grows by 1? By 5? By 10?” (It grows by multiplying by 3 raised to the power of each of the values.)
+Make sure students see that any time \(x\) increases by 2, \(f\) grows by \(3 \boldcdot 2\) (or 6), and \(g\) grows by a factor \(3^2\) (or 9). Any time \(x\) increases by 5, the value of \(f\) grows by \(3 \boldcdot 5\) (or 15), but the value of \(g\) grows by a factor of \(3^5\) (or 243).
+## Student Lesson Summary
+Linear and exponential functions each behave in a particular way every time their input value increases by the same amount.
+Take the linear function \(f\) defined by \(f(x) = 5x + 3\). The graph of this function has a slope of 5. That means that each time \(x\) increases by 1, \(f(x)\) increases by 5. For example, the points \((7,38)\) and \((8,43)\) are both on the graph. When \(x\) increases by 1 (from 7 to 8), \(y\) increases by 5 (because \(43-38=5\)). We can show algebraically that this is always true, regardless of what value \(x\) takes.
+Graph of an increasing linear function, x y plane, origin O. Horizontal axis, scale 0 to 10, by 5’s. Vertical axis, scale 0 to 60, by 20’s. The function starts at (0 comma 3) and goes through (7 comma 38) and (8 comma 43). A horizontal green dashed line over green 1 goes from (7 comma 38) for 1 unt, then up to (8 comma 43) with a green 5 next to it for 5 units.
+Image description: <p>Graph of an increasing linear function, x y plane, origin O.</p>
+The value of \(f\) when \(x\) increases by 1, or \(f(x+1)\), is \(5(x+1) +3\). Subtracting \(f(x+1)\) and \(f(x)\), we have:
+\(\displaystyle \begin {align} f(x+1) - f(x)=5(x+1) + 3 - (5x+3)\\ =5x + 5 +3 -5x-3\\ =5\end{align}\)
+This tells us that whenever \(x\) increases by 1, the difference in the output is always 5. In the lesson, we also saw that when \(x\) increases by an amount other than 1, the output always increases by the same amount if the function is linear.
+Now let's look at an exponential function \(g\) defined by \(g(x) = 2^x\). If we graph \(g\), we see that each time \(x\) increases by 1, the value \(g(x)\) doubles. We can show algebraically that this is always true, regardless of what value \(x\) takes.
+Graph of an increasing exponential function, x y plane, origin O. Horizontal axis, scale 0 to 10, by 5’s. Vertical axis, scale 0 to 60, by 20’s. The function starts at the vertical axis and goes through (3 comma 8), (4 comma 16) and (5 comma 32).
+Image description: <p>Graph of an increasing exponential function, x y plane, origin O. </p>
+The value of \(g\) when \(x\) increases by 1, or \(g(x+1)\), is \(2^{x+1}\). Dividing \(g(x+1)\) by \(g(x)\), we have:
+\(\displaystyle \begin {align} \frac{g(x+1)}{g(x)}=\frac{2^{(x+1)}}{2^x}\\ =2^{x+1-x}\\ =2^1\\ =2\\ \end{align}\)
+This means that whenever \(x\) increases by 1, the value of \(g\) always increases by a multiple of 2. In the lesson, we also saw that when \(x\) increases by an amount other than 1, the output always increases by the same factor if the function is exponential.
+A linear function always increases (or decreases) by the same amount over equal intervals. An exponential function increases (or decreases) by equal factors over equal intervals.
+Practice
+
+

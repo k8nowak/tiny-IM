@@ -1,0 +1,206 @@
+# Lesson Location
+## Unit Number
+4
+## Unit Name
+LinearInequalitiesAndSystems
+## Lesson Number 
+1
+## Lesson Title
+Representing Situations with Inequalities
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+# Lesson Preamble
+## Lesson Narrative
+"""
+In this lesson, students interpret, write, and find solutions to inequalities in one variable. The focus is on interpreting and writing inequalities that represent the constraints in various situations. As students consider key quantities in a situation, select variables to represent them, and decide whether multiple inequalities (and which ones) are needed, they engage in aspects of mathematical modeling (MP4).
+"""
+## Learning Goals
+Interpret and write inequalities that represent the constraints in a situation.
+## Student-Facing Goal
+Let’s use inequalities to represent constraints in situations.
+## Student-Facing Targets
+I can write inequalities that represent the constraints in a situation.
+## Required Preparation
+"""
+None
+"""
+## Standards Alignment
+### Building On
+6.EE.B.5
+7.EE.B.4
+### Addressing
+HSA-CED.A.3
+### Building Toward
+HSA-CED.A.3
+HSN-Q.A.2
+## Glossary
+# Lesson Content
+## Activity
+### Activity Timing
+5 mins
+### Activity Title
+What Do Those Symbols Mean?
+### Activity Narrative
+"""
+In this activity, students recall the meaning of inequality symbols (\(\lt\), \(\gt\), \(\leq\), and \(\geq\)) and the meaning of “solutions to an inequality." They are reminded that an inequality in one variable can have a range of values that make the statement true. Students also pay attention to the value that is at the boundary of an inequality and consider whether it is or isn't a solution to an inequality.
+"""
+### Launch
+"""
+Give students 1–2 minutes of quiet work time. Follow with a whole-class discussion.
+"""
+### Student Task Statement
+"""
+Match each inequality to the meaning of a symbol within it. Read the inequality from left to right.\(h>50\)\(h \leq 20\)\(30 \geq h\)less than or equal togreater thangreater than or equal to
+Match each inequality to the meaning of a symbol within it. Read the inequality from left to right.
+\(h>50\)
+\(h \leq 20\)
+\(30 \geq h\)
+less than or equal to
+greater than
+greater than or equal to
+Is 25 a solution to any of the inequalities? Which one(s)?
+Is 40 a solution to any of the inequalities? Which one(s)?
+Is 30 a solution to any of the inequalities? Which one(s)?
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Draw students' attention to the last inequality (\(30 \geq h\)). Make sure students see that, even though the symbol is read "greater than or equal to," it doesn't mean that we're looking for values that are greater than or equal to 30.  The statement reads "30 is greater than or equal to \(h\)," which means that \(h\) must be less than or equal to 30.
+Next, ask students how they know whether each of those numbers (the 50, 20, and 30, or the boundary values) is a solution to the inequality. Emphasize that we can test those boundary values the same way we test other values—by checking if they make the statement true.
+Display these equations in one variable for all to see: \(h = 50\), \(h =20\), and \(30 = h\). Discuss with students how these equations are different from the inequalities in one variable (aside from the fact that the symbols are different). Highlight the idea that there is only one value that could make each equation true, but there is a range of values that can make each inequality true.
+"""
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+Planning the Senior Ball
+### Activity Narrative
+"""
+This activity prompts students to interpret several inequalities that represent the constraints in a situation. To explain what the letters in the inequalities mean in the given context, students cannot simply match the numbers in the verbal descriptions and those in the inequalities. They must attend carefully to the symbols and any operations (MP6), and reason both quantitatively and abstractly (MP2).
+The work here also engages students in an aspect of mathematical modeling (MP4). Although students do not choose the variables to represent the essential features of a situation, they think carefully about and explain how the given models do represent the key features of the given situation.
+As students discuss with their partners, listen for those who could interpret the inequalities clearly and accurately. Ask them to share their interpretations later.
+"""
+### Launch
+"""
+Arrange students in groups of 2. Give them a few minutes of quiet think time, followed by some time to share their thinking with their partner.
+Use Three Reads to support reading comprehension and sense-making about this problem. Display only the problem stem and bulleted information, without revealing the questions.
+For the first read, read the problem aloud, and then ask, “What is this situation about?” (budgeting the Senior Ball). Listen for and clarify any questions about the context.
+After the second read, ask students to list any quantities that can be counted or measured (people attending, chaperones needed, ticket price, cost of meals and entertainment, profit).
+After the third read, reveal the question about the inequalities, and ask, “What are some ways we might get started on this?” Invite students to name some possible starting points, referring to quantities from the second read (We could look for important values in the constraints and find them in the inequalities).
+"""
+### Student Task Statement
+"""
+Seniors in a student council of a high school are trying to come up with a budget for the Senior Ball. Here is some information they have gathered:
+Last year, 120 people attended. It was a success and is expected to be even bigger this year. Anywhere up to 200 people might attend.
+There needs to be at least 1 chaperone for every 20 students.
+The ticket price can not exceed \$20 per person.
+The revenue from ticket sales needs to cover the cost of the meals and entertainment, and also make a profit of at least \$200 to be contributed to the school.
+Here are some inequalities the seniors wrote about the situation. Each letter stands for one quantity in the situation. Determine what is meant by each letter.
+\(t \le 20\)
+\(120 \le p \le 200\)
+\(pt-m \ge 200\)
+\(c \ge \frac{p}{20}\)
+"""
+### Building on Student Thinking
+"""
+Some students may relate an inequality to a written description simply based on the letter chosen for the variable (for example, “people” begins with “p”). Push these students to explain how the inequalities express the quantities and constraints in the written descriptions.
+For students unfamiliar with the notation \(120 \le p \le 200\), explain that this is a way of stating \(120 \le p\) and \( p \le 200\).
+"""
+### Are You Ready for More?
+"""
+Kiran says we should add the constraint \(t\geq 0\).
+What is the reasoning behind this constraint?
+What other "natural constraint" like this should be added?
+"""
+### Activity Synthesis
+"""
+Invite previously identified students to share their responses. Make sure that students understand why the symbols accurately represent the constraints in the situation.
+For the last two inequalities, make sure that students see how the operations represent the constraints on profit and on the number of chaperones.
+If needed, use numbers to illustrate the relationship between variables. For example, to help students make sense of \(c\geq \frac{p}{20}\), ask: "How many chaperones are needed if there are 120 students?" (at least \(\frac{120}{20}\) (or 6) chaperones, or \(c \ge\frac{120}{20}\)) "180 students?" (at least \(\frac{180}{20}\) (or 9) chaperones, or \(c \ge\frac{180}{20}\)).
+"""
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+Elevator Constraints
+### Activity Narrative
+"""
+Previously, students interpreted given inequalities and made sense of them in terms of a situation. In this activity, students write inequalities to represent the constraints in a situation. Students identify key quantities and relationships, and think about ways to represent them. In doing so, they engage in an aspect of mathematical modeling (MP4).
+As students work, look for those who represent the same constraint using different inequalities or equations. For example, to represent the total weight that the elevator could carry, some students may write \(w\leq 1,\!500\), some may write \(1,\!500 \geq w\), and others may write \(w<1,\!500\) or \(w=1,500\). Ask students with contrasting statements to share their responses later.
+"""
+### Launch
+"""
+Keep students in groups of 2.
+"""
+### Student Task Statement
+"""
+An elevator in a skyscraper can hold at most 15 boxes. For safety, the car can carry a maximum of only 1,500 kg. A large box weighs 70 kg and a small box weighs 35 kg. The person riding in the elevator to deliver the boxes also weighs 70 kg.
+Write as many equations and inequalities as you can think of to represent the constraints in this situation. Be sure to specify the meaning of any letters that you use. (Avoid using the letters \(z\), \(m\), or \(g\).)
+Trade your work with a partner and read each other's equations and inequalities.	Explain to your partner what you think their statements mean, and listen to their explanation of yours.Make adjustments to your equations and inequalities so that they are communicated more clearly.
+Explain to your partner what you think their statements mean, and listen to their explanation of yours.
+Make adjustments to your equations and inequalities so that they are communicated more clearly.
+Rewrite your equations and inequalities so that they would work for a different building where:	an elevator car can hold at most \(z\) boxes.each car can carry a maximum of \(m\) kilograms.the person delivering the boxes weighs \(g\) kg.
+an elevator car can hold at most \(z\) boxes.
+each car can carry a maximum of \(m\) kilograms.
+the person delivering the boxes weighs \(g\) kg.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Invite students to share their equations and inequalities, starting with those that are more concrete (from the first question) and ending with the ones that are more abstract (from the last question).
+Emphasize that the same constraints may be accurately represented by statements of different forms. Consider reading aloud the different inequalities that represent the same constraint. For example, if \(w\) represents the total weight:
+\(w\leq 1,\!500\) can be read: "The total weight is less than or equal to 1,500 kilograms." or "The total weight is at most 1,500 kilograms."
+\(1,\!500 \geq w\) can be read: "Fifteen hundred kilograms is greater than or equal to the total weight."
+\(w<1,\!500\) or \(w=1,500\) can be read: "The total weight is less than 1,500 kilograms, or it is equal to 1,500 kilograms."
+For constraints that involve multiple quantities, some students may write, for instance, \(70\ell + 35s + 70 \leq 1,\!500\), while others may write \(70\ell + 35s \leq 1,\!430\). Ask students why these expressions are equivalent, encouraging them to use the context in their explanation.
+Point out that although a constraint can be written in different ways, writing it using fewer terms may be more convenient and may allow us to gain certain insights about the situation.
+"""
+# Lesson Close
+## Lesson Synthesis
+"""
+Solicit from students any advantages and disadvantages for representing constraints as inequalities. Some advantages students might bring up:
+Compared to written words, inequalities are a simpler and quicker way to describe what is happening in a situation.
+It is easier to see what values a certain quantity could or could not take when the constraint is written with symbols and numbers.
+Possible disadvantages:
+Unless we know what the variables stand for, we can't be sure about the meaning of an inequality.
+If we don't recall what the symbols mean or how to read them, we can't access the information.
+Next, invite students to share some advice for students who might just be learning to write inequalities to represent constraints. What should they pay attention to? What are some potential sources of confusion or error they should look out for?  Students might mention that the following are important things to attend to:
+Specifying the meaning of each variable
+Not using the same variable to represent different quantities
+Making sure that the correct symbols are used to represent relationships
+Using words to read each inequality to make sure that it fully represents a constraint
+"""
+## Student Lesson Summary
+"""
+We have used equations and the equal sign to represent relationships and constraints in various situations. Not all relationships and constraints involve equality, however.
+In some situations, one quantity is, or needs to be, greater than or less than another. To describe these situations, we can use inequalities and symbols such as \(<, \leq, >\), or \(\geq\).
+When working with inequalities, it helps to remember what the symbol means, in words. For example:
+\(100 < a\) means “100 is less than \(a\).”
+\(y \le 55\) means “\(y\) is less than or equal to 55,” or "\(y\) is not more than 55."
+\(20 > 18\) means “20 is greater than 18.”
+\(t \ge 40\) means “\(t\) is greater than or equal to 40,” or "\(t\) is at least 40."
+These inequalities are fairly straightforward. Each inequality states the relationship between two numbers (\(20>18\)), or it describes the limit or boundary of a quantity in terms of a number (\(100).
+Inequalities can also express relationships or constraints that are more complex. Here are some examples:
+The area of a rectangle, \(A\), with a length of 4 meters and a width of \(w\) meters is no more than 100 square meters.
+\(A \leq 100\)\(4w\leq100\)
+To cover all the expenses of a musical production each week, the number of weekday tickets sold, \(d\), and the number of weekend tickets sold, \(s\), must be greater than 4,000.
+\(d + s>4,\!000\)
+Elena would like the number of hours she works in a week, \(h\), to be more than 5 but no more than 20.
+​​​​​​​​​​​​\(h>5\)\(h \leq 20\)
+The total cost, \(T\), of buying \(a\) adult shirts and \(c\) child shirts must be less than 150. Adult shirts are \$12 each, and child shirts are \$7 each.
+\(T<150\)\(12a + 7c < 150\)
+In upcoming lessons, we’ll use inequalities to help us solve problems.
+"""

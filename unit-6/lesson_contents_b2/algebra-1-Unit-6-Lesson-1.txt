@@ -1,0 +1,189 @@
+# Lesson Location
+## Unit Number
+6
+## Unit Name
+Introduction to Exponential Functions
+## Lesson Number 
+1
+## Lesson Title
+Growing and Growing
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+# Lesson Preamble
+## Lesson Narrative
+"""
+The goal of this lesson is to encounter two different growth patterns—one pattern is linear and the other is exponential, though students don't need to use those words, yet. Students think about and compare the patterns by performing calculations and using graphs. This lesson contains many opportunities for students to notice and make use of structure (MP7), for example, noticing that \(1,000 + 200 + 200 + 200 + 200\) can be expressed as \(1,000 + 200 \boldcdot 4\). There is also an opportunity to use appropriate tools strategically (MP5), for example, if students choose to use a spreadsheet to perform many iterations of such calculations.
+They see that the pattern that grows by repeatedly doubling starts off slowly but eventually overtakes the other pattern, which increases by repeatedly adding the same amount. Throughout the unit, students will study exponential patterns systematically (eventually viewing them as functions) before returning to this comparison with linear functions.
+Some technology is required for this lesson, but there are opportunities for students to select appropriate technology in the lesson. We recommend making scientific calculators and spreadsheet technology available.
+"""
+## Learning Goals
+Compare linear and exponential relationships by performing calculations and by interpreting graphs that show two growth patterns.
+## Student-Facing Goal
+Let's choose the better deal.
+## Student-Facing Targets
+I can compare growth patterns using calculations and graphs.
+Required Materials
+#### Activity 2
+Scientific calculators
+Spreadsheet technology
+## Required Preparation
+"""
+#### Activity 2
+"""
+## Standards Alignment
+### Building On
+6.EE.A.1
+7.EE.B.3
+8.F.B.5
+### Addressing
+HSF-IF.B.4
+HSF-LE.A.3
+### Building Toward
+HSF-BF.A.1.a
+HSF-LE.A.3
+## Glossary
+# Lesson Content
+## Activity
+### Activity Timing
+5 mins
+### Activity Title
+Splitting Bacteria
+### Activity Narrative
+"""
+This opening Warm-up gives students an opportunity to create a pictorial representation of exponential growth. The purpose of this Warm-up is to help students make sense of the situation coming up in the next activity, in which they are not explicitly asked to make a pictorial representation.
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+Image description: <p>Bacteria viewed through a microscope.</p>
+Some bacteria are growing in a dish. Every hour, each bacterium splits into 3 bacteria.
+This diagram shows a bacterium at hour 0 and then at hour 1. Draw what has happened at hours 2 and 3.
+Image description: <p>The picture shows 1 bacterium (an irregular polygon with a double outline and light blue inside) for hour 0, then an arrow to the right, then 3 bacteria for hour 1.</p>
+How many bacteria are there at hours 2 and 3?
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Invite a few students to share their drawings and their observations about how the number of bacteria is increasing.
+"""
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+A Magical Offer
+### Activity Narrative
+"""
+The goal of this activity is to allow students to explore two growth patterns and to notice that a doubling pattern eventually grows very, very large even with a small starting value. Students may perform a repeated calculation, or they may generalize the process by writing expressions or equations.
+Making spreadsheet technology available gives students an opportunity to choose appropriate tools strategically (MP5).
+"""
+### Launch
+"""
+Provide access to calculators or spreadsheets for every student.
+Ask students what stories they may know about a person encountering a wish giver. This situation uses a magical fish, which has historical roots in many cultures including Chinese folklore (Ye Xian (YEE SHEE-ahn)), ancient English fables (The Fish and the Ring), and Haitian fairy tales (Tenzin the Fish).
+In many traditions, wish givers are also tricksters that will try to corrupt a wish. Emphasize that being precise in language and explanation is helpful not only in the phrasing of a wish, but also in math class for communication.
+Present the situation (either by asking students to read it quietly, or by performing a dramatic reading).
+Ask students, “How much money will be in each purse after a week?” (After 7 days, Purse A will contain \$2,400 because it grows by \$200 each day for 7 days. Purse B will contain \$1.28. It doubles each day for 7 days, so it will have \(1 \boldcdot 2^7\), or 128 cents (the 1 here represents the 1 cent in the purse when the purses are offered).) If no students mention using multiplication for repeated addition or an exponent for repeated multiplication, ask how they might use the number 7 to find the worth of each purse. Tell students to enter the amounts into the table in their Task Statement.
+In addition to orienting students to the calculations, use this opportunity to point out that the convention here is that the days are numbered the same as the number of times additional money is added. For example, when the purses are initially offered, it is day 0. After the \$200 is added or the money is doubled once, it is day 1. Day 2 is when the money has been added twice.
+After the 1st read, say, “Tell your partner what this situation is about.”
+After the 2nd read, say, “List the quantities. What can be counted or measured?”
+For the 3rd read, reveal and read the table. Ask, “What are some ways we might get started on this?”
+"""
+### Student Task Statement
+"""
+While walking along a beach, you notice a fish trapped in a small pool. You release the fish into the ocean, but before it swims away, it turns to reward you for your good deed.
+It tells you, "Thank you for freeing me from that tide pool! I was getting claustrophobic. You can choose one of these purses as a reward. You cannot add money to the purses, and once you take any money out, the magic is broken and no more money will be added, but you may keep what is inside."
+Purse A contains \$1,000 today. If you leave it alone, it will contain \$1,200 tomorrow (by magic). The next day, it will contain \$1,400. This pattern of \$200 additional dollars per day will continue.
+Purse B contains 1 penny today. Leave that penny in there, because tomorrow it will (magically) turn into 2 pennies. The next day, there will be 4 pennies. The amount in the purse will continue to double each day.
+time passed | 0 days | 1 day | 2 days | 7 days(1 week) | 14 days(2 weeks) | 21 days(3 weeks) | 30 days(1 month) | Purse A | Purse B
+\$1,000 | \$1,200 | \$1,400 |  |  |  | 
+\$0.01 | \$0.02 | \$0.04 |  |  |  | 
+7 days			(1 week)
+Complete the table for the amount of money in each purse for the given number of days after the fish offers the purses. Be prepared to explain your reasoning for each value.
+"""
+### Building on Student Thinking
+"""
+Some students may confuse the units for the two purses. Remind them that Purse B contains pennies (and thus cents rather than dollars).
+Due to prior experience with stories in which wishes or magical items are offered, students may be suspicious of the offers. Ask them to show their mathematical reasoning, rather than basing their choice of purses on their suspicions or other considerations, such as how to carry a purse containing over 2 million pennies.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Focus the discussion on how students found the amounts of money in the two purses after many days. Invite students who performed recursive calculations and those who wrote expressions or equations to share their reasoning. Record and display students' reasoning for all to see. Seeing the repeated reasoning will support students' generalization work later. For example, the amount in Purse A will be \(1,\!000 + 200\) for day 1, then \(1,\!000 + 200 + 200\) for day 2, \(1,\!000 + 200 + 200 + 200\) for day 3, and so on. Connect this to writing expressions like \(1,000+200 \boldcdot 3\) and \(1,000+200x\) where \(x\) represents the number of days since the fish offered the purses.
+For Purse B, highlight the fact that after two days it contains \((1 \boldcdot 2) \boldcdot 2\) cents, which is \(2^2\) cents. After three days it contains \((1 \boldcdot 2 )\boldcdot 2 \boldcdot 2\) cents, which is \(2^3\) cents. This is a good opportunity to emphasize the meaning of exponential notation. Exponential notation is particularly useful for expressing the amount in Purse B on day 30, which is \(2^{30}\) cents.
+Conclude the activity by polling the class about which purse they would choose.
+If no students use a spreadsheet, consider demonstrating how it might be helpful in performing calculations like these.
+"""
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+Graphing the Fish's Offers
+### Activity Narrative
+"""
+This activity allows students to compare and contrast linear and exponential patterns visually to make sense of the graphs, and to use them to answer questions. They recall that a quantity that grows by adding the same amount at each step forms a line when plotted, and they see an example where a quantity that grows by the same factor at each step forms a curve when plotted.
+"""
+### Launch
+"""
+Tell students they will now consider what the two offers look like graphically. One of the questions asks students about the vertical intercept. If needed, review the meaning of the term.
+"""
+### Student Task Statement
+"""
+Here are graphs showing how the amount of money in the purses changes. Remember Purse A starts with \$1,000 and grows by \$200 each day. Purse B starts with \$0.01 and doubles each day. Point P has the coordinates \((9, 5.12)\), and point Q has the coordinates \((5, 2,\!000)\).
+Graph of two functions, origin O. Horizontal axis, number of days, scale 0 to 25, by 1’s Vertical axis, amount in dollars, scale 0 to 40,000, by 10,000’s. The functions are discrete. Purse A is red and has these points: (0 comma 1,000), (1 comma 800), (2 comma 1,400), (3 comma 1,600), (4 comma 1,800), (5 comma 2,000), (6 comma 2,200), (7 comma 2,400), (8 comma 2,600), (9 comma 2,800), (10 comma 3,000), (11 comma 3,200), (12 comma 3,400), (13 comma 3,600), (14 comma 3,800), (15 comma 4,000), (16 comma 4,200), (17 comma 4,400), (18 comma 4,600), (19 comma 4,800), (20 comma 12 point 2), (21 comma 5,200), (22 comma 5,400), (23 comma 5,600), (24 comma 5,800), (25 comma 6,000), (26 comma 6,200), (27 comma 6,400) and (28 comma 6,600). Purse B is blue and has these points: (0 comma point zero 1), (1 comma point zero 2), (2 comma point zero 4), (3 comma point zero 8), (4 comma point 16), (5 comma point 32), (6 comma point 64), (7 comma 1 point 28 ), (8 comma 2 point 56), (9 comma 5 point 12), (10 comma 10 point 24), (11 comma 20 point 48), (12 comma 40 point 96), (13 comma 81 point 92), (14 comma 163 point 84), (15 comma 327 point 68), (16 comma 655 point 36), (17 comma 1,310 point 72), (18 comma 2,621 point 44), (19 comma 5,242 point 88), (20 comma 10,485 point 76), (21 comma 20,971 point 52).
+Image description: <p>Graph of an exponential function, origin O. number of days and amount in dollar.</p>
+Which graph shows the amount of money in Purse A? Which graph shows the amount of money in Purse B? Explain how you know.
+Points \(P\) and \(Q\) are labeled on the graph. Explain what they mean in terms of the fish's offer.
+What are the coordinates of the vertical intercept for each graph? Explain how you know.
+When does Purse B become a better choice than Purse A? Explain your reasoning.
+Knowing what you know now, which purse would you choose? Explain your reasoning.
+"""
+### Building on Student Thinking
+"""
+Due to the exponential nature of the problem, the scale for the vertical axis makes it difficult to accurately estimate vertical coordinates of points from the graph. Remind students that they know how the value of each purse is calculated, so they may use calculations similar to those in the previous activity to compute actual dollar values.
+If color versions of the materials are not available, it may be difficult to determine which points correspond with which purse. Encourage students to imagine connecting the dots (perhaps using a ruler for Purse A) to distinguish the two sets of points.
+"""
+### Are You Ready for More?
+"""
+Before the fish gets too far, it turns around again and says, “I will give you an even more enticing deal. Purse B stays the same, but Purse A now increases by $250,000 every day. The purses gain money only on days that you return to this beach and rescue any trapped fish for one mile on each side of this spot. If you miss a day, the magic is broken and the purses will not gain any more money.” Which purse should you choose?
+"""
+### Activity Synthesis
+"""
+To highlight the power of using graphs to illustrate what is happening in a situation, ask “You have used calculations and graphs to compare the offers. Did using graphs help? Did they add new insights to the offers?” (The graphs give a clear visual representation of how the amount of money in each purse grows. It is easier to tell when Purse B becomes a better option than Purse A, and how different the two values are at different points in time. They de-emphasize the actual numbers and, so, give a very clean comparison of the two situations.)
+Use Stronger and Clearer Each Time to give students an opportunity to revise and refine their response to “Knowing what you know now, which purse would you choose? Why?” In this structured pairing strategy, students bring their first draft response into conversations with 2–3 different partners. They take turns being the speaker and the listener. As the speaker, students share their initial ideas and read their first draft. As the listener, students ask questions and give feedback that will help clarify and strengthen their partner's ideas and writing.
+If time allows, display these prompts for feedback:
+“_____ makes sense, but what do you mean when you say. . . ?”
+“Can you describe that another way?”
+“How do you know . . . ? What else do you know is true?”
+Close the partner conversations, and give students 3–5 minutes to revise their first draft. Encourage students to incorporate any good ideas and words that they got from their partners to make their next draft stronger and clearer.
+As time allows, invite students to compare their first and final drafts. Select 2–3 students to share how their drafts changed and why they made the changes they did.
+"""
+# Lesson Close
+## Lesson Synthesis
+"""
+We looked at two different situations: One in which the same amount was added each day, and one in which the amount doubled each day. Ask students to reflect on the work done today, either verbally or in writing.
+What happened in this lesson that surprised you?
+What happened in this lesson that confused you?
+What questions do you have about what you learned today?
+"""
+## Student Lesson Summary
+"""
+When we repeatedly double a positive number, it eventually becomes very large. Let's start with 0.001. The table shows what happens when we begin to double.
+number of times doubled | number
+0 | 1 | 2 | 3 | 4
+0.001 | 0.002 | 0.004 | 0.008 | 0.016
+If we want to continue this process, it is convenient to use an exponent. For example, the last entry in the table, 0.016, is 0.001 doubled 4 times, or \((0.001) \boldcdot 2\boldcdot 2\boldcdot 2\boldcdot 2\), which can be expressed as \((0.001) \boldcdot 2^4\).
+Even though we started with a very small number, 0.001, we don't have to double it that many times to reach a very large number. For example, if we double it 30 times, represented by \((0.001) \boldcdot 2^{30}\), the result is greater than 1 million.
+Throughout this unit, we will look at many situations in which quantities grow or decrease by applying the same factor repeatedly.
+"""

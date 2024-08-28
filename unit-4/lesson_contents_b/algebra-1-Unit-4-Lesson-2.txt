@@ -1,0 +1,314 @@
+
+# Lesson Location
+## Unit Number
+4
+## Unit Name
+LinearInequalitiesAndSystems
+## Lesson Number 
+2
+## Lesson Title
+Solutions to Inequalities in One Variable
+# Lesson Timing
+## Total Activity Time in Minutes 
+70
+## Total Lesson Time incl Lesson Synthesis
+80 
+
+
+
+# Lesson Preamble
+## Lesson Narrative
+"""
+In this lesson, students revisit the meaning of the solutions to an inequality in one variable and recall that the solution set is a range of values. They also investigate different ways to find the solution set to an inequality.
+By reasoning about the quantities and relationships in context.
+By guessing some values, substituting them into the inequality, and checking them to see if they make an inequality true.
+By first solving a related equation in one variable.
+Along the way, students reason abstractly and quantitatively (MP2).
+Two optional activities are included in this lesson. The first is to give students an additional opportunity to make sense of the solutions to an inequality in terms of a situation. The second optional activity introduces them to graphing two-variable equations as a way to find solutions to one-variable inequalities.
+"""
+## Learning Goals
+Find the solution to a one-variable inequality by reasoning and by solving a related equation and testing values greater than and less than that solution.
+Understand that the solution to an inequality is a range of values that make the inequality true.
+Graph the solution to an inequality as a ray on a number line, and interpret the solution in context.
+## Student-Facing Goal
+Let’s find and interpret solutions to inequalities in one variable.
+## Student-Facing Targets
+I can solve one-variable inequalities and interpret the solutions in terms of the situation.
+I can graph the solution to an inequality in one variable.
+I understand that the solution to an inequality is a range of values (such as $x&gt;7$) that makes the inequality true.
+## Required Preparation
+#### Activity 5
+## Standards Alignment
+### Building On
+7.EE.B.4.b
+### Addressing
+HSA-REI.B.3
+### Building Toward
+HSA-CED.A.1
+HSA-REI.B.3
+## Glossary
+
+
+
+# Lesson Content
+## Activity
+### Activity Timing
+5 mins
+### Activity Title
+Find a Value, Any Value
+### Activity Narrative
+"""
+This Warm-up activates what students know about the solutions to an inequality and ways to find the solutions. For the first time, students refer to the solutions as the solution set of the inequality. Throughout their work with one-variable inequalities, students will use the terms “solutions” and “solution set” interchangeably.
+By now, students are likely to have internalized that a solution to an equation in one variable is a value that makes the equation true. The work here makes it explicit that we can extend this understanding of “solution” to inequalities in one variable.
+Some students may have been taught to solve inequalities the same way we solve equations, with the added rule along the lines of "flip the symbol when dividing or multiplying both sides of an inequality by a negative number." They may or may not have understood why the rule is the way it is. (If a student shares this method, emphasize that they will look at different strategies in the lesson and adopt whichever ways that they can explain or justify.)
+If students approach the last question (finding a solution to \(7(3-x)>14\)) by performing operations directly on the inequality but neglect to reverse the inequality symbol, they would find solutions that result in false statements. Use this opportunity to point out that we may run into problems with this method. It is not essential to discuss why or to suggest better approaches at this point. There will be other opportunities in this lesson to reason about the solutions and to witness the same issue (in the second non-optional activity—“Equality and Inequality”).
+"""
+### Launch
+"""
+Display a number line for all to see that looks like this:
+Image description: <p>Blank horizontal number line from negative 10 to 10 by 1’s.</p>
+Tell students that, if needed, they can use the number line to help them in reasoning about the inequalities.
+"""
+### Student Task Statement
+"""
+Write 3 solutions to the inequality \(y \leq 9.2\). Be prepared to explain what makes a value a solution to this inequality.
+Write one solution to the inequality \(7(3-x)>14\). Be prepared to explain your reasoning.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Invite students to share some solutions to the first inequality and explain what it means for a value to be a solution to \(y\le9.2\). Be sure to mention some negative numbers that are solutions. If necessary, show the solution set on a number line. Then, focus the discussion on the second inequality.
+Ask each student to mark the one solution they have for \(7(3-x)>14\) on the class number line (from the Launch). (Students could draw a point or put a dot sticker, if available, on the number line.) Discuss with students:
+"How did you know that the value you chose is a solution?" (When substituted for \(x\) in the inequality, the value makes a true statement.)
+"What do you notice about all the points that are on the line?" (They are all to the left side of 1.)
+"On the number line, we can see that the solutions are values that are less than 1. All these values form the solution set to the inequality. Is there a way to write the solution set concisely, without using the number line and without writing out all the numbers less than 1?" (We can write \(x<1\)).
+"Does the solution set have anything to do with the solution to the equation \(7(3-x)=14\)?" (The solution to the equation \(x=1\).)
+"Why does the solution set to the inequality \(7(3-x)>14\) involve numbers less than 1?" (The inequality can be taken to say "7 times \(3-x\) is greater than 14." For the inequality to be true, \(3-x\) must be greater than 2. For \(3-x\) to be greater than 2, \(x\) must be less than 1.)
+Highlight that we can use a number line to concisely show the solution set to an inequality, but we can also write another inequality that shows the same information.
+## Activity
+### Activity Timing
+20 mins
+### Activity Title
+Off to an Orchard
+### Activity Narrative
+"""
+This activity encourages students to interpret an inequality, a related equation, and its solution set in terms of a situation. A context can help students intuit why the solutions to an inequality form a ray on the number line.
+Students may recall this way of solving inequalities from middle school, but they may also solve by testing different possible values, or by reasoning about the relationship between quantities in other ways. The work here encourages students to reason quantitatively and abstractly (MP2), and to make sense of problems and persevere in solving them (MP1).
+Monitor for students who use these strategies to find the solutions to \(9(n + 3) < 10(n + 1)\):
+Try different values of \(n\) until the inequality is no longer true.
+Solve the equation \(9(n + 3) = 10(n + 1)\) to find the number of students at which the costs for both options would be equal. That number is 17. Then, try a higher or lower number to see which side of the equation has a smaller value.
+Plan to have students present in this order to support moving students toward more precise mathematical reasoning.
+"""
+### Launch
+"""
+Read the first part of the task statement with the class, and make sure that students understand the given information.
+Arrange students in groups of 2. For the first set of questions, ask one partner to find the cost of going to Orchard A and the other partner to find the cost of going to Orchard B, and then to compare the costs. Before students move on to the second set of questions, pause to hear which option works best for 8, 12, and 30 students.
+"""
+### Student Task Statement
+"""
+A teacher is choosing between two options for a class field trip to an orchard.
+At Orchard A, admission costs \$9 per person and 3 chaperones are required.
+At Orchard B, the cost is \$10 per person, but only 1 chaperone is required.
+At each orchard, the same price applies to both chaperones and students.
+Image description: <p>Apple trees in an apple orchard</p>
+Which orchard would be cheaper to visit if the class has:8 students?12 students?30 students?
+Which orchard would be cheaper to visit if the class has:
+8 students?
+12 students?
+30 students?
+To help her compare the cost of her two options, the teacher first writes the equation \(9(n + 3) = 10(n + 1)\), and then she writes the inequality \(9(n + 3) < 10(n + 1)\).What does \(n\) represent in each statement?In this situation, what does the equation \(9(n + 3) = 10(n + 1)\) mean?What does the solution to the inequality \(9(n + 3) < 10(n + 1)\) tell us?Graph the solution to the inequality on the number line. Be prepared to show or explain your reasoning.
+To help her compare the cost of her two options, the teacher first writes the equation \(9(n + 3) = 10(n + 1)\), and then she writes the inequality \(9(n + 3) < 10(n + 1)\).
+What does \(n\) represent in each statement?
+In this situation, what does the equation \(9(n + 3) = 10(n + 1)\) mean?
+What does the solution to the inequality \(9(n + 3) < 10(n + 1)\) tell us?
+Graph the solution to the inequality on the number line. Be prepared to show or explain your reasoning.
+Image description: <p><strong>Blank horizontal number line with 21 evenly-spaced tick marks and no labels.</strong></p>
+"""
+### Building on Student Thinking
+"""
+If students struggle to interpret the meaning of the equation \(9(n + 3) = 10(n + 1)\) and of the inequality \(9(n + 3) < 10(n + 1)\), ask them to think about what each side of the equal sign or the inequality symbol represents.
+Some students may find the solutions to \(9(n+3) < 10(n+1)\) by manipulating the inequality to isolate \(n\). Depending on the operations performed, they may once again end up with an incorrect solution set if they forget to reverse the inequality symbol. (For example, in the final step of solving, they may go from \(\text{-}1n<\text{-}17\) to \(n < 17\).) If this happens, ask students to check some values for \(n\) in these inequalities.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Make sure that students understand the meaning of the inequality in context and recognize that there are various ways to find the solutions.
+Invite previously selected students to share how they found the solution set. Sequence the discussion of the strategies by the order listed in the Activity Narrative. If possible, record and display their work for all to see.
+Connect the different responses to the learning goals by asking questions such as:
+“How can you see that ‘17 students’ is special in each of the strategies?”
+“Which strategies are more efficient at finding ‘17 students’ as a special situation?”
+“Once you recognize that ‘17 students’ is an important switching point, how can you efficiently determine what happens on each side of 17?”
+Explain that one way to think about the solutions to the inequality is by thinking about the solution to a related equation. In this context, the solution to \(9(n + 3) = 10(n + 1)\) gives us the number of students at which it would cost the same to go to either orchard. This is a boundary value for \(n\). On one side of the boundary, the cost of Option A would be higher. On the other side, it would be lower. We can test a value that is higher and one that is lower than this boundary value to see which one makes the inequality \(9(n + 3) < 10(n + 1)\) true.
+If a student brings up “flipping the symbol when multiplying or dividing by a negative number” as a strategy, acknowledge the correctness of the student’s statement, while emphasizing the importance of knowing why a strategy works. Emphasize that in general it is more helpful and reliable to use reasoning strategies that we understand and can explain. If we use a rule without some idea of how it came about or why it works, we might end up misapplying it (for example, flipping the inequality symbol anytime we see a negative sign, even if we’re simply adding or subtracting). If we forget or misremember the rule, we would be stuck or make errors.
+## Activity
+### Activity Timing
+20 mins
+### Activity Title
+Part-Time Work
+### Activity Narrative
+"""
+This optional activity gives students another opportunity to make sense, in context, of inequalities and their solutions. The context helps to reinforce why it makes sense for the solutions to an inequality to be represented by a set of points on one side of a particular value on the number line. It also reiterates the idea that solving a related equation can help us find that boundary value. In the context of part-time jobs presented here, that boundary value is a break-even point at which the two options are equal. On each side of that point, one job is more lucrative than the other.
+Students are given an expression that represents the monthly pay for \(h\) hours of work at each job. The expression for the pay at the restaurant is \(7.50h + \frac {50}{4}h\)\(\). Some students may notice that this expression could be rewritten as \(20h\) and use this simpler equivalent expression throughout the activity. During the class discussion, invite students who use the simpler expression to share their rationale.
+"""
+### Launch
+"""
+Display the situation in the task statement and the equation \(7.50h + \frac {50}{4}h = 18h + 33\). To familiarize students with the quantities in the context, discuss:
+"What does the expression \(7.50h + \frac {50}{4}h\) represent?" (the pay at the restaurant for \(h\) hours of work) "What about \(18h + 33\)?" (the pay at the hotel for \(h\) hours of work)
+"What does the equation tell us about the situation?" (the student earning the same amount from both jobs for \(h\) hours of work)
+"What does the solution mean in this situation?" (the number of hours of work that would enable the student to earn the same amount from either job)
+Consider keeping students in groups of 2. Give them a few minutes of quiet work time, followed by time to discuss their responses with their partner.
+"""
+### Student Task Statement
+"""
+To help pay for his tuition, a college student plans to work in the evenings and on weekends. He has been offered two part-time jobs: working in the guest-services department at a hotel and waiting tables at a popular restaurant.
+The job at the hotel pays \$18 an hour and offers \$33 in transportation allowance per month.
+The job at the restaurant pays \$7.50 an hour plus tips. The entire wait staff typically collects about \$50 in tips each hour. Tips are divided equally among the 4 wait-staff members who share a shift.
+The equation \(7.50h + \frac {50}{4}h = 18h + 33\) represents a possible constraint about the situation.Solve the equation and check your solution.Here is a graph on a number line. Put a scale on the number line so that the point marked with a circle represents the solution to the equation.
+The equation \(7.50h + \frac {50}{4}h = 18h + 33\) represents a possible constraint about the situation.
+Solve the equation and check your solution.
+Here is a graph on a number line. Put a scale on the number line so that the point marked with a circle represents the solution to the equation.
+Image description: <p>Horizontal number line with 13 evenly-spaced tick marks and no labels. Open circle above the seventh tick mark.</p>
+Put a scale on the number line so that the point marked with a circle represents the solution to the equation.
+Does one job pay better if:The student works fewer hours than the solution you found earlier? If so, which job?The student works more hours than the solution you found earlier? If so, which job?Be prepared to explain or show how you know.
+Does one job pay better if:
+The student works fewer hours than the solution you found earlier? If so, which job?
+The student works more hours than the solution you found earlier? If so, which job?
+Be prepared to explain or show how you know.
+Here are two inequalities and two graphs that represent the solutions to the inequalities.Inequality 1: \(7.50h + \frac {50}{4}h < 18h + 33\)Inequality 2: \(7.50h + \frac {50}{4}h > 18h + 33\)ABPut the same scale on each number line so that the circle represents the number of hours that you found earlier.Match each inequality with a graph that shows its solution. Be prepared to explain or show how you know.
+Here are two inequalities and two graphs that represent the solutions to the inequalities.
+Inequality 1: \(7.50h + \frac {50}{4}h < 18h + 33\)
+Inequality 2: \(7.50h + \frac {50}{4}h > 18h + 33\)
+A
+Image description: <p>Inequality graphed on a number line with 13 evenly spaced tick marks. At tick mark 7, open circle with line extending to the right.</p>
+B
+Image description: <p>Inequality graphed on a number line with 13 evenly spaced tick marks. At tick mark 7, open circle with line extending to the left.</p>
+Put the same scale on each number line so that the circle represents the number of hours that you found earlier.
+Match each inequality with a graph that shows its solution. Be prepared to explain or show how you know.
+"""
+### Building on Student Thinking
+"""
+Some students might be stymied by the fact that one of the expressions has a fractional coefficient for one of its terms. Remind these students that \(\frac{50}{4}h\) is just a number times \(h\). Rewriting \(\frac{50}{4}\) as a decimal may help students to see this concretely.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Invite students to share how they determined which job pays better for different hours of work. Display the number lines that show the solution set to each inequality.
+If time permits, solicit some ideas from students as to why one job—the restaurant job—continues to be the more lucrative option after 16.5 hours.
+One way to make sense of this is to compare the hourly rates at the two jobs.
+The pay at the restaurant, \(7.5h + \frac {50}{4}h\) could be rewritten as \(20h\), which tells us the rate of change is \$20 per hour.
+At the hotel, the rate is \$18 per hour. The \$33 transportation allowance makes the total pay for this job higher up to a point, but then the higher rate of the restaurant job starts to overtake this one.
+If we graph the monthly pay for each job (\(y=20h\) and \(y=18h+33\)), we can see that the two graphs intersect when \(h\) is 16.5. The graph of \(y=20h\) is has a lower \(y\)-value to the left of that point but higher value to the right of it.
+Image description: <p>Graph of a linear system. monthly pay in dollars, hours of work.</p>
+Students could explore this way of solving inequalities in one variable (by graphing) in an optional activity later in the lesson.
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Equality and Inequality
+### Activity Narrative
+"""
+The purpose of this activity is to further develop the idea that we can solve an inequality by first solving a related equation. Previously, students reasoned about the solutions to an inequality in context. Here, they transition to solving an inequality without a context.
+This activity offers another opportunity to point out the trouble with isolating the variable directly on the inequality statement, or with assuming that the solution set can be expressed using the same symbol as in the original inequality. (For example, if in the final step of solving, students go from \(\text-24x \leq \text-48\) to \(x \leq 2\), they would end up with the wrong solution set.)
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+Solve this equation, and check your solution:  \(\displaystyle \text-\frac{4(x+3)}5 = 4x-12\).
+Consider the inequality:  \(\displaystyle \text-\frac{4(x+3)}5 \le 4x-12\). 	Choose a couple of values less than 2 for \(x\). Are they solutions to the inequality?Choose a couple of values greater than 2 for \(x\). Are they solutions to the inequality?Choose 2 for \(x\). Is it a solution?Graph the solution to the inequality on the number line.
+Choose a couple of values less than 2 for \(x\). Are they solutions to the inequality?
+Choose a couple of values greater than 2 for \(x\). Are they solutions to the inequality?
+Choose 2 for \(x\). Is it a solution?
+Graph the solution to the inequality on the number line.
+Image description: <p>Blank horizontal number line from negative 10 to 10 by 1’s.</p>
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+Here is a different type of inequality: \(x^2 \leq 4\).
+Is 1 a solution to the inequality? Is 3 a solution? How about -3?
+Describe all solutions to this inequality. (If you like, you can graph the solutions on a number line.)
+Describe all solutions to the inequality \(x^2 \geq 9\). Test several numbers to make sure that your answer is correct.
+"""
+### Activity Synthesis
+Display a blank number line for all to see. Ask students to share some values on the number line that are and are not solutions. Use different colors or different symbols to mark on the number line the solutions and non-solutions.
+Emphasize that if we solve an inequality by using a related equation, it is important to make sure that the solution to the equation is correct because that solution gives us a boundary from which we could check the solutions to the inequality. If the boundary value is off, we may not be able to correctly find the solution set to the inequality.
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+More or Less?
+### Activity Narrative
+"""
+This optional activity allows students to visualize an inequality in one variable in another way—by graphing the expressions on each side and comparing the values of the expressions at different values of the variable. Doing so allows them to see the values at which the inequality is satisfied.
+In the digital version of the activity, students use an applet to graph lines. The applet allows students to accurately graph lines and use a slider to compare values of the lines for the same \(x\)-coordinate. Use the digital version if possible to allow students to focus on understanding the comparison.
+If students don't have individual access, displaying the applet for all to see would be helpful during the launch.
+"""
+### Launch
+"""
+Consider projecting for all to see the applet in the digital version of this activity. Enter an equation, say, \(y= \text-3x +7\). Ask students:
+“From the graph, can you tell what \(x\)-value gives a \(y\)-value of 4? In other words, what \(x\)-value makes the value of \(\text-3x+7\) exactly 4?” (1)
+“Which \(x\)-values give a \(y\)-value that is greater than 4?” (\(x\)-values less than 1)
+“Which \(x\)-values give a \(y\)-value that is less than 10?” (\(x\)-values greater than -1)
+“Which \(x\)-values give a \(y\)-value that is greater than -5?” (\(x\)-values less than 4)
+If students have individual access to Desmos or another tool with a slider function, consider demonstrating how moving the slider for \(x\) in the applet could help them see the answers to these questions more clearly. Otherwise, consider showing the slider during discussion (after students have analyzed the graphs and estimated the values visually).
+"""
+### Student Task Statement
+"""
+Consider the inequality \(\text{-} \frac12 x + 6 < 4x−3\). Let's look at another way to find its solutions.
+Use graphing technology to graph \(y=\text{-} \frac12 x + 6 \) and \(y=4x−3\) on the same coordinate plane.
+Use your graphs to answer the following questions:Find the values of \(\text-\frac {1}{2}x+6\) and \(4x-3\) when \(x\) is 1.What value of \(x\) makes \(\text-\frac {1}{2}x+6\) and \(4x-3\) equal?For what values of \(x\) is \(\text- \frac12 x + 6\) less than \(4x−3\)?For what values of \(x\) is \(\text- \frac12 x + 6\) greater than \(4x−3\)?
+Use your graphs to answer the following questions:
+Find the values of \(\text-\frac {1}{2}x+6\) and \(4x-3\) when \(x\) is 1.
+What value of \(x\) makes \(\text-\frac {1}{2}x+6\) and \(4x-3\) equal?
+For what values of \(x\) is \(\text- \frac12 x + 6\) less than \(4x−3\)?
+For what values of \(x\) is \(\text- \frac12 x + 6\) greater than \(4x−3\)?
+What is the solution to the inequality \(\text- \frac12 x+ 6 < 4x−3\)? Be prepared to explain how you know.
+"""
+### Building on Student Thinking
+"""
+Some students may need help parsing the phrase “For what values of \(x\) is the \(y\)-value. . . ?” Ask them: “When \(x\) is 0, what is the \(y\)-value in \(y=\text{-} \frac12 x + 6\)? What about in \(y= 4x−3\)? Which \(y\)-value is greater?” Compare the \(y\)-values with another value of \(x\). Then, ask students, “Is there a value of \(x\) that would make the two \(y\)-values equal? What is that \(x\)-value?”
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Select a student or group to share their solution for the last inequality.
+Focus the discussion on how this way of solving an inequality in one variable is like and unlike the strategy of solving a related equation, which students used in an earlier activity. Discuss questions such as:
+“Previously, we saw that we could solve an inequality like this by first solving a related equation: \(\text{-} \frac12 x + 6 = 4x−3\). Is the method of graphing similar to that process in any way?” (It is similar in that we can find the value of \(x\) that makes the two expressions equal.)
+“How is the graphing method different?” (Instead of comparing the values of the expressions by calculation, we can graph \(y=\text{[expression on the left]}\) and \(y=\text{[expression on the right]}\) and see where the two graphs intersect. The intersection tells us the \(x\)-value that produces the same \(y\)-value.)
+“Previously, to find the solutions to \(\text{-} \frac12 x + 6 < 4x−3\), we would test \(x\)-values that are greater and less than the solution to \(\text{-} \frac12 x + 6 = 4x−3\) and see which one would make the inequality true. How is the graphing method similar and how is it different?” (It is similar in that we are still comparing the values of the two expressions. It is different in that the graphs allow us to compare visually and see which graph has a greater \(y\)-value on either side of their intersection.)
+# Lesson Close
+## Lesson Synthesis
+"""
+To help students synthesize the work in this lesson, display the following prompt for all to see: "How does solving the equation \(4x-3=12(x+3)\) help with solving the inequality \(4x-3\geq 12(x+3)\)?"
+Ask students to explain in their own words and in writing. If time permits, ask students to share their response with a partner, and then invite a student or two to share with the class a particularly clear explanation that their partner has written.
+"""
+## Student Lesson Summary
+"""
+The equation \(\frac12 t = 10\) is an equation in one variable. Its solution is any value of \(t\) that makes the equation true. Only \(t=20\) meets that requirement, so 20 is the only solution.
+The inequality \(\frac12t >10\) is an inequality in one variable. Any value of \(t\) that makes the inequality true is a solution. For instance, 30 and 48 are both solutions because substituting these values for \(t\) produces true inequalities. \(\frac12(30) >10\) is true, as is \(\frac12(48) >10\). Because the inequality has a range of values that make it true, we sometimes refer to all the solutions as the solution set.
+One way to find the solutions to an inequality is by reasoning. For example, to find the solution to \(2p<8\), we can reason that if 2 times a value is less than 8, then that value must be less than 4. So a solution to \(2p<8\) is any value of \(p\) that is less than 4.
+Another way to find the solutions to \(2p<8\) is to solve the related equation \(2p=8\). In this case, dividing each side of the equation by 2 gives \(p=4\). This point, where \(p\) is 4, is the boundary of the solution to the inequality.
+To find out the range of values that make the inequality true, we can try values less than and greater than 4 in our inequality and see which ones make a true statement.
+Let's try some values less than 4:
+If \(p=3\), the inequality is \(2(3) <8\) or \(6 < 8\), which is true.
+If \(p=\text-1\), the inequality is \(2(\text-1) < 8\) or \(\text-2 <8 \), which is also true.
+Let's try values greater than 4:
+If \(p=5\), the inequality is \(2(5)<8\) or \(10<8\), which is false.
+If \(p=12\), the inequality is \(2(12) <8\) or \(24<8\), which is also false.
+In general, the inequality is false when \(p\) is greater than or equal to 4 and true when \(p\) is less than 4.
+We can represent the solution set to an inequality by writing an inequality, \(p<4\), or by graphing on a number line. The ray pointing to the left represents all values less than 4.
+Image description: <p>Inequality graphed on a number line. Numbers from negative 6 to 6, by 1’s. At 4, open circle with line extending to the left.</p>
+
+
+"""

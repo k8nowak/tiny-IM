@@ -1,0 +1,192 @@
+
+# Lesson Location
+## Unit Number
+6
+## Unit Name
+Introduction to Exponential Functions
+## Lesson Number 
+14
+## Lesson Title
+Recalling Percent Change (optional)
+# Lesson Timing
+## Total Activity Time in Minutes 
+40
+## Total Lesson Time incl Lesson Synthesis
+50 
+
+
+
+Lesson Preamble
+CC BY-NC 4.0
+Preparation
+Lesson
+# Recalling Percent Change (optional)
+## Preparation
+## Lesson Narrative
+This lesson is an optional review of percent change. A repeated percent increase or decrease is introduced as an exponential change.
+The lesson also reviews using the distributive property to rewrite a sum or difference as a product in order to simplify repeated calculation. Looking for equivalent ways to express percentage change is largely about strategically using the distributive property (MP7).
+This lesson could be bypassed if the Check Your Readiness assessment and performance on earlier lessons in this unit on rewriting expressions using the distributive property indicate that students don't need to review these concepts and skills.
+## Learning Goals
+Write expressions using only multiplication to represent a percent increase or decrease.
+Given a starting amount and a percent increase or decrease, calculate a final amount.
+### Student-Facing Goal
+Let's find the result of changing a number by a percentage.
+### Student-Facing Targets
+I can write different expressions to represent a starting amount and a percent increase or decrease.
+I can find the result of applying a percent increase or decrease on a quantity.
+View Student Lesson
+## Required Preparation
+None
+### Standards Alignment
+#### Building On
+7.EE.B.3
+#### Addressing
+#### Building Toward
+HSF-LE.A.2
+## Glossary
+Practice
+### Other Resources
+View Student Lesson
+## Teacher Support
+## Student Handouts
+
+
+
+Lesson Content
+Preparation
+Lesson
+## Lesson 14
+View Student Lesson
+# Recalling Percent Change (optional)
+Image description: Course Icon
+10 mins
+## Warm-up
+### Wheels
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+This Warm-up refreshes students' memory of strategies for working with percent-change situations, preparing them to apply this understanding to situations of exponential change.
+As students work, look for the different strategies that they use to answer the questions. For example, students might think of the first question as \((0.2) \boldcdot 160\), as \(\frac{1}{5} \boldcdot 160\), or as, \(160 \div 5\) all of which can be calculated mentally. Others might draw a tape diagram to represent the quantities and their relation to each other. Invite students with contrasting strategies to share later.
+Also, to help inform the activities ahead, notice the different ways in which students approach and express the percent decrease situations.
+### Launch
+### Activity
+### Student Task Statement
+A scooter costs $160.
+For each question, show your reasoning.
+Image description: A photograph of a stand-on electric scooter.
+The cost of a pair of roller skates is 20% of the cost of the scooter. How much do the roller skates cost?
+A bicycle costs 20% more than the scooter. How much does the bicycle cost?
+A skateboard costs 25% less than the bicycle. How much does the skateboard cost?
+### Student Response
+### Building on Student Thinking
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Select students to share how they approached the questions. Record their responses for all to see. Focus the discussion on the last two questions. Note the different ways in which students expressed 20% more than \$160 and 25% less than \$192 and why the expressions are equivalent. For example:
+\(160 + (0.2)\boldcdot 160\)
+\(160 \boldcdot (1.2)\)
+\(160 + 160 \div 5\)
+\(160 \boldcdot\frac 65\)
+\(192 - (0.25)\boldcdot 92\)
+\(192 \boldcdot (0.75)\)
+\(192 - 192 \div 4\)
+\(192 \boldcdot\frac 34\)
+If any students drew representations like tape diagrams and used them to reason, it is worth taking the time to make connections between the diagrams and the numerical expressions.
+10 mins
+## Activity
+### Taxes and Sales
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+In this activity students solve problems about percent increase and decrease. Students have seen work similar to this earlier in the unit, so this activity may be used if students need help connecting percentage increases or decreases to exponential change.
+Students may use a variety of calculations. Monitor for students who:
+Write an expression using a sum (or difference) of a value and a product, like \(12,\!000 + 0.08 \boldcdot 12,\!000\).
+Write an expression using a factored form, like \(12,\!000 \boldcdot (1 + 0.08)\).
+Write an expression using only multiplication, like \(12,\!000 \boldcdot (1.08)\)
+Plan to have students present in this order to support structure in extending the reasoning to additional applications of percentage increase or decrease.
+### Launch
+Select students with different strategies, such as those described in the Activity Narrative, and ask them to share later.
+### Activity
+### Student Task Statement
+You need to pay 8% tax on a car that costs \$12,000. What will you end up paying in total? Show your reasoning.
+Burritos are on sale for 30% off. Your favorite burrito normally costs \$8.50. How much does it cost now? Show your reasoning.
+A pair of shoes that originally cost \$79 are on sale for 35% off. Does the expression \(0.65(79)\) represent the sale price of the shoes (in dollars)? Explain your reasoning.
+### Student Response
+### Building on Student Thinking
+If they try to write an expression using multiplication, students may have trouble determining the value to multiply with the original cost in each question because the percent changes (8%, 30%, and 35%) are not associated with familiar benchmark fractions. Remind students that “percent” means “per 100” and can be written as a fraction with a denominator of 100 or as a decimal in hundredths. Also, for this task they can use other expressions— for example, expressions that use addition or subtraction—to make the calculations. But the expressions using multiplication will be very important moving forward.
+### Are You Ready for More?
+Come up with some strategies for mentally adding 15% to the total cost of an item.
+#### Student response
+### Activity Synthesis
+The purpose of this discussion is to use methods for understanding exponential change and apply them to percentage increase and decrease situations.
+Invite previously selected students to share their expressions. Sequence the discussion of the strategies by the order listed in the Activity Narrative. If possible, record and display their work for all to see.
+Connect the different responses to the learning goals by asking questions such as:
+“How can we see that all of the representations are equivalent?” (Using the distributive property and evaluating the sum inside the parentheses.)
+“Does this remind you of other equivalent expressions found in this unit?” (Yes, we did something similar when looking at items gaining or losing a fraction of their value.)
+“If the same percentage increase (or decrease) were to be applied again, which expression would be the easiest to use?” (The expression using only multiplication would probably be the easiest to repeat.)
+20 mins
+## Activity
+### Expressing Percent Increase and Decrease
+### Standards Alignment
+#### Building On
+#### Addressing
+#### Building Toward
+### Instructional Routines
+### Materials
+#### To Copy (from Blackline Masters)
+#### To Gather
+### Activity Narrative
+In this optional activity, students continue to represent percent increase and decrease, but are specifically prompted to write expressions that use only multiplication. The optional practice may be beneficial for students who continue to struggle with writing percent change as exponential change.
+When a quantity changes, it is intuitive to look at the difference of successive values. Students are accustomed to this from their prior work with linear functions. For exponential functions, however, it is the quotient of successive values that is of interest: By what number do we multiply one value to get the next value (what is the common factor)? Describing change using only multiplication is useful in this sense: An expression that uses only multiplication can help us represent exponential situations concisely.
+### Launch
+Begin by displaying an example for all to see.
+“A scooter originally costs $500, but is being offered at a 35% discount. Using only multiplication, write an expression for the discounted price of the scooter.”
+Give students 2 minutes of quiet think time, then invite a few students to share their answers. Record their expressions for all to see. Highlight any expressions that use a single multiplication.
+Then arrange students in groups of 2. Ask them to think quietly about the questions in the Student Task Statement before discussing their answers with their partner.
+### Activity
+### Student Task Statement
+Complete the table so that each row has a description and two different expressions that answer the question asked in the description. The second expression should use only multiplication. Be prepared to explain how the two expressions are equivalent.
+description and question | expression 1 | expression 2 (using only multiplication)
+A one-night stay at a hotel in Anaheim, CA, costs $160. Hotel room occupancy tax is 15%. What is the total cost of a one-night stay? | \(160 + (0.15)\boldcdot 160\) | 
+Teachers receive a 30% educators' discount at a museum. An adult ticket costs \$24. How much would a teacher pay for admission into the museum? |  | \((0.7)\boldcdot 24\)
+The population of a city was 842,000 ten years ago. The city now has 2% more people than it had then. What is the population of the city now? |  | 
+After a major hurricane, 46% of the 90,500 households on an island lost their access to electricity. How many households still have electricity? |  | 
+ | \(754 - (0.21)\boldcdot 754\) | 
+Two years ago, the number of students in a school was 150. Last year, the student population increased 8%. This year, it increased about 8% again. What is the number of students this year? |  | 
+### Student Response
+### Building on Student Thinking
+Students may have trouble recognizing when to add or subtract pieces to the original value. Ask them to think about the context and whether each quantity will go up or down.
+### Are You Ready for More?
+#### Student response
+### Activity Synthesis
+Select students or groups to share their responses. Ask them to explain how they know that the two expressions they wrote for each situation are equal.
+Focus the discussion on the repeated percent increase in the last problem. Highlight the fact that the expression \(150 \boldcdot (1.08)^2\) captures the two successive increases of 8%. Discuss questions such as:
+“Suppose the population increases 8% again the third year. How can we express the number of people then?” (\(150 \boldcdot (1.08)\boldcdot (1.08)\boldcdot (1.08)\), or \(150\boldcdot (1.08)^3\))
+“How can we express the population size if the population continues to grow by 8% for \(n\) years?” (\(150 \boldcdot (1.08)^n\))
+“Why might it be helpful to use only multiplication to describe the repeated 8% increase in population?” (It is more efficient and less prone to error. Expressing repeated percent change with addition and multiplication would produce longer and more complicated expressions, unless we calculate the result of the operations. When only multiplication is involved, we could use exponents to express the repeated change.)
+“Is the population in this school growing linearly or exponentially? How do you know?” (Exponentially. It is growing by the same factor each year, rather than by the same number of people.)
+## Lesson Synthesis
+Review the different ways of expressing percent increase and decrease. Here are two situations:
+A town had 200,000 people last year. Its population increased by 5% in a year.
+A shopper is getting a 20% discount on \$140 worth of groceries.
+Ask students to show at least two ways to express the change in population and the change in the cost of groceries and to explain how they are equivalent. Make sure that students understand how to express each percent change using a single multiplication.
+## Student Lesson Summary
+We can write different expressions to calculate percent increase and decrease.
+Suppose a new phone costs \$360 and is on sale at 25% off the regular price. One way to calculate this is to first find 25% of 360, which is 90, and then subtract \$90 from \$360 to get the sale price of \$270. These calculations can be recorded in this way:
+\(\displaystyle 360 - (0.25) \boldcdot 360=270\)
+Another way to represent this calculation is to notice that subtracting 25% of the cost is equivalent to finding 75% of the cost. Using the distributive property, we know that \(360 - (0.25) \boldcdot 360\) can be rewritten as \((1-0.25) \boldcdot 360\), which is equal to \((0.75) \boldcdot 360\).
+Practice
+
+

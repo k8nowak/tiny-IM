@@ -1,0 +1,200 @@
+# Lesson Location
+## Unit Number
+4
+## Unit Name
+LinearInequalitiesAndSystems
+## Lesson Number 
+9
+## Lesson Title
+Modeling with Systems of Inequalities in Two Variables
+# Lesson Timing
+## Total Activity Time in Minutes 
+50
+## Total Lesson Time incl Lesson Synthesis
+60 
+# Lesson Preamble
+## Lesson Narrative
+"""
+In this optional culminating lesson, students integrate the ideas from the unit and engage in multiple aspects of mathematical modeling (MP4).
+In the first activity, they interpret and analyze given models that represent the constraints and conditions in a situation. In the second activity, they create their own models after specifying quantities of interest, identifying relevant information, and setting the constraints.
+"""
+## Learning Goals
+Define the constraints in a situation, and create a mathematical model to represent them.
+Interpret a mathematical model, presented as inequalities and graphs, that represents a situation.
+## Student-Facing Goal
+Let’s create mathematical models using systems of inequalities.
+## Student-Facing Targets
+I know how to choose variables, specify the constraints, and write inequalities to create a mathematical model.
+I can interpret inequalities and graphs in a mathematical model.
+Required Materials
+#### Activity 3
+Tools for creating a visual display
+Graphing technology
+## Required Preparation
+"""
+#### Activity 3
+"""
+## Standards Alignment
+### Building On
+### Addressing
+HSA-CED.A.3
+HSA-REI.D.12
+HSN-Q.A.2
+### Building Toward
+## Glossary
+# Lesson Content
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+An Enjoyment Quotient
+### Activity Narrative
+"""
+This Warm-up gives students a chance to get an idea of how to add subjective values to a modeling situation. In later activities for this lesson, students model planning a trip using different methods of transit. One consideration for the methods of transit is which method is generally preferred. Students should keep their values in the table for an activity later in the lesson.
+"""
+### Launch
+"""
+Tell students that they are going to explore different methods of transit, such as riding the bus, renting an electric bike, or walking.
+Ask students whether they would prefer to take a bus or walk. Would a trip in which they take the bus halfway and walk the rest be as good as one in which they ride the bus 80% of the way and walk the rest?
+Display the table, and give students 1–2 minutes to notice and wonder about what they see. Then, invite students to share their observations and questions.
+Tell students, “Jada has assigned values to her level of enjoyment with different modes of transit. Walking is set at a baseline level of 1, and the other methods are given values relative to the baseline. For example, Jada enjoys riding a bike twice as much as walking and being in a bus half as much as walking.”
+Ensure that students understand that greater numbers mean that those methods are preferred over methods with lower numbers.
+"""
+### Student Task Statement
+"""
+Complete the table with your own relative values, giving walk the same baseline value of 1.
+ | Jada's enjoyment per mi | your enjoyment per mi | bus | train | bike rental | scooter rental | walk | car
+0.5 | 
+1.5 | 
+2 | 
+0.8 | 
+1 | 1
+1.3 | 
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Display a table with additional columns, and invite 2–4 students to share their responses. Clarify their understanding by asking questions such as:
+“Why do you think this student gave this mode of transit a value greater than 1?” (They like using that mode of transit more than walking.)
+“Did anyone use a value less than 1? What does that mean?” (Yes. It means that they like walking more than that mode of transit.)
+“Could you rank Jada’s favorite methods of transit from least favorite to most?” (Yes. She likes riding the bus least, then riding a scooter a little more, then walking, then taking a car, then the train, and likes riding a bike the most.)
+“What considerations did you use to rank your enjoyment riding a bus?” (On the one hand, it is better for the environment to use public transit, and it is easy to ride without having to pay attention. On the other hand, it doesn’t go directly where I want, and I’d prefer not to be around so many people.)
+"""
+## Activity
+### Activity Timing
+20 mins
+### Activity Title
+Custom Trip
+### Activity Narrative
+"""
+In this activity, students use their insights from the unit to analyze and interpret a set of mathematical models and a set of data in context. Each situation involves more than two constraints, and can therefore be represented with a system with more than two inequalities.
+Interpreting and connecting the inequalities, the graphs, and the data set (which involves decimals) prompts students to make sense of problems and persevere in solving them (MP1), and prompts them to reason quantitatively and abstractly (MP2).
+"""
+### Launch
+"""
+Use Three Reads to support reading comprehension and sense-making about this problem. Display only the problem stem and the diagram, without revealing the questions.
+For the first read, read the problem aloud, and then ask, “What is this situation about?” (transport to a destination). Listen for and clarify any questions about the context.
+After the second read, ask students to list any quantities that can be counted or measured (different transportation methods, cost, time, emissions, enjoyment).
+After the third read, reveal the question and Tyler’s inequalities, and ask, “What are some ways we might get started on this?” Invite students to name some possible starting points, referring to quantities from the second read (compare the values listed in the inequalities to values given in the table).
+To help students interpret the variables in the given inequalities as representing the number of miles traveled on each mode of transit, ask them to use the table to write an expression to represent the total emissions if they went \(t\) miles on the train and \(s\) miles on a scooter. Students should see that the expression is \(125t + 202s\).
+Ask for an expression representing the total enjoyment score Tyler would have for the same distances on those modes of transit (\(2.2t+1.5s\)).
+Arrange students in groups of 2. Ask them to analyze and answer the questions about one student’s trip (either Tyler’s or Jada’s). If time permits, the groups could analyze the other trip.
+Give students a few minutes of quiet work time and time to share their thinking with their partner. Follow with a whole-class discussion.
+"""
+### Student Task Statement
+"""
+Here is some information about different types of travel in the city where Tyler and Jada live.
+ | cost | minutes per mi | emissions per mi (g CO2 per mi) | Tyler's enjoyment per mi | Jada's enjoyment per mi | bus | train | bike rental | scooter rental | walk | car
+\$2.50 | 4.6 | 660 | 1.2 | 0.5
+\$2.50 | 3 | 125 | 2.2 | 1.5
+\$20 | 4 | 0 | 1.3 | 2
+\$1 to start then\$0.80 per mi | 4 | 202 | 1.5 | 0.8
+\$0 | 20 | 0 | 1 | 1
+\$0.13 | 2 | 375 | 2 | 1.3
+Tyler and Jada each choose their own methods of transport using two of these options. They write inequalities and create graphs to represent their constraints.
+Tyler
+\(x+y > 50\)
+\(2.50+0x+0.13y \leq 6\)
+\(660x+375y < 30,\!000\)
+\(x>0\)
+\(y>0\)
+Image description: <p>A graph of three intersecting inequalities.</p>
+Jada
+\(w+z>20\)
+\(2w + 1.5z > 35\)
+\(5w + 3z < 120\)
+\(w>0\)
+\(z>0\)
+Image description: <p>Graph of three intersecting inequalities.</p>
+Use the inequalities and graphs to answer these questions about each student’s travel methods. Be prepared to explain your reasoning.
+Which modes of transport did they choose?
+What do their variables represent?
+What does each constraint mean?
+Which region of the graph represents which constraint?
+Name one possible combination of values for the variables that satisfy all the constraints.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Focus the discussion on the connections between the graphs and the inequalities, and on the last two inequalities for each trip. Ask questions such as:
+“How did you know which modes of transit each person used?” (By matching the coefficients in two of the inequalities to the values in the table.)
+“Why do you think Jada and Tyler both included the inequalities in which the variables are greater than zero?” (The distance on each mode of transit cannot be negative. They each used two modes of transit, so the distance on each must also not be zero.)
+“How do those inequalities affect the graph of the solution region?” (They limit the solution region to the first quadrant.)
+“Jada and Tyler each wrote five inequalities. Could all five form a single system?” (Yes) What does it mean to have a system with five inequalities?" (There are five constraints that must be met. The solutions to the system satisfy all five constraints simultaneously.)
+"""
+## Activity
+### Activity Timing
+20 mins
+### Activity Title
+Design Your Own Trip
+### Activity Narrative
+"""
+This activity is designed to give students opportunities to use their understandings from this unit to perform mathematical modeling.
+The travel context is familiar from the previous activity, but students are challenged to choose quantities, determine how to represent them, interpret and reason about them, and use the model they create to make choices. It also enables students to reflect on their model and revise it as needed (MP4).
+Students are likely to want to use graphing technology because the information involves decimals and the inequalities written would be inconvenient to graph by hand. This is an opportunity for students to choose tools strategically (MP5).
+"""
+### Launch
+"""
+Arrange students in groups of 2–4. Provide access to Desmos or other graphing technology.
+Explain the expectations for researching transit values, for collaboration with group members, and for presentation of student work. (If each group is presenting one response, provide each group with tools for creating a visual display. If each student is presenting a response, give each student tools for creating a visual display.)
+"""
+### Student Task Statement
+"""
+It's time to design your own trip!
+Choose two modes of transit that you like. (You can choose from the options in the previous activity, or you can look up information for other methods.)
+Think about the constraints for your trip. What do you want to be true about its total distance, speed, emissions, or happiness? Feel free to research additional constraints that you are interested in and that can be expressed as a per mile rate.
+Write inequalities to represent your constraints. Then graph the inequalities.
+Image description: <p>Blank coordinate plane with grid, origin O.</p>
+Is it possible to plan a trip that meets all of your constraints? If not, make changes to your constraints or your transit methods, and record them here.
+Write a possible combination of distances on each method of transit that satisfies all the constraints.
+Create a display explaining your work.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+"""
+Select groups to share their visual displays. Encourage students to ask questions about the mathematical thinking or design approach that went into creating the display. Here are questions for discussion, if not already mentioned by students:
+“What constraints did every group use?” (All groups used that their variables must be positive.)
+“How do the graphs of the various trips compare?” (They all have an overlapping region, but some use more constraints than others.)
+“Did anyone have to revise or change their model in order to come up with a solution they could use?” (Yes, we didn’t know what number to use for emissions, so we adjusted that number until it created a region that made sense.)
+“How did you use the graph to find a plan that works for the conditions of your trip?” (We looked at the overlapping shaded regions and tried to find a grid point in that region.)
+"""
+# Lesson Close
+## Lesson Synthesis
+"""
+Allow enough time for students to present their trips. Consider a gallery walk as a way for students to share their display and to ask and answer questions.
+"""

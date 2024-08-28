@@ -2,6 +2,8 @@ import re
 import json
 import os
 
+unitnum = '6'
+
 def parse_text_file(filename):
     with open(filename, 'r') as file:
         content = file.read()
@@ -101,6 +103,6 @@ def process_all_files(input_folder, output_folder):
             print(f"Processed: {filename}")
 
 # Example usage
-input_folder = 'lesson_contents_b2'
-output_folder = 'lesson_contents_c'
+input_folder = f'unit-{unitnum}/lesson_contents_b2'
+output_folder = f'unit-{unitnum}/lesson_contents_c'
 process_all_files(input_folder, output_folder)

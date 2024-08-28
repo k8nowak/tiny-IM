@@ -1,8 +1,14 @@
 import os
 
+
+unitnum = '6'
+
+# Toggle between processing one file or all files
+process_all_files = True
+
 # Define the input and output directories
-input_dir = 'lesson_contents_b/'
-output_dir = 'lesson_contents_b2/'
+input_dir = f'unit-{unitnum}/lesson_contents_b/'
+output_dir = f'unit-{unitnum}/lesson_contents_b2/'
 
 # Ensure the output directory exists
 os.makedirs(output_dir, exist_ok=True)
@@ -76,8 +82,7 @@ def process_file(input_file, output_file):
     print(f"Processed {input_file} -> {output_file}")
 
 
-# Toggle between processing one file or all files
-process_all_files = True
+
 
 if process_all_files:
     for filename in os.listdir(input_dir):
@@ -86,6 +91,6 @@ if process_all_files:
             output_file_path = os.path.join(output_dir, filename)
             process_file(input_file_path, output_file_path)
 else:
-    input_file = os.path.join(input_dir, 'algebra-1-Unit-5-Lesson-1.txt')
-    output_file = os.path.join(output_dir, 'algebra-1-Unit-5-Lesson-1.txt')
+    input_file = os.path.join(input_dir, f'algebra-1-Unit-{unitnum}-Lesson-1.txt')
+    output_file = os.path.join(output_dir, f'algebra-1-Unit-{unitnum}-Lesson-1.txt')
     process_file(input_file, output_file)

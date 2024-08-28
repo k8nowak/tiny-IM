@@ -1,0 +1,231 @@
+
+# Lesson Location
+## Unit Number
+4
+## Unit Name
+LinearInequalitiesAndSystems
+## Lesson Number 
+8
+## Lesson Title
+Solving Problems with Systems of Linear Inequalities in Two Variables
+# Lesson Timing
+## Total Activity Time in Minutes 
+35
+## Total Lesson Time incl Lesson Synthesis
+45 
+
+
+
+# Lesson Preamble
+## Lesson Narrative
+"""
+In this lesson, students take a closer look at whether points on the boundary lines of the system's solution region are included in the solutions. Analyzing graphs and communicating observations about them require attention to precision (MP6). Students also apply these insights to solve more-challenging contextual problems. This work involves making sense of the information needed to solve the problems (MP1).
+"""
+## Learning Goals
+Practice writing systems of inequalities in two variables and finding the solution sets by reasoning or by graphing.
+Analyze given information about a situation involving multiple constraints and determine what additional information is needed to solve problems.
+Given a system of inequalities and their graphs, explain (orally and in writing) how to tell if a pair of values is a solution to the system.
+## Student-Facing Goal
+Let’s use systems of inequalities to solve some problems.
+## Student-Facing Targets
+I can explain how to tell if a point on the boundary of the graph of the solutions to a system of inequalities is a solution or not.
+Required Materials
+#### Activity 3
+Math Community Chart
+## Required Preparation
+None
+## Standards Alignment
+### Building On
+### Addressing
+HSA-REI.D.12
+### Building Toward
+HSA-REI.D.12
+## Glossary
+
+
+
+# Lesson Content
+## Activity
+### Activity Timing
+5 mins
+### Activity Title
+Which Three Go Together: Graphs of Solutions
+### Activity Narrative
+"""
+This Warm-up prompts students to carefully analyze and compare graphs that represent linear equations and inequalities. In making comparisons, students have a reason to use language precisely (MP6). The activity also enables the teacher to hear the terminology that students know and how they talk about characteristics of graphed systems.
+"""
+### Launch
+"""
+Arrange students in groups of 2–4. Display the graphs for all to see. Ask students to indicate when they have noticed one that does not belong and can explain why. Give students 1 minute of quiet think time and then time to share their thinking with their small group. In their small groups, tell students to share their reasoning about why a particular item does not belong and together to find at least one reason that each item doesn't belong.
+"""
+### Student Task Statement
+"""
+Which three go together? Why do they go together?
+AGraph of two intersecting lines, origin O, no grid. Axes from negative 10 to 10 by 5’s. Blue horizontal line passes through 0 comma 7. Diagonal line passes through negative 7 comma 7, 0 comma 0, 5 comma negative 5.
+A
+Image description: <p>Graph of two intersecting lines.</p>
+BGraph of two inequalities, no grid, origin O.  Each axis from negative 10 to 10, by 5's. The first dashed line passes through negative 10 comma 10, 0 comma 0, and 5 comma negative 5. The region below the dashed line is shaded. Second dashed line passes through 0 comma 6, and  6 comma 0. The region above the dashed line is shaded.
+B
+Image description: <p>Graph of 2 inequalities.</p>
+CGraph of two inequalities, no grid, origin O.  Each axis from negative 10 to 10, by 5's. The first solid line passes through negative 10 comma 6, 0 comma 6, 5 comma 6. The region above the line is shaded. The second solid line passes through 6 comma 6, 6 comma 6, and 6 comma negative 10. The region to the right of the line is shaded.
+C
+Image description: <p>Graph of two inequalities.</p>
+D
+Image description: <p>Graph of line, no grid, origin O.  Each axis from negative 10 to 10, by 5's. The line passes through negative 10 comma 10, 0 comma 0, 5 comma negative 5. The region above the line is shaded.<br>
+ </p>
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Invite each group to share one reason why a particular set of three goes together. Record and display the responses for all to see. After each response, ask the class if they agree or disagree. Since there is no single correct answer to the question of which three go together, attend to students’ explanations and ensure that the reasons given are correct.
+During the discussion, prompt students to explain the meaning of any terminology they use, such as “region,” “boundary,” “slope,” or “solution,” and to clarify their reasoning as needed. Consider asking:
+“How do you know . . . ?”
+“What do you mean by . . . ?”
+“Can you say that in another way?”
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Focusing on the Details
+### Activity Narrative
+"""
+Previously, students have learned that any point that is in the overlapping solution regions of the graphs of two inequalities is a solution to the system formed by those inequalities. In this activity, students take a closer look at whether points that are on the boundary lines are solutions to the system.
+"""
+### Launch
+"""
+Arrange students in groups of 2. Display the system of inequalities and the graphs for all to see.
+Give students a minute of quiet time to think about which region represents the solutions to each inequality and to be prepared to explain how they know. Then, give students another minute to discuss their thinking with a partner. Follow with a class discussion.
+Students are likely to identify the inequality that each graph represents by considering the equation of the boundary line. They may relate the solidly shaded region to \(x because the dashed line is the graph of \(x=y\). Or they may relate the hashed region to the solutions of \(y\geq \text-2x-6\) because the boundary line has a negative slope and it intersects the \(y\)-axis at \((0,\text-6)\).
+Other students may test some coordinate pairs in each region to see if they make an inequality true. For example, they may say that all points above the graph of \(x=y\) has an \(x\)-value that is less than the \(y\)-value.
+If these strategies for connecting the algebraic and graphical representations are not mentioned by students, bring them up.
+Tell students that they will now think about whether certain points on the coordinate plane are solutions to the system.
+"""
+### Student Task Statement
+"""
+Here are the graphs of the inequalities in this system:
+\(\displaystyle \begin{cases} x< y\\ y\geq \text-2x-6 \end{cases}\)
+A graph of two intersecting inequalities on a coordinate plane, origin O. Each axis from negative 10 to 5, by 2’s. The first dashed line starts below x axis and right of y axis, goes through negative 8 comma negative 8, 0 comma 0, and 8 comma 8. The region above the dashed line is shaded. Second line starts on negative 8 comma 10, goes through negative 4 comma 2, and ends on 2 comma negative 10. The region above the dashed line is shaded.
+Image description: <p>A graph of two intersecting inequalities on a coordinate plane.</p>
+Decide whether each point is a solution to the system. Be prepared to explain how you know.
+\((3, \text-5)\)
+\((0,5)\)
+\((\text{-}3,0)\)
+\((3,3)\)
+\((\text-2,\text-2)\)
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+Find a system of inequalities with this triangle as its set of solutions.
+Image description: <p>Triangle on a coordinate grid. X and Y axis from negative 5 to 4. Vertices of the triangle are negative 2 comma 4, 2 comma 3, and 3 comma negative 3.</p>
+"""
+### Activity Synthesis
+Focus the discussion on the points on the boundary lines and how students determined if they are or are not solutions to the system.
+Highlight explanations that state that a solution to a system of linear inequalities must be a solution to every inequality in the system. If a point on the boundary line is not included in the solution set of one inequality (so the graph is a dashed line), then it is also not included in the solution set of the system.
+## Activity
+### Activity Timing
+20 mins
+### Activity Title
+Information Gap: Terms of a Team
+Terms of A Team Cards
+### Activity Narrative
+"""
+This activity gives students an opportunity to determine and request the information that they need in order to use their understanding of systems of linear inequalities to solve problems that involve satisfying multiple constraints simultaneously.
+The Information Gap structure requires students to make sense of problems by determining what information is necessary, and then to ask for the information that they need to solve it. This may take several rounds of discussion if their first requests do not yield the information that they need (MP1). It also allows them to refine the language that they use and to ask increasingly more precise questions until they get the information that they need (MP6).
+Students may approach the problems in different ways, including by guessing and checking, but the problems can be efficiently solved by writing and solving systems of linear inequalities.
+Every clue given in a data card can be written as an inequality. If \(x\) is the number of children on a team, and \(y\) is the number of adults, the clue "a team with only adults is not allowed" can be expressed as \(x>0\), and "a team without adults is allowed" can be expressed as \(y\ge0\). But because other membership rules are more restrictive, and because thinking only about positive values of \(x\) and \(y\) is natural in this situation, it is not essential for these constraints to be represented. (The blank coordinate planes provided also show only the first quadrant, implying positive solutions.)
+In an upcoming lesson, students will look more closely at the inequalities \(x>0\) and \(y>0\).
+"""
+### Launch
+"""
+Math Community
+Display the Math Community Chart for all to see. Give students a brief quiet think time to read the norms, or invite a student to read them out loud. Tell them that during this activity they are going to choose a norm to focus on and practice. This norm should be one that they think will help themselves and their group during the activity. At the end of the activity, students can share what norm they chose and how the norm did or did not support their group.
+Tell students that they will answer some questions about systems of inequalities while having only some of the information needed. Display, for all to see, the Information Gap graphic that illustrates a framework for the routine.
+Remind students of the structure of the Information Gap routine, and consider demonstrating the protocol if students are unfamiliar with it.
+Arrange students in groups of 2. In each group, give a problem card to one student and a data card to the other student. After reviewing their work on the first problem, give students the cards for a second problem, and instruct them to switch roles.
+Because this activity was designed to be completed without technology, ask students to put away any devices.
+"""
+### Student Task Statement
+"""
+Your teacher will give you either a problem card or a data card. Do not show or read your card to your partner.
+If your teacher gives you the problem card:
+Silently read your card, and think about what information you need to answer the question.
+Ask your partner for the specific information that you need. “Can you tell me _____?”
+Explain to your partner how you are using the information to solve the problem. “I need to know _____ because . . . .”
+Continue to ask questions until you have enough information to solve the problem.
+Once you have enough information, share the problem card with your partner, and solve the problem independently.
+Read the data card, and discuss your reasoning.
+If your teacher gives you the data card:
+Silently read your card. Wait for your partner to ask for information.
+Before telling your partner any information, ask, “Why do you need to know _____?”
+Listen to your partner’s reasoning and ask clarifying questions. Give only information that is on your card. Do not figure out anything for your partner!	These steps may be repeated.
+Once your partner has enough information to solve the problem, read the problem card, and solve the problem independently.
+Share the data card, and discuss your reasoning.
+The blank coordinate planes are provided here in case they are useful.
+Image description: <p>A blank coordinate grid with origin 0. Each axis, 0 to 22, by 2’s.</p>
+"""
+### Building on Student Thinking
+"""
+Students in both roles may wonder if all clues on the data card constitute a “rule.” Those holding a data card may not know how to respond if or when asked, “What is the first rule?” or "What is one of the rules?" Those who are asking for information may not know if what is given counts as a rule. Clarify that a rule should be general enough to include multiple possibilities, rather than just one specific case. For example, "If there are 3 adults, there must be at least 6 children" is a specific case, rather than a general constraint.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+After students have completed their work, share the correct answers, and ask students to discuss the process of solving the problems. Here are some questions for discussion:
+"Which membership rule does each shaded region on the graphs represent?" (Valid descriptions of the regions)
+"Can all the clues be written as an inequality? If so, what are they?" (Yes. For example on Data Card 1 the inequalities could be: \(a > 0, a + c \leq 16, a \leq \frac{1}{2}c\) where \(a\) represents the number of adults and \(c\) the number of children on the team.)
+"Should we graph them all? Why or why not?" (To solve the given problems, the inequalities do not necessarily need to be graphed, but it can be helpful to visualize what is happening in the situations.)
+"How does the first set of graphs help us answer questions about whether 6 adults and 8 children are acceptable?" (The point \((6,8)\) on the graph is not in the shaded region for all of the conditions, so it is not in the solution region.)
+"How do they tell us about the maximum allowable number of adults on a team?" (Looking at the solution region, the point that is the highest in the \(y\) direction is \((10.67, 5.33)\), but a third of an adult does not make sense, so 5 is the maximum because 6 or more is not in the solution region.)
+"How does the second set of graphs help us find the minimum number of team members and the composition of the team?" (Points closer to the origin in the solution region of the graph could represent the minimum number of team members. In this case, the point \((6,2)\) is closest to the origin and it represents the smallest team with 6 children and 2 adults.)
+Situation 1:
+Image description: <p>Graph of 2 intersecting inequalities. Horizontal axis, number of children on a team, from 0 to 22 by 2s. Vertical axis, number of adults on a team, from 0 to 22 by 2s. Shading below each line.</p>
+Situation 2:
+Image description: <p>Graph of 3 intersecting inequalities. Horizontal axis, number of children on a team, from 0 to 22 by 2s. Vertical axis, number of adults on a team, from 0 to 22 by 2s. Shading below 2 lines, above 1.</p>
+Math Community
+Invite 2–3 students to share the norm they chose and how it supported the work of the group or a realization they had about a norm that would have worked better in this situation. Provide these sentence frames to help students organize their thoughts in a clear, precise way:
+“I picked the norm ‘\(\underline{\hspace{.5in}}\).’ It really helped me/my group because \(\underline{\hspace{.5in}}\).”
+“I picked the norm ‘\(\underline{\hspace{.5in}}\).’ During the activity, I realized that the norm ‘\(\underline{\hspace{.5in}}\)’ would be a better focus because \(\underline{\hspace{.5in}}\).”
+# Lesson Close
+## Lesson Synthesis
+"""
+Refer to the constraints in the "Terms of a Team" Information Gap activity. Keep the graphs of the solution regions displayed for all to see.
+Situation 1:
+Image description: <p>Graph of 2 intersecting inequalities. Horizontal axis, number of children on a team, from 0 to 22 by 2s. Vertical axis, number of adults on a team, from 0 to 22 by 2s. Shading below each line.</p>
+Situation 2:
+Image description: <p>Graph of 3 intersecting inequalities. Horizontal axis, number of children on a team, from 0 to 22 by 2s. Vertical axis, number of adults on a team, from 0 to 22 by 2s. Shading below 2 lines, above 1.</p>
+To reiterate the importance of attending carefully to the boundary lines of the regions, ask questions such as:
+"In the graphs of the first system, are points on the two lines—say \((14,2)\) or \((8,4)\)—solutions to the system? How do you know?" (Yes. Points on a solid line are included. Substituting 14 and 2, or 8 and 4, makes each inequality true.)
+"In this situation, are points on the horizontal axis solutions to the system?" (Yes. Points on the horizontal axis represent no adults. The rules say that a team with only children and no adults is allowed.)
+"In the graphs of the second system, are points on the boundaries of the overlapping triangular region solutions to the system?" (Yes)
+"""
+## Student Lesson Summary
+"""
+A family has at most \$25 to spend on activities at Fun Zone. It costs \$10 an hour to use the trampolines and \$5 an hour to use the pool. The family can stay less than 4 hours.
+What are some combinations of trampoline time and pool time that the family could choose given their constraints?
+We could find some combinations by trial and error, but writing a system of inequalities and graphing the solution would allow us to see all the possible combinations.
+Let \(t\) represent the time, in hours, on the trampolines and \(p\) represent the time, in hours, in the pool.
+The constraints can be represented with the system of inequalities:
+\(\begin{cases} \begin{align}10t+5p & \leq 25\\t +\hspace{2.1mm}p&<4 \end{align} \end{cases}\)
+Here are graphs of the inequalities in the system.​​​​
+The solution set to the system is represented by the region where shaded parts of the two graphs overlap. Any point in that region is a pair of times that meets both the time and budget constraints.
+The graphs give us a complete picture of the possible solutions.
+Two inequalities graphed on a coordinate plane, origin O, scale from 0 to 6 on both axes. Horizontal axis, hours on trampoline. Vertical axis, hours in pool. The dashed line starts on vertical axis at 4, goes through 1 comma 3 and ends on horizontal axis at 4. The region below the dashed line is shaded. The solid line starts on the vertical axis at 5, goes through 1 comma 3 and ends on the horizontal axis at 2 point 5. The region below the solid line is shaded.​​​​​​
+Image description: <p>Two inequalities graphed on a coordinate plane.</p>
+Can the family spend 1 hour on the trampolines and 3 hours in the pool?No. We can reason that it is because those times add up to 4 hours, and the family wants to spend less than 4 hours. But we can also see that the point \((1,3)\) lies on the dashed line of one graph, so it is not a solution.
+Can the family spend 1 hour on the trampolines and 3 hours in the pool?
+No. We can reason that it is because those times add up to 4 hours, and the family wants to spend less than 4 hours. But we can also see that the point \((1,3)\) lies on the dashed line of one graph, so it is not a solution.
+Can the family spend 2 hours on the trampolines and 1.5 hours in the pool?No. We know that these two times add up to less than 4 hours, but to find out the cost, we need to calculate \(10(2)+5(1.5)\), which is 27.5 and is more than the budget.It may be easier to know that this combination is not an option by noticing that the point \((2,1.5)\) is in the region with line shading, but not in the region with solid shading. This means it meets one constraint but not the other.
+Can the family spend 2 hours on the trampolines and 1.5 hours in the pool?
+No. We know that these two times add up to less than 4 hours, but to find out the cost, we need to calculate \(10(2)+5(1.5)\), which is 27.5 and is more than the budget.
+It may be easier to know that this combination is not an option by noticing that the point \((2,1.5)\) is in the region with line shading, but not in the region with solid shading. This means it meets one constraint but not the other.
+
+
+"""

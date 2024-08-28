@@ -1,0 +1,261 @@
+
+# Lesson Location
+## Unit Number
+4
+## Unit Name
+LinearInequalitiesAndSystems
+## Lesson Number 
+3
+## Lesson Title
+Writing and Solving Inequalities in One Variable
+# Lesson Timing
+## Total Activity Time in Minutes 
+50
+## Total Lesson Time incl Lesson Synthesis
+60 
+
+
+
+# Lesson Preamble
+## Lesson Narrative
+"""
+This lesson serves two main goals. The first is to prompt students to write and solve inequalities to answer questions about a situation. They consider not only whether the inequalities appropriately model the situations, but also whether there are assumptions that need to be stated and whether the solution sets make sense in context. Along the way, they practice reasoning quantitatively and abstractly (MP2) and engage in aspects of mathematical modeling (MP4).
+The second goal is to practice finding the solution set to an inequality by reasoning about its composition and parts. Take \(0.5x > 10x\) for example. For 0.5 times a number to be greater than 10 times the same number, the number must be negative, so the solution is \(x<0\). Likewise, all values of \(x\) are solutions to \(x < x + 5\) because 5 more than a number will always be greater than that number. Students practice looking for and making use of structure (MP7) as they reason about solutions this way.
+The lesson includes an optional activity for practice solving inequalities without a context.
+"""
+## Learning Goals
+Analyze and use the structure in inequalities to determine whether the solution is greater or less than the solution to a related equation.
+Write and solve inequalities in one variable to represent the constraints in situations and to solve problems.
+## Student-Facing Goal
+Let’s solve problems by writing and solving inequalities in one variable.
+## Student-Facing Targets
+I can analyze the structure of an inequality in one variable to help determine if the solution is greater or less than the solution to the related equation.
+I can write and solve inequalities to answer questions about a situation.
+## Required Preparation
+None
+## Standards Alignment
+### Building On
+### Addressing
+HSA-CED.A.1
+HSA-CED.A.3
+HSA-REI.B.3
+### Building Toward
+## Glossary
+
+
+
+# Lesson Content
+## Activity
+### Activity Timing
+5 mins
+### Activity Title
+Dinner for Drama Club
+### Activity Narrative
+"""
+In this Warm-up, students practice writing an inequality to represent a constraint, reasoning about its solutions, and interpreting the solutions. The work here engages students in aspects of mathematical modeling (MP4).
+To write an inequality, students need to attend carefully to verbal clues so they can appropriately model the situation. The word "budget," for instance, implies that the exact amount given or any amount less than it meets a certain constraint, without explicitly stating this. When thinking about how many pounds of food Kiran can buy, students should also recognize that the answer involves a range, rather than a single value.
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+Kiran is getting dinner for his drama club on the evening of their final rehearsal. The budget for dinner is \$60.
+Kiran plans to buy some prepared dishes from a supermarket. The prepared dishes are sold by the pound, at \$5.29 a pound. He also plans to buy two large bottles of sparkling water at \$2.49 each.
+Represent the constraints in the situation mathematically. If you use variables, specify what each one means.
+How many pounds of prepared dishes can Kiran buy? Explain or show your reasoning.
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Make sure students see that one or more inequalities that appropriately model the situation. Then, focus the discussion on the solution set. Discuss questions such as:
+"What strategy did you use to find the number of pounds of dishes Kiran could buy?"
+"Does Kiran have to buy exactly 10.4 pounds of dishes?" (No.) "Can he buy less? Why or why not?" (Yes. He can buy any amount as long as the cost of the food doesn't exceed \$55.02. This means that he can buy up to 10.4 pounds.)
+"What is the minimum amount he could buy?" (He could buy 0 pounds of food, but it wouldn't make sense if his goal is to feed the club members.)
+## Activity
+### Activity Timing
+10 mins
+### Activity Title
+Gasoline in the Tank
+### Activity Narrative
+"""
+This activity enables students to use inequalities to solve a problem about a situation whose constraints might be unfamiliar and in which multiple quantities are unknown.
+To reason about the problem, students need to interpret the descriptions carefully and consider their assumptions about the situation. To make sense of the situation, some students may define additional variables or use diagrams, tables, or other representations. Along the way, they engage in aspects of modeling (MP4).
+Monitor for students who use these strategies:
+Start with an empty tank and think about the hours of mowing if there are 0, 1, 2, 3, . . . gallons of gasoline in the tank. (If the tank is empty, Han could mow for 0 hours. If it has 1 gallon, he could mow for \(\frac{1}{0.4}\) (or 2.5) hours. And so on, up to 5 gallons.)
+Start with a full tank and the maximum hours of mowing and work down to an empty tank. (If the tank has 5 gallons, Han could mow \(\frac {5}{0.4}\) hours. If it has 0 gallons, then Han could mow for 0 hours.)
+Write a series of inequalities and equations (for instance, \(c \leq 5\), where \(c\) is the capacity of the tank in gallons, \(c = 0.4x\), and \(0.4x \leq 5\)), and then solve \(0.4x \leq 5\).
+Plan to have students present in this order to support moving students from working with individual values to solving mathematical inequalities and equations.
+Many students are likely to say that \(x \leq 12.5\) represents all possible hours of mowing. Look for students who also specify that \(x\) must be positive or who also write \(x\geq 0\) (or \(0\leq x \leq 12.5\)) for the solution set. Ask them to share their thinking with the class during discussion.
+"""
+### Launch
+"""
+Select students with different strategies, such as those described in the Activity Narrative, to share later.
+"""
+### Student Task Statement
+"""
+Han is about to mow some lawns in his neighborhood. His lawn mower has a 5-gallon fuel tank, but Han is not sure how much gasoline is in the tank.
+He knows, however, that the lawn mower uses 0.4 gallon of gasoline per hour of mowing.
+Image description: <p>A lawnmower on a lawn.</p>
+What are all the possible values for \(x\), the number of hours Han can mow without refilling the lawn mower?
+Write one or more inequalities to represent your response. Be prepared to explain or show your reasoning.
+"""
+### Building on Student Thinking
+"""
+For students struggling to express the value of \(x\) as an inequality, suggest they first try reasoning about the question and finding some possible hours of mowing if Han had, say, 1 gallon or 2 gallons of gasoline.
+One likely incorrect answer is \(0 \leq x \leq 2\), the result of multiplying gallons by 0.4 gallons per hour. If students make this mistake, ask, “About how long can the mower mow with one gallon of gas?” Then, ask if it is reasonable that the mower mows for 2 hours with 5 gallons of gas.
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Invite previously selected students to share their responses. Sequence the discussion of the strategies by the order listed in the Activity Narrative. If possible, record and display their work for all to see.
+Connect the different responses to the learning goals by asking questions such as:
+“How did the unknown amount of gasoline show up in each strategy?”
+“What are the maximum and minimum lengths of time that Han could mow? How do those numbers show up in the strategies?”
+Invite students who explicitly stated that \(x\) must be positive to explain why they included that lower boundary in their response. Emphasize that although it is probably understood from the context that the amount of gasoline in the tank cannot be negative and that the lowest possible number of hours of mowing is 0, it is not apparent from a mathematical statement like \(x\leq12.5\). Writing \(0\leq x \leq 12.5\) (or \(x\geq0\) and \(x\leq 12.5\)) makes this assumption explicit and leaves less room for misinterpretation.
+## Activity
+### Activity Timing
+20 mins
+### Activity Title
+Different Ways of Solving
+### Activity Narrative
+"""
+This activity highlights some ways to decide whether the solution set to an inequality is greater than or less than a particular boundary value (identified by solving a related equation).
+Students are presented with two approaches to solving an inequality. Both characters (Priya and Andre) took similar steps to solve the related equation, which gave them the same boundary value. But they took different paths to decide the direction of the inequality symbol.
+One solution path involves testing a value on both sides of the boundary value, and another involves analyzing the structure of the inequality. The former is more familiar given previous work. The latter is less familiar and thus encourages students to make sense of problems and persevere in solving them (MP1). It is also a great opportunity for students to practice looking for and making use of structure (MP7).
+Expect students to need some support in reasoning structurally, as it is something that takes time and practice to develop.
+"""
+### Launch
+"""
+Arrange students in groups of 2. Give students a few minutes of quiet time to make sense of what Andre and Priya have done, and then time to discuss their thinking with their partner. Pause for a class discussion before students move to the second set of questions and try to solve inequalities using Andre's and Priya's methods.
+Select students to share their analyses of Andre's and Priya's work. Make sure students can follow Priya's reasoning and understand how Priya decided on \(x<3\) by focusing her comparison on \(4x + 3\) and \(18-x\).
+"""
+### Student Task Statement
+"""
+Andre and Priya used different strategies to solve the following inequality but reached the same solution.
+\(2(2x + 1.5) < 18 - x\)
+Make sense of each strategy until you can explain what each student has done.Andre\(\displaystyle \begin {align} 2 (2x + 1.5) &=18 - x\\ 4x + 3 &= 18 - x\\ 4x -15 &=  \text-x\\ \text -15 &= \text-5x\\ 3& = x \end{align}\)Testing to see if \(x = 4\) is a solution:\(\displaystyle \begin {align} 2(2 \cdot 4 + 1.5) &< 18 - 4\\ 2(9.5) &<14\\ 19 &<14 \end{align}\)The inequality is false, so 4 is not a solution. If a number greater than 3 is not a solution, the solution must be less than 3, or \(3 > x\).Priya\(\displaystyle \begin {align}2 (2x + 1.5) &= 18 - x\\4x + 3 &= 18 - x\\ 5x + 3 &=  18\\ 5x &= 15\\ x &= 3 \end{align}\)In \(4x + 3 = 18 - x\), there is \(4x\) on the left and \(\text-x\) on the right. If \(x\) is a negative number, \(4x+3\) could be positive or negative, but \(18-x\) will always be positive.For \(4x+3<18-x\) to be true, \(x\) must include negative numbers or \(x\) must be less than 3.
+Make sense of each strategy until you can explain what each student has done.
+Andre
+\(\displaystyle \begin {align} 2 (2x + 1.5) &=18 - x\\ 4x + 3 &= 18 - x\\ 4x -15 &=  \text-x\\ \text -15 &= \text-5x\\ 3& = x \end{align}\)
+Testing to see if \(x = 4\) is a solution:
+\(\displaystyle \begin {align} 2(2 \cdot 4 + 1.5) &< 18 - 4\\ 2(9.5) &<14\\ 19 &<14 \end{align}\)
+The inequality is false, so 4 is not a solution. If a number greater than 3 is not a solution, the solution must be less than 3, or \(3 > x\).
+Priya
+\(\displaystyle \begin {align}2 (2x + 1.5) &= 18 - x\\4x + 3 &= 18 - x\\ 5x + 3 &=  18\\ 5x &= 15\\ x &= 3 \end{align}\)
+In \(4x + 3 = 18 - x\), there is \(4x\) on the left and \(\text-x\) on the right.
+If \(x\) is a negative number, \(4x+3\) could be positive or negative, but \(18-x\) will always be positive.
+For \(4x+3<18-x\) to be true, \(x\) must include negative numbers or \(x\) must be less than 3.
+Here are four inequalities. \(\frac15 p > \text-10\). \(4(x+7) \leq \text 4(2x + 8)\)\(\text-9n <36\)\(\frac {c}{3} < \text-2(c-7)\)Work with a partner to decide on at least two inequalities to solve. Solve one inequality using Andre's strategy (by testing values on either side of the given solution), while your partner uses Priya's strategy (by reasoning about the parts of the inequality). Switch strategies for the other inequality.
+Here are four inequalities.
+\(\frac15 p > \text-10\).
+\(4(x+7) \leq \text 4(2x + 8)\)
+\(\text-9n <36\)
+\(\frac {c}{3} < \text-2(c-7)\)
+Work with a partner to decide on at least two inequalities to solve. Solve one inequality using Andre's strategy (by testing values on either side of the given solution), while your partner uses Priya's strategy (by reasoning about the parts of the inequality). Switch strategies for the other inequality.
+"""
+### Building on Student Thinking
+"""
+Students who perform procedural steps on the inequality may find incorrect answers. For instance, in the third inequality, they may divide each side by -9 and arrive at the incorrect solution \(x < \text-4\). Encourage these students to check their work by substituting numbers into the original inequality.
+"""
+### Are You Ready for More?
+"""
+Using positive integers between 1 and 9 and each positive integer at most once, fill in values to get two constraints so that \(x=7\) is the only integer that will satisfy both constraints at the same time.
+\(\boxed{\phantom{3}}x+\boxed{\phantom{3}}<\boxed{\phantom{3}}x+\boxed{\phantom{3}}\)
+\(\boxed{\phantom{3}}x+\boxed{\phantom{3}}>\boxed{\phantom{3}}x+\boxed{\phantom{3}}\)
+"""
+### Activity Synthesis
+Students should recognize that the solution set for each inequality should be the same regardless of the reasoning method used.
+Select as many students as time permits to share how they used a strategy similar to Priya's to determine the solution set of each inequality. There may be more than one way to reason structurally about a solution set. Invite students who reason in different ways to share their thinking. Record and display their thinking for all to see.
+## Activity
+### Activity Timing
+15 mins
+### Activity Title
+Matching Inequalities and Solutions
+### Activity Narrative
+"""
+This optional activity gives students additional practice in reasoning about the solutions to inequalities without a context. Students can match the inequalities and solutions in a variety of ways—by testing different values, by solving a related equation and then testing values on either side of that solution, by reasoning about the parts of an inequality or its structure, or by graphing each side of an inequality as a linear function.
+For all of the inequalities, after students find the boundary value by solving a related equation, the range of the solutions can be determined by analyzing the structure of the inequality. Monitor for students who do so, and ask them to share their reasoning during class discussion later.
+As students work, also make note of any common challenges or errors so they can be addressed.
+"""
+### Launch
+"""
+"""
+### Student Task Statement
+"""
+Match each inequality to a graph that represents its solutions. Be prepared to explain or show your reasoning.
+\(6x \leq 3x\)
+\(\frac14 x > \text-\frac12\)
+\(5x + 4 \geq 7x\)
+\(8x - 2< -4(x-1)\)
+\(\dfrac{4x-1}{3} > \text-1\)
+\(\frac{12}{5}-\frac {x}{5} \leq x\)
+A
+Image description: <p>Inequality graphed on a number line. Numbers from negative 10 to 10. At negative one half, open circle with line extending to the right.<br>
+ </p>
+B
+Image description: <p>Inequality graphed on a number line. Numbers from negative 10 to 10. At two, closed circle with line extending to the left.<br>
+ </p>
+C
+Image description: <p>Inequality graphed on a number line. Numbers from negative 10 to 10. At two, closed circle with line extending to the right.</p>
+D
+Image description: <p>Inequality graphed on a number line. Numbers from negative 10 to 10. At  one half, open circle with line extending to the left.<br>
+ </p>
+E
+Image description: <p>Inequality graphed on a number line. Numbers from negative 10 to 10. At negative 2, open circle with line extending to the right.</p>
+F
+Image description: <p><strong>Inequality graphed on a number line. Numbers from negative 10 to 10. At 0, closed circle with line extending to the left.</strong></p>
+"""
+### Building on Student Thinking
+"""
+"""
+### Are You Ready for More?
+"""
+"""
+### Activity Synthesis
+Select students who used different strategies—especially those who made use of the structure of the inequalities—to share their thinking. If no students found solution sets by thinking about the features of the inequalities, demonstrate the reasoning process with one or two examples. For instance:
+\(6x \leq 3x\): After finding \(x = 0\) as the solution to \(6x=3x\), we can reason that for \(6x\) to be less than \(3x\), \(x\) must include negative numbers, so the solution must be \(x \leq 0\).
+\(\dfrac{4x-1}{3}>\text-1\): After finding \(x = \text- \frac12\) as the solution to the related equation \(\dfrac{4x-1}{3}=\text-1\), we can reason that as \(x\) gets smaller, \(\dfrac{4x-1}{3}\) is also going to get smaller. For that expression to be greater than -1, \(x\) will have be to greater than \(\text-\frac12\).
+If time permits, ask students to choose a different inequality and to try reasoning this way about its solution.
+# Lesson Close
+## Lesson Synthesis
+"""
+Display these inequalities. Remind students that they are examples of inequalities written and solved in the lesson.
+\(5.29p+4.98 \leq 60\)
+\(0.4x \leq 5\) and \(x \geq0\)
+\(2(2x + 1.5) < 18-x\)
+\(\frac15 x > \text-10\)
+Next, tell students that they will see some statements about writing and solving inequalities. Their job is to decide whether they agree or disagree with each statement and to be prepared to defend their response. (One way to collect their responses is by asking them to give a discrete hand signal.)
+Display these statements—one at a time—for all to see. After students indicate their agreement or disagreement, select one or two students to explain their reasoning. Then invite others who are not convinced by the reasoning to offer a counterexample or an alternative view.
+We can usually represent the constraints in a situation with a single inequality. (Disagree. Sometimes multiple inequalities are needed, depending on what's happening in the situation.)
+The only way to check the solutions to an inequality is to see if they make sense in a situation. (Disagree. We can also check by substituting some values in the solution set back into the inequality to see if they make the inequality a true statement.)
+The only way to find the solutions to an inequality in one variable is by testing different values for the variable and seeing which ones work. (Disagree. We can also reason about the solutions in context, solve a related equation and test a higher and lower value, or use the structure of the inequality.)
+To express the solutions to an inequality in one variable, we always use the same inequality symbol as in the original inequality. (Disagree. There are different ways to express a solution set. The symbol we use would depend on how we reason about the solutions. For example, \(x < 3\) and \(3 > x\) both represent the solution set to \(2(2x + 1.5) < 18-x\).)
+Make sure students see that there are reasons for disagreeing with each of these statements and that they can articulate some of the reasons.
+"""
+## Student Lesson Summary
+"""
+Writing and solving inequalities can help us make sense of the constraints in a situation and solve problems. Let's look at an example.
+Clare would like to buy a video game system that costs \$130 and to have some extra money for games. She has saved \$48 so far and plans on saving \$5 of her allowance each week. How many weeks, \(w\), will it be until she has enough money to buy the system and have some extra money remaining? To represent the constraints, we can write \(48 + 5w \geq 130\). Let’s reason about the solutions:
+Because Clare has \$48 already and needs to have at least \$130 to afford the game system, she needs to save at least \$82 more.
+If she saves \$5 each week, it will take at least \(\frac{82}{5}\) weeks to reach \$82.
+\(\frac{82}{5}\) is 16.4. Any time shorter than 16.4 weeks won't allow her to save enough.
+Assuming she saves \$5 at the end of each week (instead of saving smaller amounts throughout a week), it will be at least 17 weeks before she can afford the game system.
+We can also solve by writing and solving a related equation to find the boundary value for \(w\), and then determine whether the solutions are less than or greater than that value.
+\(\begin {align} 48 + 5w &= 130\\ 5w & = 82\\ w &=\frac{82}{5} \\w&=16.4 \end{align}\)
+Substituting 16.4 for \(w\) in the original inequality gives a true statement. (When \(w=16.4\), we get \(130 \geq 130\).)
+Substituting a value greater than 16.4 for \(w\) also gives a true statement. (When \(w = 17\), we get \(133\geq130\).)
+Substituting a value less than 16.4 for \(w\) gives a false statement. (When \(w=16\), we get \(128\geq130\).)
+The solution set is therefore \(w \geq 16.4\).
+Sometimes the structure of an inequality can help us see whether the solutions are less than or greater than a boundary value. For example, to find the solutions to \(3x > 8x\), we can solve the equation \(3x = 8x\), which gives us \(x = 0\). Then, instead of testing values on either side of 0, we could reason as follows about the inequality:
+If \(x\) is a positive value, then \(3x\) would be less than \(8x\).
+For \(3x\) to be greater than \(8x\), \(x\) must include negative values.
+For the solutions to include negative values, they must be less than 0, so the solution set would be \(x < 0\).
+
+
+"""
